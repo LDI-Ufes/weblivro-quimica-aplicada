@@ -1,0 +1,47 @@
+[
+  {
+    "titulo": "Capítulo 1",
+    "subtitulo": "Ácido Sulfúrico",
+    "arquivo": "cap1.php"
+  },
+  {
+    "titulo": "Capítulo 2",
+    "subtitulo": "Fabricação de cloro e soda cáustica",
+    "arquivo": "cap2.php"
+  },
+  {
+    "titulo": "Capítulo 3",
+    "subtitulo": "Indústria cerâmica e de cimento",
+    "arquivo": "cap3.php"
+  },
+  {
+    "titulo": "Capítulo 4",
+    "subtitulo": "Siderurgia",
+    "arquivo": "cap4.php"
+  },
+  {
+    "titulo": "Capítulo 5",
+    "subtitulo": "Refino de Petróleo",
+    "arquivo": "cap5.php"
+  },
+  {
+    "titulo": "Capítulo 6",
+    "subtitulo": "Petroquímicos e Polímeros",
+    "arquivo": "cap6.php"
+  },
+  {
+    "titulo": "Capítulo 7",
+    "subtitulo": "Indústria de celulose e papel",
+    "arquivo": "cap7.php"
+  },
+  {
+    "titulo": "Capítulo 8",
+    "subtitulo": "Indústria de Alimentos",
+    "arquivo": "cap8.php"
+  },
+  {
+    "titulo": "Capítulo 9",
+    "subtitulo": "Indústria Farmacêutica",
+    "arquivo": "cap9.php"
+  }
+]
