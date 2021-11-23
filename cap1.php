@@ -68,7 +68,9 @@ include("components/page-header.php");
 <p>A Tabela 1.1 mostra algumas indústrias no Brasil que produzem ácido sulfúrico. Como podemos observar as empresas encontram-se nas regiões Sudeste, Norte e Nordeste, sendo que a maioria delas está instalada na região Sudeste.</p>
 <!-- TITULO DA TABELA 1.1-->
 <p><span class="boldSecundario">Tabela 1.1. </span>Empresas produtoras de ácido sulfúrico no Brasil.</p>
-<table width=90%>
+
+<figure class="tabela">
+<table>
   <tr>
     <th>Produtor</th>
     <th>Cidade</th>
@@ -164,7 +166,8 @@ include("components/page-header.php");
     <td>Cubatão</td>
   </tr>
 </table>
-<caption>Fonte: ABIQUIM (Associação Brasileira das Indústrias Químicas).</caption>
+<figcaption>Fonte: ABIQUIM (Associação Brasileira das Indústrias Químicas).</figcaption>
+</figure>
 <br>
 
 <h2 id="1-2">1.2. O processo de contato: fabricação do ácido sulfúrico</h2>
