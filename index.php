@@ -82,7 +82,8 @@ $autorLivro3 = "Profa. Dra. Geiza Esperandio de Oliveira";
     <section id="toc">
       <div class="container container-content">
         <div id="barra-de-busca"></div>
-
+        <p id="erro">Erro: digite, no mínimo, três caracteres para fazer a pesquisa.</p>
+        
         <h2>Sumário</h2>
         <?php include 'components/sumario.php' ?>
       </div>

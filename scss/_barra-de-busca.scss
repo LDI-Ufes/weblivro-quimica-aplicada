@@ -61,16 +61,23 @@
 	opacity: 0;
 	transform: translateY(-10px);
 	transition: 0.3s ease-in-out;
+	font-size: 1rem;
 }
 main#busca {
 	#erro {
 		margin-top: -1.25rem;
+		font-size: 1rem;
 	}
 }
 
 .wrapper {
 	#erro {
 		margin-top: 0;
+		height: 0;
+
+		&.ativo {
+			height: auto;
+		}
 	}
 }
 

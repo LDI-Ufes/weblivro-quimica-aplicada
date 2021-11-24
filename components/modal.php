@@ -1,5 +1,5 @@
 <div id="modal-ajustes" role="dialog" aria-labelledby="modal-ajustes-label" aria-modal="true">
-  <div class="container container-content">  
+  <div class="container container-content">
     <span id="modal-ajustes-label" class="modal-title" tabindex="-1">Ajustes de leitura</span>
 
     <ul class="modal-options">
@@ -7,8 +7,11 @@
       <li class="modal-item">
         <span class="modal-item-title">Ampliação</span>
         <p class="modal-item-info">Aumente o tamanho da fonte de acordo com sua preferência.</p>
-        <button id="btn-amplia" class="btn-terciary"><span>Ampliar conteúdo</span></button>
-        <button id="btn-reduz" class="btn-terciary"><span>Reduzir conteúdo</span></button>
+        <div>
+          <button id="btn-amplia" class="btn-terciary"><span>Ampliar conteúdo</span></button>
+          <button id="btn-padrao" class="btn-terciary"><span>Desfazer Ampliação</span></button>
+          <button id="btn-reduz" class="btn-terciary"><span>Reduzir conteúdo</span></button>
+        </div>
       </li>
 
       <li class="modal-item">
@@ -30,7 +33,7 @@
           <button class="fundo btn-terciary" id="fundo-escuro"><span>Escuro</span></button>
         </div>
       </li>
-      
+
     </ul>
     <button id="modal-close" class="btn-terciary"><span>Recolher opções de personalização</span></button>
 
