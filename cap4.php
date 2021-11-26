@@ -15,13 +15,12 @@ include("components/page-header.php");
 <p>Apenas ao redor do ano 1450 se começou a produção de um intermediário denominado ferro gusa, pois era possível se alcançar maiores temperaturas durante o processo. Assim o ferro absorvia maior quantidade de carbono, oriunda do carvão vegetal, que escorri de forma mais fluida, permitindo um manuseio melhor. A posterior oxidação do ferro gusa permitia a obtenção de um aço de melhores propriedades mecânicas, o que permitiu a fabricação de armas brancas mais leves, além de armas de fogo, como os canhões. Data do ano de 1640 o uso do primeiro alto-forno para a produção de ferro gusa. Apesar do grande avanço tecnológico trazido pelo domínio da siderurgia nesta época a necessidade de usar 4kg de carvão vegetal para a produção de 1kg de ferro causou uma enorme devastação das florestas. Isto fez a madeira aumentar muito de preço além de provocar restrições legais na exploração da madeira.</p>
 <p>Contudo em 1710, na Inglaterra, se passou a usar o coque, que é um derivado do carvão mineral, como substituto ao carvão vegetal. Isto gerou um novo e importante impulso na siderurgia. Porém foi com a chegada da máquina a vapor, em 1870, que a siderurgia se tornou uma das mais importantes atividades econômicas e industriais dos países civilizados. Este parâmetro é usado até hoje para medir o grau de desenvolvimento de um país.</p>
 <p>No Brasil o primeiro grande fato relacionado a siderurgia ocorreu em 1812 com a primeira corrida brasileira de ferro gusa realizada na Vila de Congonhas – MG, atingindo seu auge após a inauguração da Companhia Siderúrgica Nacional (CSN) que continha o único alto-forno do país em Volta Redonda –RJ. Atualmente, o parque siderúrgico brasileiro compõe-se de 27 usinas, administradas por oito grupos empresariais: ArcelorMittal Brasil, Gerdau, CSN, Usiminas, SINOBRAS, V&M do Brasil, Villares Metals e Votorantim Siderurgia.</p>
-<br>
+
 <div class="atv">
     <h3>Atividade 4.1 </h3>
     <p>Fazer um breve levantamento histórico sobre a atividade siderúrgica no Estado do Espírito Santo. Não se esquecer de determinar o início das atividades do setor e a conjuntura atual da atividade de siderurgia no Estado.</p>
-</div><br>
+</div>
 
-<br>
 <h2 id="4.2">4.2. Minério de Ferro</h2>
 <p>O ferro é encontrado na natureza, principalmente, na forma de óxido, embora possa também ser encontrado como carbonatos e sulfetos, em menor ocorrência e até, raramente, na forma nativa. O ferro é o segundo metal mais abundante, perdendo apenas para o alumínio. Os minérios de ferro são:</p>
 <p><span class="bold">1) Magnetita:</span> óxido de ferro com fórmula química \(Fe_3O_4\) (mais especificamente \(FeO∙Fe_2O_3\)), com um teor nominal de ferro de 72,4%, porém com teor real da ordem de 50 a 70%. Esta diferença se deve a presença de ganga no minério. Este tipo de minério apresenta coloração cinza escura a negra, bem como propriedades magnéticas. Esta é uma vantagem tecnológica que torna mais fácil a concentração deste tipo de minério nas etapas de beneficiamento.</p>
@@ -32,7 +31,7 @@ include("components/page-header.php");
 
 <p><span class="bold">2) Hematita:</span> óxido de ferro com fórmula química \(Fe_2O_3\), com um teor nominal de 69,5% de ferro, mas um teor real na faixa de 45 a 68%. É o tipo mais comum de minério de ferro e apresenta coloração avermelhada.</p>
 
-<p><span class="bold">3) Limonita:</span> composta, principalmente, de hematita hidrata, com fórmula química \(Fe_3O_4∙H_2O\), podendo conter de 1 a 3 moléculas de hidratação, portanto seu teor nominal de ferro também pode variar. O teor real de ferro encontra-se na faixa de 20 a 50% de ferro e apresenta uma coloração marrom, sendo considerado um minério relativamente pobre em ferro.</p>
+<p><span class="bold">3) Limonita:</span> composta, principalmente, de hematita hidrata, com fórmula química \(Fe_2O_3∙H_2O\), podendo conter de 1 a 3 moléculas de hidratação, portanto seu teor nominal de ferro também pode variar. O teor real de ferro encontra-se na faixa de 20 a 50% de ferro e apresenta uma coloração marrom, sendo considerado um minério relativamente pobre em ferro.</p>
 
 <p><span class="bold">4) Siderita:</span> composta por \(FeCO_3\) com um teor nominal de 48,3% de ferro e um teor real variando de 10 a 40% de ferro. Minério de baixa ocorrência, normalmente associada com hematita.</p>
 
@@ -42,18 +41,17 @@ include("components/page-header.php");
 
 <p><span class="bold">1) Calcinação</span> para a desidratação da limonita:</p>
 <div class="box-centro">
-    <p>\(Fe_3O_4\)∙\(H_2O\) \(\rightarrow\) \(Fe_2O_3 (s)\) + \(H_2O (g)\) (T = 800 °C)</p>
+    <p>\(Fe_2O_3\)∙\(H_2O\) \(\rightarrow\) \(Fe_2O_3 (s)\) + \(H_2O (g)\) (T = 800 °C)</p>
 </div>
 
 <p>E a calcinação da siderita:</p>
 <div class="box-centro">
     <p>\(FeCO_3 (s)\) \(\rightarrow\) \(FeO(s) + CO_2(g)\) (T = 800 °C) </p>
 </div>
-<br>
 
 <p><span class="bold">2) Ustulação</span> para a conversão da pirita</p>
 <div class="box-centro">
-    <p>\(4FeS_2 + 11O_2(g) \rightarrow 2FeCO_3(s)\) \(+ 2SO_2(g)\) (T = 1000 °C)</p>
+    <p>\(4FeS_2(s) + 11O_2(g) \rightarrow 2FeCO_3(s)\) \(+ 2SO_2(g)\) (T = 1000 °C)</p>
 </div>
 
 <p>e oxidação de parte da hematita</p>
@@ -69,7 +67,7 @@ include("components/page-header.php");
     <img src="img/figura-4-2.jpg" alt="audiodescrição">
     <figcaption><span class="bold">Figura 4.2. </span>Esquema de um alto-forno mostrando a distribuição de temperatura e as principais reações em cada parte.</figcaption>
 </figure>
-<p>A carga de um alto-forno é composta principalmente por minério de ferro, coque e fundente. O <span class="bold">minério de ferro</span> é, normalmente, composto por hematita ou uma mistura de hematita e magnetita, contendo cerca de 40 a 60% de ferro. Este minério costuma conter cerca de 10% de ganga, cujo componente principal é a sílica \((SiO_2)\). O <span class="bold">coque</span>, obtido da destilação prévia da hulha ou de outro carvão mineral, é o fornecedor de carbono, para s reações de redução do ferro, além de desempenhar a função de combustível. Já o <span class="bold">fundente</span>, tem a função de baixar o ponto de fusão da escória e, geralmente, é composto por calcário \((CaCO_3)\) que é calcinado no interior do alto-forno formando cal \((CaO)\).</p>
+<p>A carga de um alto-forno é composta principalmente por minério de ferro, coque e fundente. O <span class="bold">minério de ferro</span> é, normalmente, composto por hematita ou uma mistura de hematita e magnetita, contendo cerca de 40 a 60% de ferro. Este minério costuma conter cerca de 10% de ganga, cujo componente principal é a sílica \((SiO_2)\). O <span class="bold">coque</span>, obtido da destilação prévia da hulha ou de outro carvão mineral, é o fornecedor de carbono, para as reações de redução do ferro, além de desempenhar a função de combustível. Já o <span class="bold">fundente</span>, tem a função de baixar o ponto de fusão da escória e, geralmente, é composto por calcário \((CaCO_3)\) que é calcinado no interior do alto-forno formando cal \((CaO)\).</p>
 
 <p>A reação de redução do minério de ferro pelo coque é uma reação endotérmica, ΔH > 0, enquanto que a reação de combustão de parte do coque com o oxigênio do ar (insuflado de 800 a 1.000 °C) é exotérmica, ΔH < 0. Os produtos finais das reações dentro do alto-forno podem ser classificados em quatro categorias: ferro gusa, escória, poeira e gases. O <span class="bold">ferro gusa</span> é o ferro no estado líquido com um teor de 3 a 4% de carbono e 6 a 7% de impurezas e outros elementos, os mais comuns são: enxofre, fósforo, silício e manganês provenientes da ganga ou do coque. As primeiras etapas de redução do ferro geram um material sólido e esponjoso que se funde ao chegar a zonas de temperaturas mais elevadas. O ferro no estado líquido se deposita no fundo do alto-forno, de onde é recolhido a cada corrida. A <span class="bold">escória</span> é uma mistura de óxidos fundidos de densidade menor que o ferro gusa, seus componentes provém do fundente e da ganga do minério, sendo retirada, geralmente, antes da corrida do ferro gusa. A <span class="bold">poeira</span> é constituída basicamente de cinzas que resultam da queima do coque e de materiais inertes da ganga, saindo na parte superior do alto-forno por carreamento dos gases produzidos. Os <span color="bold">gases</span> saem na parte superior do alto-forno a 300 °C. Os principais componentes são \(CO_2\) e \(CO\), sendo a proporção de \(CO\)/\(CO_2\) da ordem de 2 a 3. Estes gases são, normalmente, aproveitados no pré-aquecimento do ar a ser insuflado no alto-forno.</p>
 
@@ -81,7 +79,7 @@ include("components/page-header.php");
 </div>
 <p>com ΔH = +15 kcal mol<sup>-1</sup> e ΔG = −27 kcal mol<sup>-1</sup>.</p>
 
-<p>A <span class="bold">zona de redução direta</span> está situada a cerca de meia altura do alto-forno epossui temperaturas da ordem de 700 a 1.500 °C. Nesta zona, a magnetita é reduzida a ferro metálico esponjoso, conforme a reação química apresentada na equação 4.6:</p>
+<p>A <span class="bold">zona de redução direta</span> está situada a cerca de meia altura do alto-forno e possui temperaturas da ordem de 700 a 1.500 °C. Nesta zona, a magnetita é reduzida a ferro metálico esponjoso, conforme a reação química apresentada na equação 4.6:</p>
 <div class="box-centro">
     <p>\(Fe_3O_4(s) + 4C(s) \rightarrow 3Fe(s)\) \( + 4CO(g)\) (T = 1000 °C)</p>
 </div>
@@ -153,9 +151,8 @@ include("components/page-header.php");
 </div>
 <p>com ΔH = + 65 kcal mol<sup>-1</sup> e ΔG = -10 kcal mol<sup>-</sup>.</p>
 
-<p>O silício e o manganês produzidos conforme apresentados por meio das equações 4.19 e 4.20 são incorporados ao ferro gusa.</p><br>
+<p>O silício e o manganês produzidos conforme apresentados por meio das equações 4.19 e 4.20 são incorporados ao ferro gusa.</p>
 
-<br>
 <h2 id="4.3">4.3. Redução do minério usando outros processos</h2>
 <p>Sem dúvida a redução utilizando um alto-forno é o principal processo de produção de ferro, contudo muitas vezes este tipo de instalação é inviável, pois requer grandes áreas e enormes investimentos. Buscando-se alternativas surgiram os chamados <span class="bold">processos diretos</span>, alguns produzindo ferro gusa e outros produzindo ferro sólido denominado <span class="bold">ferro esponja</span>. Porém estes processos correspondem apenas a uma parcela pequena da produção de ferro e aço. Os principais processos não-convencionais para a redução de minério de ferro são apresentados a seguir.</p>
 <h3>4.3.1. Redução em forno elétrico</h3>
@@ -196,14 +193,11 @@ include("components/page-header.php");
 </div>
 <p>As unidades de produção deste processo costumam ser pequenas e caras, com capacidade da ordem de 10 ton/dia.</p>
 
-<br>
 <div class="atv">
     <h3>Atividade 4.2</h3>
     <p>Comparar de forma sucinta e dissertativa a redução indireta (processo usando o alto-forno) e os processos de redução direta do Ferro. Não se esquecer de destacar as principais diferenças e similaridades existentes entre os processos.</p>
-</div><br>
+</div>
 
-
-<br>
 <h2 id="4.4">4.4. Produção de aço</h2>
 <p>Os aços são soluções sólidas intersticiais de carbono no ferro, com o teor de carbono variando de 0,02 a 2%. Muitas vezes os aços são referidos como ligas ferro – carbono, contendo como impurezas o enxofre e o fósforo em teores abaixo de 0,05%. Os aços isentos de elementos de liga adicionados de forma intencional são chamados <span class="bold">aço ao carbono</span> e os que contêm elementos adicionados de forma intencional, tais como, níquel, cromo, molibdênio, entre outros, são ditos <span class="bold">aço-liga</span>. Os aços ao carbono são muito mais baratos e fáceis de produzir que os aços-liga. As propriedades do aço, e consequentemente suas aplicações, são altamente dependentes do teor de carbono presentes no aço. Aços com teores de carbono abaixo de 0,2% são chamados de <span class="bold">aços doces</span>. Além disso, elementos de liga também podem alterar de forma muito significativa às propriedades do aço. A produção do aço a partir do ferro gusa ocorre pela redução de diversos elementos, conforme dados apresentados na Tabela 4.1.</p>
 <!--TITULO TABELA 4.1-->
@@ -246,12 +240,12 @@ include("components/page-header.php");
 </figure>
 
 <p>A redução dos teores destes elementos é necessária para melhorar as propriedades do ferro gusa, pois estes elementos formam compostos intermetálicos com o ferro, que comprometem a aplicação do ferro gusa. O enxofre, por exemplo, causa fragilidade a quente devido a formação de sulfeto de ferro, \(FeS\), que se funde nas etapas de conformação mecânica, como o forjamento, segregando e causando trincas e até a ruptura do material. Já o fósforo causa fragilidade a frio devido a formação do fosfeto de ferro, \(Fe_3P\), que possui elevada dureza. O carbono pode formar um carbeto com o ferro que recebe o nome de <span class="bold">cementita</span> \((Fe_3C)\), que também possui dureza muito elevada e causa fragilidade no material. A diminuição dos teores destes elementos, melhorando as propriedades do material, é alcançada pela passagem do oxigênio, puro ou do ar, através do ferro gusa fundido, em temperaturas da ordem de 1.600 °C, promovendo a oxidação destes elementos. Estas reações de oxidação são exotérmicas, permitindo a manutenção da temperatura sem combustão paralela.</p>
-<br>
+
 <div class="atv">
     <h3>Atividade 4.3</h3>
     <p>Escrever as reações de oxidação dos elementos apresentados na Tabela 4.1.</p>
 </div>
-<br>
+
 <p>A oxidação do ferro gusa normalmente é conduzida pela insuflação de ar em fornos chamados de <span class="bold">conversores Bessemer</span>. Estes fornos tem capacidade de 50 toneladas de aço e podem ser <span class="bold">ácidos</span> ou <span class="bold">básicos</span>, dependendo do tipo de escória gerada e do tipo de refratário utilizado. Os conversores ácidos são empregados para a redução de ferro gusa contendo teores extremamente baixos de fósforo. Neste caso o tipo de escória formada é ácida e os tijolos refratários que devem ser utilizados também são ácidos, a base de sílica \((SiO_2)\). Já o ferro gusa contendo elevado teor de fósforo, usa um conversor com tijolos refratários básicos, a base de dolomita ou magnesita, pois escória básica é formada pela adição de cal \((CaO)\) como fundente, para a retirada do fósforo. O tempo de oxidação, também chamado de período de sopragem, é de 15 minutos. A quantidade de sucata que pode ser empregada neste processo é de apenas 10% da carga final. </p>
 <p>O sopro de ar no lugar de oxigênio puro pode levar a elevados valores de nitrogênio no aço, podendo formar nitretos, o que prejudicaria o desempenho do produto final. A oxidação usando oxigênio puro levará mais tempo, porém permitira o aumento da carga de sucata para 20%. Os principais processos de oxidação em conversores que usam oxigênio puro, com capacidade variando de 50 a 100 toneladas são comentados a seguir:</p>
 <p><span class="bold">1) Processo LD:</span> semelhante ao conversor Bessemer exceto pelo fato do forno não apresentar caixa inferior de sopragem. A sopragem é feito através de uma lança, tudo oco, introduzido pela boca do forno. Esse processo foi desenvolvido na Áustria no ínicio do século XX e seu nome, LD, refere-se às duas fábricas que primeiro o usaram, Linz e Donawitz. No Estado do Espírito Santo a antiga Companhia Siderúrgica do Tubarão (CST), atual Arcelor Mittal, opera com este tipo de processo em sua aciaria.</p>
@@ -259,11 +253,8 @@ include("components/page-header.php");
 <p><span class="bold">3) Processo Rotor:</span> o mais eficiente dos processos usando oxigênio puro e deriva do processo Kaldo, com um forno giratório e duas lanças para soprar o oxigênio. Esta disposição permite carregar o forno com até 30% de sucata.</p>
 <p><span class="bold">4) Processo Spray:</span> baseia-se na oxidação gota-a-gota do ferro gusa e por isso apresenta altíssima eficiência, porém o custo do aço produzido por este processo é extremamente elevado.</p>
 <p>A necessidade cada vez maior de se reciclar grandes quantidades de sucata faz o processo Siemens-Martin ser ainda muito utilizada, pois ele permite o uso de até 60% da carga de sucata. Porém faz-se necessária a queima de combustível para se fundir a carga. De modo a aumentar a eficiência térmica do processo, o forno Siemens-Martin possui um sistema de regeneração de calor operando de forma alternada. Este processo foi desenvolvido em meados do Século XX, por Siemens na Alemanha e por Martin na França de forma simultânea. A capacidade do processo é da ordem de 500 a 600 toneladas e seu tempo de operação varia de 8 a 16 horas.</p>
-<p>A fabricação de aço de maior qualidade pode ser conduzida usando um forno a arco elétrico. Este tipo de forno pode operar com carga composta apenas de sucata, 100% de sucata, razão pela quais grandes quantidades de energia elétrica são necessárias. A fusão da carga se dá pela formação do arco elétrico entre três eletrodos de grafite pirolítico e a carga sólida. A capacidade deste tipo de forno é da ordem de 10 a 50 toneladas e seu tempo de operação varia de 1 a 2 horas.</p><br>
+<p>A fabricação de aço de maior qualidade pode ser conduzida usando um forno a arco elétrico. Este tipo de forno pode operar com carga composta apenas de sucata, 100% de sucata, razão pela quais grandes quantidades de energia elétrica são necessárias. A fusão da carga se dá pela formação do arco elétrico entre três eletrodos de grafite pirolítico e a carga sólida. A capacidade deste tipo de forno é da ordem de 10 a 50 toneladas e seu tempo de operação varia de 1 a 2 horas.</p>
 
-
-
-<br>
 <h2 id="4.5">4.5. Construindo e fixando o conhecimento</h2>
 <p><span class="bold">1.</span> Quais os principais tipos de minério de ferro e quais os teores de ferro presentes em cada um deles?</p>
 <p><span class="bold">2.</span> Qual a diferença entre os processos de calcinação e ustulação? Escreva as equações químicas relativas a estes processos.</p>
@@ -274,9 +265,8 @@ include("components/page-header.php");
 <p><span class="bold">7.</span> Quais os requisitos para a utilização de fornos elétricos de redução de minério?</p>
 <p><span class="bold">8.</span> Quais as principais diferenças entre o aço e o ferro gusa?</p>
 <p><span class="bold">9.</span> Qual impureza causa fragilidade a frio no aço? E qual causa fragilidade a quente? Por que estes fenômenos acontecem?</p>
-<p><span class="bold">10.</span> Explicar em que situação deve-se empregar tijolos refratários ácidos e básicos em um conversor.</p><br>
+<p><span class="bold">10.</span> Explicar em que situação deve-se empregar tijolos refratários ácidos e básicos em um conversor.</p>
 
-<br>
 <h2 id="4-ref">Referências Bibliográficas</h2>
 <p>CAMPOS FILHO, M. P. <strong>Introdução a Metalurgia Extrativa e Siderurgia.</strong> 1ª Edição, Ed. LTC / FUNCAMP, Campinas, SP, 1981, 153p.</p>
 <p>CANTO, E. L. <strong>Minerais, Minérios, Metais, De onde vêm? Para onde vão?</strong> 2ª Edição, Ed. Moderna, São Paulo, SP, 2010, 143p.</p>

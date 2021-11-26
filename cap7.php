@@ -550,8 +550,6 @@ include("components/page-header.php");
 
 <p>A indústria de Celulose e Papel usa a água desde o cultivo das mudas de Eucalipto/Pinus até o proceso industrial de fabricação da Polpa e finalmente a produção de Papel, assim o setor sabe que á água é um bem inestimável e vem praticando o reuso deste bem de forma a reduzir os custo de produção, e também tenta minimizar a carga de poluentes gerados que devem ser tratados. Como podemos verificar na Tabela 7.7 o volume utilizado de água é muito grande e, isso obriga o uso de fontes que possam fornecer quantidade enormes de água tais como rios, oceanos, lagos, o que equivale diz que 96% de toda água consumida é de superfície. Nos anos de 2009 e 2010 a água reciclada ou reutilizada foi de 38,0% e 34,3%, respectivamente segundo dados publicados pela Bracelpa. </p>
 
-
-<br>
 <h2 id="7.2">7.2. Fabricação da polpa e papel</h2>
 <p>O processo de deslignificação de cavacos de madeira precedente do processo <em>Kraft</em> foi originalmente patenteado em 1854. Esse processo utilizava o método químico de polpação conhecido como processo soda, o qual usava uma solução alcalina forte de hidróxido de sódio. Em 1865, uma nova patente incorporou o processo de incineração do licor de soda gasto para recuperação do álcali. No ano de 1866 entrou em operação a primeira fábrica utilizando o processo soda. Entretanto, hoje em dia existem poucas fábricas no mundo que operam com esse tipo de processo.</p>
 <p>Devido ao alto custo do processo soda relativo ao carbonato de sódio foi experimentado a adição de sulfato de sódio na fornalha de recuperação, o que levou ao desenvolvimento do processo conhecido mundialmente de processo <em>Kraft</em>, o qual foi creditado a C. J. Dahl. Durante a adição do sulfato o mesmo é reduzido a sulfeto pela queima do licor, posteriormente o próprio Dahl descobriu que o sulfeto acelerava o processo de deslignificação da polpa mais resistente. Então, em 1884 o processo foi novamente patenteado e em 1885 o processo foi utilizado comercialmente na Suécia para polpação. Desde então, muitas fábricas de soda se converteram para o processo <em>Kraft</em> para poderem competir com o processo sulfito. Um dos grandes problemas do processo <em>Kraft</em> em comparação ao processo sulfito era a necessidade de recuperar os produtos químicos de polpação, pois então o processo não seria competitivo economicamente com o processo sulfito. Mas somente depois de várias modificações do processo e finalmente com branqueamentos em múltiplos estágios em 1950 que o processo <em>Kraft</em> teve maior destaque no setor.</p>
@@ -654,8 +652,6 @@ include("components/page-header.php");
 </div>
 <caption>Fonte: http://pt.wikipedia.org/wiki/Celulose</caption>
 
-
-<br>
 <h2 id="7.3">7.3. Construindo e fixando o conhecimento</h2>
 <p><span class="bold">1. </span> Descrever brevemente o processo Kraft para produzir Celulose e Papel.</p>
 <p><span class="bold">2. </span> Por que as indústrias de Celulose e Papel reciclam e reutilizam água? Justificar sua resposta.</p>
@@ -663,8 +659,6 @@ include("components/page-header.php");
 <p><span class="bold">4. </span> Explicar por que atualmente as indústrias de Celulose e Papel preferem trabalhar com branqueadores que não são à base de cloro?</p>
 <p><span class="bold">5. </span> Discutir os aspectos sociais e econômicos relacionados ao mercado doméstico e externo das indústrias de Celulose e Papel.</p>
 
-
-<br>
 <h2 id="7-ref">Referências Bibliográficas</h2>
 <p>SHREVE, R. N.. BRINK Jr., J. A.<strong> Indústrias de Processos Químicos.</strong> 4a Edição, Ed. Guanabara Koogan S.S., Rio de Janeiro, 1997, 717p.</p>
 <p>WONGTSCHOWSKI, P.<strong> Indústria Química Riscos e Oportunidades</strong> 2a edição, Ed. Edgard Blücher LTDA., São Paulo, 2002, 306p.</p>

@@ -164,11 +164,9 @@ include("components/page-header.php");
   <p>
 </div>
 
-
-<br>
 <h2 id="2-2">2.2. Fabricação do cloro e da soda cáustica</h2>
 <h3>Célula de Diafragma</h3>
-<p>A representação esquemática do processo de produção de cloro e soda cáustica através da eletrólise de uma solução salina é mostrada na Figura 2.5. A salmoura é introduzida na região do ânodo e os íons cloretos são oxidados a cloro por meio da passagem de corrente entre o cátodo e o ânodo. Os íons de sódio migram do ânodo para o cátodo através da membrana separadora. No cátodo ocorre a reação de redução do hidrogênio formando o gás hidrogênio e NaOH as reações são apresentadas a seguir:</p>
+<p>A representação esquemática do processo de produção de cloro e soda cáustica através da eletrólise de uma solução salina é mostrada na Figura 2.5. A salmoura é introduzida na região do ânodo e os íons cloretos são oxidados a cloro por meio da passagem de corrente entre o cátodo e o ânodo. Os íons de sódio migram do ânodo para o cátodo através da membrana separadora. No cátodo ocorre a reação de redução do hidrogênio formando o gás hidrogênio e \(NaOH\) as reações são apresentadas a seguir:</p>
 
 <div class="box">
   <p><strong>Ânodo:</strong> \(2Cl^-(aq) \rightarrow Cl_2(g)\) \( + 2e^-\)</p>
@@ -327,8 +325,6 @@ include("components/page-header.php");
   <figcaption><span class="bold">Figura 2.9.</span> Eletrodos do tipo ADE. Fonte: DeNora.</figcaption>
 </figure>
 
-
-<br>
 <h2 id="2-3">2.3. Teste para garantir a qualidade de produto</h2>
 <p>Durante a fabricação de Cloro, Soda Cáustica e Hipoclorito de sódio alguns testes são necessários para verificar e garantir a qualidade do produto vendido. Assim, a Associação Brasileira de Normas Técnicas, ABNT, formulou uma série de testes específicos que devem ser realizados para garantir a qualidade do material fabricado. As Tabelas 2.4 e 2.5 apresentam as informações relativas às determinações que devem ser observadas e as respectivas metodologias usadas para tal determinação quando se trabalha com os produtos Cloro, Soda Cáustica e Hipoclorito de sódio.</p>
 <!-- TITULO DA TABELA 2.4 -->
@@ -368,7 +364,6 @@ include("components/page-header.php");
 </figure>
 
 <!-- TITULO DA TABELA 2.5 -->
-<br><br>
 <p><span class="boldSecundario">Tabela 2.5.</span> Determinações e metodologia usadas na verificação da qualidade do produto Soda cáustica.</p>
 <!-- TABELA 2.5 -->
 <figure class="tabela">
@@ -408,14 +403,11 @@ include("components/page-header.php");
   <figcaption>*Titulação com solução padronizada de \(HCl\). Fonte: Abiquim; ABNT.</figcaption>
 </figure>
 
-<br><br><br>
 <div class="atv">
   <h3>Atividade 2.1</h3>
   <p>Uma das etapas do processo industrial utilizado para a fabricação de cloro e soda cáustica é a eletrólise de uma solução de salmoura \((NaCl + H_2O)\). Durante o processo eletrolítico os íons cloretos são convertidos em \(Cl_2\) no compartimento anódico e no compartimento cátodo é gerado hidróxido de sódio e gás hidrogênio. <br><br> Escrever as equações químicas envolvidas no processo usando células de membranas. Quantos mols de cloro são gerados no ânodo durante a eletrólise da salmoura com uma corrente de 4,00 A por um período de 2 horas? <br><br>Dados: Constante de Faraday = 96500 C/mol; 1 A = 1 C/s. </p>
 </div>
 
-
-<br>
 <h2 id="2-4">2.4. Construindo e fixando o conhecimento</h2>
 <p><span class="bold">1.</span> Escrever um resumo contendo no máximo 20 linhas e no mínio 10 linhas dos três tipos de processos utilizados na produção de cloro e da solda.</p>
 <p><span class="bold">2.</span> Explicar por que a célula de mercúrio está sendo retirado do mercado, em seguida descrever quais são os problemas relacionados a este tipo de tecnologia.</p>
@@ -423,7 +415,6 @@ include("components/page-header.php");
 <p><span class="bold">4.</span> A Eletroquímica é uma parte da Físico-Química, tendo uma grande importância para o setor Químico Industrial. Um dos processos mais importantes que envolvem a Eletroquímica é a eletrólise de soluções aquosas de \(NaCl\), conhecida como indústria do cloro-álcali. Neste contexto, citar três importantes substâncias produzidas por este processo, em seguida informar quais são os principais setores ou segmentos das indústrias brasileiras que usam essas substâncias.</p>
 <p><span class="bold">5.</span> Descrever quais são os materiais que revestem os eletrodos que são colocados no compartimento anódico em uma célula de diafragma? Qual é a função deste material durante a eletrólise da salmoura?</p>
 
-<br>
 <h2 id="2-ref">Referências Bibliográficas</h2>
 <!-- TEM REFERENCIA INCOMPLETA -->
 <p>SHREVE, R. N., BRINK Jr., J.A. <strong>Indústria de Processos Químicos.</strong> Vol. Único, trad. 4ª. edição; Guanabara Koogan S.A., Rio de Janeiro, RJ, 1997.</p>

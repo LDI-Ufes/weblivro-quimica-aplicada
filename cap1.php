@@ -9,7 +9,7 @@ include("components/page-header.php");
 <h2 id="1-1">1.1. Uma breve introdução sobre o ácido sulfúrico</h2>
 <p>A substância conhecida como ácido sulfúrico (veja Figura 1.1) foi descoberta na Idade Média pelo alquimista de origem islâmica Jabir Ibn Hayyann, também conhecido como GEBER. Entretanto, algumas fontes bibliográficas informam que o alquimista persa Ibn Zakariya Al-Razi que viveu durante o Século IX seja o descobridor desta substância.</p>
 
-<p>Segundo o alquimista Al-Razi o ácido sulfúrico era obtido pela decomposição de sulfato de ferro(II) heptaidratado \((FeSO_4∙7H_2O)\) e/ou sulfato de cobre(II) pentaidratatdo \((CuSO_4∙5H_2O)\) em óxido de ferro(II) e de cobre(II), respectivamente, produzindo água e dióxido ou trióxido de enxofre (\(SO_2\) ou \(SO_3\)). A reação entre a água e o \(SO_2\) ou \(SO_3\) produz uma solução ácida, devido a formação do ácido sulfuroso ou sulfúrico, respectivamente. O ácido sulfuroso é lentamente oxidado pelo oxigênio do ar a ácido sulfúrico:</p>
+<p>Segundo o alquimista Al-Razi, o ácido sulfúrico era obtido pela decomposição de sulfato de ferro(II) heptaidratado \((FeSO_4∙7H_2O)\) e/ou sulfato de cobre(II) pentaidratatdo \((CuSO_4∙5H_2O)\) em óxido de ferro(II) e de cobre(II), respectivamente, produzindo água e dióxido ou trióxido de enxofre (\(SO_2\) ou \(SO_3\)). A reação entre a água e o \(SO_2\) ou \(SO_3\) produz uma solução ácida, devido a formação do ácido sulfuroso ou sulfúrico, respectivamente. O ácido sulfuroso é lentamente oxidado pelo oxigênio do ar a ácido sulfúrico:</p>
 
 <p><span class="bold">a. </span>No caso do sulfato de ferro (II) temos:</p>
 <!--LEGENDAR ESTEQUIOMETRIAS-->
@@ -41,10 +41,10 @@ include("components/page-header.php");
 
 <p>Em 1746, John Roebuck de Birmingham (Inglaterra), introduziu a câmara de chumbo ao processo de Ward. A vantagem de usar essas câmaras estava no fato de elas serem fortes, pouco custosas e e na possibilidade de serem feitas em estruturas maiores do que as de vidros que eram utilizadas anteriormente. Com algumas melhorias, o método permitiu a industrialização efetiva da produção de \(H_2SO_4\), o que fez dele o método padrão por aproximandamente dois séculos. Contudo, a solução ácida produzida por esse método continha somente uma pequena proporção de ácido sulfúrico (teor = 35 – 40%). Melhoramentos introduzidos pelos químicos Joseph-Louis Gay-Lussac e John Glover permitiram um aumento da concentração para 78%. </p>
 
-<p>Hoje em dia todo o fornecimento mundial de ácido sulfúrico concentrado é fabricado utilizado o processo conhecido como <span class="bold">processo de contato</span> patenteado em 1831 pelo comerciante de vinagre britânico Peregrine Phillips. </p>
+<p>Hoje em dia, todo o fornecimento mundial de ácido sulfúrico concentrado é fabricado utilizado o processo conhecido como <span class="bold">processo de contato</span>, patenteado em 1831 pelo comerciante de vinagre britânico Peregrine Phillips. </p>
 
 <p>O ácido sulfúrico é o produto químico inorgânico de maior produção mundial, sua produção anual está acima de 4 x 10<sup>10</sup> kg somente nos Estados Unidos. Pelo baixo custo do ácido sulfúrico, seu uso é comum na indústria, particularmente para a produção de fertilizantes, petroquímicos, tintas e detergentes. A fórmula estrutural e de bolas de uma molécula de ácido sulfúrico é mostrado na
-  <!--A INDICAÇÃO DA FIGURA PODERIA SER INTERATIVA, ENCAMINHANDO DIRETAMENTE A ELA -->Figura 1.1. Podemos observar na representação da fórmula estrutural, que as distâncias médias de ligações entre os átomos de enxofre e oxigênio são diferentes, por exemplo, no caso de ligação simples a distância média de ligação \(S\)—\(O\) é 157,4 pm (1 picômetro = 10<sup>-12</sup> metro) e no caso de ligação dupla a distância média de ligação \(S\)=\(O\) é 142,2 pm.
+  <!--A INDICAÇÃO DA FIGURA PODERIA SER INTERATIVA, ENCAMINHANDO DIRETAMENTE A ELA -->Figura 1.1. Podemos observar, na representação da fórmula estrutural, que as distâncias médias de ligações entre os átomos de enxofre e oxigênio são diferentes, por exemplo, no caso de ligação simples a distância média de ligação \(S\)—\(O\) é 157,4 pm (1 picômetro = 10<sup>-12</sup> metro) e no caso de ligação dupla a distância média de ligação \(S\)=\(O\) é 142,2 pm.
 </p>
 <!-- FIGURA 1.1 -->
 <figure>
@@ -168,11 +168,10 @@ include("components/page-header.php");
 </table>
 <figcaption>Fonte: ABIQUIM (Associação Brasileira das Indústrias Químicas).</figcaption>
 </figure>
-<br>
 
 <h2 id="1-2">1.2. O processo de contato: fabricação do ácido sulfúrico</h2>
 
-<p>Devido ao desenvolvimento da indústria de corantes na Europa no final do Século XIX e início do Século XX o processo de contato tornou-se muito importante em virtude da necessidade de um ácido mais concentrado para a etapa de sulfonação. Na Europa entre os anos de 1900 a 1925 foram construídas diversas usinas de produção de ácido sulfúrico que utilizavam a metodologia de contato, usando como catalisador a Platina, a qual foi substituída em meados dos anos 20 por um composto químico constituído por Vanádio.</p>
+<p>Devido ao desenvolvimento da indústria de corantes na Europa no final do Século XIX e início do Século XX, o processo de contato tornou-se muito importante em virtude da necessidade de um ácido mais concentrado para a etapa de sulfonação. Na Europa, entre os anos de 1900 a 1925, foram construídas diversas usinas de produção de ácido sulfúrico que utilizavam a metodologia de contato, usando como catalisador a Platina, a qual foi substituída em meados dos anos 20 por um composto químico constituído por Vanádio.</p>
 
 <p>Basicamente, tal tecnologia envolve as seguintes etapas:</p>
 <ol class="indentacao">
@@ -180,7 +179,7 @@ include("components/page-header.php");
   <li>Conversão catalítica do dióxido de enxofre a trióxido de enxofre \((SO_3)\);</li>
   <li>Absorção do trióxido de enxofre.</li>
 </ol>
-<p>O processo de contato foi sendo gradualmente modificado para usar a dupla absorção, ou seja, o processo conhecido como dupla catálise. Neste processo as emissões de \(SO_2\) são reduzidas e ocorre um aumento no rendimento. O \(SO_2\) pode ser obtido a partir de enxofre, de sulfeto de ferro (II), também conhecido como pirita, sulfatos e resíduos de tratamento diversos com ácido sulfúrico (“<em>acid sludges</em>”). A seleção da matéria-prima a ser processada depende da influência de diversos fatores, tais como disponibilidade, aproveitamento de subprodutos e custos de secagem e de limpeza do gás. De uma forma geral, o efeito combinado desses fatores conduz, na maioria dos casos, à seleção de piritas e enxofre como matéria-prima preferencial, ficando a utilização das demais reservadas às situações em que prevalecem condições muito particulares de disponibilidade a custos reduzidos.</p>
+<p>O processo de contato foi sendo gradualmente modificado para usar a dupla absorção, ou seja, o processo conhecido como dupla catálise. Neste processo, as emissões de \(SO_2\) são reduzidas e ocorre um aumento no rendimento. O \(SO_2\) pode ser obtido a partir de enxofre, de sulfeto de ferro (II), também conhecido como pirita, sulfatos e resíduos de tratamento diversos com ácido sulfúrico (“<em>acid sludges</em>”). A seleção da matéria-prima a ser processada depende da influência de diversos fatores, tais como disponibilidade, aproveitamento de subprodutos e custos de secagem e de limpeza do gás. De uma forma geral, o efeito combinado desses fatores conduz, na maioria dos casos, à seleção de piritas e enxofre como matéria-prima preferencial, ficando a utilização das demais reservadas às situações em que prevalecem condições muito particulares de disponibilidade a custos reduzidos.</p>
 <p>A Figura 1.3 representa esquematicamente um fluxograma típico de uma fábrica de ácido sulfúrico usando a metodologia do processo de contato. Como podemos ver o processo é dividido em várias etapas: transporte do enxofre; fusão do enxofre; bombeamento e atomização do enxofre líquido; secagem do ar de combustão; queima do enxofre; recuperação do calor do \(SO_2\) gasoso quente e resfriamento do gás; purificação do \(SO_2\); oxidação do \(SO_2\) a \(SO_3\) em conversores; controle de temperatura; absorção do \(SO_3\) em ácido concentrado, a 98,5-99,0%; resfriamento do ácido dos absorvedores e finalmente o bombeamento do ácido para o topo das torres de absorção.</p>
 <figure>
   <img src="img/fig-1-3.jpg" alt="audiodescrição">
@@ -264,7 +263,6 @@ include("components/page-header.php");
   <p>Em um conversor de 100 L foram postos inicialmente 80 mols de cada um dos reagentes. Ao atingir o equilíbrio, foi constatada a presença de 60 mols de \(SO_3\). Calcule o valor da constante de equilíbrio (K<sub>c</sub>). </p>
 </div>
 
-<br>
 <h2 id="1-3">1.3. Contruindo e fixando o conhecimento</h2>
 <p><span class="questao">1.</span> Uma usina geradora de eletricidade queima óleum cru que contém cerca de 1,5% de enxofre em massa. A equação química que representa a formação de dióxido de enxofre durante a queima do óleum cru é:</p>
 
@@ -274,16 +272,12 @@ include("components/page-header.php");
 
 <p><span class="questao-letra">a)</span> Qual a massa de \(SO_2\) formado quando se queima 2,0 kg de óleum cru?</p>
 
-<p><span class="questao-letra">b)</span> Em condições normais de pressão e temperatura (25 ºC e 1,0 atm), qual será o volume ocupado pelo \(SO_2\) formado no item (a)? Dados: PV = nRT; R = 0,082 atm L mol<sup>−1</sup> K<sup>−1</sup></p><br>
+<p><span class="questao-letra">b)</span> Em condições normais de pressão e temperatura (25 ºC e 1,0 atm), qual será o volume ocupado pelo \(SO_2\) formado no item (a)? Dados: PV = nRT; R = 0,082 atm L mol<sup>−1</sup> K<sup>−1</sup></p>
 
-<p><span class="questao">2.</span> Em uma planta de produção de ácido sulfúrico verificou-se que o trióxido de enxofre é produzido com 95% de Pureza. Supondo que seja necessário obter uma produção horária de 400 ton de \(H_2SO_4(l)\), qual deve ser a quantidade de \(SO_3\) impuro que deverá ser produzida nesta planta.</p><br>
+<p><span class="questao">2.</span> Em uma planta de produção de ácido sulfúrico verificou-se que o trióxido de enxofre é produzido com 95% de Pureza. Supondo que seja necessário obter uma produção horária de 400 ton de \(H_2SO_4(l)\), qual deve ser a quantidade de \(SO_3\) impuro que deverá ser produzida nesta planta.</p>
 
 <p><span class="questao">3.</span> A eficiência do queimador de enxofre em uma planta de produção de ácido sulfúrico pelo método de contato é 95% e o rendimento do conversor de quatro etapas é 90%. Baseado nestes dados calcule para uma produção de 650 ton/h de ácido sulfúrico a quantidade de enxofre líquido necessária.</p>
 
-
-
-
-<br>
 <h2 id="1-ref">Referências Bibliográficas</h2>
 <p>KARPENKO V., NORRIS, J. A.<strong> Vitriol in the History of Chemistry.</strong> Chem. Listy, 96, 997-1005, 2002. </p>
 <p>SHREVE, R. N., BRINK Jr., J.A..<strong> Indústria de Processos Químicos.</strong> Vol. Único, trad. 4a edição; Guanabara Koogan S.A., Rio de Janeiro, RJ, 1997.</p>

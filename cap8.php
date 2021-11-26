@@ -12,8 +12,6 @@ include("components/page-header.php");
 
 <p>A seguir serão apresentadas as principais fases do processamento de alimentos que serão exemplificadas a partir da tecnologia de produção de dois setores produtivos. </p>
 
-
-<br>
 <h2 id="8.2">8.2. Processamento de alimentos</h2>
 <p>O processamento de produtos alimentícios é bem semelhante aos demais processos já apresentados pela tecnologia química, principalmente, quanto aos equipamentos e processos tecnológicos envolvidos. Destaque especial é dado aos processos de pasteurização, secagem, desidratação, esterilização, congelamento, desenvolvimento de materiais para armazenamento, manuseio, automação, limpeza e sanitização. Porém, o avanço mais importante, durante todo Século XX, foi o uso do aço inoxidável para o processamento de alimentos. Esse material, resistente à corrosão, permitiu o desenvolvimento de processos contínuos e automatizados empregando um ambiente asséptico. </p>
 <p>De forma genérica, as principais fases do processamento de produtos alimentícios são: beneficiamento, elaboração, preservação e/ou conservação e armazenamento.</p>
@@ -68,7 +66,7 @@ include("components/page-header.php");
 <p><span class="bold">7. Conservação pela adição de aditivos:</span> apesar de poder contribuir para a conservação dos alimentos, deve ser usada com moderação, uma vez que, a ingestão excessiva de alimentos conservados por aditivos químicos pode provocar perturbações no equilíbrio fisiológico do consumidor. </p>
 <p><span class="bold">8. Conservação pelo uso da irradiação:</span> sob ponto de vista tecnológico, satisfaz plenamente o objetivo de proporcionar aos alimentos, a estabilidade química e microbiológica, condições sanitizante e longo período de armazenamento. No entanto, ainda apresenta uso limitado. </p>
 
-<br>
+
 <h2 id="8.3">8.3. Tecnologia química de alguns setores da indústria alimentícia</h2>
 <p>Como já foi visto no início do capítulo, diversos são os setores da indústria alimentícia brasileira, sendo inviável a apresentação individual de cada um deles. Portanto, para exemplificar as principais fases e operações realizadas na indústria de processamento de alimento, destacaremos apenas dois setores da produção de alimentos.</p>
 <h3>8.3.1. Processamento do leite</h3>
@@ -84,11 +82,11 @@ include("components/page-header.php");
 <div class="box">
     <p>As embalagens usadas para o armazenamento do leite são compostas por um material cartonado formado por seis camadas compostas por polietileno, papel e alumínio de forma asséptica para evitar a recontaminação do leite e aumentar a sua vida de prateleira. </p>
 </div>
-<br>
+
 <div class="atv">
     <h3>Atividade 8.1</h3>
     <p>Fazer um fluxograma simplificado do processo de processamento do leite.</p>
-</div><br>
+</div>
 
 <h3>8.3.2. Processamento do óleo de soja</h3>
 <p>A soja é um dos principais produtos agrícolas comercializados no mundo. Atualmente, os principais países produtores (Estados Unidos, Brasil e Argentina) são também os principais exportadores. O Brasil é o segundo maior produtor da oleaginosa, com 22,1% da produção e responde por 22,4% das exportações mundiais, ocupando também a segunda colocação nas vendas de derivados ao exterior. Cerca de 90% da produção de óleo vegetal e farelo proteico no Brasil são oriundos da soja. Isso significa que a indústria esmagadora brasileira é fortemente dependente dessa cultura, por ser a única oleaginosa produzida em larga escala no país. </p>
@@ -124,13 +122,13 @@ include("components/page-header.php");
 <p>Geralmente, o processo de degomagem e neutralização com álcalis já removem certa quantidade de corantes do óleo, produzindo um efeito branqueador. Entretanto, atualmente, são exigidos óleos e gorduras quase incolores, o que é possibilitado pela absorção dos corantes com terras clarificantes, naturais ou ativadas, às vezes, misturadas com carvão ativado na proporção de 10:1 a 20:1.</p>
 <p>As terras ativadas são preparadas com silicatos de alumínio, por aquecimento com ácido clorídrico ou sulfúrico, removendo quase todo cálcio e magnésio e parcialmente o ferro e alumínio, seguido por lavagem com água, secagem e moagem. As terras naturais têm um poder clarificante bem inferior ao das terras ativadas, porém são bem mais baratas. </p>
 <p>Como a ação da terra clarificante é mais eficiente em meio anidro e o óleo neutralizado sempre contém umidade, é necessário realizar uma pré-etapa de secagem. A secagem do óleo é feita de maneira contínua no processo de neutralização. Já no processo de branqueamento ela é feita aquecendo o material à temperatura de 80 a 90 °C sob vácuo (30 mm Hg) por 30 minutos. Em seguida, se adiciona terra clarificante por sucção, agitando o óleo com uma temperatura de 80 a 95 °C, durante 20 a 30 minutos. Subsequentemente, o óleo é resfriado de 60 a 70 °C e filtrado por filtro-prensa. </p>
-<br>
+
 <div class="atv">
     <h3>Atividade 8.2</h3>
     <p>Fazer um fluxograma simplificado do processo de processamento do óleo de soja. </p>
-</div><br>
+</div>
 
-<br>
+
 <h2 id="8.4">8.4. Construindo e fixando o conhecimento</h2>
 <p><span class="bold">1. </span> Qual a importância da instituição de padrões e graus de qualidade no processo de desenvolvimento da indústria alimentar?</p>
 <p><span class="bold">2. </span> Qual foi o principal avanço do processo de produção da indústria alimentícia durante o Século XX? Justificar o motivo a que se deve esse avanço.</p>
@@ -140,7 +138,7 @@ include("components/page-header.php");
 <p><span class="bold">6. </span> Explicar como funciona o processo de conservação por defumação?</p>
 <p><span class="bold">7. </span> Pesquisar na literatura a respeito do processo de conservação pelo uso da irradiação. Em seguida, elabore um resumo que trate do processo, com no máximo 20 linhas e no mínimo 10 linhas.</p>
 
-<br>
+
 <h2 id="8-ref">Referências Bibliográficas</h2>
 <p>SHREVE, R. N.; BRINK Jr., J. A.<strong> Indústrias de Processos Químicos.</strong> 4a Edição, Ed. Guanabara Koogan S.S., Rio de Janeiro, 1997, 717p.</p>
 <p>WONGTSCHOWSKI, P. <strong>Indústria Química Riscos e Oportunidades.</strong> 2a edição, Ed. Edgard Blücher LTDA., São Paulo, 2002, 306p.</p>

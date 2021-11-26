@@ -13,7 +13,6 @@ include("components/page-header.php");
 <p>Com a implementação do Programa Nacional de Desestatização, acelerada na década de 1990, o modelo vitorioso até os anos 1980 começou a ser desmontado. Com isso, a Petroquisa foi obrigada a alienar a maior parte de suas participações societárias e perdeu o papel de planejadora e arquiteta da política industrial do setor petroquímico nacional.</p>
 <p>Atualmente, perspectivas promissoras de investimento no setor petroquímico envolvem duas iniciativas de grande porte: o <span class="bold">Complexo Gás-Químico do Rio De Janeiro</span> - dimensionado para uma produção de 500.000 ton/ano de eteno usando o gás natural da Bacia de Campos como matéria-prima, e a integração <em>downstream</em> com uma unidade produtora de vários tipos de polietileno. A Petrobrás participa com 30% do capital da empresa Rio Eteno, empresa esta responsável pela produção de eteno, sendo os 70% restantes relacionados à iniciativa privada e a totalidade do capital da empresa Rio Polímeros, empresa esta responsável pela produção de polietileno; e o <span class="bold">Polo Petroquímico de Paulínia</span> - Segundo Polo Petroquímico de São Paulo, utilizando correntes processadas pela Replan, a maior refinaria do país, com a implantação de fábricas de polietileno, polipropileno, oxoalcoóis, ácido acrílico e acrilatos. Além da possibilidade de instalação de uma unidade para produção de óxido de eteno. </p>
 
-<br>
 <h2 id="6.2">6.2. Indústria petroquímica</h2>
 <p>A indústria petroquímica atua principalmente por três rotas que definem os produtos petroquímicos: a produção de olefinas e derivados, de compostos aromáticos e derivados e de gás de síntese e derivados, conforme o esquema representativo da cadeia produtiva mostrado na Figura 6.1. O uso de olefinas merece destaque, sendo o eteno, o propeno, o buteno e o butadieno as matérias-primas de maior importância. Normalmente, altos investimentos devem ser realizados em plantas que utilizam matérias-primas mais pesadas, que requerem craqueamento para obtenção dos produtos petroquímicos. Desta forma se matérias-primas mais leves são empregadas o investimento necessário é menor. Por outro lado, uma maior diversidade de produtos pode ser gerada a partir de matérias-primas mais pesadas.</p>
 <!--FIGURA 6.1-->
@@ -22,11 +21,11 @@ include("components/page-header.php");
     <figcaption><span class="bold">Figura 6.1. </span>Representação esquemática da cadeia produtiva dos produtos petroquímicos básicos.</figcaption>
 </figure>
 <p>Portanto, quanto maior a massa molar da matéria-prima, mais fácil seu craqueamento. Assim, parafinas saturadas e alcanos são mais fáceis de serem craqueados. Contudo, o craqueamento pode ser conduzido em qualquer tipo de matéria-prima visando alcançar um máximo de produção de olefinas e aromáticos associada a uma alta seletividade, além de se obter um mínimo de moléculas lineares pequenas, metano e hidrocarbonetos lineares com mais de cinco átomos de carbono. Logo, os tipos de produtos petroquímicos produzidos são altamente influenciados pela natureza dos hidrocarbonetos, pela temperatura de reação e pelo tempo de residência no processo de quebra. Os produtos finais da indústria petroquímica podem ser agrupados em seis categorias: plásticos, elastômeros, fibras, fertilizantes, solventes e especialidades.</p>
-<br>
+
 <div class="atv">
     <h3>Atividade 6.1</h3>
     <p>Fazer um levantamento histórico de pelo menos três produtos de fontes petroquímicas que sejam classificados como especialidades.</p>
-</div><br>
+</div>
 
 <h3>Eteno</h3>
 <p>O eteno, também chamado de etileno, é a principal matéria-prima da indústria petroquímica devido a seu baixo custo, ampla disponibilidade e alta pureza. Essa importância é consequência de suas propriedades e a aspectos econômicos, dentre os quais se destacam: sua estrutura simples e com reatividade alta; produção relativamente barata; facilidade de produção a partir de qualquer hidrocarboneto por craqueamento, com alto rendimento; pequena quantidade de subprodutos produzidos por reações do etileno com outros compostos do que nas reações com outras olefinas (por exemplo, as reações com \(Cl_2,\) \(HCl,\) \(O_2\) e \(H_2O\)). Portanto, produtos de grande importância são obtidos com alto rendimento e baixo custo de produção.</p>
@@ -52,13 +51,12 @@ include("components/page-header.php");
 <h3>Aromáticos</h3>
 <p>Os principais compostos aromáticos produzidos na indústria petroquímica são o benzeno, o tolueno e os xilenos, também conhecidos como BTX’s, e são obtidos, principalmente, nas unidades de reforma e craqueamento catalítico das refinarias. A reatividade dos componentes do BTX’s, que permite sua utilização na indústria, está relacionada ao anel benzênico. De forma geral, os compostos aromáticos são passíveis de reações de substituição eletrofílica. Dentre as reações possíveis que estes compostos podem sofrer estão: alquilação ou desalquilação, cloração, nitração, oxidação, hidrogenação, metátese e carbonilação, originando produtos principais ou intermediários, que podem reagir de forma semelhante para síntese dos produtos finais.</p>
 
-<br>
 <div class="atv">
     <h3>Atividade 6.2</h3>
     <p>Na FISPQ (Ficha de Segurança de Produto Químico) dos componentes do BTX estes produtos são classificados como carcinogênicos e mutagênicos. Responder: </p>
     <p><span class="questao-letra">a) </span>O que isso significa? </p>
     <p><span class="questao-letra">b) </span>Qual a explicação química para este comportamento?</p>
-</div><br>
+</div>
 
 <h3>Gás de Síntese</h3>
 <p>O gás de síntese é um a mistura de dois gases fortemente redutores, o \(H_2\) e o \(CO\), sendo produzido, primordialmente, pela reforma a vapor de água do gás natural, mas pode ser obtido também a partir de outras fontes de hidrocarbonetos, tais como esterco, carvão e resíduos de petróleo cru. A proporção de \(H_2\) e \(CO\) na mistura não é fixa e é fortemente dependente do tipo de carga, do método de produção e do destino a ser dado ao gás. O gás de síntese é um intermediário importante na produção de diversos produtos finais, tais como metanol e amônia, as duas substâncias químicas importantes baseadas no gás de síntese.</p>
@@ -87,14 +85,13 @@ include("components/page-header.php");
 </figure>
 <p>A atuação das moléculas tensoativas pode ser muito diferente dependendo da natureza química e as estrutura das fases em contato, bem como em função das condições impostas ou existentes em suas aplicações. Os tensoativos podem ser classificados como <span class="bold">catiônicos</span>, quando ao se ionizarem formam cátions, aniônicos, quando ao se ionizarem formam ânions, <span class="bold">não-iônicos</span>, aqueles que não ionizam em presença de água, sua solubilidade se deve a formação de ligações de hidrogênio com a água, e <span class="bold">anfóteros</span>, aqueles que contêm sua estrutura tanto o radical ácido como o básico.</p>
 
-
 <h3>Fertilizantes</h3>
 <p>Os fertilizantes são substâncias minerais ou orgânicas, naturais ou sintéticas, que fornecem um ou mais nutrientes às plantas. Os fertilizantes primários, produzidos pela indústria de fertilizantes, têm em sua estrutura nitrogênio, fósforo e potássio. Já os fertilizantes secundários possuem cálcio, magnésio e enxofre como nutrientes. O Brasil atualmente possui uma indústria que atende ao consumo de complexos granulados, supre parte da demanda de fertilizantes nitrogenados e apresenta auto-suficiência na produção de fertilizantes fosfatados. Desta forma, para suprir esta demanda ocorreu, a implantação de complexos industriais que geram todo o concentrado fosfático, parte do ácido fosfórico e parte da amônia necessária à indústria brasileira.</p>
 <p>Os fertilizantes nitrogenados incluem a ureia \((NH_2COONH_2)\), o nitrato de amônio, o nitrato de cálcio e o sulfato de amônio. Em sua produção, amônia e ácido nítrico são obtidos como produtos intermediários. A produção de ureia é feita a partir da reação química entre o gás de amônia \((NH_3)\) e o gás carbônico, dióxido de carbono \((CO_2)\), conforme reações químicas ilustradas pelas equações 6.4 e 6.5:</p>
 
 <div class="box-centro">
     <p>\(2NH_3(g) + CO_2(g) \rightarrow\) \(NH_2COONH_4(g)\)</p>
-    <p>\(NH_2COONH_4(g) \rightarrow\) \(NH_2COONH_2(g) + H_2(g)\)</p>
+    <p>\(NH_2COONH_4(g) \rightarrow\) \(NH_2COONH_2(s) + H_2(g)\)</p>
 </div>
 
 <p>A ureia é usada, principalmente, como fertilizante, mas pode ser empregada na produção de adesivos e plásticos, bem como em ração animal.</p>
@@ -122,16 +119,13 @@ include("components/page-header.php");
 <p>Na polimerização em suspensão o meio reacional é composto pelo monômero, iniciador, meio dispersante (normalmente água) e um agente de suspensão. O monômero é insolúvel no meio dispersante e o iniciador é solúvel no monômero. As gotículas de monômero são mantidas em suspensão por ação de agitação mecânica e do agente de suspensão. Além disso, o agente de suspensão evita que as gotículas de monômero, e polímero que está sendo formado, grudem umas as outras durante o processo de polimerização. A polimerização em suspensão, muitas vezes é chamada de <span class="bold">polimerização em pérolas</span>.</p>
 <p>A polimerização em emulsão ocorre em um meio reacional composto por um agente de dispersão (normalmente água), monômero, iniciador, solúvel no meio dispersante, e <span class="bold">emulsificante</span>, também chamado de <span class="bold">tensoativo</span> ou <span class="bold">surfactante</span>. O emulsificante é composto por uma hidrocarbônica longa cadeia, hidrofóbica, e possui uma extremidade polar, hidrofílica. Em quantidades pequenas o emulsificante permanece disperso na água e na superfície das gotas de monômero promovendo sua estabilização. Quando a concentração micelar crítica, CMC, é atingida são formadas estruturas ordenadas de emulsificante chamadas de <span class="bold">micelas</span>. As micelas têm seus hidrofílicos orientados na direção da fase aquosa e os grupos hidrofóbicos orientados para seu interior (fase orgânica) devido a presença de monômero. Quando uma molécula de iniciador entra na micela a reação de polimerização é iniciada, e contínua até que outra molécula de iniciador entre na micela matando o crescimento da primeira cadeia polimérica. A reação de polimerização só será reiniciada se uma terceira molécula de iniciador entrar na micela. Assim, a polimerização em emulsão gera polímeros de altas massas molares.</p>
 
-<br>
 <div class="atv">
     <h3>Atividade 6.3</h3>
     <p>Explicar a diferença entre a polimerização em suspensão da polimerização em emulsão.</p>
-</div><br>
+</div>
 
 <p>A polimerização interfacial é realizada em policondensações onde cada um dos monômeros encontra-se dissolvido em uma fase diferente e imiscível, normalmente uma fase orgânica e uma aquosa. O polímero é formado na interface, sendo logo removido a fim de facilitar a polimerização. Esta técnica de polimerização é usada na produção de fibras e filmes, porém devido a sua dificuldade de condução é ainda um método restrito a um pequeno número de polimerizações em etapas. </p>
 
-
-<br>
 <h2 id="6.3">6.3. Construindo e fixando o conhecimento</h2>
 <p><span class="bold">1. </span>Quais a principais rotas da indústria petroquímica? Qual o produto principal de cada rota?</p>
 <p><span class="bold">2. </span>Quais os parâmetros afetam os produtos finais em uma indústria petroquímica?</p>
@@ -144,7 +138,6 @@ include("components/page-header.php");
 <p><span class="bold">9. </span>Com relação a sua estrutura, como os polímeros podem ser divididos?</p>
 <p><span class="bold">10. </span>Diferencie polímeros termoplásticos de termorrígidos. Quais podem ser reciclados? Justificar sua resposta.</p>
 
-<br>
 <h2 id="6-ref">Referências Bibliográficas</h2>
 <p>DANTAS NETO, A. e A.; GURGEL, A. <strong>Apostila de Refino e Petroquímica.</strong> UFRN, Natal, RN, 2009, 375p.</p>
 <p>ANTUNES, A. <strong>Setores da Indústria Química Orgânica.</strong> 1ª Edição, Ed. e-papers, Rio de Janeiro, RJ, 2007, 242p.</p>

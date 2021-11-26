@@ -78,12 +78,10 @@ include("components/page-header.php");
     <li> Vitrificação completa: esmaltes e vidros.</li>
 </ul>
 
-<br>
 <div class="atv">
     <h3>Atividade 3.1. </h3>
     <p>Fazer um fluxograma simplificado do processo de aquecimento da caulinita. </p>
 </div>
-<br>
 
 <h2 id="3.2">3.2. Indústria de cimento</h2>
 <h3>3.2.1. Introdução</h3>
@@ -120,36 +118,30 @@ include("components/page-header.php");
 <div class="box-centro">
     <p>\(H_2O(l) \rightarrow H_2O(g)\) 539,6 cal g<sup>-1</sup></p>
 </div>
-<br>
 
 <p><span class="bold">II. Decomposição do carbonato de magnésio:</span> a decomposição da dolomita em \(MgO\) e \(CO_2\) tem início em 340 °C, porém a medida que o teor de cálcio aumenta, também se eleva a temperatura de decomposição.</p>
 <div class="box-centro">
     <p>\(MgCO_3(s) \rightarrow MgO(s) + CO_2(g)\) 270 cal g<sup>-1</sup> </p>
 </div>
 <p>O \(MgO\) liberado vai dissolver-se na fase líquida (fundida), formada durante a queima e em parte formará soluções sólidas com as fases mais importantes do clínquer. Na temperatura de clinquerização o \(MgO\) não se combina com os demais óxidos presentes, ficando livre na forma de periclásio.</p>
-<br>
 
 <p><span class="bold">III. Decomposição do carbonato de cálcio: </span>esta reação tem início em temperatura acima de 805 °C, sendo 894 °C a temperatura crítica de dissociação do carbonato de cálcio puro a 1 atm de pressão.</p>
 <div class="box-centro">
     <p>\(CaCO_3(s) \rightarrow CaO + CO_2(g)\) 393 cal g<sup>-1</sup> </p>
 </div>
 <p>Esta reação química que ocorre em <span class="bold">III</span>, conhecida como descarbonatação é uma das principais reações de obtenção do clínquer, devido ao grande consumo de energia que é necessário à sua realização e à influência sobre a velocidade de deslocamento de material no forno. Nos fornos com pré-calcinadores cerca de 94% da descarbonatação ocorre no pré-calcinador e o restante no forno. Em fornos sem pré-calcinadores cerca 60% ocorre nos ciclones. É imprescindível que a descarbonatação esteja completa para que o material penetre na zona de alta temperatura no forno (zona de clinquerização).</p>
-<br>
 
 <p><span class="bold">IV. Desidroxilação das argilas: </span>as primeiras reações de formação do clínquer iniciam-se em 550 °C, com a desidroxilação da fração argilosa da farinha (cru). A argila perde a água combinada, que oscila entre 5 e 7%, dando origem a silicatos de alumínio e ferro altamente reativos com o \(CaO\) que está sendo liberado pela decomposição do calcário. A reação entre os óxidos liberados da argila e o calcário, é lenta e a princípio os compostos formados contém pouco \(CaO\) fixado. Com o aumento da temperatura a velocidade da reação aumenta e os compostos enriquecem em \(CaO\).</p>
-<br>
 
 <p><span class="bold">V. Formação do silicato dicálcico \((2CaO·SiO_2)\): </span>tem início em temperatura de 900 °C onde mesmo sílica livre e \(CaO\) já reagem lentamente. Na presença de ferro e alumínio esta reação química é acelerada.</p>
 <div class="box-centro">
     <p>\(2CaO + SiO_2 \rightarrow\) \(2CaO·SiO_2\)</p>
 </div>
-<br>
 
 <p><span class="bold">VI. Formação do silicato tricálcico \((3CaO·SiO_2)\): </span>inicia sua formação entre 1200 °C e 1300 °C a 1400 °C os produtos de reação são \(3CaO·SiO_2\), \(2CaO·SiO_2\), \(3CaO·Al_2O_3\) e \(4CaO·Al_2O_3·Fe_2O_3\) e o restante de \(CaO\) não combinado.</p>
 <div class="box-centro">
     <p>\(2CaO·SiO_2 + CaO \rightarrow\) \(3CaO·SiO_2\)</p>
 </div>
-<br>
 
 <p><span class="bold">VII. Primeiro resfriamento: </span>o primeiro resfriamento ocorre dentro do forno, após o clínquer passar pela zona de máxima temperatura. Nesta etapa pode ocorrer a decomposição do \(3CaO·SiO_2\) segundo a reação:</p>
 <div class="box-centro">
@@ -158,19 +150,14 @@ include("components/page-header.php");
 <div class="box">
     <p>A complementação das reações de clinquerização pode ser afetada pelo resfriamento sofrido pelo clínquer. Um resfriamento lento leva a um cimento de baixa qualidade.</p>
 </div>
-<br>
 
 <p><span class="bold">VIII. Segundo resfriamento: </span>o segundo resfriamento ocorre abaixo de 1200 °C, já no resfriador. Este resfriamento lento também provoca uma maior corrosão dos cristais de \(3CaO·SiO_2\) pela penetração desta fase, nas bordas dos cristais, auxiliando a formação de \(2CaO·SiO_2\). O magnésio não combinado terá sua cristalização nesta etapa. Quanto mais lento for o resfriamento, maior será o desenvolvimento dos cristais de \(MgO\), aglutinando em zonas.</p>
-<br>
 
 <div class="atv">
     <h3>Atividade 3.2. </h3>
     <p>Fazer um fluxograma simplificado contendo os principais processos envolvidos na produção do cimento.</p>
 </div>
-<br>
 
-
-<br>
 <h2 id="3.3">3.3. Construindo e fixando o conhecimento</h2>
 <p><span class="bold">1.</span> Explicar por que os produtos cerâmicos foram considerados por muitos séculos matérias de exclusividade e luxo e, em seguida descrever qual o fato e como esse paradigma foi quebrado.</p>
 <p><span class="bold">2.</span> Determinar quais são os principais setores presentes no segmento cerâmico brasileiro, em seguida fazer uma pesquisa em livros, artigos científicos ou na internet sobre cada seguimento citando um exemplo de material cerâmico.</p>
@@ -182,8 +169,6 @@ include("components/page-header.php");
 <p><span class="bold">8.</span> Descrever o princípio de funcionamento de uma torre de ciclones?</p>
 <p><span class="bold">9.</span> O que é a clinquerização e quais as principais conversões químicas envolvidas na produção do cimento?</p>
 
-
-<br>
 <h2 id="3-ref">Referências Bibliográficas</h2>
 <p>SHREVE, R. N.; BRINK Jr., J. A. <strong>Indústrias de Processos Químicos</strong>. 4a Edição, Ed. Guanabara Koogan S.S., Rio de Janeiro, 1997, 717p.</p>
 <p>WONGTSCHOWSKI, P. <strong>Indústria Química Riscos e Oportunidades</strong>. 2a edição, Ed. Edgard Blücher LTDA., São Paulo, 2002, 306p.</p>

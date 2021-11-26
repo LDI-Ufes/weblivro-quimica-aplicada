@@ -8,14 +8,11 @@ include("components/page-header.php");
 <h2 id="5-1">5.1. Histórico resumido</h2>
 <p>O petróleo participa da vida cotidiana da humanidade há milhares de anos. Há registros de que os povos babilônico, fenício, egípcio, inca, maia, entre outros, já utilizavam petróleo em suas atividades tecnológicas. O petróleo que estes povos utilizavam era retirado de exsudações naturais. Porém, só ao redor da metade do século XIX começou-se a produzir querosene de iluminação a partir do petróleo, procurando substituir o querosene oriundo do carvão e do óleo de baleia, tem-se assim o início a era do petróleo. Neste mesmo período o Marquês de Olinda assina o Decreto n° 2.266, conferindo a José Barros Pimentel o direito de extrair o material betuminoso usado na fabricação de querosene, na então província da Bahia. Contudo, depois do ocorrido, quase não se pesquisou sobre esta fonte de energia até o ano de 1953, quando Getúlio Vargas, instituiu o monopólio estatal do petróleo e fundou a Petrobras, iniciando as pesquisas sobre o petróleo nacional. Na década de 1960 foi descoberto o campo de Guaricema, no estado de Sergipe, a primeira reserva em mar o que iniciou à exploração <em>offshore</em>. Já na década de 1970, foi descoberto o Campo de Garoupa na Bacia Petrolífera de Campos, Rio de Janeiro, quando os campos de petróleo do Recôncavo Baiano já alcançavam a maturidade.</p>
 <p>No ano de 2007, foi descoberto um novo reservatório de petróleo denominado Pré-Sal. Este reservatório de petróleo gigante está a cerca de sete mil metros de profundidade e se estende ao longo de 800 km na costa brasileira, do Espírito Santo à Santa Catarina, abaixo de espessa camada de sal (rocha salina) e englobando as bacias sedimentares do Espírito Santo, de Campos e de Santos. O petróleo deste reservatório apresenta excelente estado de conservação, ou seja, petróleo não degradado pro bactérias que corresponde a petróleos classificados como leves. Se as estimativas estiverem corretas, a exploração do Pré-Sal dobrará o volume de produção de óleo e gás combustível do Brasil, além de melhorar pronunciadamente a qualidade dos petróleos.</p>
-<br>
 <div class="atv">
     <h3>Atividade 5.1</h3>
     <p>Fazer um breve levantamento histórico, de no máximo 20 linhas e mínimo 10 linhas, sobre a exploração de petróleo no Estado do Espírito Santo. Não se esquecer de determinar o início das atividades do setor e a política atual da indústria do petróleo no Estado.</p>
-</div><br>
+</div>
 
-
-<br>
 <h2 id="5-2">5.2. Petróleo</h2>
 <p>A palavra petróleo vem do latim e significa <em>petra</em> (pedra) e <em>oleum</em> (óleo), ou seja, óleo de pedra. O petróleo consiste de uma distribuição de moléculas com estruturas químicas e massas molares diferentes. Os principais componentes do petróleo são os hidrocarbonetos, ou seja, substâncias compostas apenas de carbono e hidrogênio. De acordo com a estrutura os hidrocarbonetos podem ser classificados em saturados ou parafinas, insaturados ou olefinas, aromáticos ou arenos. Os hidrocarbonetos parafínicos ainda podem ser divididos em normais ou n-parafinas, ramificados e cíclicos ou naftênicos. Contudo, outros elementos químicos podem aparecer na composição do petróleo, na forma de compostos orgânicos, os mais comuns são o oxigênio, o nitrogênio e o enxofre. Metais também podem ocorrer na forma de sais orgânicos. Os principais grupos de componentes do petróleo são os hidrocarbonetos saturados, hidrocarbonetos aromáticos, resinas e os asfaltenos, determinados através da análise de SARA (Saturados, Aromáticos, Resinas e Asfaltenos). Dentre estas frações os hidrocarbonetos saturados, parafinas, são os principais formadores de depósito, mas os asfaltenos e as resinas também podem formar deposição</p>
 <p>Em geral, existem três características principais na classificação do petróleo: os tipos de hidrocarbonetos envolvidos, o teor de enxofre e a densidade. Com relação ao tipo de hidrocarboneto envolvido o petróleo podem ser: <span class="bold">parafínico</span> (com mais de 75% de n-alcanos), <span class="bold">parafínico-naftênico</span> (de 50-70% de n-alcanos e mais 20% de cicloalcanos), <span class="bold">naftênico</span> (com mais de 70% de cicloalcanos), <span class="bold">aromático intermediário</span> (com mais de 50% de hidrocarbonetos aromáticos), <span class="bold">aromático-naftênico</span> (com mais de 35% de naftênicos), <span class="bold">aromático-asfáltico</span> (com mais de 35% de asfaltenos e resinas). Com relação ao teor de enxofre os petróleos podem ser classificados como <span class="bold">doces</span>, quando possuem menos de 0,5% de enxofre em sua massa, <span class="bold">semi-doces</span> ou <span class="bold">semi-azedos</span> quando possuem um teor de enxofre na faixa de 0,5 a 2,0% e <span class="bold">azedos</span> ou <span class="bold">ácidos</span> quando possuem um teor de enxofre maior do que 2,0%. A classificação do petróleo por sua densidade se dá através do grau API, desenvolvido pela <em>American Petroleum Institute</em>, que relaciona a densidade do petróleo de acordo com a equação 5.1:</p>
@@ -59,14 +56,11 @@ include("components/page-header.php");
     <figcaption>Fonte: Szklo e Uller, 2008.</figcaption>
 </figure>
 
-<br><br>
 <div class="atv">
     <h3>Atividade 5.2</h3>
     <p>Fazer um breve levantamento sobre outras formas de classificação do petróleo. Sugestão: Pesquisar por Grau KUOP, número de acidez total (NAT) e ponto de ebulição verdadeiro (PEV).</p>
-</div><br>
+</div>
 
-
-<br>
 <h2 id="5-3">5.3. Refino do petróleo</h2>
 <p>Os produtos comerciais derivados do petróleo são obtidos a partir do processamento do mesmo. Este processamento, que é realizado em várias etapas, recebe o nome de refino. Portanto, o refino compreende uma série de operações físicas e químicas interligadas para o aproveitamento máximo do potencial energético do petróleo. Os processos de refino podem ser classificados como: processos de separação, processos de conversão, processos de tratamento e processos auxiliares.</p>
 <p>Os processos de separação são processos de natureza física que tem por meta separar o petróleo em suas frações básicas ou isolar em uma fração previamente definida, formada por um grupo específico de compostos. Nestes processos não ocorrem nenhuma modificação química nos compostos. Como processos de separação podemos citar: destilação atmosférica, destilação a vácuo, desasfaltação a propano, desaromatização a furfural, desparafinização a MIBC (metilisobutilcetona), desoleificação a MIBC, extração de aromáticos, adsorção de parafinas lineares.</p>
@@ -74,7 +68,6 @@ include("components/page-header.php");
 <p>Os cortes obtidos dos processos de separação e conversão costumam conter as impurezas oriundas do petróleo, principalmente compostos de enxofre e nitrogênio. Estas impurezas aumentam a acidez e, portanto, a corrosividade do petróleo além de lhe gerarem odor desagradável, de alterarem sua coloração e de formarem compostos poluentes. Os processos de tratamento são, portanto, empregados com o objetivo de melhorar a qualidade dos produtos através da redução dessas impurezas, sem causar profundas modificações nas frações. São exemplos de processos de tratamento os processos de adoçamento (transformação de compostos corrosivos de enxofre em outros menos corrosivos) e processos de dessulfurização (remoção total do enxofre).</p>
 <p>Os processos auxiliares têm como objetivo de fornecer insumos para possibilitar a operação ou efetuar o tratamento de rejeitos dos outros tipos de processo citados anteriormente. São exemplos de processos auxiliares a geração de hidrogênio (para produzir matéria-prima para as unidades de hidroprocessamento) e a recuperação de enxofre (gerado a partir da combustão de gases ricos em \(H_2S\)). Ressalta-se que insumos de uma refinaria são as utilidades, tais como vapor, água, energia elétrica, ar comprimido, distribuição de gás e óleo combustível, tratamento de efluentes, entre outros. </p>
 
-<br>
 <h2 id="5-4">5.4. Processos de separação</h2>
 <h3>5.4.1. Destilação</h3>
 <p>A destilação é o processo básico de separação do petróleo, no qual inicialmente há a vaporização e posteriormente a condensação dos componentes do óleo cru (hidrocarbonetos e impurezas) devido à ação de temperatura e pressão. Este processo baseia-se nas diferenças entre os pontos de ebulição dos diversos constituintes do petróleo, devido principalmente a diferença de massa molar existente entre eles. Portanto, o objetivo principal da destilação é a separação do petróleo em suas frações básicas de refino, tais como gás combustível, gás liquefeito, nafta, querosene, gasóleo atmosférico (óleo diesel), gasóleo de vácuo e resíduo de vácuo. Os rendimentos da destilação são variáveis dependendo do tipo de petróleo processado. A unidade de destilação de uma refinaria é composta por uma dessalgadora e pelo menos uma torre de destilação atmosférica, mas pode conter também uma torre de destilação a vácuo. Um esquema de uma torre de destilação atmosférica é mostrado na Figura 5.1.</p>
@@ -143,8 +136,6 @@ include("components/page-header.php");
 <p>A desoleificação a MIBC é um processo idêntico à desparafinação, apenas realizada em condições mais severas, visando à remoção do óleo retido na parafina, de forma a se ter a parafina como um produto comercial. O produto principal é a <span class="bold">parafina mole</span>, que pode ser usada na produção de geléias, óleos, vaselinas e outros produtos farmacêuticos, bem como ser reprocessada através de craqueamento. Um produto secundário é a <span class="bold">parafina dura</span>, que pode ainda ser processado na unidade de hidrotratamento.</p>
 <p>O processo de extração de aromáticos visa retirar os aromáticos leves, como benzeno, toluenos e xilenos (conhecidos como BTX’s), da gasolina atmosférica ou da corrente vinda da reforma catalítica, pois estas frações possuem um alto valor de mercado na indústria petroquímica, e são comercializados a preços duas ou três vezes superiores ao da nafta. A extração é feita usando tetraetilenoglicol (TEG), ou N-metilpirrolidona (NMP) associada ao monoetilenoglicol (MEG), ou o Sulfolane® (dióxido de tetrahidrotiofeno).</p>
 
-
-<br>
 <h2 id="5-5">5.5. Processos de conversão</h2>
 <h3>5.5.1. Craqueamento térmico (CT)</h3>
 <p>O craqueamento térmico é o mais antigo entre os processos de conversão, surgindo logo após a destilação. O processo consiste na quebra de moléculas da carga, usando elevadas temperaturas e pressões, para a produção de gasolina e GLP como produto principal e gás combustível, óleos leve e residual e coque como subprodutos. Atualmente, o craqueamento térmico é um processo em desuso, devido ao aparecimento do craqueamento catalítico, mais econômico e de operação mais simples.</p>
@@ -164,8 +155,6 @@ include("components/page-header.php");
 <h3>5.5.7. Reforma catalítica </h3>
 <p>A reforma catalítica é um processo que visa converter à nafta rica em hidrocarbonetos parafínicos em hidrocarbonetos aromáticos (nafta de reforma). Este processo de aromatização de compostos parafínicos e naftênicos objetiva, em primeiro lugar, produzir gasolina de alta octanagem e produtos aromáticos leves, tais como o BTX’s, de elevada pureza para posterior utilização na indústria petroquímica. O catalisador emprega platina associada a um metal de transição nobre (rênio, ródio ou germânio), suportada em alumina. O processo é conduzido pela mistura de hidrocarbonetos e hidrogênio em contato com o catalisador a uma temperatura da ordem de 470 °C a 530 °C e uma pressão variando de 10 a 40 kgf/cm<sup>2</sup>. O reformado produzido é rico em hidrocarbonetos aromáticos e isoparafínicos, porém outras frações, tais como o GLP, o gás combustível, o hidrogênio e o coque podem ser formados.</p>
 
-
-<br>
 <h2 id="5-6">5.6. Processos de tratamento</h2>
 <h3>5.6.1. Tratamento cáustico</h3>
 <p>O tratamento cáustico consiste no uso de solução aquosa de \(NaOH\) ou \(KOH\) para lavar uma determinada fração de petróleo, eliminando-se compostos ácidos de enxofre, tais como \(H_2S\) e mercaptanas (\(R\)−\(SH\)) de baixos pesos moleculares. A carga deste tipo de tratamento compõe-se de frações leves: gás combustível, GLP e naftas. Neste tipo de tratamento há um grande consumo de hidróxido o que gera um elevado custo operacional.</p>
@@ -179,7 +168,6 @@ include("components/page-header.php");
 <p>O hidrotratamento é a operação de eliminação de contaminantes dos cortes de petróleo através de reações de hidrogenação usando um catalisador. As reações mais características do processo são: <span class="bold">hidrodessulfurização (HDS)</span> – retirada de compostos sulfurados como mercaptanas, sulfetos, dissulfetos, tiofenos e benzotiofenos; <span class="bold">hidrodesnitrogenação (HDN)</span> – retirada de compostos nitrogenados como piridinas, quinoleínas, isoquinoleínas, pirróis, indóis e carbazóis, com liberação de \(NH_3\); <span class="bold">hidrodesoxigenação (HDO)</span> – retirada de compostos oxigenados como fenóis e ácidos carboxílicos, para inibir reações de oxidação posteriores; <span class="bold">hidrodesmetalização (HDM)</span> – retirada de compostos organometálicos, que causam desativação de catalisadores; <span class="bold">hidrodesaromatização</span> – saturação de compostos aromáticos, sob condições suaves de operação; <span class="bold">hidrodesalogenação</span> – retirada de cloretos; <span class="bold">remoção de olefinas</span> – saturação de naftas oriundas de processos de pirólise.</p>
 <p>Os catalisadores usados nos processos HDT possuem atividade elevada e vida útil longa, sendo compostos basicamente de óxidos ou sulfetos de \(Ni,\) \(Co,\) \(Mo,\) \(W\) ou \(Fe\). O suporte deste tipo de catalisador normalmente é a alumina, e não pode apresentar característica ácida, visando se evitar reações laterais de craqueamento. O HDT é empregado para óleos lubrificantes básicos, mas pode ser usado em todos os demais derivados. As taxas de reação são afetadas principalmente pela pressão parcial de hidrogênio.</p>
 
-<br>
 <h2 id="5-7">5.7. Processos auxiliares</h2>
 <h3>5.7.1. Geração de Hidrogênio</h3>
 <p>Os processos de hidrotratamento e hidrocraqueamento das refinarias de petróleo usam o gás hidrogênio em abundância, e algumas o produzem nas unidades de reforma catalítica. Contudo, a unidade de reforma catalítica não consegue produzir \(H_2\) em quantidades suficientes para atender as demandas do HDT e HCC. Por isso, em refinarias possuem unidades de HDT e HCC faz-se necessário a instalação de uma unidade de geração de hidrogênio, operando segundo reações de oxidação parcial das frações pesadas ou de reforma das frações leves com vapor d’água.</p>
@@ -187,7 +175,6 @@ include("components/page-header.php");
 <h3>5.7.2. Recuperação de enxofre</h3>
 <p>A unidade de recuperação de enxofre usa como carga as correntes de gás sulfídrico \((H_2S)\) geradas no tratamento DEA ou em outras unidades, como o HDT, o HCC, a reforma catalítica e o coqueamento retardado. A recuperação do enxofre se dá pela oxidação parcial do \(H_2S\) através do processo Clauss, com produção de enxofre elementar. Na unidade de recuperação de enxofre mais de 93% do \(H_2S\) é recuperado como enxofre de alta pureza, superior a 99,8%.</p>
 
-<br>
 <h2 id="5-8">5.8. Construindo e fixando o conhecimento</h2>
 <p><span class="bold">1. </span> O que é o petróleo e quais suas principais impurezas?</p>
 <p><span class="bold">2. </span> Determinar o grau API de um petróleo cuja densidade é 0,9234 g/dm<sup>3</sup>, em seguida, explicar como pode ser classificado este petróleo.</p>
@@ -200,7 +187,6 @@ include("components/page-header.php");
 <p><span class="bold">9. </span> Qual a diferença entre processo de adoçamento e processo de dessulfurização?</p>
 <p><span class="bold">10. </span> O \(H_2\) é produzido na unidade de reforma catalítica e consumido nas unidades de HDT e HCC, então, explicar porque se justifica a instalação de uma unidade geradora de \(H_2\)?</p>
 
-<br>
 <h2 id="5-ref">Referências Bibliográficas</h2>
 <p>ANTUNES, A. <strong>Setores da Indústria Química Orgânica.</strong> 1ª Edição, Ed. e-papers, Rio de Janeiro, RJ, 2007, 242p.</p>
 <p>DANTAS NETO, A. e A.; GURGEL, A. <strong>Apostila de Refino e Petroquímica.</strong> UFRN, Natal, RN, 2009, 375p.</p>
