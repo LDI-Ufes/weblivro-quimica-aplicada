@@ -192,13 +192,13 @@ include("components/page-header.php");
 </div>
 
 <p>Que pode ser representada em termos da constante de equilíbrio por:</p>
-<p>\(K_p =\) \(\frac {P_{SO_3}}  {P_{SO_2} \times {P_{O_2}}^{1/2}}\)</p>
+<div class="box-centro">
+  <p>\(K_p =\) \(\frac {P_{SO_3}}  {P_{SO_2} \times {P_{O_2}}^{1/2}}\)</p>
+</div>
 
-<p>Onde K<sub>p</sub> representa a constate de equilíbrio para a reação química representa pela
-  <!-- INTERATIVO?? PRA ENCAMINHAR PRA ESQ -->eq. 1.11 e \(P_{SO_3}\), \(P_{SO_2}\) e \(P_{O_2}\) são as pressões parciais do trióxido de enxofre, dióxido de enxofre e oxigênio, respectivamente. A Figura 1.4 apresenta o comportamento obtido quando o inverso da K<sub>p</sub> é colocado em função da temperatura.
+<p>Onde K<sub>p</sub> representa a constate de equilíbrio para a reação química representa pela eq. 1.11 e \(P_{SO_3}\), \(P_{SO_2}\) e \(P_{O_2}\) são as pressões parciais do trióxido de enxofre, dióxido de enxofre e oxigênio, respectivamente. A Figura 1.4 apresenta o comportamento obtido quando o inverso da K<sub>p</sub> é colocado em função da temperatura.
 </p>
-<p>Dados experimentais mostram que a conversão do \(SO_2\) diminui com o aumento de temperatura, assim, é sabido que a reação de formação de \(SO_3\) deve ser feita em temperatura mais baixo possível, levando em consideração o custo/benefício do processo. Como podemos ver por meio da
-  <!-- REF --> equação 1.11, um aumento da pressão parcial do \(SO_2\) e do \(O_2\) favorece a conversão a \(SO_3\).
+<p>Dados experimentais mostram que a conversão do \(SO_2\) diminui com o aumento de temperatura, assim, é sabido que a reação de formação de \(SO_3\) deve ser feita em temperatura mais baixo possível, levando em consideração o custo/benefício do processo. Como podemos ver por meio da equação 1.11, um aumento da pressão parcial do \(SO_2\) e do \(O_2\) favorece a conversão a \(SO_3\).
 </p>
 <!-- FIGURA 1.4 -->
 <figure>
@@ -253,7 +253,7 @@ include("components/page-header.php");
 </figure>
 
 <!-- CRIAR CLASSES PARA ATIVIDADE -->
-<div class="atv">
+<br><div class="atv">
   <h3 class="atividade">Atividade 1.1</h3>
   <p>Uma das etapas do processo industrial utilizado para a fabricação do ácido sulfúrico é a conversão de \(SO_2\) em \(SO_3\) segundo a reação:</p>
   <div class="box-centro">

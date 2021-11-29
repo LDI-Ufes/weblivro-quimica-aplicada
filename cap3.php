@@ -32,9 +32,10 @@ include("components/page-header.php");
 <p>Do ponto de vista cerâmico, as argilas são plásticas e moldáveis quando suficientemente fragmentadas e úmidas. Por outro lado, são rígidas quando secas, e vitrosas quando queimadas em temperaturas elevadas. Em quase todas as argilas usadas na indústria de cerâmica, o mineral básico é a caulinita, embora às vezes se use a bentonita, cuja base é a montmorillonita, quando se deseja uma maior plasticidade. Como as argilas apresentam uma grande variação de suas propriedades físicas e na quantidade de impurezas (quantidades variáveis de feldspato, quartzo, óxidos de ferro, etc.) que contém, é necessário realizar um processo de beneficiamento das mesmas.</p>
 <p>Geralmente, esse beneficiamento refere-se a operações unitárias de natureza física, tais como a separação granulométrica por peneiramento ou decantação seletiva, filtração e secagem. A purificação química também pode ser usada para produzir materiais de elevada pureza, como a alumina e o óxido de titânio.</p>
 <p>O feldspato é o principal fundente empregado nas formulações cerâmicas. Ele pode estar presente na argila da jazida, ou pode ser adicionado conforme a necessidade. Os três tipo mais comuns de feldspatos usados na produção de produtos cerâmicos são os potássicos \((K_2O·Al_2O_3·6SiO_2)\), os sódicos \((Na_2O·Al_2O_3·6SiO_2)\) e os cálcicos \((CaO·Al_2O_3·6SiO_2)\). A seguir, tem-se a reação química de formação da caulinita a partir de um feldspato potássico:</p>
-<!-- ESTEQUIOMETRIA 3.1 SERÁ IMAGEM OU CÓDIGO? -->
 <!-- (isabela) coloquei fórmula por enquanto -->
-<p>\(K_2O·Al_2O_3·6SiO_2 + CO_2 + 2H_2O \rightarrow\) \(K_2CO_3 + Al_2O_3·2SiO_2·2H_2O + 4SiO_2\)</p>
+<div class = "box-centro">
+    <p>\(K_2O·Al_2O_3·6SiO_2 + CO_2 + 2H_2O \rightarrow\) \(K_2CO_3 + Al_2O_3·2SiO_2·2H_2O + 4SiO_2\)</p>
+</div>
 
 <p>Por fim, o terceiro constituinte principal dos produtos cerâmicos é a areia ou sílica \((SiO_2)\). Segundo a NBR 7211/83, a areia divide-se, granulometricamente, em:</p>
 <ul class="indentacao">
@@ -61,12 +62,16 @@ include("components/page-header.php");
 <p>O primeiro efeito do calor é a eliminação da água de hidratação, que ocorre nas temperaturas entre 600 e 650 ºC. Esse processo é bastante endotérmico e gera um resíduo amorfo de alumina e sílica:</p>
 <!-- ESTEQUIOMETRIA 3.2 SERÁ IMAGEM OU CÓDIGO? -->
 <!-- (isabela) coloquei fórmula por enquanto -->
-<p>\(Al_2O_3·2SiO_2·2H_2O \rightarrow Al_2O_3 + 2SiO_2\) \( + 2H_2O\)</p>
+<div class = "box-centro">
+    <p>\(Al_2O_3·2SiO_2·2H_2O \rightarrow Al_2O_3 + 2SiO_2\) \( + 2H_2O\)</p>
+</div>
 
 <p>O aumento da temperatura (940 ºC) promove uma transformação da alumina amorfa em uma forma cristalina conhecida como γ-alumina, sendo esse segundo processo exotérmico. Em seguida, um pequeno aumento da temperatura, começando em torno de 1000 ºC promove a combinação da sílica com a alumina para formar a mulita \((3Al_2O_3·2SiO_2)\). A uma temperatura ainda mais alta, a sílica remanescente é convertida a cristobalita cristalina. A reação química global para o aquecimento da argila é representada na eq. 3.3.</p>
 <!-- ESTEQUIOMETRIA 3.3 SERÁ IMAGEM OU CÓDIGO? -->
 <!-- (isabela) coloquei fórmula por enquanto -->
-<p>\(3(Al_2O_3·2SiO_2·2H_2O) \rightarrow\) \(3Al_2O_3·2SiO_2 + 4SiO_2 + 6H_2O\)</p>
+<div class = "box-centro">
+    <p>\(3(Al_2O_3·2SiO_2·2H_2O) \rightarrow\) \(3Al_2O_3·2SiO_2 + 4SiO_2 + 6H_2O\)</p>
+</div>
 
 <p>A presença de compostos fundentes tende a baixar a temperatura de formação da mulita.</p>
 <p>Na prática, uma massa cerâmica real contém muito mais ingredientes e, portanto, as reações químicas envolvidas são muito mais complicadas, já que existirão outras espécies presentes no produto final. Assim, qualquer corpo cerâmico é composto por uma matriz vitrificada e cristais de mulita e cristobalita. Essa matriz vitrificada é formada pelo processo de vitrificação durante o aquecimento, e este grau de vitrificação depende das quantidades relativas de óxidos refratários e de óxidos fundentes presentes na composição, da temperatura e do tempo de aquecimento.</p>
@@ -78,7 +83,7 @@ include("components/page-header.php");
     <li> Vitrificação completa: esmaltes e vidros.</li>
 </ul>
 
-<div class="atv">
+<br><div class="atv">
     <h3>Atividade 3.1. </h3>
     <p>Fazer um fluxograma simplificado do processo de aquecimento da caulinita. </p>
 </div>
@@ -153,7 +158,7 @@ include("components/page-header.php");
 
 <p><span class="bold">VIII. Segundo resfriamento: </span>o segundo resfriamento ocorre abaixo de 1200 °C, já no resfriador. Este resfriamento lento também provoca uma maior corrosão dos cristais de \(3CaO·SiO_2\) pela penetração desta fase, nas bordas dos cristais, auxiliando a formação de \(2CaO·SiO_2\). O magnésio não combinado terá sua cristalização nesta etapa. Quanto mais lento for o resfriamento, maior será o desenvolvimento dos cristais de \(MgO\), aglutinando em zonas.</p>
 
-<div class="atv">
+<br><div class="atv">
     <h3>Atividade 3.2. </h3>
     <p>Fazer um fluxograma simplificado contendo os principais processos envolvidos na produção do cimento.</p>
 </div>

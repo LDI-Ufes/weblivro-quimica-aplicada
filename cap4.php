@@ -7,16 +7,16 @@ include("components/page-header.php");
 
 <h2 id="4.1">4.1. Histórico resumido</h2>
 <p>O ferro foi o, provavelmente, o primeiro metal manipulado pelos homens. Acredita-se que os homens das cavernas usavam o ferro para a fabricação de armas e artefatos agrícolas rudimentar a partir das grandes fogueiras feitas dentro das cavernas usando “pedras” de minério de ferro, que era reduzido pelo calor e o carbono da madeira da fogueira. Já no Egito antigo, a mais de 4.000 anos a.C., o ferro era trabalhado e recebia o nome de “metal celeste”, devido ao fato de ser obtido de meteoritos caídos do espaço. Neste período o ferro era considerado um metal precioso e nobre, semelhante ao ouro nos dias atuais, sendo, portanto usada na manufatura de jóias e adornos. Os esquimós também se valiam da origem meteorítica do ferro para produzir armas de caça, tais como pontas de lança. A expedição de Peary encontrou no Século XX, os restos de um meteorito, com peso aproximado de 40 toneladas, usado por séculos pelo povo esquimó na fabricação de seus artefatos.</p>
-<figure class="retrato lateral">
+<figure class = "lateral">
     <img src="img/fig-4-1.jpg" alt="audiodescrição">
-    <figcaption><span class="bold">Figura 4.1. </span>Fornalha Pré-Histórica encontrada no Parque Kruger, África. (<a class="ref" alt="Abrir site em nova aba" target="_blank" href="http://blogdaprehistoria.blogspot.com/">http://blogdaprehistoria.blogspot.com/</a>: acesso em 20/12/2011).</figcaption>
+    <figcaption><span class="bold">Figura 4.1. </span>Fornalha Pré-Histórica encontrada no Parque Kruger, África. (<a class="ref" alt="Abrir site em nova aba" target="_blank" href="http://blogdaprehistoria.blogspot.com/">Fonte.</a> Acesso em 20/12/2011).</figcaption>
 </figure>
 <p>Os fornos mais antigos já encontrados datam do ano 500 a.C. nas Ilhas Britânicas e na Alemanha. Fornos de processos mais evoluídos foram encontrados na Índia e Japão por volta de 500 d. C. A Europa na Idade Média já considerava de extrema importância comercial a produção do ferro. A “forja catalã” era extensivamente utilizada nesta época para a redução direta do minério de ferro que produzia um material duro e quebradiço, usado na produção de armas brancas pesadas de difícil manejo.</p>
 <p>Apenas ao redor do ano 1450 se começou a produção de um intermediário denominado ferro gusa, pois era possível se alcançar maiores temperaturas durante o processo. Assim o ferro absorvia maior quantidade de carbono, oriunda do carvão vegetal, que escorri de forma mais fluida, permitindo um manuseio melhor. A posterior oxidação do ferro gusa permitia a obtenção de um aço de melhores propriedades mecânicas, o que permitiu a fabricação de armas brancas mais leves, além de armas de fogo, como os canhões. Data do ano de 1640 o uso do primeiro alto-forno para a produção de ferro gusa. Apesar do grande avanço tecnológico trazido pelo domínio da siderurgia nesta época a necessidade de usar 4kg de carvão vegetal para a produção de 1kg de ferro causou uma enorme devastação das florestas. Isto fez a madeira aumentar muito de preço além de provocar restrições legais na exploração da madeira.</p>
 <p>Contudo em 1710, na Inglaterra, se passou a usar o coque, que é um derivado do carvão mineral, como substituto ao carvão vegetal. Isto gerou um novo e importante impulso na siderurgia. Porém foi com a chegada da máquina a vapor, em 1870, que a siderurgia se tornou uma das mais importantes atividades econômicas e industriais dos países civilizados. Este parâmetro é usado até hoje para medir o grau de desenvolvimento de um país.</p>
 <p>No Brasil o primeiro grande fato relacionado a siderurgia ocorreu em 1812 com a primeira corrida brasileira de ferro gusa realizada na Vila de Congonhas – MG, atingindo seu auge após a inauguração da Companhia Siderúrgica Nacional (CSN) que continha o único alto-forno do país em Volta Redonda –RJ. Atualmente, o parque siderúrgico brasileiro compõe-se de 27 usinas, administradas por oito grupos empresariais: ArcelorMittal Brasil, Gerdau, CSN, Usiminas, SINOBRAS, V&M do Brasil, Villares Metals e Votorantim Siderurgia.</p>
 
-<div class="atv">
+<br><div class="atv">
     <h3>Atividade 4.1 </h3>
     <p>Fazer um breve levantamento histórico sobre a atividade siderúrgica no Estado do Espírito Santo. Não se esquecer de determinar o início das atividades do setor e a conjuntura atual da atividade de siderurgia no Estado.</p>
 </div>
@@ -193,7 +193,7 @@ include("components/page-header.php");
 </div>
 <p>As unidades de produção deste processo costumam ser pequenas e caras, com capacidade da ordem de 10 ton/dia.</p>
 
-<div class="atv">
+<br><div class="atv">
     <h3>Atividade 4.2</h3>
     <p>Comparar de forma sucinta e dissertativa a redução indireta (processo usando o alto-forno) e os processos de redução direta do Ferro. Não se esquecer de destacar as principais diferenças e similaridades existentes entre os processos.</p>
 </div>
@@ -241,7 +241,7 @@ include("components/page-header.php");
 
 <p>A redução dos teores destes elementos é necessária para melhorar as propriedades do ferro gusa, pois estes elementos formam compostos intermetálicos com o ferro, que comprometem a aplicação do ferro gusa. O enxofre, por exemplo, causa fragilidade a quente devido a formação de sulfeto de ferro, \(FeS\), que se funde nas etapas de conformação mecânica, como o forjamento, segregando e causando trincas e até a ruptura do material. Já o fósforo causa fragilidade a frio devido a formação do fosfeto de ferro, \(Fe_3P\), que possui elevada dureza. O carbono pode formar um carbeto com o ferro que recebe o nome de <span class="bold">cementita</span> \((Fe_3C)\), que também possui dureza muito elevada e causa fragilidade no material. A diminuição dos teores destes elementos, melhorando as propriedades do material, é alcançada pela passagem do oxigênio, puro ou do ar, através do ferro gusa fundido, em temperaturas da ordem de 1.600 °C, promovendo a oxidação destes elementos. Estas reações de oxidação são exotérmicas, permitindo a manutenção da temperatura sem combustão paralela.</p>
 
-<div class="atv">
+<br><div class="atv">
     <h3>Atividade 4.3</h3>
     <p>Escrever as reações de oxidação dos elementos apresentados na Tabela 4.1.</p>
 </div>

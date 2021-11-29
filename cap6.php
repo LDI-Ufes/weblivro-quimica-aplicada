@@ -22,7 +22,7 @@ include("components/page-header.php");
 </figure>
 <p>Portanto, quanto maior a massa molar da matéria-prima, mais fácil seu craqueamento. Assim, parafinas saturadas e alcanos são mais fáceis de serem craqueados. Contudo, o craqueamento pode ser conduzido em qualquer tipo de matéria-prima visando alcançar um máximo de produção de olefinas e aromáticos associada a uma alta seletividade, além de se obter um mínimo de moléculas lineares pequenas, metano e hidrocarbonetos lineares com mais de cinco átomos de carbono. Logo, os tipos de produtos petroquímicos produzidos são altamente influenciados pela natureza dos hidrocarbonetos, pela temperatura de reação e pelo tempo de residência no processo de quebra. Os produtos finais da indústria petroquímica podem ser agrupados em seis categorias: plásticos, elastômeros, fibras, fertilizantes, solventes e especialidades.</p>
 
-<div class="atv">
+<br><div class="atv">
     <h3>Atividade 6.1</h3>
     <p>Fazer um levantamento histórico de pelo menos três produtos de fontes petroquímicas que sejam classificados como especialidades.</p>
 </div>
@@ -51,7 +51,7 @@ include("components/page-header.php");
 <h3>Aromáticos</h3>
 <p>Os principais compostos aromáticos produzidos na indústria petroquímica são o benzeno, o tolueno e os xilenos, também conhecidos como BTX’s, e são obtidos, principalmente, nas unidades de reforma e craqueamento catalítico das refinarias. A reatividade dos componentes do BTX’s, que permite sua utilização na indústria, está relacionada ao anel benzênico. De forma geral, os compostos aromáticos são passíveis de reações de substituição eletrofílica. Dentre as reações possíveis que estes compostos podem sofrer estão: alquilação ou desalquilação, cloração, nitração, oxidação, hidrogenação, metátese e carbonilação, originando produtos principais ou intermediários, que podem reagir de forma semelhante para síntese dos produtos finais.</p>
 
-<div class="atv">
+<br><div class="atv">
     <h3>Atividade 6.2</h3>
     <p>Na FISPQ (Ficha de Segurança de Produto Químico) dos componentes do BTX estes produtos são classificados como carcinogênicos e mutagênicos. Responder: </p>
     <p><span class="questao-letra">a) </span>O que isso significa? </p>
@@ -119,7 +119,7 @@ include("components/page-header.php");
 <p>Na polimerização em suspensão o meio reacional é composto pelo monômero, iniciador, meio dispersante (normalmente água) e um agente de suspensão. O monômero é insolúvel no meio dispersante e o iniciador é solúvel no monômero. As gotículas de monômero são mantidas em suspensão por ação de agitação mecânica e do agente de suspensão. Além disso, o agente de suspensão evita que as gotículas de monômero, e polímero que está sendo formado, grudem umas as outras durante o processo de polimerização. A polimerização em suspensão, muitas vezes é chamada de <span class="bold">polimerização em pérolas</span>.</p>
 <p>A polimerização em emulsão ocorre em um meio reacional composto por um agente de dispersão (normalmente água), monômero, iniciador, solúvel no meio dispersante, e <span class="bold">emulsificante</span>, também chamado de <span class="bold">tensoativo</span> ou <span class="bold">surfactante</span>. O emulsificante é composto por uma hidrocarbônica longa cadeia, hidrofóbica, e possui uma extremidade polar, hidrofílica. Em quantidades pequenas o emulsificante permanece disperso na água e na superfície das gotas de monômero promovendo sua estabilização. Quando a concentração micelar crítica, CMC, é atingida são formadas estruturas ordenadas de emulsificante chamadas de <span class="bold">micelas</span>. As micelas têm seus hidrofílicos orientados na direção da fase aquosa e os grupos hidrofóbicos orientados para seu interior (fase orgânica) devido a presença de monômero. Quando uma molécula de iniciador entra na micela a reação de polimerização é iniciada, e contínua até que outra molécula de iniciador entre na micela matando o crescimento da primeira cadeia polimérica. A reação de polimerização só será reiniciada se uma terceira molécula de iniciador entrar na micela. Assim, a polimerização em emulsão gera polímeros de altas massas molares.</p>
 
-<div class="atv">
+<br><div class="atv">
     <h3>Atividade 6.3</h3>
     <p>Explicar a diferença entre a polimerização em suspensão da polimerização em emulsão.</p>
 </div>
