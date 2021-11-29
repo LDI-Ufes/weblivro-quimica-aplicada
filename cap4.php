@@ -17,7 +17,7 @@ include("components/page-header.php");
 <p>No Brasil o primeiro grande fato relacionado a siderurgia ocorreu em 1812 com a primeira corrida brasileira de ferro gusa realizada na Vila de Congonhas – MG, atingindo seu auge após a inauguração da Companhia Siderúrgica Nacional (CSN) que continha o único alto-forno do país em Volta Redonda –RJ. Atualmente, o parque siderúrgico brasileiro compõe-se de 27 usinas, administradas por oito grupos empresariais: ArcelorMittal Brasil, Gerdau, CSN, Usiminas, SINOBRAS, V&M do Brasil, Villares Metals e Votorantim Siderurgia.</p>
 
 <br><div class="atv">
-    <h3>Atividade 4.1 </h3>
+    <h3 class="atividade">Atividade 4.1 </h3>
     <p>Fazer um breve levantamento histórico sobre a atividade siderúrgica no Estado do Espírito Santo. Não se esquecer de determinar o início das atividades do setor e a conjuntura atual da atividade de siderurgia no Estado.</p>
 </div>
 
@@ -194,7 +194,7 @@ include("components/page-header.php");
 <p>As unidades de produção deste processo costumam ser pequenas e caras, com capacidade da ordem de 10 ton/dia.</p>
 
 <br><div class="atv">
-    <h3>Atividade 4.2</h3>
+    <h3 class="atividade">Atividade 4.2</h3>
     <p>Comparar de forma sucinta e dissertativa a redução indireta (processo usando o alto-forno) e os processos de redução direta do Ferro. Não se esquecer de destacar as principais diferenças e similaridades existentes entre os processos.</p>
 </div>
 
@@ -242,7 +242,7 @@ include("components/page-header.php");
 <p>A redução dos teores destes elementos é necessária para melhorar as propriedades do ferro gusa, pois estes elementos formam compostos intermetálicos com o ferro, que comprometem a aplicação do ferro gusa. O enxofre, por exemplo, causa fragilidade a quente devido a formação de sulfeto de ferro, \(FeS\), que se funde nas etapas de conformação mecânica, como o forjamento, segregando e causando trincas e até a ruptura do material. Já o fósforo causa fragilidade a frio devido a formação do fosfeto de ferro, \(Fe_3P\), que possui elevada dureza. O carbono pode formar um carbeto com o ferro que recebe o nome de <span class="bold">cementita</span> \((Fe_3C)\), que também possui dureza muito elevada e causa fragilidade no material. A diminuição dos teores destes elementos, melhorando as propriedades do material, é alcançada pela passagem do oxigênio, puro ou do ar, através do ferro gusa fundido, em temperaturas da ordem de 1.600 °C, promovendo a oxidação destes elementos. Estas reações de oxidação são exotérmicas, permitindo a manutenção da temperatura sem combustão paralela.</p>
 
 <br><div class="atv">
-    <h3>Atividade 4.3</h3>
+    <h3 class = "atividade">Atividade 4.3</h3>
     <p>Escrever as reações de oxidação dos elementos apresentados na Tabela 4.1.</p>
 </div>
 

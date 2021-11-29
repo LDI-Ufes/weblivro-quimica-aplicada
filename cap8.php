@@ -84,7 +84,7 @@ include("components/page-header.php");
 </div>
 
 <div class="atv">
-    <h3>Atividade 8.1</h3>
+    <h3 class="atividade">Atividade 8.1</h3>
     <p>Fazer um fluxograma simplificado do processo de processamento do leite.</p>
 </div>
 
@@ -124,7 +124,7 @@ include("components/page-header.php");
 <p>Como a ação da terra clarificante é mais eficiente em meio anidro e o óleo neutralizado sempre contém umidade, é necessário realizar uma pré-etapa de secagem. A secagem do óleo é feita de maneira contínua no processo de neutralização. Já no processo de branqueamento ela é feita aquecendo o material à temperatura de 80 a 90 °C sob vácuo (30 mm Hg) por 30 minutos. Em seguida, se adiciona terra clarificante por sucção, agitando o óleo com uma temperatura de 80 a 95 °C, durante 20 a 30 minutos. Subsequentemente, o óleo é resfriado de 60 a 70 °C e filtrado por filtro-prensa. </p>
 
 <div class="atv">
-    <h3>Atividade 8.2</h3>
+    <h3 class="atividade">Atividade 8.2</h3>
     <p>Fazer um fluxograma simplificado do processo de processamento do óleo de soja. </p>
 </div>
 

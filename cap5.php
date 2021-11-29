@@ -9,7 +9,7 @@ include("components/page-header.php");
 <p>O petróleo participa da vida cotidiana da humanidade há milhares de anos. Há registros de que os povos babilônico, fenício, egípcio, inca, maia, entre outros, já utilizavam petróleo em suas atividades tecnológicas. O petróleo que estes povos utilizavam era retirado de exsudações naturais. Porém, só ao redor da metade do século XIX começou-se a produzir querosene de iluminação a partir do petróleo, procurando substituir o querosene oriundo do carvão e do óleo de baleia, tem-se assim o início a era do petróleo. Neste mesmo período o Marquês de Olinda assina o Decreto n° 2.266, conferindo a José Barros Pimentel o direito de extrair o material betuminoso usado na fabricação de querosene, na então província da Bahia. Contudo, depois do ocorrido, quase não se pesquisou sobre esta fonte de energia até o ano de 1953, quando Getúlio Vargas, instituiu o monopólio estatal do petróleo e fundou a Petrobras, iniciando as pesquisas sobre o petróleo nacional. Na década de 1960 foi descoberto o campo de Guaricema, no estado de Sergipe, a primeira reserva em mar o que iniciou à exploração <em>offshore</em>. Já na década de 1970, foi descoberto o Campo de Garoupa na Bacia Petrolífera de Campos, Rio de Janeiro, quando os campos de petróleo do Recôncavo Baiano já alcançavam a maturidade.</p>
 <p>No ano de 2007, foi descoberto um novo reservatório de petróleo denominado Pré-Sal. Este reservatório de petróleo gigante está a cerca de sete mil metros de profundidade e se estende ao longo de 800 km na costa brasileira, do Espírito Santo à Santa Catarina, abaixo de espessa camada de sal (rocha salina) e englobando as bacias sedimentares do Espírito Santo, de Campos e de Santos. O petróleo deste reservatório apresenta excelente estado de conservação, ou seja, petróleo não degradado pro bactérias que corresponde a petróleos classificados como leves. Se as estimativas estiverem corretas, a exploração do Pré-Sal dobrará o volume de produção de óleo e gás combustível do Brasil, além de melhorar pronunciadamente a qualidade dos petróleos.</p>
 <br><div class="atv">
-    <h3>Atividade 5.1</h3>
+    <h3 class="atividade">Atividade 5.1</h3>
     <p>Fazer um breve levantamento histórico, de no máximo 20 linhas e mínimo 10 linhas, sobre a exploração de petróleo no Estado do Espírito Santo. Não se esquecer de determinar o início das atividades do setor e a política atual da indústria do petróleo no Estado.</p>
 </div>
 
@@ -57,7 +57,7 @@ include("components/page-header.php");
 </figure>
 
 <div class="atv">
-    <h3>Atividade 5.2</h3>
+    <h3 class="atividade">Atividade 5.2</h3>
     <p>Fazer um breve levantamento sobre outras formas de classificação do petróleo. Sugestão: Pesquisar por Grau KUOP, número de acidez total (NAT) e ponto de ebulição verdadeiro (PEV).</p>
 </div>
 
@@ -70,12 +70,12 @@ include("components/page-header.php");
 
 <h2 id="5-4">5.4. Processos de separação</h2>
 <h3>5.4.1. Destilação</h3>
-<p>A destilação é o processo básico de separação do petróleo, no qual inicialmente há a vaporização e posteriormente a condensação dos componentes do óleo cru (hidrocarbonetos e impurezas) devido à ação de temperatura e pressão. Este processo baseia-se nas diferenças entre os pontos de ebulição dos diversos constituintes do petróleo, devido principalmente a diferença de massa molar existente entre eles. Portanto, o objetivo principal da destilação é a separação do petróleo em suas frações básicas de refino, tais como gás combustível, gás liquefeito, nafta, querosene, gasóleo atmosférico (óleo diesel), gasóleo de vácuo e resíduo de vácuo. Os rendimentos da destilação são variáveis dependendo do tipo de petróleo processado. A unidade de destilação de uma refinaria é composta por uma dessalgadora e pelo menos uma torre de destilação atmosférica, mas pode conter também uma torre de destilação a vácuo. Um esquema de uma torre de destilação atmosférica é mostrado na Figura 5.1.</p>
 <!--FIGURA 5.1-->
-<figure>
-    <img src="img/figura-5-1.jpg" alt="audiodescrição">
+<figure class = "retrato lateral">
+    <img src="img/fig-5-1.jpg" alt="audiodescrição">
     <figcaption><span class="bold">Figura 5.1. </span>Esquema de uma torre de destilação atmosférica.</figcaption>
 </figure>
+<p>A destilação é o processo básico de separação do petróleo, no qual inicialmente há a vaporização e posteriormente a condensação dos componentes do óleo cru (hidrocarbonetos e impurezas) devido à ação de temperatura e pressão. Este processo baseia-se nas diferenças entre os pontos de ebulição dos diversos constituintes do petróleo, devido principalmente a diferença de massa molar existente entre eles. Portanto, o objetivo principal da destilação é a separação do petróleo em suas frações básicas de refino, tais como gás combustível, gás liquefeito, nafta, querosene, gasóleo atmosférico (óleo diesel), gasóleo de vácuo e resíduo de vácuo. Os rendimentos da destilação são variáveis dependendo do tipo de petróleo processado. A unidade de destilação de uma refinaria é composta por uma dessalgadora e pelo menos uma torre de destilação atmosférica, mas pode conter também uma torre de destilação a vácuo. Um esquema de uma torre de destilação atmosférica é mostrado na Figura 5.1.</p>
 <p>A destilação atmosférica deve ocorrer a uma temperatura máxima de 400°C para evitar a formação de produtos de craqueamento térmico. Em geral, o petróleo é pré-aquecido antes de ser introduzido na torre de destilação, na zona de vaporização ou zona de flash. Os produtos são retirados em determinados pontos da coluna e dependem da temperatura máxima de destilação de cada fração. Em condições de pressão próxima à atmosférica, pode-se separar o petróleo em diesel, querosene e nafta pesada como produtos laterais de uma torre de destilação. Nafta leve e GLP são produtos de topo, condensados e separados fora da torre. Como produto de fundo, obtém-se o resíduo atmosférico, do qual ainda se podem extrair frações importantes em processos posteriores. As principais frações obtidas em uma unidade de destilação são apresentadas na Tabela 5.2.</p>
 <!-- TITULO TABELA 5.2 -->
 <p><span class="boldSecundario">Tabela 5.2.</span> Principais frações obtidas em uma unidade de destilação de uma refinaria de petróleo.</p>

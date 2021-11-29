@@ -84,7 +84,7 @@ include("components/page-header.php");
 </ul>
 
 <br><div class="atv">
-    <h3>Atividade 3.1. </h3>
+    <h3 class = "atividade">Atividade 3.1. </h3>
     <p>Fazer um fluxograma simplificado do processo de aquecimento da caulinita. </p>
 </div>
 
@@ -108,7 +108,7 @@ include("components/page-header.php");
 <p>Em seguida, tem-se o processo de moagem, mais propriamente, moagem do “cru” que consiste na redução a pó da mistura de matérias primas, fazendo com que a dimensão dos grânulos fique compreendida entre 3 e 30 mm. Simultaneamente à moagem ocorre um processo de adição de outros materiais: areia \((SiO_2)\), cinzas de pirita \((Fe_2S)\), e bauxite \((Al_2O_3)\), de forma a obter as quantidades pretendidas dos compostos que constituem o "cru": cálcio, sílica, alumínio e ferro, essenciais para a fabricação do cimento. A moagem do “cru” pode ser realizada em um moinho de bolas. Os silos de armazenagem do material moído e da farinha crua também têm a função de homogeneização, que é muito importante para a economia de energia e um fator determinante para qualidade do produto final.</p>
 <p>Depois da moagem do “cru” vem à operação de cozedura ou clinquerização, que origina, por reações químicas complexas, um produto granulado denominado clínquer. Antes do “cru” dar entrada no forno, ele tem que ser progressivamente aquecido até à temperatura de 850-900 ºC. Este processo de aquecimento ocorre na torre de ciclones que é constituída por vários ciclones sobrepostas verticalmente, em que cada um, é constituído por um cilindro e um cone na parte inferior, conforme esquematizado no desenho da Figura 3.2. O ar quente e poeiras provenientes do forno entram pela parte superior do ciclone inferior segundo uma tangente ao cilindro. Devido à configuração do ciclone, as partículas precipitam através da parte inferior enquanto que o ar quente parcialmente purificado escapa-se pela parte superior, passando ao ciclone imediatamente acima onde ocorre o mesmo processo até que, no último ciclone, o gás é liberado a uma temperatura de 900 ºC arrastando consigo, uma quantidade mínima de poeiras encaminhado-as para os eletrofiltros.</p>
 <!-- FIGURA 3.2 -->
-<figure>
+<figure class = "lateral">
     <img src="img/fig-3-2.jpg" alt="audiodescrição">
     <figcaption><span class="bold">Figura 3.2.</span>Esquema de funcionamento de uma torre de ciclones.</figcaption>
 </figure>
@@ -159,7 +159,7 @@ include("components/page-header.php");
 <p><span class="bold">VIII. Segundo resfriamento: </span>o segundo resfriamento ocorre abaixo de 1200 °C, já no resfriador. Este resfriamento lento também provoca uma maior corrosão dos cristais de \(3CaO·SiO_2\) pela penetração desta fase, nas bordas dos cristais, auxiliando a formação de \(2CaO·SiO_2\). O magnésio não combinado terá sua cristalização nesta etapa. Quanto mais lento for o resfriamento, maior será o desenvolvimento dos cristais de \(MgO\), aglutinando em zonas.</p>
 
 <br><div class="atv">
-    <h3>Atividade 3.2. </h3>
+    <h3 class = "atividade">Atividade 3.2. </h3>
     <p>Fazer um fluxograma simplificado contendo os principais processos envolvidos na produção do cimento.</p>
 </div>
 

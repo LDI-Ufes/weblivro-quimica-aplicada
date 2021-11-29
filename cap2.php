@@ -403,8 +403,8 @@ include("components/page-header.php");
   <figcaption>*Titulação com solução padronizada de \(HCl\). Fonte: Abiquim; ABNT.</figcaption>
 </figure>
 
-<br><div class="atv">
-  <h3>Atividade 2.1</h3>
+<div class="atv">
+  <h3 class="atividade">Atividade 2.1</h3>
   <p>Uma das etapas do processo industrial utilizado para a fabricação de cloro e soda cáustica é a eletrólise de uma solução de salmoura \((NaCl + H_2O)\). Durante o processo eletrolítico os íons cloretos são convertidos em \(Cl_2\) no compartimento anódico e no compartimento cátodo é gerado hidróxido de sódio e gás hidrogênio. <br><br> Escrever as equações químicas envolvidas no processo usando células de membranas. Quantos mols de cloro são gerados no ânodo durante a eletrólise da salmoura com uma corrente de 4,00 A por um período de 2 horas? <br><br>Dados: Constante de Faraday = 96500 C/mol; 1 A = 1 C/s. </p>
 </div>
 
