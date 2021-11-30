@@ -17,7 +17,7 @@ include("components/page-header.php");
 <p>A indústria petroquímica atua principalmente por três rotas que definem os produtos petroquímicos: a produção de olefinas e derivados, de compostos aromáticos e derivados e de gás de síntese e derivados, conforme o esquema representativo da cadeia produtiva mostrado na Figura 6.1. O uso de olefinas merece destaque, sendo o eteno, o propeno, o buteno e o butadieno as matérias-primas de maior importância. Normalmente, altos investimentos devem ser realizados em plantas que utilizam matérias-primas mais pesadas, que requerem craqueamento para obtenção dos produtos petroquímicos. Desta forma se matérias-primas mais leves são empregadas o investimento necessário é menor. Por outro lado, uma maior diversidade de produtos pode ser gerada a partir de matérias-primas mais pesadas.</p>
 <!--FIGURA 6.1-->
 <figure>
-    <img src="img/figura-6-1.jpg" alt="audiodescrição">
+    <img src="img/fig-6-1.jpg" alt="audiodescrição">
     <figcaption><span class="bold">Figura 6.1. </span>Representação esquemática da cadeia produtiva dos produtos petroquímicos básicos.</figcaption>
 </figure>
 <p>Portanto, quanto maior a massa molar da matéria-prima, mais fácil seu craqueamento. Assim, parafinas saturadas e alcanos são mais fáceis de serem craqueados. Contudo, o craqueamento pode ser conduzido em qualquer tipo de matéria-prima visando alcançar um máximo de produção de olefinas e aromáticos associada a uma alta seletividade, além de se obter um mínimo de moléculas lineares pequenas, metano e hidrocarbonetos lineares com mais de cinco átomos de carbono. Logo, os tipos de produtos petroquímicos produzidos são altamente influenciados pela natureza dos hidrocarbonetos, pela temperatura de reação e pelo tempo de residência no processo de quebra. Os produtos finais da indústria petroquímica podem ser agrupados em seis categorias: plásticos, elastômeros, fibras, fertilizantes, solventes e especialidades.</p>
@@ -32,7 +32,7 @@ include("components/page-header.php");
 <p>As reações químicas, da substância eteno, são responsáveis pela produção de cerca de 30% de todos os produtos petroquímicos, sendo o óxido de etileno e o dicloroetano os compostos mais importantes. Os derivados do eteno são usados nas mais diversas aplicações, tais como: plásticos, anticongelantes, solventes, material de vestuário, entre outras. Dentre as reações possíveis a ser realizadas com o eteno destacam-se: oxidação, carbonilação oxidativa, cloração, hidratação, alquilação, oligomerização e polimerização. Dois exemplos de sequência de produção partindo do eteno são: a produção do óxido de etileno e subsequente obtenção de outros produtos comerciais como etilenoglicois, etanolaminas e alcoóis etoxilados; e a produção do 1,2-dicloroetano, pela cloração direta do eteno, para obtenção do cloreto de vinila e posterior polimerização e obtenção do poli(cloreto de vinila), PVC. A cadeia produtiva do eteno é mostrada por meio do esquema apresentado na Figura 6.2.</p>
 <!--FIGURA 6.2 -->
 <figure>
-    <img src="img/figura-6-2.jpg" alt="audiodescrição">
+    <img src="img/fig-6-2.jpg" alt="audiodescrição">
     <figcaption><span class="bold">Figura 6.2. </span>Representação esquemática da cadeia produtiva do eteno.</figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ include("components/page-header.php");
 <p>Praticamente todas as reações conduzidas com o eteno podem ser realizadas com o propeno. Merece destaque as reações de: oxidação, cloração, hidratação, alquilação, adição de ácidos orgânicos, oxiacilação (reação com ácido acético e oxigênio), hidroformilação (reação com \(CO\) e hidrogênio), metátese ou desproporcionação catalítica (reação de conversão do propeno a outras olefinas, de massa molar distinta). São exemplos de aplicações de compostos obtidos a partir do propeno: a produção de plásticos e resinas a partir da acrilonitrila (obtida da reação do propeno com amônia e oxigênio); e a produção de glicerol e propileno glicol, para fabricação de espumas de poliuretano, resinas de poliéster, cosméticos, fluidos de freio, plastificantes, xaropes e detergentes, a partir do óxido de propileno (obtido na reação do propeno com ácido hipocloroso e \(Ca(OH)_2\) ou através de epoxidação). A cadeia produtiva do propeno é mostrada por meio do esquema apresentado na Figura 6.3.</p>
 <!--FIGURA 6.3-->
 <figure>
-    <img src="img/figura-6-3.jpg" alt="audiodescrição">
+    <img src="img/fig-6-3.jpg" alt="audiodescrição">
     <figcaption><span class="bold">Figura 6.3. </span>Representação esquemática da cadeia produtiva do propeno.</figcaption>
 </figure>
 
@@ -80,7 +80,7 @@ include("components/page-header.php");
 <p>Os detergentes foram desenvolvidos como substitutos do sabão e rapidamente ganharam mercado, especialmente após segunda guerra mundial. Os detergentes são produzidos na indústria utilizando vários produtos procurando melhorar suas propriedades <span class="bold">tensoativas</span>. Os tensoativos, também chamados de <span class="bold">surfactantes</span>, são a matéria-prima principal dos detergentes e são derivados do petróleo. Os tensoativos possuem a propriedade de modificar as características físico-químicas de sua superfície ou das interfaces de separação com outros meios. Quando são dissolvidos ou dispersos em um meio líquido, são permanecem preferencialmente na interface, modificando sua tensão interfacial. Os tensoativos são também conhecidos como compostos <span class="bold">anfifílicos</span>, devido à existência de regiões de polaridades distintas em suas moléculas, uma cabeça polar e uma cauda apolar, conforme representação esquemática mostrada na Figura 6.4. </p>
 <!--FIGURA 6.4-->
 <figure>
-    <img src="img/figura-6-4.jpg" alt="audiodescrição">
+    <img src="img/fig-6-4.jpg" alt="audiodescrição">
     <figcaption><span class="bold">Figura 6.4.</span>Molécula de tensoativo e sua representação esquemática mostrando a cabeça polar e a cauda apolar.</figcaption>
 </figure>
 <p>A atuação das moléculas tensoativas pode ser muito diferente dependendo da natureza química e as estrutura das fases em contato, bem como em função das condições impostas ou existentes em suas aplicações. Os tensoativos podem ser classificados como <span class="bold">catiônicos</span>, quando ao se ionizarem formam cátions, aniônicos, quando ao se ionizarem formam ânions, <span class="bold">não-iônicos</span>, aqueles que não ionizam em presença de água, sua solubilidade se deve a formação de ligações de hidrogênio com a água, e <span class="bold">anfóteros</span>, aqueles que contêm sua estrutura tanto o radical ácido como o básico.</p>
@@ -102,13 +102,13 @@ include("components/page-header.php");
 <p>Os polímeros podem ser classificados de muitas formas diferentes, dependendo da característica que está sendo analisada. Com relação à estrutura química os polímeros podem ser classificados como <span class="bold">lineares</span> ou <span class="bold">ramificados</span>. As ramificações podem ser curtas ou longas, um grande número de ramificações podem gerar estruturas <span class="bold">dendríticas</span> ou mesmo um <span class="bold">polímero reticulado</span>, formando uma macromolécula única. Estas estruturas são esquematizadas na Figura 6.5.</p>
 <!-- FIGURA 6.5 -->
 <figure>
-    <img src="img/figura-6-5.jpg" alt="audiodescrição">
+    <img src="img/fig-6-5.jpg" alt="audiodescrição">
     <figcaption><span class="bold">Figura 6.5. </span>Classificação dos polímeros segundo sua estrutura química.</figcaption>
 </figure>
 <p>Ainda com relação a estrutura química os polímeros podem ser classificados como <span class="bold">homopolímeros</span>, quando há apenas um tipo de mero envolvido na formação dos polímeros, e <span class="bold">copolímeros</span>, quando há dois ou mais tipos de meros envolvidos na formação dos polímeros. Os copolímeros ainda podem ser classificados, com relação a sua estrutura, conforme mostrado na Figura 6.6. </p>
 <!-- FIGURA 6.6 -->
 <figure>
-    <img src="img/figura-6-6.jpg" alt="audiodescrição">
+    <img src="img/fig-6-6.jpg" alt="audiodescrição">
     <figcaption><span class="bold">Figura 6.6. </span>Classificação dos copolímeros segundo sua estrutura.</figcaption>
 </figure>
 <p>Com relação as propriedades térmicas os polímeros podem ser classificados como <span class="bold">termofixos</span> ou <span class="bold">termorrígidos</span> ou <span class="bold">termoestáveis</span>, que não apresentam temperatura de fusão, degradam antes de atingir a temperatura de fusão e termoplásticos, que apresentam temperatura de fusão. Com relação às propriedades mecânicas os polímeros podem ser classificados em <span class="bold">elastômeros</span> ou <span class="bold">borrachas</span>, que apresentam grande quantidade de deformação não permanente, <span class="bold">plásticos</span>, que apresentam grande quantidade deformação permanente, e <span class="bold">fibras</span>, que tem razão de aspecto (divisão da área pelo comprimento, a/l) maior do que 100. Os elastômeros são hidrocarbonetos insaturados de alta massa molar com cadeias longas e flexíveis que fornecem a propriedade de ser esticado. Os plásticos apresentam alguma rigidez, alta massa molar, são moldáveis sob pressão e podem ser termoplásticos ou termofixos. As fibras possuem baixa elongação e alta resistência à deformação, portanto, as fibras possuem elasticidade menor que a dos plásticos e elastômeros.</p>

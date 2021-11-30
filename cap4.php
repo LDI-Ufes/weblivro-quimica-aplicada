@@ -64,7 +64,7 @@ include("components/page-header.php");
 <h3>4.2.1. Redução do Minério no alto-forno</h3>
 <p>A redução do minério, na forma de óxido, utilizando o carbono, proveniente do coque, é realizada em um forno específico para esta atividade chamado <em>alto-forno</em>. O alto-forno é um reator tubular vertical onde a redução ocorre de forma contínua, sendo alimentado com carga sólida na parte superior que entra em contato com o ar pré-aquecido na parte inferior, conforme mostrado na Figura 4.2. No Estado do Espírito Santo a antiga Companhia Siderúrgica do Tubarão (CST), atual Arcelor Mittal, opera com este tipo de processo para a redução do ferro.</p>
 <figure>
-    <img src="img/figura-4-2.jpg" alt="audiodescrição">
+    <img src="img/fig-4-2.jpg" alt="audiodescrição">
     <figcaption><span class="bold">Figura 4.2. </span>Esquema de um alto-forno mostrando a distribuição de temperatura e as principais reações em cada parte.</figcaption>
 </figure>
 <p>A carga de um alto-forno é composta principalmente por minério de ferro, coque e fundente. O <span class="bold">minério de ferro</span> é, normalmente, composto por hematita ou uma mistura de hematita e magnetita, contendo cerca de 40 a 60% de ferro. Este minério costuma conter cerca de 10% de ganga, cujo componente principal é a sílica \((SiO_2)\). O <span class="bold">coque</span>, obtido da destilação prévia da hulha ou de outro carvão mineral, é o fornecedor de carbono, para as reações de redução do ferro, além de desempenhar a função de combustível. Já o <span class="bold">fundente</span>, tem a função de baixar o ponto de fusão da escória e, geralmente, é composto por calcário \((CaCO_3)\) que é calcinado no interior do alto-forno formando cal \((CaO)\).</p>

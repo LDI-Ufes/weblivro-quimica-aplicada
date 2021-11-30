@@ -9,7 +9,36 @@ include("components/page-header.php");
 <p>A indústria de alimentos teve sua origem nas fazendas, sítios e plantações com a produção e processamento em pequena escala. Assim sendo, no início, os produtos apresentavam um gênero mais caseiro e sem padrões de produção definidos. Contudo, a massificação e a busca por produtos pré-processados levaram a um aumento da especialização e a otimização da produção alimentar. Essa otimização só foi possível com a instituição de padrões e graus de qualidade nas vilas e comunidades, tais como os instituídos no processamento e distribuição do leite, na moagem de grãos, nos métodos de conservação e distribuição de alimentos perecíveis (carnes, frutas e legumes), dentre outros.</p>
 <p>Hoje em dia, toda a produção alimentar é centralizada em grandes centros ou indústrias monoprodutoras, que compram boa parte da matéria-prima das antigas fontes manufatureiras. Consequentemente, a indústria de alimentos transforma os produtos das fazendas em materiais apropriados ao consumo a partir do seu processamento. Processamento este que, como será apresentado adiante, é muitas vezes semelhante ao processamento de substâncias químicas, logo, químicos, engenheiros químicos e tecnólogos são tão importantes no seu desenvolvimento, quantos os engenheiros agrônomos e de alimentos.</p>
 <p>Atualmente, a Associação Brasileira das Indústrias da Alimentação (ABIA) concentra a produção nacional de alimentos industrializados nos seguintes setores:</p>
-
+<ul>
+    <li>Alimentos calóricos (Protéicos)</li>
+    <li>Açúcar</li>
+    <li>Café</li>
+    <li>Chá</li>
+    <li>Carnes, embutidos, etc. </li>
+    <li>Cereais</li>
+    <li>Chocolates, cacau e balas</li>
+    <li>Condimentos</li>
+    <li>Desidratados e liofilizados ·</li>
+    <li>Bebidas</li>
+    <li>Alcoólicas</li>
+    <li> Refrigerantes</li>
+    <li>Sucos (concentrados e pós)</li>
+    <li>Vinagres</li>
+    <li>Aromatizantes</li>
+    <li>Embalagens</li>
+    <li>Matéria-prima para alimentos</li>
+    <li>Diversos</li>
+    <li>Dietéticos</li>
+    <li>Frutas e legumes</li>
+    <li>Lacticínios e derivados</li>
+    <li>Massas, biscoitos, congêneres</li>
+    <li>Óleos, gorduras, azeites, margarinas e maioneses</li>
+    <li>Pescado e derivados</li>
+    <li>Sopas e caldos</li>
+    <li>Sorvetes</li>
+    <li>Supergelados</li>
+    <li>Afins</li>
+</ul>
 <p>A seguir serão apresentadas as principais fases do processamento de alimentos que serão exemplificadas a partir da tecnologia de produção de dois setores produtivos. </p>
 
 <h2 id="8.2">8.2. Processamento de alimentos</h2>
@@ -31,13 +60,13 @@ include("components/page-header.php");
 <p>Dentre os processos físicos empregados no beneficiamento de produtos alimentícios podemos destacar a operação de moagem. A moagem é empregada para promover o aumento da superfície de contato da matéria-prima, facilitando o desenvolvimento das etapas posteriores, tais como, a extração, a secagem e a homogeneização. Ela é muito empregada na moagem de grãos, como o milho, a soja e a mostarda, usando um equipamento chamado de moinho. A Figura 8.1 apresenta os principais modelos de moinhos usados no processamento de alimentos.</p>
 <!-- FIGURA 8.1 -->
 <figure>
-    <img src="img/figura-8-1.jpg" alt="audiodescrição">
+    <img src="img/fig-8-1.jpg" alt="audiodescrição">
     <figcaption><span class="bold">Figura 8.1. </span>Principais modelos de moinhos usados no processamento de alimentos: (a) Moinho de bolas, (b) Moinho de martelos e (c) Moinho de pedras.</figcaption>
 </figure>
 <p></p>
 <!-- FIGURA 8.2 -->
 <figure>
-    <img src="img/figura-8-2.jpg" alt="audiodescrição">
+    <img src="img/fig-8-2.jpg" alt="audiodescrição">
     <figcaption><span class="bold">Figura 8.2. </span>Representação esquemática de uma prensa mecânica. </figcaption>
 </figure>
 <p>Esse processo é bastante empregado para a extração de óleo de sementes e pode ocorrer de forma mista, envolvendo uma pré-prensagem com posterior extração com solvente.</p>
