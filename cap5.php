@@ -8,7 +8,8 @@ include("components/page-header.php");
 <h2 id="5-1">5.1. Histórico resumido</h2>
 <p>O petróleo participa da vida cotidiana da humanidade há milhares de anos. Há registros de que os povos babilônico, fenício, egípcio, inca, maia, entre outros, já utilizavam petróleo em suas atividades tecnológicas. O petróleo que estes povos utilizavam era retirado de exsudações naturais. Porém, só ao redor da metade do século XIX começou-se a produzir querosene de iluminação a partir do petróleo, procurando substituir o querosene oriundo do carvão e do óleo de baleia, tem-se assim o início a era do petróleo. Neste mesmo período o Marquês de Olinda assina o Decreto n° 2.266, conferindo a José Barros Pimentel o direito de extrair o material betuminoso usado na fabricação de querosene, na então província da Bahia. Contudo, depois do ocorrido, quase não se pesquisou sobre esta fonte de energia até o ano de 1953, quando Getúlio Vargas, instituiu o monopólio estatal do petróleo e fundou a Petrobras, iniciando as pesquisas sobre o petróleo nacional. Na década de 1960 foi descoberto o campo de Guaricema, no estado de Sergipe, a primeira reserva em mar o que iniciou à exploração <em>offshore</em>. Já na década de 1970, foi descoberto o Campo de Garoupa na Bacia Petrolífera de Campos, Rio de Janeiro, quando os campos de petróleo do Recôncavo Baiano já alcançavam a maturidade.</p>
 <p>No ano de 2007, foi descoberto um novo reservatório de petróleo denominado Pré-Sal. Este reservatório de petróleo gigante está a cerca de sete mil metros de profundidade e se estende ao longo de 800 km na costa brasileira, do Espírito Santo à Santa Catarina, abaixo de espessa camada de sal (rocha salina) e englobando as bacias sedimentares do Espírito Santo, de Campos e de Santos. O petróleo deste reservatório apresenta excelente estado de conservação, ou seja, petróleo não degradado pro bactérias que corresponde a petróleos classificados como leves. Se as estimativas estiverem corretas, a exploração do Pré-Sal dobrará o volume de produção de óleo e gás combustível do Brasil, além de melhorar pronunciadamente a qualidade dos petróleos.</p>
-<br><div class="atv">
+<br>
+<div class="atv">
     <h3 class="atividade">Atividade 5.1</h3>
     <p>Fazer um breve levantamento histórico, de no máximo 20 linhas e mínimo 10 linhas, sobre a exploração de petróleo no Estado do Espírito Santo. Não se esquecer de determinar o início das atividades do setor e a política atual da indústria do petróleo no Estado.</p>
 </div>
@@ -17,8 +18,12 @@ include("components/page-header.php");
 <p>A palavra petróleo vem do latim e significa <em>petra</em> (pedra) e <em>oleum</em> (óleo), ou seja, óleo de pedra. O petróleo consiste de uma distribuição de moléculas com estruturas químicas e massas molares diferentes. Os principais componentes do petróleo são os hidrocarbonetos, ou seja, substâncias compostas apenas de carbono e hidrogênio. De acordo com a estrutura os hidrocarbonetos podem ser classificados em saturados ou parafinas, insaturados ou olefinas, aromáticos ou arenos. Os hidrocarbonetos parafínicos ainda podem ser divididos em normais ou n-parafinas, ramificados e cíclicos ou naftênicos. Contudo, outros elementos químicos podem aparecer na composição do petróleo, na forma de compostos orgânicos, os mais comuns são o oxigênio, o nitrogênio e o enxofre. Metais também podem ocorrer na forma de sais orgânicos. Os principais grupos de componentes do petróleo são os hidrocarbonetos saturados, hidrocarbonetos aromáticos, resinas e os asfaltenos, determinados através da análise de SARA (Saturados, Aromáticos, Resinas e Asfaltenos). Dentre estas frações os hidrocarbonetos saturados, parafinas, são os principais formadores de depósito, mas os asfaltenos e as resinas também podem formar deposição</p>
 <p>Em geral, existem três características principais na classificação do petróleo: os tipos de hidrocarbonetos envolvidos, o teor de enxofre e a densidade. Com relação ao tipo de hidrocarboneto envolvido o petróleo podem ser: <span class="bold">parafínico</span> (com mais de 75% de n-alcanos), <span class="bold">parafínico-naftênico</span> (de 50-70% de n-alcanos e mais 20% de cicloalcanos), <span class="bold">naftênico</span> (com mais de 70% de cicloalcanos), <span class="bold">aromático intermediário</span> (com mais de 50% de hidrocarbonetos aromáticos), <span class="bold">aromático-naftênico</span> (com mais de 35% de naftênicos), <span class="bold">aromático-asfáltico</span> (com mais de 35% de asfaltenos e resinas). Com relação ao teor de enxofre os petróleos podem ser classificados como <span class="bold">doces</span>, quando possuem menos de 0,5% de enxofre em sua massa, <span class="bold">semi-doces</span> ou <span class="bold">semi-azedos</span> quando possuem um teor de enxofre na faixa de 0,5 a 2,0% e <span class="bold">azedos</span> ou <span class="bold">ácidos</span> quando possuem um teor de enxofre maior do que 2,0%. A classificação do petróleo por sua densidade se dá através do grau API, desenvolvido pela <em>American Petroleum Institute</em>, que relaciona a densidade do petróleo de acordo com a equação 5.1:</p>
 <div class="box-centro">
-    <!-- EQ 5.1 -->
-    <p>\(°API = {141,5 \over dr(60/60)} - 131,5\)</p>
+    <div class="formula">
+        <div class="line">
+            <p>\(°API = {141,5 \over dr(60/60)} - 131,5\)</p>
+            <span class="box-eq">equação 5.1</span>
+        </div>
+    </div>
 </div>
 <p>Onde <em>dr</em> (60/60) é a densidade relativa do petróleo medida a 60F. A classificação do grau API é apresentada na Tabela 5.1.</p>
 <!-- TÍTULO TABELA 5.1 -->
@@ -71,7 +76,7 @@ include("components/page-header.php");
 <h2 id="5-4">5.4. Processos de separação</h2>
 <h3>5.4.1. Destilação</h3>
 <!--FIGURA 5.1-->
-<figure class = "retrato lateral">
+<figure class="retrato lateral">
     <img src="img/fig-5-1.jpg" alt="audiodescrição">
     <figcaption><span class="bold">Figura 5.1. </span>Esquema de uma torre de destilação atmosférica.</figcaption>
 </figure>
