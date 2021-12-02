@@ -504,7 +504,7 @@ include("components/page-header.php");
 <p>Finalmente, não poderiamos esquecer de mencionar o insumo indispensável à produção de Celulose e Papel, a água. Ela é um recurso natural de valor inestimável e é considerada um recurso estratégico para o desenvolvimento econômico do setor de Celulose e Papel e de outros setores indústriais. Além disso, ela é vital para a manutenção dos ciclos biológicos, geológicos e químicos pois está diretamente ligada ao equilíbrio dos ecossistemas. Enfim, a água é um bem social necessário para que os cidadãos tenham uma adequada qualidade de vida. A Tabela 7.7 mostra dados sobre o consumo de água por fonte em metro cúbico (m<sup>3</sup>) pelas indústrias de Celulose e Papel nos anos de 2009 e 2010 no Brasil.</p>
 
 <!-- TITULO DA TABELA 7.7 -->
-<p><span class="boldSecundario">Tabela 7.7.</span> Consumo de água (m3) pelas indústrias de Celulose de Papel no Brasil.</p>
+<p><span class="boldSecundario">Tabela 7.7.</span> Consumo de água (m<sup>3</sup>) pelas indústrias de Celulose de Papel no Brasil.</p>
 <!-- TABELA 7.7 -->
 
 <figure class="tabela">
@@ -574,7 +574,7 @@ include("components/page-header.php");
     <img src="img/fig-7-6.jpg" alt="audiodescrição">
     <figcaption><span class="bold">Figura 7.6.</span>Esquema mostrando a metodologia do processo utilizado na preparação da polpa de papel.</figcaption>
 </figure>
-<p>Existem dois métodos de descorticar as toras;</p>
+<p>Existem dois métodos de descorticar as toras:</p>
 <ul>
     <li><span class="bold"> Atrito - </span>ação de tombamento ou de rotação sobre uma massa móvel: a madeira é literalmente esfolada</li>
     <li><span class="bold"> Jato de água - </span>em alta pressão (cerca de 95,2 atm) aplicado individualmente a cada tora: a casca é partida e removida</li>
@@ -645,11 +645,11 @@ include("components/page-header.php");
 </figure>
 
 <!-- QUADRO 7.1 -->
-<p>Quadro 7.1. Celulose – um polímero formado pelas moléculas de β-glicose</p>
-<div class="box">
-    <!-- FÓRMULAS -->
-    <p>O esquema acima ilustra a formação da cadeia polimérica que caracteriza a estrutura da celulose. Como podemos ver a celulose se forma pela união de moléculas de β-glicose (uma hexosana) através de ligações β-1,4-glicosídicas. Em geral, a celulose tem massa molecular variável, com fórmula empírica \((C_6H_{10}O_5)n\), com um valor mínimo de \(n\) = 200 (tipicamente 300 a 700, podendo passar de 7000). As múltiplas ligações de hidrogênio entre os grupos hidroxilas das diferentes cadeias justapostas de glicose fazem da celulose uma estrutura linear e fibrosa. Outra característica interessante da celulose é sua impenetrabilidade em relação à água, tornando-a insolúveis nesse meio.</p>
+<p><span class = "boldSecundario">Quadro 7.1.</span> Celulose – um polímero formado pelas moléculas de β-glicose</p>
+<div class="box-centro">
+    <img text-align="center" src="img/fig-7-7.jpg" alt="audiodescrição">
 </div>
+    <p>O esquema acima ilustra a formação da cadeia polimérica que caracteriza a estrutura da celulose. Como podemos ver a celulose se forma pela união de moléculas de β-glicose (uma hexosana) através de ligações β-1,4-glicosídicas. Em geral, a celulose tem massa molecular variável, com fórmula empírica \((C_6H_{10}O_5)n\), com um valor mínimo de \(n\) = 200 (tipicamente 300 a 700, podendo passar de 7000). As múltiplas ligações de hidrogênio entre os grupos hidroxilas das diferentes cadeias justapostas de glicose fazem da celulose uma estrutura linear e fibrosa. Outra característica interessante da celulose é sua impenetrabilidade em relação à água, tornando-a insolúveis nesse meio.</p>
 <caption>Fonte: http://pt.wikipedia.org/wiki/Celulose</caption>
 
 <h2 id="7.3">7.3. Construindo e fixando o conhecimento</h2>

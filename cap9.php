@@ -66,9 +66,9 @@ include("components/page-header.php");
 <h3></h3>
 <p>A alquilação é definida como um processo de introdução de grupos alquil ou aril \((-R)\) por reações de substituição ou adição, em compostos orgânicos. São considerados três tipos de processos, segundo a forma de ligação que se efetua:</p>
 <div class="box">
-    <p><span class="bold">1. O-alquilação:</span> substituição de um hidrogênio em um grupo hidroxi de álcoois ou fenóis;</p>
-    <p><span class="bold">2. N-alquilação: </span>substituição de um hidrogênio ligado a um átomo de nitrogênio;</p>
-    <p><span class="bold">3. C-alquilação: </span>substituição de um hidrogênio em hidrocarbonetos.</p>
+    <p><span class="bold">O-alquilação:</span> substituição de um hidrogênio em um grupo hidroxi de álcoois ou fenóis;</p>
+    <p><span class="bold">N-alquilação: </span>substituição de um hidrogênio ligado a um átomo de nitrogênio;</p>
+    <p><span class="bold">C-alquilação: </span>substituição de um hidrogênio em hidrocarbonetos.</p>
 </div>
 <p>Dentre os processos de alquilação presentes na indústria farmacêutica, podemos destacar o da síntese do barbital. O barbital é um ácido dietilbarbitúrico da classe terapêutica dos sedativos e hipnóticos, vendido com o nome comercial de veronal. Ele é um dos mais antigos barbituratos de ação demorada, sendo sintetizado a partir do malonato de dietila pelos seguintes mecanismos de reações químicas esquematizadas na Figura 9.1.</p>
 <!-- FIGURA E FÓRMULAS 9.2 -->
@@ -128,8 +128,8 @@ include("components/page-header.php");
 <p><span class="bold">3. </span>Descreva três processos de conversão química envolvidos na produção de fármacos</p>
 
 <h2 id="9-ref">Referências Bibliográficas</h2>
-<p>SHREVE, R. N.; BRINK Jr., J. A. Indústrias de Processos Químicos, 4a Edição, Ed. Guanabara Koogan S.S., Rio de Janeiro, 1997, 717p.</p>
-<p>WONGTSCHOWSKI, P. Indústria Química Riscos e Oportunidades, 2a edição, Ed. Edgard Blücher LTDA., São Paulo, 2002, 306p.</p>
-<p>LACHMAN, L.; KANIG, J. L.; LIEBERMAN, H. H. Teoria e prática na indústria farmacêutica, 2a edição, Fundação Calouste Gulbenkian, Lisboa, vols. 1 e 2, 2010, 500p.</p>
+<p>SHREVE, R. N.; BRINK Jr., J. A. <strong>Indústrias de Processos Químicos.</strong> 4a Edição, Ed. Guanabara Koogan S.S., Rio de Janeiro, 1997, 717p.</p>
+<p>WONGTSCHOWSKI, P. <strong>Indústria Química Riscos e Oportunidades.</strong> 2a edição, Ed. Edgard Blücher LTDA., São Paulo, 2002, 306p.</p>
+<p>LACHMAN, L.; KANIG, J. L.; LIEBERMAN, H. H. <strong>Teoria e prática na indústria farmacêutica.</strong> 2a edição, Fundação Calouste Gulbenkian, Lisboa, vols. 1 e 2, 2010, 500p.</p>
 
 <?php include('components/page-footer.php'); ?>

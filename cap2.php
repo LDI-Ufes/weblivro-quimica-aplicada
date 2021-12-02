@@ -69,7 +69,7 @@ include("components/page-header.php");
 
 <!-- FIGURA 2.3 -->
 <figure>
-  <img src="img/fig-2-3.png" alt="audiodescrição">
+  <img src="img/fig-2-3.jpg" alt="audiodescrição">
   <figcaption><span class="bold">Figura 2.3. </span>Fluxograma do processo de produção de cloro e hidróxido de sódio mediante a eletrólise da solução de cloreto de sódio \((NaCl)\).</figcaption>
 </figure>
 
