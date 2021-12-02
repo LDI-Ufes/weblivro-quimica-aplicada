@@ -151,7 +151,6 @@ include("components/page-header.php");
   <figcaption>Nota: D – diafragma; M – membrana; Hg – Mercúrio <br> Fonte: Abiclor </figcaption>
 </figure>
 
-
 <p>A soda cáustica registrou um crescimento de 0,5% na produção em relação ao ano de 2009. Já o consumo aparente (produção local mais importações, descontado o volume exportado) apresentou alta de 8,8%. As importações de soda foram 19,7% maiores que o volume registrado em 2009. Em oposição ao observado no caso do cloro, aproximadamente 10% da sua produção foi utilizada pelas industrias para produção de derivados (uso cativo). Sendo que os demais 90% foram vendidos no mercado interno para diversos segmentos industriais. Em 2010, ocorreu um aumento do consumo de soda cáustica em comparação ao ano de 2009 pelos setores químico/petroquímico e papel e celulose de 5,1% e 7,1%, respectivamente. Esses setores representam 22% e 25% do consumo de soda, respectivamente. A Figura 2.4 mostra a distribuição do consumo de soda cáustica em 2010 nos diferentes segmentos.</p>
 <!-- FIGURA 2.4 -->
 <figure>
@@ -169,11 +168,24 @@ include("components/page-header.php");
 <p>A representação esquemática do processo de produção de cloro e soda cáustica através da eletrólise de uma solução salina é mostrada na Figura 2.5. A salmoura é introduzida na região do ânodo e os íons cloretos são oxidados a cloro por meio da passagem de corrente entre o cátodo e o ânodo. Os íons de sódio migram do ânodo para o cátodo através da membrana separadora. No cátodo ocorre a reação de redução do hidrogênio formando o gás hidrogênio e \(NaOH\) as reações são apresentadas a seguir:</p>
 
 <div class="box">
-  <p><strong>Ânodo:</strong> \(2Cl^-(aq) \rightarrow Cl_2(g)\) \( + 2e^-\)</p>
-  <p><strong>Cátodo:</strong> \(2H_2O(l) + 2e^- \rightarrow\) \(2OH^-(aq) + H_2(g)\)</p>
-  <p><strong>Reação Global:</strong> \(NaCl(aq) + H_2O(l) \rightarrow\) \(NaOH(aq) + {1 \over 2}H_2(g) + {1 \over 2}Cl_2(g)\)</p>
+  <div class="formula longa">
+    <div class="line">
+      <p><strong>Ânodo:</strong> \(2Cl^-(aq) \rightarrow Cl_2(g)\) \( + 2e^-\)</p>
+      <span class="box-eq">equação 2.1</span>
+    </div>
 
+    <div class="line">
+      <p><strong>Cátodo:</strong> \(2H_2O(l) + 2e^- \rightarrow\) \(2OH^-(aq) + H_2(g)\)</p>
+      <span class="box-eq">equação 2.2</span>
+    </div>
+
+    <div class="line">
+      <p><strong>Reação Global:</strong> \(NaCl(aq) + H_2O(l) \rightarrow\) \(NaOH(aq) + {1 \over 2}H_2(g) + {1 \over 2}Cl_2(g)\)</p>
+      <span class="box-eq">equação 2.3</span>
+    </div>
+  </div>
 </div>
+
 <!-- FIGURA 2.5 -->
 <figure>
   <img src="img/fig-2-5.jpg" alt="audiodescrição">
@@ -213,18 +225,37 @@ include("components/page-header.php");
 
 <p><span class="bold">a.</span> Reações químicas que ocorrem no ânodo:</p>
 <div class="box">
-  <p>\(2Cl^-(aq) \rightarrow Cl_2(aq) + 2e^-\)</p>
-  <p>\(Cl_2(aq) \rightarrow Cl_2(g)\)</p>
+  <div class="formula">
+    <div class="line">
+      <p>\(2Cl^-(aq) \rightarrow Cl_2(aq) + 2e^-\)</p>
+      <span class="box-eq">equação 2.4</span>
+    </div>
+
+    <div class="line">
+      <p>\(Cl_2(aq) \rightarrow Cl_2(g)\)</p>
+      <span class="box-eq">equação 2.5</span>
+    </div>
+  </div>
 </div>
 
 <p><span class="bold">b.</span> Reações químicas que ocorrem no cátodo:</p>
 <div class="box">
-  <p>\(2Na^+ + Hg + 2e^- \rightarrow 2Na(Hg)\)</p>
+  <div class="formula">
+    <div class="line">
+      <p>\(2Na^+ + Hg + 2e^- \rightarrow 2Na(Hg)\)</p>
+      <span class="box-eq">equação 2.6</span>
+    </div>
+  </div>
 </div>
 
 <p>A reação química global para o processo é:</p>
 <div class="box">
-  <p>\(2NaCl(aq) + Hg \rightarrow Cl_2(g)\) \( + 2Na(Hg)\)</p>
+  <div class="formula">
+    <div class="line">
+      <p>\(2NaCl(aq) + Hg \rightarrow Cl_2(g)\) \( + 2Na(Hg)\)</p>
+      <span class="box-eq">equação 2.7</span>
+    </div>
+  </div>
 </div>
 
 <p>Por sua vez, a amálgama de sódio-mercúrio que sai da primeira célula eletrolítica entra em uma segunda célula eletrolítica (célula secundária) onde agora a amálgama torna se o ânodo e o outro eletrodo (cátodo) em geral é feito em aço (ou ferro) ou grafita. Para que a reação de formação de hidróxido de sódio ocorra é injeta em contracorrente água purificada. O gás hidrogênio formado no cátodo, saturado com vapor de água, sai pela parte superior, juntamente com os vapores de mercúrio. A soda cáustica então flui para fora da célula com uma concentração entre 40-50%. Para se aumentar a concentração do \(NaOH\) é preciso aumentar a temperatura de operação da segunda célula, em temperaturas acima de 100 ºC é possível obter uma solução de hidróxido de sódio com concentração entre 70-75%. </p>
@@ -232,17 +263,32 @@ include("components/page-header.php");
 
 <p><span class="bold">a.</span> Reação química anódica:</p>
 <div class="box">
-  <p>\(2Na(Hg) \rightarrow 2Na^+(aq) + Hg\) \( + 2e^-\)</p>
+  <div class="formula">
+    <div class="line">
+      <p>\(2Na(Hg) \rightarrow 2Na^+(aq) + Hg\) \( + 2e^-\)</p>
+      <span class="box-eq">equação 2.8</span>
+    </div>
+  </div>
 </div>
 
 <p><span class="bold">b.</span> Reação química catódica:</p>
 <div class="box">
-  <p>\(2H_2O(l) + 2e^- \rightarrow 2OH^-(aq)\) \( + H_2(g)\)</p>
+  <div class="formula">
+    <div class="line">
+      <p>\(2H_2O(l) + 2e^- \rightarrow 2OH^-(aq)\) \( + H_2(g)\)</p>
+      <span class="box-eq">equação 2.9</span>
+    </div>
+  </div>
 </div>
 
 <p>Reação química global do processo:</p>
 <div class="box">
-  <p>\(2Na(Hg) + 2H_2O(l) \rightarrow\) \(2NaOH(aq) + Hg + H_2(g)\)</p>
+  <div class="formula pequena">
+    <div class="line">
+      <p>\(2Na(Hg) + 2H_2O(l) \rightarrow\) \(2NaOH(aq) + Hg + H_2(g)\)</p>
+      <span class="box-eq">equação 2.10</span>
+    </div>
+  </div>
 </div>
 
 <p>O gás de hidrogênio que é formado a partir das células de cloro-álcali é normalmente utilizado para a produção de ácido clorídrico ou utilizado como combustível para produzir vapor. No caso do hidrogênio, produzido pelas células de mercúrio, o mesmo precisa primeiramente ser purificado através do processo de congelamento (resfriamento), por que apresenta contaminação por mercúrio. Durante o resfriamento o mercúrio é separado do gás e, então pode ser devolvido para a primeira célula eletrolítica. Esse processo não é suficiente para remover todo o mercúrio presente no gás, assim, em geral, o hidrogênio passa por um tratamento secundário para remover o traço de mercúrio que ainda persiste. Esse tratamento consiste em passar o hidrogênio em uma coluna contendo uma peneira molecular. Finalmente, o gás hidrogênio é comprimido em cilindro.</p>

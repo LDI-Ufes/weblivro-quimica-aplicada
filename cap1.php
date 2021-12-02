@@ -14,25 +14,64 @@ include("components/page-header.php");
 <p><span class="bold">a. </span>No caso do sulfato de ferro (II) temos:</p>
 <!--LEGENDAR ESTEQUIOMETRIAS-->
 <div class="box">
-  <p>\(FeSO_4∙7H_2O\) \(\rightarrow\) \(FeSO_4 + 7H_2O\)</p>
-  <p>\(6FeSO_4 \rightarrow Fe_2(SO_4)_3 + 2Fe_2O_3\) \( + 3SO_3\)</p>
-  <p>ou</p>
-  <p>\(Fe_2(SO_4)_3\) \(\rightarrow\) \(Fe_2O_3 + 3SO_3\)</p>
+  <div class="formula">
+    <div class="line">
+      <p>\(FeSO_4∙7H_2O\) \(\rightarrow\) \(FeSO_4 + 7H_2O\)</p>
+      <span class="box-eq">equação 1.1</span>
+    </div>
+
+    <div class="line">
+      <p>\(6FeSO_4 \rightarrow Fe_2(SO_4)_3 + 2Fe_2O_3\) \( + 3SO_3\)</p>
+      <span class="box-eq">equação 1.2</span>
+    </div>
+
+    <p>ou</p>
+
+    <div class="line">
+      <p>\(Fe_2(SO_4)_3\) \(\rightarrow\) \(Fe_2O_3 + 3SO_3\)</p>
+      <span class="box-eq">equação 1.3</span>
+    </div>
+  </div>
 </div>
 
 <p><span class="bold">b.</span> No caso do sulfato de cobre(II) temos:</p>
 <div class="box">
-  <p>\(2CuSO_4∙5H_2O \rightarrow 2CuSO_4\) \( + 5H_2O\)</p>
-  <p>\(2CuSO_4\) \(\rightarrow\) \(2CuO + 2SO_2 + O_2\)</p>
-  <p>ou</p>
-  <p>\(CuSO_4\) \(\rightarrow\) \(CuO + SO_3\)</p>
+  <div class="formula">
+    <div class="line">
+      <p>\(2CuSO_4∙5H_2O \rightarrow 2CuSO_4\) \( + 5H_2O\)</p>
+      <span class="box-eq">equação 1.4</span>
+    </div>
+
+    <div class="line">
+      <p>\(2CuSO_4\) \(\rightarrow\) \(2CuO + 2SO_2 + O_2\)</p>
+      <span class="box-eq">equação 1.5</span>
+    </div>
+
+    <p>ou</p>
+
+    <div class="line">
+      <p>\(CuSO_4\) \(\rightarrow\) \(CuO + SO_3\)</p>
+      <span class="box-eq">equação 1.6</span>
+    </div>
+  </div>
 </div>
 
 <p>Então, em meio aquoso, ocorre a formação de uma solução ácida, como podemos verificar pelas seguintes reações químicas:</p>
 <div class="box-centro">
-  <p>\(H_2O + SO_3\) \(\rightarrow\) \(H_2SO_4\)</p>
-  <p>\(H_2O + SO_2\) \(\rightarrow\) \(H_2SO_3\)</p>
-  <p>\(2H_2SO_3 + O_2\) \(\rightarrow\) \(2H_2SO_4\)</p>
+  <div class="formula">
+    <div class="line">
+      <p>\(H_2O + SO_3\) \(\rightarrow\) \(H_2SO_4\)</p>
+      <span class="box-eq">equação 1.7</span>
+    </div>
+    <div class="line">
+      <p>\(H_2O + SO_2\) \(\rightarrow\) \(H_2SO_3\)</p>
+      <span class="box-eq">equação 1.8</span>
+    </div>
+    <div class="line">
+      <p>\(2H_2SO_3 + O_2\) \(\rightarrow\) \(2H_2SO_4\)</p>
+      <span class="box-eq">equação 1.9</span>
+    </div>
+  </div>
 </div>
 
 <p>Como o sulfato de ferro(II) heptaidratado e o sulfato de cobre(II) eram conhecidos como <em>Vitriolum Goslariense</em> e <em>Copper Vitriol</em>, devido a popularização deste método de obtenção do ácido sulfúrico, esse ácido ficou conhecido com o nome de <em>Spiritus Vitrioli</em> (ou <em>liquor vitrioli acidus primus</em>), preparado nos passos que envolviam a formação do dióxido de enxofre e de <em>Oleum Vitrioli</em> (ou <em>liquor vitrioli acidus secundus</em>), preparado nos passos que envolviam a formação de trióxido de enxofre.</p>
@@ -55,7 +94,12 @@ include("components/page-header.php");
 <p>O ácido sulfúrico é um líquido oleoso, sem cor, corrosivo que ferve (e se decompõe) a 300ºC. Ele tem três importantes propriedades químicas: é um ácido de BrØnsted forte, um agente desidratante e um agente oxidante. Como exemplo de propriedade desidratante, podemos citar a reação entre ácido sulfúrico concentrado com a sacarose. Ao entrar em contato com o açúcar, o mesmo é rapidamente desidratado se decompondo e produzindo uma massa espumosa de coloração negra, que se deve à presença dos átomos de carbono, representado pela seguinte reação química:</p>
 
 <div class="box-centro">
-  <p>\(C_{12}H_{22}O_{11}(s) \rightarrow 12C(s)\) \( + 11H_2O(l)\)</p>
+  <div class="formula">
+    <div class="line">
+      <p>\(C_{12}H_{22}O_{11}(s) \rightarrow 12C(s)\) \( + 11H_2O(l)\)</p>
+      <span class="box-eq">equação 1.10</span>
+    </div>
+  </div>
 </div>
 
 <p>O ácido sulfúrico é a matéria-prima mais importante na produção de fertilizantes, pois permite a extração dos nutrientes das rochas de fosfato, principal componente na fabricação dos produtos. Além disso, é crucial na indústria de celulose, sendo responsável pelo controle do pH e branqueamento do papel; na indústria siderúrgica, fazendo o acabamento superficial das chapas de aço. O ácido sulfúrico tem aplicações também nas indústrias química, de mineração e no tratamento de água. A Figura 1.2 apresenta dados referentes à produção do ácido sulfúrico no mercado brasileiro nas décadas de 1955 a 2005.</p>
@@ -70,103 +114,103 @@ include("components/page-header.php");
 <p><span class="boldSecundario">Tabela 1.1. </span>Empresas produtoras de ácido sulfúrico no Brasil.</p>
 
 <figure class="tabela">
-<table>
-  <tr>
-    <th>Produtor</th>
-    <th>Cidade</th>
-    <th>Estado</th>
-    <th>Região</th>
-  </tr>
-  <tr>
-    <td>Caraíba Metais</td>
-    <td>Dias D´Avila</td>
-    <td style="vertical-align:center" rowspan="3">Bahia</td>
-    <td rowspan="5">Norte/Nordeste</td>
-  </tr>
-  <tr>
-    <td>Galvani</td>
-    <td>Luis E. Magalhães</td>
-  </tr>
-  <tr>
-    <td>Millenium</td>
-    <td>Camaçari</td>
-  </tr>
-  <tr>
-    <td>Profertil</td>
-    <td>Sta. Luzia do Norte</td>
-    <td>Alagoas</td>
-  </tr>
-  <tr>
-    <td>Jari</td>
-    <td>M. Dourado</td>
-    <td>Amapá</td>
-  </tr>
-  <tr>
-    <td rowspan="3">Bunge</td>
-    <td>Cubatão</td>
-    <td rowspan="2">São Paulo</td>
-    <td rowspan="14">Sudeste</td>
-  </tr>
-  <tr>
-    <td>Cajati</td>
-  </tr>
-  <tr>
-    <td>Araxá</td>
-    <td>Minas Gerais</td>
-  </tr>
-  <tr>
-    <td rowspan="2">Copebrás</td>
-    <td>Catalão</td>
-    <td>Goiás</td>
-  </tr>
-  <tr>
-    <td>Cubatão</td>
-    <td>São Paulo</td>
-  </tr>
-  <tr>
-    <td>CPM</td>
-    <td>Juiz de Fora</td>
-    <td>Minas Gerais</td>
-  </tr>
-  <tr>
-    <td>Elekeiroz</td>
-    <td>Várzea Paulista</td>
-    <td>São Paulo</td>
-  </tr>
-  <tr>
-    <td>Fosfertil</td>
-    <td>Uberaba</td>
-    <td>Minas Gerais</td>
-  </tr>
-  <tr>
-    <td>Galvani</td>
-    <td>Paulínia</td>
-    <td>São Paulo</td>
-  </tr>
-  <tr>
-    <td>Minera de Metais</td>
-    <td>Três Marias </td>
-    <td rowspan="3">Minas Gerais</td>
-  </tr>
-  <tr>
-    <td>Morro Velho</td>
-    <td>Nova Lima</td>
-  </tr>
-  <tr>
-    <td>MSF</td>
-    <td>Fortaleza de Minas</td>
-  </tr>
-  <tr>
-    <td>Nitro Química</td>
-    <td>São Miguel Paulista</td>
-    <td rowspan="2">São Paulo</td>
-  </tr>
-  <tr>
-    <td>Ultrafertil</td>
-    <td>Cubatão</td>
-  </tr>
-</table>
-<figcaption>Fonte: ABIQUIM (Associação Brasileira das Indústrias Químicas).</figcaption>
+  <table>
+    <tr>
+      <th>Produtor</th>
+      <th>Cidade</th>
+      <th>Estado</th>
+      <th>Região</th>
+    </tr>
+    <tr>
+      <td>Caraíba Metais</td>
+      <td>Dias D´Avila</td>
+      <td style="vertical-align:center" rowspan="3">Bahia</td>
+      <td rowspan="5">Norte/Nordeste</td>
+    </tr>
+    <tr>
+      <td>Galvani</td>
+      <td>Luis E. Magalhães</td>
+    </tr>
+    <tr>
+      <td>Millenium</td>
+      <td>Camaçari</td>
+    </tr>
+    <tr>
+      <td>Profertil</td>
+      <td>Sta. Luzia do Norte</td>
+      <td>Alagoas</td>
+    </tr>
+    <tr>
+      <td>Jari</td>
+      <td>M. Dourado</td>
+      <td>Amapá</td>
+    </tr>
+    <tr>
+      <td rowspan="3">Bunge</td>
+      <td>Cubatão</td>
+      <td rowspan="2">São Paulo</td>
+      <td rowspan="14">Sudeste</td>
+    </tr>
+    <tr>
+      <td>Cajati</td>
+    </tr>
+    <tr>
+      <td>Araxá</td>
+      <td>Minas Gerais</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Copebrás</td>
+      <td>Catalão</td>
+      <td>Goiás</td>
+    </tr>
+    <tr>
+      <td>Cubatão</td>
+      <td>São Paulo</td>
+    </tr>
+    <tr>
+      <td>CPM</td>
+      <td>Juiz de Fora</td>
+      <td>Minas Gerais</td>
+    </tr>
+    <tr>
+      <td>Elekeiroz</td>
+      <td>Várzea Paulista</td>
+      <td>São Paulo</td>
+    </tr>
+    <tr>
+      <td>Fosfertil</td>
+      <td>Uberaba</td>
+      <td>Minas Gerais</td>
+    </tr>
+    <tr>
+      <td>Galvani</td>
+      <td>Paulínia</td>
+      <td>São Paulo</td>
+    </tr>
+    <tr>
+      <td>Minera de Metais</td>
+      <td>Três Marias </td>
+      <td rowspan="3">Minas Gerais</td>
+    </tr>
+    <tr>
+      <td>Morro Velho</td>
+      <td>Nova Lima</td>
+    </tr>
+    <tr>
+      <td>MSF</td>
+      <td>Fortaleza de Minas</td>
+    </tr>
+    <tr>
+      <td>Nitro Química</td>
+      <td>São Miguel Paulista</td>
+      <td rowspan="2">São Paulo</td>
+    </tr>
+    <tr>
+      <td>Ultrafertil</td>
+      <td>Cubatão</td>
+    </tr>
+  </table>
+  <figcaption>Fonte: ABIQUIM (Associação Brasileira das Indústrias Químicas).</figcaption>
 </figure>
 
 <h2 id="1-2">1.2. O processo de contato: fabricação do ácido sulfúrico</h2>
@@ -188,12 +232,22 @@ include("components/page-header.php");
 
 <p>A oxidação do \(SO_2\) a \(SO_3\) em uma usina de fabricação de ácido sulfúrico usando o método de contato leva em consideração a seguinte reação química:</p>
 <div class="box-centro">
-  <p>\(2SO_2(g) + O_2(g)\) \(\rightleftharpoons\) \(2SO_3(g)\)</p>
+  <div class="formula">
+    <div class="line">
+      <p>\(2SO_2(g) + O_2(g)\) \(\rightleftharpoons\) \(2SO_3(g)\)</p>
+      <span class="box-eq">equação 1.11</span>
+    </div>
+  </div>
 </div>
 
 <p>Que pode ser representada em termos da constante de equilíbrio por:</p>
 <div class="box-centro">
-  <p>\(K_p =\) \(\frac {P_{SO_3}}  {P_{SO_2} \times {P_{O_2}}^{1/2}}\)</p>
+  <div class="formula">
+    <div class="line">
+      <p>\(K_p =\) \(\frac {P_{SO_3}} {P_{SO_2} \times {P_{O_2}}^{1/2}}\)</p>
+      <span class="box-eq">equação 1.12</span>
+    </div>
+  </div>
 </div>
 
 <p>Onde K<sub>p</sub> representa a constate de equilíbrio para a reação química representa pela eq. 1.11 e \(P_{SO_3}\), \(P_{SO_2}\) e \(P_{O_2}\) são as pressões parciais do trióxido de enxofre, dióxido de enxofre e oxigênio, respectivamente. A Figura 1.4 apresenta o comportamento obtido quando o inverso da K<sub>p</sub> é colocado em função da temperatura.
@@ -232,12 +286,22 @@ include("components/page-header.php");
 <h3>Absorvedores de \(SO_3\)</h3>
 <p>Não se pode absorver o trióxido de enxofre em água, pois o contato entre essas duas substâncias produz uma névoa ácida difícil de ser absorvida. É de conhecimento notório que o ácido sulfúrico com concentração de 98,5-99,0 % é o agente mais eficiente para a absorção de trióxido de enxofre. Antes de o gás ser expelido para o ambiente ele passa por um sistema com absorvedores de \(SO_3\) contendo esse ácido. A reação química a seguir representa essa etapa do processo:</p>
 <div class="box-centro">
-  <p>\(H_2SO_4(l) + SO_3(g)\) \(\rightleftharpoons\) \(H_2S_2O_7(l)\)</p>
+  <div class="formula">
+    <div class="line">
+      <p>\(H_2SO_4(l) + SO_3(g)\) \(\rightleftharpoons\) \(H_2S_2O_7(l)\)</p>
+      <span class="box-eq">equação 1.13</span>
+    </div>
+  </div>
 </div>
 
 <p>Que reage com a água formando ácido sulfúrico concentrado:</p>
 <div class="box-centro">
-  <p>\(H_2S_2O_7(l) + H_2O(l)\) \(\rightleftharpoons\) \(2H_2SO_4(l)\)</p>
+  <div class="formula">
+    <div class="line">
+      <p>\(H_2S_2O_7(l) + H_2O(l)\) \(\rightleftharpoons\) \(2H_2SO_4(l)\)</p>
+      <span class="box-eq">equação 1.14</span>
+    </div>
+  </div>
 </div>
 <!-- FIGURA 1.5 -->
 <figure>
@@ -253,7 +317,8 @@ include("components/page-header.php");
 </figure>
 
 <!-- CRIAR CLASSES PARA ATIVIDADE -->
-<br><div class="atv">
+<br>
+<div class="atv">
   <h3 class="atividade">Atividade 1.1</h3>
   <p>Uma das etapas do processo industrial utilizado para a fabricação do ácido sulfúrico é a conversão de \(SO_2\) em \(SO_3\) segundo a reação:</p>
   <div class="box-centro">

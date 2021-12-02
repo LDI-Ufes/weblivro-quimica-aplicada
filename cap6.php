@@ -22,7 +22,8 @@ include("components/page-header.php");
 </figure>
 <p>Portanto, quanto maior a massa molar da matéria-prima, mais fácil seu craqueamento. Assim, parafinas saturadas e alcanos são mais fáceis de serem craqueados. Contudo, o craqueamento pode ser conduzido em qualquer tipo de matéria-prima visando alcançar um máximo de produção de olefinas e aromáticos associada a uma alta seletividade, além de se obter um mínimo de moléculas lineares pequenas, metano e hidrocarbonetos lineares com mais de cinco átomos de carbono. Logo, os tipos de produtos petroquímicos produzidos são altamente influenciados pela natureza dos hidrocarbonetos, pela temperatura de reação e pelo tempo de residência no processo de quebra. Os produtos finais da indústria petroquímica podem ser agrupados em seis categorias: plásticos, elastômeros, fibras, fertilizantes, solventes e especialidades.</p>
 
-<br><div class="atv">
+<br>
+<div class="atv">
     <h3 class="atividade">Atividade 6.1</h3>
     <p>Fazer um levantamento histórico de pelo menos três produtos de fontes petroquímicas que sejam classificados como especialidades.</p>
 </div>
@@ -51,7 +52,8 @@ include("components/page-header.php");
 <h3>Aromáticos</h3>
 <p>Os principais compostos aromáticos produzidos na indústria petroquímica são o benzeno, o tolueno e os xilenos, também conhecidos como BTX’s, e são obtidos, principalmente, nas unidades de reforma e craqueamento catalítico das refinarias. A reatividade dos componentes do BTX’s, que permite sua utilização na indústria, está relacionada ao anel benzênico. De forma geral, os compostos aromáticos são passíveis de reações de substituição eletrofílica. Dentre as reações possíveis que estes compostos podem sofrer estão: alquilação ou desalquilação, cloração, nitração, oxidação, hidrogenação, metátese e carbonilação, originando produtos principais ou intermediários, que podem reagir de forma semelhante para síntese dos produtos finais.</p>
 
-<br><div class="atv">
+<br>
+<div class="atv">
     <h3 class="atividade">Atividade 6.2</h3>
     <p>Na FISPQ (Ficha de Segurança de Produto Químico) dos componentes do BTX estes produtos são classificados como carcinogênicos e mutagênicos. Responder: </p>
     <p><span class="questao-letra">a) </span>O que isso significa? </p>
@@ -63,15 +65,29 @@ include("components/page-header.php");
 <p>O metanol é produzido através de uma reação catalítica entre os próprios constituintes do gás de síntese. Normalmente, adiciona-se \(CO_2\) ao meio para exaurir o excesso de hidrogênio do gás de síntese, de forma a se obter uma proporção de 3:1 de \(H_2\):\(CO\). As reações químicas de obtenção do metanol a partir do gás de síntese são mostradas pelas equações 6.1 e 6.2:</p>
 
 <div class="box-centro">
-    <p>\(CO(g) + 2H_2(g) \rightarrow CH_3OH(l)\)</p>
-    <p>\(CO_2(g) + 3H_2(g) \rightarrow CH_3OH(l)\) \( + H_2O(g)\)</p>
+    <div class="formula">
+        <div class="line">
+            <p>\(CO(g) + 2H_2(g) \rightarrow CH_3OH(l)\)</p>
+            <span class="box-eq">equação 6.1</span>
+        </div>
+
+        <div class="line">
+            <p>\(CO_2(g) + 3H_2(g) \rightarrow CH_3OH(l)\) \( + H_2O(g)\)</p>
+            <span class="box-eq">equação 6.2</span>
+        </div>
+    </div>
 </div>
 
 <p>O metanol pode então ser usado com diversos fins industriais, tais como: oxidação catalítica para síntese de formaldeído \((CHOH)\); reação com \(HCl\) na fase gasosa produzindo cloreto de metila \((CH_3Cl)\); reação de carbonilação produzindo ácido acético \((CH_3COOH)\), reações de adição com isobuteno ou isoamilenos produzindo éteres, entre outras.</p>
 <p>A amônia é produzida através da reação do hidrogênio com o nitrogênio atmosférico catalisada por ferro através do processo Harber, conforme reação química apresentadas na equação 6.3:</p>
 
 <div class="box-centro">
-    <p>\(N_2(g) + 3H_2(g) \rightarrow 2NH_3(g)\)</p>
+    <div class="formula">
+        <div class="line">
+            <p>\(N_2(g) + 3H_2(g) \rightarrow 2NH_3(g)\)</p>
+            <span class="box-eq">equação 6.3</span>
+        </div>
+    </div>
 </div>
 
 <p>A amônia é usada industrialmente para a produção de inúmeros outros compostos, como por exemplo: na produção de uréia (pela reação com \(CO_2\)), na produção do ácido nítrico (pela oxidação com ar), na produção de hidrazina, \(H_2N−NH_2\) (pela oxidação com \(NaClO\), processo <em>Rashig</em>, ou com \(H_2O_2\), processo <em>Puck</em>), além de poder ser alquilada com haletos de metila ou metanol para produzir metilaminas.</p>
@@ -90,8 +106,17 @@ include("components/page-header.php");
 <p>Os fertilizantes nitrogenados incluem a ureia \((NH_2COONH_2)\), o nitrato de amônio, o nitrato de cálcio e o sulfato de amônio. Em sua produção, amônia e ácido nítrico são obtidos como produtos intermediários. A produção de ureia é feita a partir da reação química entre o gás de amônia \((NH_3)\) e o gás carbônico, dióxido de carbono \((CO_2)\), conforme reações químicas ilustradas pelas equações 6.4 e 6.5:</p>
 
 <div class="box-centro">
-    <p>\(2NH_3(g) + CO_2(g) \rightarrow\) \(NH_2COONH_4(g)\)</p>
-    <p>\(NH_2COONH_4(g) \rightarrow\) \(NH_2COONH_2(s) + H_2(g)\)</p>
+    <div class="formula">
+        <div class="line">
+            <p>\(2NH_3(g) + CO_2(g) \rightarrow\) \(NH_2COONH_4(g)\)</p>
+            <span class="box-eq">equação 6.4</span>
+        </div>
+
+        <div class="line">
+            <p>\(NH_2COONH_4(g) \rightarrow\) \(NH_2COONH_2(s) + H_2(g)\)</p>
+            <span class="box-eq">equação 6.5</span>
+        </div>
+    </div>
 </div>
 
 <p>A ureia é usada, principalmente, como fertilizante, mas pode ser empregada na produção de adesivos e plásticos, bem como em ração animal.</p>
@@ -119,7 +144,8 @@ include("components/page-header.php");
 <p>Na polimerização em suspensão o meio reacional é composto pelo monômero, iniciador, meio dispersante (normalmente água) e um agente de suspensão. O monômero é insolúvel no meio dispersante e o iniciador é solúvel no monômero. As gotículas de monômero são mantidas em suspensão por ação de agitação mecânica e do agente de suspensão. Além disso, o agente de suspensão evita que as gotículas de monômero, e polímero que está sendo formado, grudem umas as outras durante o processo de polimerização. A polimerização em suspensão, muitas vezes é chamada de <span class="bold">polimerização em pérolas</span>.</p>
 <p>A polimerização em emulsão ocorre em um meio reacional composto por um agente de dispersão (normalmente água), monômero, iniciador, solúvel no meio dispersante, e <span class="bold">emulsificante</span>, também chamado de <span class="bold">tensoativo</span> ou <span class="bold">surfactante</span>. O emulsificante é composto por uma hidrocarbônica longa cadeia, hidrofóbica, e possui uma extremidade polar, hidrofílica. Em quantidades pequenas o emulsificante permanece disperso na água e na superfície das gotas de monômero promovendo sua estabilização. Quando a concentração micelar crítica, CMC, é atingida são formadas estruturas ordenadas de emulsificante chamadas de <span class="bold">micelas</span>. As micelas têm seus hidrofílicos orientados na direção da fase aquosa e os grupos hidrofóbicos orientados para seu interior (fase orgânica) devido a presença de monômero. Quando uma molécula de iniciador entra na micela a reação de polimerização é iniciada, e contínua até que outra molécula de iniciador entre na micela matando o crescimento da primeira cadeia polimérica. A reação de polimerização só será reiniciada se uma terceira molécula de iniciador entrar na micela. Assim, a polimerização em emulsão gera polímeros de altas massas molares.</p>
 
-<br><div class="atv">
+<br>
+<div class="atv">
     <h3 class="atividade">Atividade 6.3</h3>
     <p>Explicar a diferença entre a polimerização em suspensão da polimerização em emulsão.</p>
 </div>

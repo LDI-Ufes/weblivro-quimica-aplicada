@@ -1,19 +1,19 @@
 article {
+	// LISTAGEM -------- APERTE CTRL + F para procurar --------
 
-// LISTAGEM -------- APERTE CTRL + F para procurar --------
+	// 1. PERSONALIZAÇÃO
+	// 1.1 Personalização - Elementos Textuais
+	// 1.2 Personalização - Imagens
+	// 1.3 Personalização - Tabelas
+	// 1.4 Personalização - Listagem
 
-// 1. PERSONALIZAÇÃO
-		// 1.1 Personalização - Elementos Textuais
-		// 1.2 Personalização - Imagens
-		// 1.3 Personalização - Tabelas
-		// 1.4 Personalização - Listagem
+	// -------------------------------------------------------------
 
-// -------------------------------------------------------------
+	// 1.1 Personalização - Elementos Textuais
 
-
-// 1.1 Personalização - Elementos Textuais
-
-	a { color: var(--secundariaPrincipal); }
+	a {
+		color: var(--secundariaPrincipal);
+	}
 
 	.autor {
 		color: var(--primariaPrincipal);
@@ -76,63 +76,100 @@ article {
 		}
 	}
 
-	.bold{
+	.bold {
 		font-weight: $bold;
 		color: var(--primariaPrincipal);
 	}
 
-	.boldSecundario{
+	.boldSecundario {
 		font-weight: $bold;
 		color: var(--secundariaPrincipal);
 	}
 
-	.box{
-		background-color: var(--primariaOpacidade);
-		padding: 0.5rem 1.5rem 0.5rem 1.5rem;
-		line-height: 0.7em;
-		border-radius: 10px;
+	//estilos iguais para ambas as classes
+	.box,
+	.box-centro {
 		margin-bottom: 2rem;
+		padding: 0.5rem 1.5rem;
+		border-radius: 10px;
+		line-height: 0.7em;
+		overflow-x: auto;
+
+		.formula {
+			//tamanho "padrão"
+			min-width: 500px;
+			width: 100%;
+			white-space: nowrap;
+
+			&.pequena {
+				min-width: 560px;
+			}
+
+			&.media {
+				min-width: 640px;
+			}
+
+			&.longa {
+				min-width: 740px;
+			}
+
+			.line {
+				display: flex;
+				align-items: center;
+				justify-content: space-between;
+
+				.box-eq {
+					display: flex;
+					align-items: center;
+					width: 100%;
+					margin-left: 12px;
+
+					&::before {
+						border-bottom: 2px dotted var(--secundariaBorda);
+						content: "";
+						flex: 1;
+						margin-right: 8px;
+					}
+				}
+			}
+		}
 	}
 
-	.box-centro{
+	.box {
+		background-color: var(--primariaOpacidade);
+	}
+
+	.box-centro {
 		border: 2px solid var(--secundariaBorda);
-		border-radius: 10px;
-		margin-bottom: 2rem;
-		padding: 0.5rem 1.5rem 0.5rem 1.5rem;
-		line-height: 0.7em;
 		text-align: center;
 	}
 
-	.atv{
+	.atv {
 		border-top: 3px dotted var(--secundariaBorda);
 		border-bottom: 3px dotted var(--secundariaBorda);
-		
 	}
-
 	
 	.questao{
 		font-weight: $semibold;
 		color: var(--primariaPrincipal);
 	}
 
-
-	.questao-letra{
+	.questao-letra {
 		font-weight: $semibold;
 		color: var(--secundariaPrincipal);
 	}
 
-	.ref{
+	.ref {
 		color: var(--primariaPrincipal);
 	}
 
-	.caption{
+	.caption {
 		caption-side: bottom;
 		font-style: $sans;
 		font-size: 0.8em;
 	}
 
-
-// 1.2 Personalização - Imagens
+	// 1.2 Personalização - Imagens
 
 	figure {
 		.fonte {
@@ -151,9 +188,7 @@ article {
 		}
 	}
 
-
-
-// 1.3 Tabelas
+	// 1.3 Tabelas
 
 	.tabela {
 		overflow-x: auto;
@@ -211,13 +246,10 @@ article {
 			font-size: 1rem;
 		}
 
-		.lilas{
+		.lilas {
 			background-color: var(--primariaOpacidade);
 			border: 2px solid var(--primariaPrincipal);
 		}
-
-		
-		
 
 		th[scope="row"] {
 			background-color: var(--bordaPrimaria);
@@ -372,13 +404,12 @@ article {
 		}
 	}
 
-
 	// 1.4 Personalização - Listagem
 	.lista-assets {
 		li {
 			margin-left: 0;
 			line-height: 1.3;
-			padding-bottom: .4rem;
+			padding-bottom: 0.4rem;
 			&:before {
 				display: none;
 			}
@@ -389,13 +420,10 @@ article {
 		list-style-type: lower-alpha;
 		margin-left: 1rem;
 		line-height: 1.3;
-		padding-bottom: .4rem;
-		color:var(--primariaPrincipal);
+		padding-bottom: 0.4rem;
+		color: var(--primariaPrincipal);
 		&:before {
 			display: none;
-				
 		}
-				
 	}
-	
 }
