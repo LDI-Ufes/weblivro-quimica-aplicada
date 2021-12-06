@@ -272,6 +272,11 @@ include("components/page-header.php");
 
 <h3>Conversores</h3>
 <p>Existem conversores de passos múltiplos onde a conversão global se torna bastante elevada, próximo a 98% ou mais. Sendo que para se obter uma conversão elevada é preciso abaixar a temperatura sucessivamente entre os estágios do conversor. A Figura 1.5 mostra um típico conversor de quatro etapas.</p>
+<!-- FIGURA 1.5 -->
+<figure class = "retrato">
+  <img src="img/fig-1-5.jpg" alt="audiodescrição">
+  <figcaption><span class="bold">Figura 1.5.</span> Típico conversor em quatro etapas produzido pela empresa Monsanto Co, adaptado da ref. 3. <br> A - Catalisador de vanádio; B - visor; q - suporte de quartzo.</figcaption>
+</figure>
 <!-- FAZER CLASSE PARA BOX -->
 <div class="box">
   <p>Para se produzir uma tonelada de ácido sulfúrico 100% são necessários: 30 kg de enxofre; ~ 27 m<sup>3</sup> de água; um gasto em termos de eletricidade da ordem de 10 kWh; consumo de vapor de 1.000 kg; uma mão-de-obra de 0,18 homens-hora e finalmente um custo de aproximadamente 5% do capital.</p>
@@ -303,11 +308,7 @@ include("components/page-header.php");
     </div>
   </div>
 </div>
-<!-- FIGURA 1.5 -->
-<figure>
-  <img src="img/fig-1-5.jpg" alt="audiodescrição">
-  <figcaption><span class="bold">Figura 1.5.</span> Típico conversor em quatro etapas produzido pela empresa Monsanto Co, adaptado da ref. 3. A - Catalisador de vanádio; B - visor; q - suporte de quartzo.</figcaption>
-</figure>
+
 
 <p>A Figura 1.6 ilustra um típico eliminador de névoa do tipo Brink feito em fibra de vidro. Esse equipamento é usado nas indústrias de ácido sulfúrico durante o processo de concentração do ácido e nos fumos da chaminé.</p>
 <!-- FIGURA 1.6 -->
