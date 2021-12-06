@@ -126,6 +126,7 @@ article {
 
 					&::before {
 						border-bottom: 2px dotted var(--secundariaBorda);
+						opacity: .5;
 						content: "";
 						flex: 1;
 						margin-right: 8px;
@@ -145,6 +146,10 @@ article {
 	}
 
 	.atv {
+		.atividade {
+			margin-top: 1rem;
+		}
+
 		border-top: 3px dotted var(--secundariaBorda);
 		border-bottom: 3px dotted var(--secundariaBorda);
 	}
