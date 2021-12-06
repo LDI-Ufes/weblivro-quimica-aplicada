@@ -126,6 +126,7 @@ article {
 
 					&::before {
 						border-bottom: 2px dotted var(--secundariaBorda);
+						opacity: .5;
 						content: "";
 						flex: 1;
 						margin-right: 8px;
