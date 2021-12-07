@@ -252,7 +252,7 @@ include("components/page-header.php");
             <td>5.062</td>
         </tr>
     </table>
-    <figcaption>* Dados de 2011 não estão finalizados.<br>Fonte: Secex (Secretária de Comércio Exterior)</figcaption>
+    <figcaption>* Dados de 2011 não estão finalizados.<br>Fonte: Secex (Secretária de Comércio Exterior).</figcaption>
 </figure>
 
 <p>Na 3ª semana de fevereiro de 2012, a balança comercial registrou superávit de US$ 370 milhões, resultado de exportações no valor de US$ 4,703 bilhões e importações de US$ 4,333 bilhões. No mês, as exportações alcançaram US$ 12,394 bilhões, e as importações US$ 10,673 bilhões, com saldo positivo de US$ 1,721 bilhão. No ano, as exportações somam US$ 28,535 bilhões, as importações, US$ 28,106 bilhões, com saldo positivo de US$ 429 milhões, segundo dados divulgados pela Secex (Secretária de Comércio Exterior). A Figura 7.2 apresenta os dados relativos ao destino das exportações de Celulose brasileira nos anos de 2010 e 2011. Já a exportações em Papel a maior parte é centrada na América Latina, dados divulgados pelo Secex mostram que nos anos de 2010 e 2011 57-58% do total de exportações foram para essa região do globo.</p>
@@ -366,7 +366,7 @@ include("components/page-header.php");
             <td>-5,0%</td>
         </tr>
     </table>
-    <figcaption>Fonte: Bracelpa</figcaption>
+    <figcaption>Fonte: Bracelpa.</figcaption>
 </figure>
 
 <!-- TITULO DA TABELA 7.6 -->
@@ -645,12 +645,14 @@ include("components/page-header.php");
 </figure>
 
 <!-- QUADRO 7.1 -->
-<p><span class = "boldSecundario">Quadro 7.1.</span> Celulose – um polímero formado pelas moléculas de β-glicose</p>
-<div class="box-centro">
-    <img text-align="center" src="img/fig-7-7.jpg" alt="audiodescrição">
-</div>
+<figure>
+    <p><span class="boldSecundario">Quadro 7.1.</span> Celulose – um polímero formado pelas moléculas de β-glicose</p>
+    <div class="box-centro">
+        <img text-align="center" src="img/fig-7-7.jpg" alt="audiodescrição">
+    </div>
     <p>O esquema acima ilustra a formação da cadeia polimérica que caracteriza a estrutura da celulose. Como podemos ver a celulose se forma pela união de moléculas de β-glicose (uma hexosana) através de ligações β-1,4-glicosídicas. Em geral, a celulose tem massa molecular variável, com fórmula empírica \((C_6H_{10}O_5)n\), com um valor mínimo de \(n\) = 200 (tipicamente 300 a 700, podendo passar de 7000). As múltiplas ligações de hidrogênio entre os grupos hidroxilas das diferentes cadeias justapostas de glicose fazem da celulose uma estrutura linear e fibrosa. Outra característica interessante da celulose é sua impenetrabilidade em relação à água, tornando-a insolúveis nesse meio.</p>
-<caption>Fonte: <a class = "ref" target="_blank" href="http://pt.wikipedia.org/wiki/Celulose">http://pt.wikipedia.org/wiki/Celulose</a></caption>
+    <figcaption>Fonte: <a href="http://pt.wikipedia.org/wiki/Celulose" target="_blank" rel="noopener noreferrer">Wikipedia</a>.</figcaption>
+</figure>
 
 <h2 id="7.3">7.3. Construindo e fixando o conhecimento</h2>
 <p><span class="bold">1. </span> Descrever brevemente o processo Kraft para produzir Celulose e Papel.</p>
@@ -667,6 +669,6 @@ include("components/page-header.php");
 <p><a class="ref" target="_blank" href="http://www.risiinfo.com">http://www.risiinfo.com</a>. Acessado em: 21 fev. 2012.</p>
 <p><a class="ref" target="_blank" href="http://www.fibria.com.br">http://www.fibria.com.br</a>. Acessado em: 20 fev. 2012.</p>
 <p><a class="ref" target="_blank" href="http://www.bracelpa.org.br">http://www.bracelpa.org.br</a>. Acessado em: 15 jan. 2012.</p>
-<p><a class="ref" target="_blank" href="http://pt.wikipedia.org/wiki/Celulose">http://pt.wikipedia.org/wiki/Celulose. Acessado em: 05 abril 2012.</p>
+<p><a class="ref" target="_blank" href="http://pt.wikipedia.org/wiki/Celulose">http://pt.wikipedia.org/wiki/Celulose</a>. Acessado em: 05 abril 2012.</p>
 
 <?php include('components/page-footer.php'); ?>
