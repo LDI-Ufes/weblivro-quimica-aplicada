@@ -645,12 +645,14 @@ include("components/page-header.php");
 </figure>
 
 <!-- QUADRO 7.1 -->
-<p><span class = "boldSecundario">Quadro 7.1.</span> Celulose – um polímero formado pelas moléculas de β-glicose</p>
-<div class="box-centro">
-    <img text-align="center" src="img/fig-7-7.jpg" alt="audiodescrição">
-</div>
+<figure>
+    <p><span class="boldSecundario">Quadro 7.1.</span> Celulose – um polímero formado pelas moléculas de β-glicose</p>
+    <div class="box-centro">
+        <img text-align="center" src="img/fig-7-7.jpg" alt="audiodescrição">
+    </div>
     <p>O esquema acima ilustra a formação da cadeia polimérica que caracteriza a estrutura da celulose. Como podemos ver a celulose se forma pela união de moléculas de β-glicose (uma hexosana) através de ligações β-1,4-glicosídicas. Em geral, a celulose tem massa molecular variável, com fórmula empírica \((C_6H_{10}O_5)n\), com um valor mínimo de \(n\) = 200 (tipicamente 300 a 700, podendo passar de 7000). As múltiplas ligações de hidrogênio entre os grupos hidroxilas das diferentes cadeias justapostas de glicose fazem da celulose uma estrutura linear e fibrosa. Outra característica interessante da celulose é sua impenetrabilidade em relação à água, tornando-a insolúveis nesse meio.</p>
-<caption>Fonte: http://pt.wikipedia.org/wiki/Celulose</caption>
+    <figcaption>Fonte: <a href="http://pt.wikipedia.org/wiki/Celulose" target="_blank" rel="noopener noreferrer">Wikipedia</a></figcaption>
+</figure>
 
 <h2 id="7.3">7.3. Construindo e fixando o conhecimento</h2>
 <p><span class="bold">1. </span> Descrever brevemente o processo Kraft para produzir Celulose e Papel.</p>
