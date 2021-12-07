@@ -148,7 +148,7 @@ include("components/page-header.php");
       <td>13.900</td>
     </tr>
   </table>
-  <figcaption>Nota: D – diafragma; M – membrana; Hg – Mercúrio <br> Fonte: Abiclor </figcaption>
+  <figcaption>Nota: D – diafragma; M – membrana; Hg – Mercúrio <br> Fonte: Abiclor. </figcaption>
 </figure>
 
 <p>A soda cáustica registrou um crescimento de 0,5% na produção em relação ao ano de 2009. Já o consumo aparente (produção local mais importações, descontado o volume exportado) apresentou alta de 8,8%. As importações de soda foram 19,7% maiores que o volume registrado em 2009. Em oposição ao observado no caso do cloro, aproximadamente 10% da sua produção foi utilizada pelas industrias para produção de derivados (uso cativo). Sendo que os demais 90% foram vendidos no mercado interno para diversos segmentos industriais. Em 2010, ocorreu um aumento do consumo de soda cáustica em comparação ao ano de 2009 pelos setores químico/petroquímico e papel e celulose de 5,1% e 7,1%, respectivamente. Esses setores representam 22% e 25% do consumo de soda, respectivamente. A Figura 2.4 mostra a distribuição do consumo de soda cáustica em 2010 nos diferentes segmentos.</p>
