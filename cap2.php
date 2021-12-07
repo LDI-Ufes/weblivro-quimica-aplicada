@@ -313,7 +313,10 @@ include("components/page-header.php");
   <img src="img/fig-2-8.jpg" alt="audiodescrição">
   <figcaption><span class="bold">Figura 2.8.</span> Esquema da célula eletrolítica usando membrana para separa ânodo e cátodo. </figcaption>
 </figure>
-<!-- ESQUEMA 2.8.2: SERÁ IMAGEM OU CÓDIGO? -->
+<figure class = "retrato">
+  <img src="img/fig-2-8-2.jpg" alt="audiodescrição">
+  <figcaption><span class="bold">Diagrama 2.1.</span> Relação de vantagens e desvantagens do uso das células de eletrólise com membrana polimérica. </figcaption>
+</figure>
 <!-- TITULO DA TABELA 2.3 -->
 <p><span class="boldSecundario">Tabela 2.3.</span> Comparação entre as diferentes tecnologias para produção de cloro e soda cáustica.</p>
 <!-- TABELA 2.3 -->
