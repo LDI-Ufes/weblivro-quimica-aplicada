@@ -28,22 +28,22 @@ include("components/page-header.php");
 
 <h3>3.1.2. Principais matérias-primas</h3>
 <p>Várias são as matérias-primas usadas na produção dos diversos seguimentos da indústria cerâmica, no entanto, a argila, o feldspato e a areia são as principais matérias usadas na fabricação dos produtos clássicos. </p>
-<p>As argilas são silicatos de alumínio hidratados, formados pela ação do intemperismo nas rochas ígneas. Elas podem ser encontradas próximo de rios, muitas vezes formando barrancos nas margens e apresenta-se nas cores branca e vermelha. A argila forma uma família de minerais filossilicáticos hidratados, aluminosos de baixa cristalinidade e diminutas dimensões (partículas menores do que 1/256 mm ou 4 µm de diâmetro), composta pela caulinita \((Al_2O_3·2SiO_2·2H_2O)\), montmorillonita \(((Mg, Ca)O·5SiO_2·nH_2O)\), ilitas (\(K_2O\), \(MgO\), \(Al_2O_3\), \(SiO_2\), \(H_2O\) todas em proporções variáveis), dentre outras. Apresentam-se geralmente estáveis, nas condições termodinâmicas e geoquímicas da superfície e terrestre ou da crosta rasa. </p>
+<p>As argilas são silicatos de alumínio hidratados, formados pela ação do intemperismo nas rochas ígneas. Elas podem ser encontradas próximo de rios, muitas vezes formando barrancos nas margens e apresenta-se nas cores branca e vermelha. A argila forma uma família de minerais filossilicáticos hidratados, aluminosos de baixa cristalinidade e diminutas dimensões (partículas menores do que 1/256 mm ou 4 µm de diâmetro), composta pela caulinita <span class="nobreak">(Al<sub>2</sub>O<sub>3</sub>·2SiO<sub>2</sub>·2H<sub>2</sub>O)</span>, montmorillonita <span class="nobreak">((Mg, Ca)O·5SiO<sub>2</sub>·nH<sub>2</sub>O)</span>, ilitas (<span class="nobreak">K<sub>2</sub>O</span>, <span class="nobreak">MgO</span>, <span class="nobreak">Al<sub>2</sub>O<sub>3</sub></span>, <span class="nobreak">SiO<sub>2</sub></span>, <span class="nobreak">H<sub>2</sub>O</span> todas em proporções variáveis), dentre outras. Apresentam-se geralmente estáveis, nas condições termodinâmicas e geoquímicas da superfície e terrestre ou da crosta rasa. </p>
 <p>Do ponto de vista cerâmico, as argilas são plásticas e moldáveis quando suficientemente fragmentadas e úmidas. Por outro lado, são rígidas quando secas, e vitrosas quando queimadas em temperaturas elevadas. Em quase todas as argilas usadas na indústria de cerâmica, o mineral básico é a caulinita, embora às vezes se use a bentonita, cuja base é a montmorillonita, quando se deseja uma maior plasticidade. Como as argilas apresentam uma grande variação de suas propriedades físicas e na quantidade de impurezas (quantidades variáveis de feldspato, quartzo, óxidos de ferro, etc.) que contém, é necessário realizar um processo de beneficiamento das mesmas.</p>
 <p>Geralmente, esse beneficiamento refere-se a operações unitárias de natureza física, tais como a separação granulométrica por peneiramento ou decantação seletiva, filtração e secagem. A purificação química também pode ser usada para produzir materiais de elevada pureza, como a alumina e o óxido de titânio.</p>
-<p>O feldspato é o principal fundente empregado nas formulações cerâmicas. Ele pode estar presente na argila da jazida, ou pode ser adicionado conforme a necessidade. Os três tipo mais comuns de feldspatos usados na produção de produtos cerâmicos são os potássicos \((K_2O·Al_2O_3·6SiO_2)\), os sódicos \((Na_2O·Al_2O_3·6SiO_2)\) e os cálcicos \((CaO·Al_2O_3·6SiO_2)\). A seguir, tem-se a reação química de formação da caulinita a partir de um feldspato potássico:</p>
+<p>O feldspato é o principal fundente empregado nas formulações cerâmicas. Ele pode estar presente na argila da jazida, ou pode ser adicionado conforme a necessidade. Os três tipo mais comuns de feldspatos usados na produção de produtos cerâmicos são os potássicos <span class="nobreak">(K<sub>2</sub>O·Al<sub>2</sub>O<sub>3</sub>·6SiO<sub>2</sub>)</span>, os sódicos <span class="nobreak">(Na<sub>2</sub>O·Al<sub>2</sub>O<sub>3</sub>·6SiO<sub>2</sub>)</span> e os cálcicos <span class="nobreak">(CaO·Al<sub>2</sub>O<sub>3</sub>·6SiO<sub>2</sub>)</span>. A seguir, tem-se a reação química de formação da caulinita a partir de um feldspato potássico:</p>
 
 <!-- (isabela) coloquei fórmula por enquanto -->
 <div class="box-centro">
     <div class="formula longa">
         <div class="line">
-            <p>\(K_2O·Al_2O_3·6SiO_2 + CO_2 + 2H_2O \rightarrow\) \(K_2CO_3 + Al_2O_3·2SiO_2·2H_2O + 4SiO_2\)</p>
+            <p>K<sub>2</sub>O·Al<sub>2</sub>O<sub>3</sub>·6SiO<sub>2</sub> + CO<sub>2</sub> + 2H<sub>2</sub>O → K<sub>2</sub>CO<sub>3</sub>·Al<sub>2</sub>O<sub>3</sub>·2SiO<sub>2</sub>·2H<sub>2</sub>O + 4SiO<sub>2</sub></p>
             <span class="box-eq">equação 3.1</span>
         </div>
     </div>
 </div>
 
-<p>Por fim, o terceiro constituinte principal dos produtos cerâmicos é a areia ou sílica \((SiO_2)\). Segundo a NBR 7211/83, a areia divide-se, granulometricamente, em:</p>
+<p>Por fim, o terceiro constituinte principal dos produtos cerâmicos é a areia ou sílica <span class="nobreak">(2SiO<sub>2</sub>)</span>. Segundo a NBR 7211/83, a areia divide-se, granulometricamente, em:</p>
 <ul class="indentacao">
     <li> Areia muito fina (entre 0,15 mm e 0,6 mm);</li>
     <li> Areia fina (entre 0,6 mm e 1,2 mm);</li>
@@ -53,7 +53,7 @@ include("components/page-header.php");
 <div class="box">
     <p>Para os produtos cerâmicos de cor clara, é preciso usar areia com baixo teor de ferro.</p>
 </div>
-<p>Além dos três minerais descritos anteriormente, diversos outros componentes são usados na produção de cerâmicas, tais como: os fundentes - bórax \((Na_2B_4O_7·10H_2O)\); barrilha \((Na_2CO_3)\); fluorita \((CaF_2)\); oxido de chumbo; oxido de ferro; dentre outros e os refratários - alumina \((Al_2O_3)\); magnesita \((MgCO_3)\); calcário \((CaCO_3)\); dolomita \((CaMg(CO_3)_2)\); dentre outros.</p>
+<p>Além dos três minerais descritos anteriormente, diversos outros componentes são usados na produção de cerâmicas, tais como: os fundentes - bórax <span class="nobreak">(Na<sub>2</sub>B<sub>4</sub>O<sub>7</sub>·10H<sub>2</sub>O)</span>; barrilha <span class="nobreak">(Na<sub>2</sub>CO</sub>3)</span>; fluorita <span class="nobreak">(CaF<sub>2</sub>)</span>; oxido de chumbo; oxido de ferro; dentre outros e os refratários - alumina <span class="nobreak">(Al<sub>2</sub>O<sub>3</sub>)</span>; magnesita <span class="nobreak">(MgCO<sub>3</sub>)</span>; calcário <span class="nobreak">(CaCO<sub>3</sub>)</span>; dolomita <span class="nobreak">(CaMg(CO<sub>3</sub>)<sub>2</sub>)</span>; dentre outros.</p>
 
 <h3>3.1.3. Processos de conversão química</h3>
 <p>Basicamente todos os produtos cerâmicos são feitos pela combinação de quantidades adequadas dos componentes anteriormente citados. No entanto, para que esses materiais adquiram as características necessárias é preciso realizar o aquecimento dos mesmos até a temperatura de queima. Essas temperaturas podem variar de 700 a 2000 ºC e são responsáveis por várias reações químicas que constituem a base das seguintes reações: </p>
@@ -71,19 +71,19 @@ include("components/page-header.php");
 <div class="box-centro">
     <div class="formula pequena">
         <div class="line">
-            <p>\(Al_2O_3·2SiO_2·2H_2O \rightarrow Al_2O_3 + 2SiO_2\) \( + 2H_2O\)</p>
+            <p>Al<sub>2</sub>O<sub>3</sub>·2SiO<sub>2</sub>·2H<sub>2</sub>O → Al<sub>2</sub>O<sub>3</sub> + 2SiO<sub>2</sub> + 2H<sub>2</sub>O</p>
             <span class="box-eq">equação 3.2</span>
         </div>
     </div>
 </div>
 
-<p>O aumento da temperatura (940 ºC) promove uma transformação da alumina amorfa em uma forma cristalina conhecida como γ-alumina, sendo esse segundo processo exotérmico. Em seguida, um pequeno aumento da temperatura, começando em torno de 1000 ºC promove a combinação da sílica com a alumina para formar a mulita \((3Al_2O_3·2SiO_2)\). A uma temperatura ainda mais alta, a sílica remanescente é convertida a cristobalita cristalina. A reação química global para o aquecimento da argila é representada na eq. 3.3.</p>
+<p>O aumento da temperatura (940 ºC) promove uma transformação da alumina amorfa em uma forma cristalina conhecida como γ-alumina, sendo esse segundo processo exotérmico. Em seguida, um pequeno aumento da temperatura, começando em torno de 1000 ºC promove a combinação da sílica com a alumina para formar a mulita <span class="nobreak">(3Al<sub>2</sub>O<sub>3</sub>·2SiO<sub>2)</span>. A uma temperatura ainda mais alta, a sílica remanescente é convertida a cristobalita cristalina. A reação química global para o aquecimento da argila é representada na eq. 3.3.</p>
 <!-- ESTEQUIOMETRIA 3.3 SERÁ IMAGEM OU CÓDIGO? -->
 <!-- (isabela) coloquei fórmula por enquanto -->
 <div class="box-centro">
     <div class="formula media">
         <div class="line">
-            <p>\(3(Al_2O_3·2SiO_2·2H_2O) \rightarrow\) \(3Al_2O_3·2SiO_2 + 4SiO_2 + 6H_2O\)</p>
+            <p>3(Al<sub>2</sub>O<sub>3</sub>·2SiO<sub>2</sub>·2H<sub>2</sub>O) → 3Al<sub>2</sub>O<sub>3</sub> + 2SiO<sub>2</sub> + 4SiO<sub>2</sub> + 6H<sub>2</sub>O</p>
             <span class="box-eq">equação 3.3</span>
         </div>
     </div>
@@ -122,7 +122,7 @@ include("components/page-header.php");
 
 <p>O material britado é normalmente transportado para a fábrica por telas de borracha, sendo armazenado em silos verticais ou armazéns horizontais. Normalmente as telas possuem detectores de metais que as fazem parar o processo para retirada do material indesejado. Estes metais, que podem ser peças das máquinas da pedreira, podem provocar danos nas etapas seguintes.</p>
 <p>Os silos são depósitos que, além de armazenar, têm também o papel de homogeneizar o material britado e reduzir o desvio padrão da composição química dos mesmos.</p>
-<p>Em seguida, tem-se o processo de moagem, mais propriamente, moagem do “cru” que consiste na redução a pó da mistura de matérias primas, fazendo com que a dimensão dos grânulos fique compreendida entre 3 e 30 mm. Simultaneamente à moagem ocorre um processo de adição de outros materiais: areia \((SiO_2)\), cinzas de pirita \((Fe_2S)\), e bauxite \((Al_2O_3)\), de forma a obter as quantidades pretendidas dos compostos que constituem o "cru": cálcio, sílica, alumínio e ferro, essenciais para a fabricação do cimento. A moagem do “cru” pode ser realizada em um moinho de bolas. Os silos de armazenagem do material moído e da farinha crua também têm a função de homogeneização, que é muito importante para a economia de energia e um fator determinante para qualidade do produto final.</p>
+<p>Em seguida, tem-se o processo de moagem, mais propriamente, moagem do “cru” que consiste na redução a pó da mistura de matérias primas, fazendo com que a dimensão dos grânulos fique compreendida entre 3 e 30 mm. Simultaneamente à moagem ocorre um processo de adição de outros materiais: areia <span class="nobreak">(SiO<sub>2</sub>)</span>, cinzas de pirita <span class="nobreak">(Fe<sub>2</sub>S)</span>, e bauxite <span class="nobreak">(Al<sub>2</sub>O</sub>3)</span>, de forma a obter as quantidades pretendidas dos compostos que constituem o "cru": cálcio, sílica, alumínio e ferro, essenciais para a fabricação do cimento. A moagem do “cru” pode ser realizada em um moinho de bolas. Os silos de armazenagem do material moído e da farinha crua também têm a função de homogeneização, que é muito importante para a economia de energia e um fator determinante para qualidade do produto final.</p>
 <p>Depois da moagem do “cru” vem à operação de cozedura ou clinquerização, que origina, por reações químicas complexas, um produto granulado denominado clínquer. Antes do “cru” dar entrada no forno, ele tem que ser progressivamente aquecido até à temperatura de 850-900 ºC. Este processo de aquecimento ocorre na torre de ciclones que é constituída por vários ciclones sobrepostas verticalmente, em que cada um, é constituído por um cilindro e um cone na parte inferior, conforme esquematizado no desenho da Figura 3.2. O ar quente e poeiras provenientes do forno entram pela parte superior do ciclone inferior segundo uma tangente ao cilindro. Devido à configuração do ciclone, as partículas precipitam através da parte inferior enquanto que o ar quente parcialmente purificado escapa-se pela parte superior, passando ao ciclone imediatamente acima onde ocorre o mesmo processo até que, no último ciclone, o gás é liberado a uma temperatura de 900 ºC arrastando consigo, uma quantidade mínima de poeiras encaminhado-as para os eletrofiltros.</p>
 <!-- FIGURA 3.2 -->
 <figure class="lateral">
@@ -140,17 +140,17 @@ include("components/page-header.php");
 <div class="box-centro">
     <div class="formula">
         <div class="line">
-            <p>\(H_2O(l) \rightarrow H_2O(g)\) 539,6 cal g<sup>-1</sup></p>
+            <p>H<sub>2</sub>O(l) → H<sub>2</sub>O(g) <span class="cal">539,6 cal g<sup>-1</sup></span></p>
             <span class="box-eq">equação 3.4</span>
         </div>
     </div>
 </div>
 
-<p><span class="bold">II. Decomposição do carbonato de magnésio:</span> a decomposição da dolomita em \(MgO\) e \(CO_2\) tem início em 340 °C, porém a medida que o teor de cálcio aumenta, também se eleva a temperatura de decomposição.</p>
+<p><span class="bold">II. Decomposição do carbonato de magnésio:</span> a decomposição da dolomita em <span class="nobreak">MgO</span> e <span class="nobreak">CO<sub>2</sub></span> tem início em 340 °C, porém a medida que o teor de cálcio aumenta, também se eleva a temperatura de decomposição.</p>
 <div class="box-centro">
     <div class="formula">
         <div class="line">
-            <p>\(MgCO_3(s) \rightarrow MgO(s) + CO_2(g)\) 270 cal g<sup>-1</sup> </p>
+            <p>MgCO<sub>3</sub>(s) → MgO(s) + CO<sub>2</sub>(g) <span class="cal">270 cal g<sup>-1</sup></span></p>
             <span class="box-eq">equação 3.5</span>
         </div>
     </div>
@@ -161,40 +161,40 @@ include("components/page-header.php");
 <div class="box-centro">
     <div class="formula">
         <div class="line">
-            <p>\(CaCO_3(s) \rightarrow CaO + CO_2(g)\) 393 cal g<sup>-1</sup> </p>
+            <p>CaCO<sub>3</sub>(s) → CaO + CO<sub>2</sub>(g) <span class="cal">393 cal g<sup>-1</sup></span></p>
             <span class="box-eq">equação 3.6</span>
         </div>
     </div>
 </div>
 <p>Esta reação química que ocorre em <span class="bold">III</span>, conhecida como descarbonatação é uma das principais reações de obtenção do clínquer, devido ao grande consumo de energia que é necessário à sua realização e à influência sobre a velocidade de deslocamento de material no forno. Nos fornos com pré-calcinadores cerca de 94% da descarbonatação ocorre no pré-calcinador e o restante no forno. Em fornos sem pré-calcinadores cerca 60% ocorre nos ciclones. É imprescindível que a descarbonatação esteja completa para que o material penetre na zona de alta temperatura no forno (zona de clinquerização).</p>
 
-<p><span class="bold">IV. Desidroxilação das argilas: </span>as primeiras reações de formação do clínquer iniciam-se em 550 °C, com a desidroxilação da fração argilosa da farinha (cru). A argila perde a água combinada, que oscila entre 5 e 7%, dando origem a silicatos de alumínio e ferro altamente reativos com o \(CaO\) que está sendo liberado pela decomposição do calcário. A reação entre os óxidos liberados da argila e o calcário, é lenta e a princípio os compostos formados contém pouco \(CaO\) fixado. Com o aumento da temperatura a velocidade da reação aumenta e os compostos enriquecem em \(CaO\).</p>
+<p><span class="bold">IV. Desidroxilação das argilas: </span>as primeiras reações de formação do clínquer iniciam-se em 550 °C, com a desidroxilação da fração argilosa da farinha (cru). A argila perde a água combinada, que oscila entre 5 e 7%, dando origem a silicatos de alumínio e ferro altamente reativos com o <span class="nobreak">CaO</span> que está sendo liberado pela decomposição do calcário. A reação entre os óxidos liberados da argila e o calcário, é lenta e a princípio os compostos formados contém pouco <span class="nobreak">CaO</span> fixado. Com o aumento da temperatura a velocidade da reação aumenta e os compostos enriquecem em <span class="nobreak">CaO</span>.</p>
 
-<p><span class="bold">V. Formação do silicato dicálcico \((2CaO·SiO_2)\): </span>tem início em temperatura de 900 °C onde mesmo sílica livre e \(CaO\) já reagem lentamente. Na presença de ferro e alumínio esta reação química é acelerada.</p>
+<p><span class="bold">V. Formação do silicato dicálcico <span class="nobreak">(2CaO·SiO<sub>2</sub>)</span>: </span>tem início em temperatura de 900 °C onde mesmo sílica livre e <span class="nobreak">CaO</span> já reagem lentamente. Na presença de ferro e alumínio esta reação química é acelerada.</p>
 <div class="box-centro">
     <div class="formula">
         <div class="line">
-            <p>\(2CaO + SiO_2 \rightarrow\) \(2CaO·SiO_2\)</p>
+            <p>2CaO + SiO<sub>2</sub> → 2CaO·SiO<sub>2</sub></p>
             <span class="box-eq">equação 3.7</span>
         </div>
     </div>
 </div>
 
-<p><span class="bold">VI. Formação do silicato tricálcico \((3CaO·SiO_2)\): </span>inicia sua formação entre 1200 °C e 1300 °C a 1400 °C os produtos de reação são \(3CaO·SiO_2\), \(2CaO·SiO_2\), \(3CaO·Al_2O_3\) e \(4CaO·Al_2O_3·Fe_2O_3\) e o restante de \(CaO\) não combinado.</p>
+<p><span class="bold">VI. Formação do silicato tricálcico <span class="nobreak">(3CaO·SiO<sub>2</sub>)</span>: </span>inicia sua formação entre 1200 °C e 1300 °C a 1400 °C os produtos de reação são <span class="nobreak">3CaO·SiO<sub>2</sub></span>, <span class="nobreak">2CaO·SiO<sub>2</sub></span>, <span class="nobreak">3CaO·Al<sub>2</sub>O<sub>3</sub></span> e <span class="nobreak">4CaO·Al<sub>2</sub>O<sub>3</sub>·Fe<sub>2</sub>O<sub>3</sub></span> e o restante de <span class="nobreak">CaO</span> não combinado.</p>
 <div class="box-centro">
     <div class="formula">
         <div class="line">
-            <p>\(2CaO·SiO_2 + CaO \rightarrow\) \(3CaO·SiO_2\)</p>
+            <p>2CaO·SiO<sub>2</sub> + CaO → 3CaO·SiO<sub>2</sub></p>
             <span class="box-eq">equação 3.8</span>
         </div>
     </div>
 </div>
 
-<p><span class="bold">VII. Primeiro resfriamento: </span>o primeiro resfriamento ocorre dentro do forno, após o clínquer passar pela zona de máxima temperatura. Nesta etapa pode ocorrer a decomposição do \(3CaO·SiO_2\) segundo a reação:</p>
+<p><span class="bold">VII. Primeiro resfriamento: </span>o primeiro resfriamento ocorre dentro do forno, após o clínquer passar pela zona de máxima temperatura. Nesta etapa pode ocorrer a decomposição do <span class="nobreak">3CaO·SiO<sub>2</sub></span> segundo a reação:</p>
 <div class="box-centro">
     <div class="formula">
         <div class="line">
-            <p>\(3CaO·SiO_2 \rightarrow 2CaO·SiO_2\) \( +CaO\)</p>
+            <p>3CaO·SiO<sub>2</sub> → 2CaO·SiO<sub>2</sub> + CaO </p>
             <span class="box-eq">equação 3.9</span>
         </div>
     </div>
@@ -203,7 +203,7 @@ include("components/page-header.php");
     <p>A complementação das reações de clinquerização pode ser afetada pelo resfriamento sofrido pelo clínquer. Um resfriamento lento leva a um cimento de baixa qualidade.</p>
 </div>
 
-<p><span class="bold">VIII. Segundo resfriamento: </span>o segundo resfriamento ocorre abaixo de 1200 °C, já no resfriador. Este resfriamento lento também provoca uma maior corrosão dos cristais de \(3CaO·SiO_2\) pela penetração desta fase, nas bordas dos cristais, auxiliando a formação de \(2CaO·SiO_2\). O magnésio não combinado terá sua cristalização nesta etapa. Quanto mais lento for o resfriamento, maior será o desenvolvimento dos cristais de \(MgO\), aglutinando em zonas.</p>
+<p><span class="bold">VIII. Segundo resfriamento: </span>o segundo resfriamento ocorre abaixo de 1200 °C, já no resfriador. Este resfriamento lento também provoca uma maior corrosão dos cristais de <span class="nobreak">3CaO·SiO<sub>2</sub></span> pela penetração desta fase, nas bordas dos cristais, auxiliando a formação de <span class="nobreak">2CaO·SiO<sub>2</sub></span>. O magnésio não combinado terá sua cristalização nesta etapa. Quanto mais lento for o resfriamento, maior será o desenvolvimento dos cristais de <span class="nobreak">MgO</span>, aglutinando em zonas.</p>
 
 <br>
 <div class="atv">
