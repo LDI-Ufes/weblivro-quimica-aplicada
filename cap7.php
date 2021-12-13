@@ -195,7 +195,7 @@ include("components/page-header.php");
 </figure>
 <p>Nos dias atuais não há notícias de derrubada de árvores nativas para fabricação de papel, sendo que informações da Bracelpa e orgãos internacionais mostram que 100% da madeira utilizada têm origem em florestas plantadas de Eucalipto e Pinus. Dados obtidos pela Bracelpa mostram que em 1980 a produtividade média (m<sup>3</sup>/ha/ano) de madeira para celulose era de 24 para Eucalipto e 19 para Pinus. Em 2009 a produtividade passou para 44 para Eucalipto e 38 para Pinus. Esse valores correspondem a 83% e 100% de crescimento para Eucalipto e Pinus, respectivamente.</p>
 <p>Quando citamos floresta nativa estamos falando da flora composta de espécies de uma determinada região sem interferência humana. Já quando se fala de floresta plantada estamos nós referindo as florestas que se desenvolve a partir de intervenções controladas, as duas podem e vivem harmoniosamente uma com a outra. Devemos salientar aqui que as florestas plantadas são criadas para fins especificamente industriais, atendendo todas as exigências legais de um processo agrícola, levando em consideração todos os critérios de manejo florestal.</p>
-<p>Segundo a Bracelpa o Brasil alcançou uma posição de destaque no mercado global de Celulose e Papel por causa do seu manejo florestal sustentável aliado ao desenvolvimento tecnológico e genético, o qual é um dos pilares da competitividade mundial. Todos esse fatores tem levado o Brasil a uma alta produtividade e qualidade da madeira nos últimos anos, isto tem atraido muito investimentos para o país e fazem das florestas plantadas grandes aliadas do desenvolvimento socioeconômico. Podemos citar alguns benefícios oriundos destas florestas, tais como: áreas degradadas são recuperadas; agricultura mais eficiente; o uso de área com ocupação humana é otimizado; diminuição do impacto relacionados ao \(CO_2\); estimulação dos produtores; contribuição para preservar e manter a biodiversidade; contribuição para a prevenção da erosão do solo e do assoreamento dos rios; proteção dos recursos hídricos, etc.</p>
+<p>Segundo a Bracelpa o Brasil alcançou uma posição de destaque no mercado global de Celulose e Papel por causa do seu manejo florestal sustentável aliado ao desenvolvimento tecnológico e genético, o qual é um dos pilares da competitividade mundial. Todos esse fatores tem levado o Brasil a uma alta produtividade e qualidade da madeira nos últimos anos, isto tem atraido muito investimentos para o país e fazem das florestas plantadas grandes aliadas do desenvolvimento socioeconômico. Podemos citar alguns benefícios oriundos destas florestas, tais como: áreas degradadas são recuperadas; agricultura mais eficiente; o uso de área com ocupação humana é otimizado; diminuição do impacto relacionados ao CO<sub>2</sub>; estimulação dos produtores; contribuição para preservar e manter a biodiversidade; contribuição para a prevenção da erosão do solo e do assoreamento dos rios; proteção dos recursos hídricos, etc.</p>
 <p>A Tabela 7.4 apresenta dados relativos a balança comercial do setor nos anos de 2009, 2010 e 2011 (os dados de 2011 não estão finalizados). Os dados mostram que o saldo comercial para a Celulose é positiva com um aumento de 43,2% entre os anos de 2009 e 2010 e em comparação aos anos de 2010 e 2011 o saldo é de 5,1% positivo. Por outro lado os resultados mostram que o saldo relacionado ao papel é negativo em ambos os anos comparativos. Contudo, o saldo total é positivo de US$ 5.062.000,00 milhões de dólares.</p>
 <!--TITULO TABELA 7.4 -->
 <p><span class="boldSecundario">Tabela 7.4.</span> Balança comercial (em milhões de dólares).</p>
@@ -568,7 +568,7 @@ include("components/page-header.php");
     <img src="img/fig-7-5.jpg" alt="audiodescrição">
     <figcaption><span class="bold">Figura 7.5. </span>Representação esquemática do processo de polpação.</figcaption>
 </figure>
-<p>A lignina incrustada nos cavacos de madeira é quimicamente quebrada em fragmentos pelos íons hidroxilas \((OH^-)\) e hidrossulfitos \((SH^-)\) presentes no licor de polpação. Os fragmentos da lignina são então dissolvidos como íons fenolato ou carboxilato. Uma parte dos carboidratos (polioses) é também atacada quimicamente e dissolvida. Em geral, 80% da lignina e 50% das polioses são dissolvidas durante um cozimento típico de polpa branqueável. Por outro lado, ocorre uma menor dissolução de outros tipos de carboidratos, cerca de 10%. A Figura 7.6 mostra um esquema da metodologia do processo utilizado na preparação da polpa de papel.</p>
+<p>A lignina incrustada nos cavacos de madeira é quimicamente quebrada em fragmentos pelos íons hidroxilas (OH<sup>-</sup>) e hidrossulfitos (SH<sup>-</sup>) presentes no licor de polpação. Os fragmentos da lignina são então dissolvidos como íons fenolato ou carboxilato. Uma parte dos carboidratos (polioses) é também atacada quimicamente e dissolvida. Em geral, 80% da lignina e 50% das polioses são dissolvidas durante um cozimento típico de polpa branqueável. Por outro lado, ocorre uma menor dissolução de outros tipos de carboidratos, cerca de 10%. A Figura 7.6 mostra um esquema da metodologia do processo utilizado na preparação da polpa de papel.</p>
 <!-- FIGURA 7.6 -->
 <figure>
     <img src="img/fig-7-6.jpg" alt="audiodescrição">
@@ -594,7 +594,7 @@ include("components/page-header.php");
     <li> Água peneirada antes de ir para o esgoto;</li>
     <li> Usada em tipos de papel mais barato, Ex. papel de jornal, parede, embrulho;</li>
     <li> Pode ser melhorada com adição de uma pequena fração de polpa química;</li>
-    <li> Alvejamento: antigamente - bissulfeto de sódio ou cálcio; recentemente - ozônio; oxigênio, \(H_2O_2\), dióxido de cloro; </li>
+    <li> Alvejamento: antigamente - bissulfeto de sódio ou cálcio; recentemente - ozônio; oxigênio, H<sub>2</sub>O<sub>2</sub>, dióxido de cloro; </li>
     <li> Sempre um processo caro – adaptado ao material fibroso e o branco almejado .</li>
 </ul>
 <p>Existe uma grande vantagem quando as indústrias usam substâncias a base de oxigênio, tais como: ozônio, peróxido, pois isso permite que o efluente possa ser encaminhado para a caldeira de recuperação. Procedimento esse que não pode ser feito quando se usa cloro, pois o mesmo pode causar corrosão e/ou explosões. Além disso, esse tipo de reagente promove o circuito fechado de produção: sem a necessidade de água fresca e sem efluentes para fora do sistema.</p>
@@ -622,13 +622,13 @@ include("components/page-header.php");
         </tr>
         <tr>
             <td>Hidrólise das ligninas para alcoóis e ácidos</td>
-            <td>Reação com \(Ca(HSO_3)_2\)</td>
+            <td>Reação com Ca(HSO<sub>3</sub>)<sub>2</sub></td>
             <td>Sulfonação das ligninas e hidrólise das hemiceluloses</td>
         </tr>
         <tr>
-            <td>Solução a 12,5% de \(NaOH\), \(Na_2S\) e \(Na_2CO_3\)</td>
-            <td>7% em massa de \(SO_2\), 4,5% de ácido sulfuroso e 2,5% \(Ca(HSO_3)_2\)</td>
-            <td>Solução tamponada de \(Na_2S\) (100-200 g/L) com \(Na_2CO_3\)</td>
+            <td>Solução a 12,5% de NaOH, Na<sub>2</sub>S e Na<sub>2</sub>CO<sub>3</sub></td>
+            <td>7% em massa de SO<sub>2</sub>, 4,5% de ácido sulfuroso e 2,5% Ca(HSO<sub>3</sub>)<sub>2</sub></td>
+            <td>Solução tamponada de Na<sub>2</sub>S (100-200 g/L) com Na<sub>2</sub>CO<sub>3</sub></td>
         </tr>
         <tr>
             <td>Tanques e digestores feitos de aço ou aço inox. Difícil de alvejar, coloração parda.</td>
@@ -650,7 +650,7 @@ include("components/page-header.php");
     <div class="box-centro">
         <img text-align="center" src="img/fig-7-7.jpg" alt="audiodescrição">
     </div>
-    <p>O esquema acima ilustra a formação da cadeia polimérica que caracteriza a estrutura da celulose. Como podemos ver a celulose se forma pela união de moléculas de β-glicose (uma hexosana) através de ligações β-1,4-glicosídicas. Em geral, a celulose tem massa molecular variável, com fórmula empírica \((C_6H_{10}O_5)n\), com um valor mínimo de \(n\) = 200 (tipicamente 300 a 700, podendo passar de 7000). As múltiplas ligações de hidrogênio entre os grupos hidroxilas das diferentes cadeias justapostas de glicose fazem da celulose uma estrutura linear e fibrosa. Outra característica interessante da celulose é sua impenetrabilidade em relação à água, tornando-a insolúveis nesse meio.</p>
+    <p>O esquema acima ilustra a formação da cadeia polimérica que caracteriza a estrutura da celulose. Como podemos ver a celulose se forma pela união de moléculas de β-glicose (uma hexosana) através de ligações β-1,4-glicosídicas. Em geral, a celulose tem massa molecular variável, com fórmula empírica (C<sub>6</sub>H<sub>10</sub>O<sub>5</sub>)n, com um valor mínimo de n = 200 (tipicamente 300 a 700, podendo passar de 7000). As múltiplas ligações de hidrogênio entre os grupos hidroxilas das diferentes cadeias justapostas de glicose fazem da celulose uma estrutura linear e fibrosa. Outra característica interessante da celulose é sua impenetrabilidade em relação à água, tornando-a insolúveis nesse meio.</p>
     <figcaption>Fonte: <a href="http://pt.wikipedia.org/wiki/Celulose" target="_blank" rel="noopener noreferrer">Wikipedia</a>.</figcaption>
 </figure>
 
