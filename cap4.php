@@ -32,7 +32,7 @@ include("components/page-header.php");
 
 <p><span class="bold">2) Hematita:</span> óxido de ferro com fórmula química <span class="nobreak">Fe<sub>2</sub>O<sub>3</sub></span>, com um teor nominal de 69,5% de ferro, mas um teor real na faixa de 45 a 68%. É o tipo mais comum de minério de ferro e apresenta coloração avermelhada.</p>
 
-<p><span class="bold">3) Limonita:</span> composta, principalmente, de hematita hidrata, com fórmula química <span class="nobreak">Fe<sub>3</sub>O<sub>4</sub>∙H<sub>2</sub>O</span>, podendo conter de 1 a 3 moléculas de hidratação, portanto seu teor nominal de ferro também pode variar. O teor real de ferro encontra-se na faixa de 20 a 50% de ferro e apresenta uma coloração marrom, sendo considerado um minério relativamente pobre em ferro.</p>
+<p><span class="bold">3) Limonita:</span> composta, principalmente, de hematita hidrata, com fórmula química <span class="nobreak">Fe<sub>2</sub>O<sub>3</sub>∙H<sub>2</sub>O</span>, podendo conter de 1 a 3 moléculas de hidratação, portanto seu teor nominal de ferro também pode variar. O teor real de ferro encontra-se na faixa de 20 a 50% de ferro e apresenta uma coloração marrom, sendo considerado um minério relativamente pobre em ferro.</p>
 
 <p><span class="bold">4) Siderita:</span> composta por <span class="nobreak">FeCO<sub>3</sub></span> com um teor nominal de 48,3% de ferro e um teor real variando de 10 a 40% de ferro. Minério de baixa ocorrência, normalmente associada com hematita.</p>
 
@@ -44,7 +44,7 @@ include("components/page-header.php");
 <div class="box-centro">
     <div class="formula">
         <div class="line">
-            <p>Fe<sub>2</sub>O<sub>3</sub>∙H<sub>2</sub>O → Fe<sub>2</sub>O<sub>3</sub>(s) + H<sub>2</sub> <span class="cal">(T = 800 °C)</span></p>
+            <p>Fe<sub>2</sub>O<sub>3</sub>∙H<sub>2</sub>O → Fe<sub>2</sub>O<sub>3</sub>(s) + H<sub>2</sub>O(g) <span class="cal">(T = 800 °C)</span></p>
             <span class="box-eq">equação 4.1</span>
         </div>
     </div>
@@ -174,7 +174,7 @@ include("components/page-header.php");
         </div>
 
         <div class="line">
-            <p>4CO2(g) + 4C(s) → 8CO(g) <span class="cal">(T = 1000 °C)</span></p>
+            <p>4CO<sub>2</sub>(g) + 4C(s) → 8CO(g) <span class="cal">(T = 1000 °C)</span></p>
             <span class="box-eq">equação 4.13</span>
         </div>
     </div>
@@ -184,7 +184,7 @@ include("components/page-header.php");
 <div class="box-centro">
     <div class="formula">
         <div class="line">
-            <p>C(s) + O2(g) → CO2(g) <span class="cal">(T = 1800 °C)</span></p>
+            <p>C(s) + O<sub>2</sub>(g) → CO<sub>2</sub>(g) <span class="cal">(T = 1800 °C)</span></p>
             <span class="box-eq">equação 4.14</span>
         </div>
 
@@ -276,7 +276,7 @@ include("components/page-header.php");
 </div>
 <p>com ΔH = + 35 kcal mol<sup>-1</sup> e ΔG= -15 kcal mol<sup>-1</sup>.</p>
 
-<p>Os gases redutores produzidos são conduzidos a uma coluna de dolomita queimada, para retirada do enxofre que estava contido no coque. Este enxofre reage com o hidrogênio formado pela Equação 4.21 formando ácido sulfídrico, <span class="nobreak">(H<sub>2</sub>S)</span>, que reage com o cálcio da dolomita formando <span class="nobreak">(CaS)</span>. Após a retirada de enxofre a mistura redutora é encaminhada para o forno de redução onde reage com o minério em sistema contracorrente, como ocorre no alto-forno, à mistura entra pela parte inferior do forno e a carga pela parte superior. A redução ocorre conforme as reações químicas ilustradas pelas equações 4.22 e 4.23, na parte superior do forno:</p>
+<p>Os gases redutores produzidos são conduzidos a uma coluna de dolomita queimada, para retirada do enxofre que estava contido no coque. Este enxofre reage com o hidrogênio formado pela Equação 4.21 formando ácido sulfídrico, <span class="nobreak">H<sub>2</sub>S</span>, que reage com o cálcio da dolomita formando <span class="nobreak">CaS</span>. Após a retirada de enxofre a mistura redutora é encaminhada para o forno de redução onde reage com o minério em sistema contracorrente, como ocorre no alto-forno, à mistura entra pela parte inferior do forno e a carga pela parte superior. A redução ocorre conforme as reações químicas ilustradas pelas equações 4.22 e 4.23, na parte superior do forno:</p>
 <div class="box-centro">
     <div class="formula pequena">
         <div class="line">
@@ -285,7 +285,7 @@ include("components/page-header.php");
         </div>
 
         <div class="line">
-            <p>Fe<sub>2</sub>O<sub>3</sub>(s) + H2(g) → 2FeO(s) + H2O(g) <span class="cal">(T = 900 °C)</span> </p>
+            <p>Fe<sub>2</sub>O<sub>3</sub>(s) + H<sub>2</sub>(g) → 2FeO(s) + H<sub>2</sub>O(g) <span class="cal">(T = 900 °C)</span> </p>
             <span class="box-eq">equação 4.23</span>
         </div>
     </div>

@@ -43,7 +43,7 @@ include("components/page-header.php");
     </div>
 </div>
 
-<p>Por fim, o terceiro constituinte principal dos produtos cerâmicos é a areia ou sílica <span class="nobreak">(2SiO<sub>2</sub>)</span>. Segundo a NBR 7211/83, a areia divide-se, granulometricamente, em:</p>
+<p>Por fim, o terceiro constituinte principal dos produtos cerâmicos é a areia ou sílica <span class="nobreak">(SiO<sub>2</sub>)</span>. Segundo a NBR 7211/83, a areia divide-se, granulometricamente, em:</p>
 <ul class="indentacao">
     <li> Areia muito fina (entre 0,15 mm e 0,6 mm);</li>
     <li> Areia fina (entre 0,6 mm e 1,2 mm);</li>
@@ -53,7 +53,7 @@ include("components/page-header.php");
 <div class="box">
     <p>Para os produtos cerâmicos de cor clara, é preciso usar areia com baixo teor de ferro.</p>
 </div>
-<p>Além dos três minerais descritos anteriormente, diversos outros componentes são usados na produção de cerâmicas, tais como: os fundentes - bórax <span class="nobreak">(Na<sub>2</sub>B<sub>4</sub>O<sub>7</sub>·10H<sub>2</sub>O)</span>; barrilha <span class="nobreak">(Na<sub>2</sub>CO</sub>3)</span>; fluorita <span class="nobreak">(CaF<sub>2</sub>)</span>; oxido de chumbo; oxido de ferro; dentre outros e os refratários - alumina <span class="nobreak">(Al<sub>2</sub>O<sub>3</sub>)</span>; magnesita <span class="nobreak">(MgCO<sub>3</sub>)</span>; calcário <span class="nobreak">(CaCO<sub>3</sub>)</span>; dolomita <span class="nobreak">(CaMg(CO<sub>3</sub>)<sub>2</sub>)</span>; dentre outros.</p>
+<p>Além dos três minerais descritos anteriormente, diversos outros componentes são usados na produção de cerâmicas, tais como: os fundentes - bórax <span class="nobreak">(Na<sub>2</sub>B<sub>4</sub>O<sub>7</sub>·10H<sub>2</sub>O)</span>; barrilha <span class="nobreak">(Na<sub>2</sub>CO<sub>3</sub>)</span>; fluorita <span class="nobreak">(CaF<sub>2</sub>)</span>; oxido de chumbo; oxido de ferro; dentre outros e os refratários - alumina <span class="nobreak">(Al<sub>2</sub>O<sub>3</sub>)</span>; magnesita <span class="nobreak">(MgCO<sub>3</sub>)</span>; calcário <span class="nobreak">(CaCO<sub>3</sub>)</span>; dolomita <span class="nobreak">(CaMg(CO<sub>3</sub>)<sub>2</sub>)</span>; dentre outros.</p>
 
 <h3>3.1.3. Processos de conversão química</h3>
 <p>Basicamente todos os produtos cerâmicos são feitos pela combinação de quantidades adequadas dos componentes anteriormente citados. No entanto, para que esses materiais adquiram as características necessárias é preciso realizar o aquecimento dos mesmos até a temperatura de queima. Essas temperaturas podem variar de 700 a 2000 ºC e são responsáveis por várias reações químicas que constituem a base das seguintes reações: </p>

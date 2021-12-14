@@ -16,7 +16,7 @@ include("components/page-header.php");
 <div class="box">
   <div class="formula">
     <div class="line">
-      <p>FeSO<sub>4</sub>.7H<sub>2</sub>O → FeSO<sub>4</sub> + 7H<sub>2</sub>O</p>
+      <p>FeSO<sub>4</sub>∙7H<sub>2</sub>O → FeSO<sub>4</sub> + 7H<sub>2</sub>O</p>
       <span class="box-eq">equação 1.1</span>
     </div>
 
@@ -252,7 +252,7 @@ include("components/page-header.php");
   </div>
 </div>
 
-<p>Onde K<sub>p</sub> representa a constate de equilíbrio para a reação química representa pela eq. 1.11 e <span class="nobreak">PSO<sub>3</sub></span>, <span class="nobreak">PSO<sub>2</sub></span> e <span class="nobreak">PO<sub>2</sub></span> são as pressões parciais do trióxido de enxofre, dióxido de enxofre e oxigênio, respectivamente. A Figura 1.4 apresenta o comportamento obtido quando o inverso da K<sub>p</sub> é colocado em função da temperatura.
+<p>Onde K<sub>p</sub> representa a constate de equilíbrio para a reação química representa pela eq. 1.11 e <span class="nobreak">P<sub>SO<sub>3</sub></sub></span>, <span class="nobreak">P<sub>SO<sub>2</sub></sub></span> e <span class="nobreak">P<sub>O<sub>2</sub></sub></span> são as pressões parciais do trióxido de enxofre, dióxido de enxofre e oxigênio, respectivamente. A Figura 1.4 apresenta o comportamento obtido quando o inverso da K<sub>p</sub> é colocado em função da temperatura.
 </p>
 <p>Dados experimentais mostram que a conversão do <span class="nobreak">SO<sub>2</sub></span> diminui com o aumento de temperatura, assim, é sabido que a reação de formação de <span class="nobreak">SO<sub>3</sub></span> deve ser feita em temperatura mais baixo possível, levando em consideração o custo/benefício do processo. Como podemos ver por meio da equação 1.11, um aumento da pressão parcial do <span class="nobreak">SO<sub>2</sub></span> e do <span class="nobreak">O<sub>2</sub></span> favorece a conversão a <span class="nobreak">SO<sub>3</sub></span>.
 </p>
