@@ -70,7 +70,7 @@ include("components/page-header.php");
     <p><span class="bold">N-alquilação: </span>substituição de um hidrogênio ligado a um átomo de nitrogênio;</p>
     <p><span class="bold">C-alquilação: </span>substituição de um hidrogênio em hidrocarbonetos.</p>
 </div>
-<p>Dentre os processos de alquilação presentes na indústria farmacêutica, podemos destacar o da síntese do barbital. O barbital é um ácido dietilbarbitúrico da classe terapêutica dos sedativos e hipnóticos, vendido com o nome comercial de veronal. Ele é um dos mais antigos barbituratos de ação demorada, sendo sintetizado a partir do malonato de dietila pelos seguintes mecanismos de reações químicas esquematizadas na Figura 9.1.</p>
+<p>Dentre os processos de alquilação presentes na indústria farmacêutica, podemos destacar o da síntese do barbital. O barbital é um ácido dietilbarbitúrico da classe terapêutica dos sedativos e hipnóticos, vendido com o nome comercial de veronal. Ele é um dos mais antigos barbituratos de ação demorada, sendo sintetizado a partir do malonato de dietila pelos seguintes mecanismos de reações químicas esquematizadas na Figura 9.2.</p>
 <!-- FIGURA E FÓRMULAS 9.2 -->
 <figure>
     <img src="img/fig-9-2.svg" alt="audiodescrição">
@@ -80,7 +80,7 @@ include("components/page-header.php");
 <p>A carboxilação é definida como um processo de introdução do grupamento carboxila <span class="nobreak">(–COOH)</span> por reações com dióxido de carbono <span class="nobreak">(CO<sub>2</sub>)</span>, em compostos orgânicos. Ela é bastante empregada na produção do ácido salicílico e seus derivados (aspirina, salol, salicilato de metila). A síntese destes compostos se dá a partir de uma reação de carboxilação conhecida como reação de Kolbe-Schimitt esquematizada por meio do mecanismo reacional mostrado na Figura 9.2. </p>
 <!-- FIGURA E FÓRMULAS 9.3 -->
 <figure>
-    <img src="img/fig-9-3.jpg" alt="audiodescrição">
+    <img src="img/fig-9-3.svg" alt="audiodescrição">
     <figcaption><span class="bold">Figura 9.3. </span>Esquema de reações químicas para a preparação do Salicilato de metila.</figcaption>
 </figure>
 <h3>Condensação</h3>
@@ -88,7 +88,7 @@ include("components/page-header.php");
 <p>Destaque especial é dado à fenolftaleína, um composto amplamente usado como purgativo, e que também é bastante conhecido na química analítica, especialmente na análise volumétrica, por ser empregado como indicador do ponto final em titulações ácido/base. Ele é produzido pelo esquema reacional apresentado na Figura 9.3.</p>
 <!-- FIGURA E FÓRMULAS 9.4 -->
 <figure>
-    <img src="img/fig-9-4.jpg" alt="audiodescrição">
+    <img src="img/fig-9-4.svg" alt="audiodescrição">
     <figcaption><span class="bold">Figura 9.4. </span>Esquema de reações químicas para a preparação da Fenolftaleína.</figcaption>
 </figure>
 <p>O produto da reação de condensação é adicionado ainda aquecido em água fervente e posteriormente fervido. Em seguida o condensado é dissolvido em soda cáustica <span class="nobreak">(NaOH)</span> quente diluída e precipitado com ácido acético <span class="nobreak">(H<sub>3</sub>COOH)</span>. Por fim, ele é purificado por cristalização a partir de um álcool e filtrado com carvão ativo. </p>
@@ -111,7 +111,7 @@ include("components/page-header.php");
 <p>A ioniazida é produzida pela oxidação da 4-Metilpiridina, de acordo com o esquema reacional representado pela equação 9.4.</p>
 <!-- FIGURA 9.5 -->
 <figure>
-    <img src="img/fig-9-5.jpg" alt="audiodescrição">
+    <img src="img/fig-9-5.svg" alt="audiodescrição">
     <figcaption><span class="bold">Figura 9.5. </span>Esquema de reações químicas para a preparação da sulfadiazina.</figcaption>
 </figure>
 <h3>Fermentação</h3>
