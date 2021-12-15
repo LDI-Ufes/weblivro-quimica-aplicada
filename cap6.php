@@ -29,7 +29,7 @@ include("components/page-header.php");
 </div>
 
 <h3>Eteno</h3>
-<p>O eteno, também chamado de etileno, é a principal matéria-prima da indústria petroquímica devido a seu baixo custo, ampla disponibilidade e alta pureza. Essa importância é consequência de suas propriedades e a aspectos econômicos, dentre os quais se destacam: sua estrutura simples e com reatividade alta; produção relativamente barata; facilidade de produção a partir de qualquer hidrocarboneto por craqueamento, com alto rendimento; pequena quantidade de subprodutos produzidos por reações do etileno com outros compostos do que nas reações com outras olefinas (por exemplo, as reações com \(Cl_2,\) \(HCl,\) \(O_2\) e \(H_2O\)). Portanto, produtos de grande importância são obtidos com alto rendimento e baixo custo de produção.</p>
+<p>O eteno, também chamado de etileno, é a principal matéria-prima da indústria petroquímica devido a seu baixo custo, ampla disponibilidade e alta pureza. Essa importância é consequência de suas propriedades e a aspectos econômicos, dentre os quais se destacam: sua estrutura simples e com reatividade alta; produção relativamente barata; facilidade de produção a partir de qualquer hidrocarboneto por craqueamento, com alto rendimento; pequena quantidade de subprodutos produzidos por reações do etileno com outros compostos do que nas reações com outras olefinas (por exemplo, as reações com <span class="nobreak">Cl<sub>2</sub></span>, <span class="nobreak">HCl</span>, <span class="nobreak">O<sub>2</sub></span> e <span class="nobreak">H<sub>2</sub>O</span>). Portanto, produtos de grande importância são obtidos com alto rendimento e baixo custo de produção.</p>
 <p>As reações químicas, da substância eteno, são responsáveis pela produção de cerca de 30% de todos os produtos petroquímicos, sendo o óxido de etileno e o dicloroetano os compostos mais importantes. Os derivados do eteno são usados nas mais diversas aplicações, tais como: plásticos, anticongelantes, solventes, material de vestuário, entre outras. Dentre as reações possíveis a ser realizadas com o eteno destacam-se: oxidação, carbonilação oxidativa, cloração, hidratação, alquilação, oligomerização e polimerização. Dois exemplos de sequência de produção partindo do eteno são: a produção do óxido de etileno e subsequente obtenção de outros produtos comerciais como etilenoglicois, etanolaminas e alcoóis etoxilados; e a produção do 1,2-dicloroetano, pela cloração direta do eteno, para obtenção do cloreto de vinila e posterior polimerização e obtenção do poli(cloreto de vinila), PVC. A cadeia produtiva do eteno é mostrada por meio do esquema apresentado na Figura 6.2.</p>
 <!--FIGURA 6.2 -->
 <figure>
@@ -39,7 +39,7 @@ include("components/page-header.php");
 
 <h3>Propeno</h3>
 <p>O propeno, também chamado de propileno, é a segunda matéria-prima de maior importância na indústria petroquímica, perdendo posição apenas para o eteno. O propeno nunca é obtido como produto principal, sendo, portanto um subproduto de reações de craqueamento, com cerca de dois terços obtidos nas refinarias e um terço no craqueamento da nafta e do etano.</p>
-<p>Praticamente todas as reações conduzidas com o eteno podem ser realizadas com o propeno. Merece destaque as reações de: oxidação, cloração, hidratação, alquilação, adição de ácidos orgânicos, oxiacilação (reação com ácido acético e oxigênio), hidroformilação (reação com \(CO\) e hidrogênio), metátese ou desproporcionação catalítica (reação de conversão do propeno a outras olefinas, de massa molar distinta). São exemplos de aplicações de compostos obtidos a partir do propeno: a produção de plásticos e resinas a partir da acrilonitrila (obtida da reação do propeno com amônia e oxigênio); e a produção de glicerol e propileno glicol, para fabricação de espumas de poliuretano, resinas de poliéster, cosméticos, fluidos de freio, plastificantes, xaropes e detergentes, a partir do óxido de propileno (obtido na reação do propeno com ácido hipocloroso e \(Ca(OH)_2\) ou através de epoxidação). A cadeia produtiva do propeno é mostrada por meio do esquema apresentado na Figura 6.3.</p>
+<p>Praticamente todas as reações conduzidas com o eteno podem ser realizadas com o propeno. Merece destaque as reações de: oxidação, cloração, hidratação, alquilação, adição de ácidos orgânicos, oxiacilação (reação com ácido acético e oxigênio), hidroformilação (reação com <span class="nobreak">CO</span> e hidrogênio), metátese ou desproporcionação catalítica (reação de conversão do propeno a outras olefinas, de massa molar distinta). São exemplos de aplicações de compostos obtidos a partir do propeno: a produção de plásticos e resinas a partir da acrilonitrila (obtida da reação do propeno com amônia e oxigênio); e a produção de glicerol e propileno glicol, para fabricação de espumas de poliuretano, resinas de poliéster, cosméticos, fluidos de freio, plastificantes, xaropes e detergentes, a partir do óxido de propileno (obtido na reação do propeno com ácido hipocloroso e <span class="nobreak">Ca(OH)<sub>2</sub></span> ou através de epoxidação). A cadeia produtiva do propeno é mostrada por meio do esquema apresentado na Figura 6.3.</p>
 <!--FIGURA 6.3-->
 <figure>
     <img src="img/fig-6-3.jpg" alt="audiodescrição">
@@ -47,7 +47,7 @@ include("components/page-header.php");
 </figure>
 
 <h3>Butenos e Butadienos</h3>
-<p>Os butenos e o butadieno são obtidos como subprodutos de processos de refino de petróleo e durante a produção do eteno, por reações de craqueamento. Eles são usados como matéria-prima para uma quantidade de produtos químicos menores do que os obtidos do eteno e do propeno, porém grandes quantidades são manufaturadas dos os produtos obtidos dessas olefinas, tais como o metil-t-butil-éter, a adiponitrila, o 1,4-butanodiol e o polibutadieno. Os butenos são mais empregados na indústria química que o butadieno, que é mais usado na produção de borracha sintética para a fabricação de pneus. A partir dos n-butenos, produz-se o 2-butanol, que é usado na obtenção da metiletilcetona, também chamada de acetona, amplamente usada como solvente. O butadieno \((CH_2{=}CH–CH{=}CH_2)\) é usado na produção do cloropreno \([CH_2{=}C(Cl)CH{=}CH_2]\), que forma um polímero resistente a óleo e solvente, uma borracha denominada neoprene. Quando o butadieno reage com ácido adípico \([HOOC(CH_2)_4COOH]\) e amônia, é produzido hexametilenodiamina \([H_2N–(CH_2)_6–NH_2]\), conhecido comercialmente como <em>Nylon 6/6</em>. As reações com buteno e butadieno incluem a oxidação, hidratação, metátese, isomerização, dimerização, oligomerização, epoxidação e carbonilação das olefinas.</p>
+<p>Os butenos e o butadieno são obtidos como subprodutos de processos de refino de petróleo e durante a produção do eteno, por reações de craqueamento. Eles são usados como matéria-prima para uma quantidade de produtos químicos menores do que os obtidos do eteno e do propeno, porém grandes quantidades são manufaturadas dos os produtos obtidos dessas olefinas, tais como o metil-t-butil-éter, a adiponitrila, o 1,4-butanodiol e o polibutadieno. Os butenos são mais empregados na indústria química que o butadieno, que é mais usado na produção de borracha sintética para a fabricação de pneus. A partir dos n-butenos, produz-se o 2-butanol, que é usado na obtenção da metiletilcetona, também chamada de acetona, amplamente usada como solvente. O butadieno <span class="nobreak">(CH<sub>2</sub>=CH–CH=CH<sub>2</sub>)</span> é usado na produção do cloropreno <span class="nobreak">[CH<sub>2</sub>=C(Cl)CH=CH<sub>2</sub>]</span>, que forma um polímero resistente a óleo e solvente, uma borracha denominada neoprene. Quando o butadieno reage com ácido adípico <span class="nobreak">[HOOC(CH<sub>2</sub>)<sub>4</sub>COOH]</span> e amônia, é produzido hexametilenodiamina <span class="nobreak">[H<sub>2</sub>N–(CH<sub>2</sub>)<sub>6</sub>–NH<sub>2</sub>]</span>, conhecido comercialmente como <em>Nylon 6/6</em>. As reações com buteno e butadieno incluem a oxidação, hidratação, metátese, isomerização, dimerização, oligomerização, epoxidação e carbonilação das olefinas.</p>
 
 <h3>Aromáticos</h3>
 <p>Os principais compostos aromáticos produzidos na indústria petroquímica são o benzeno, o tolueno e os xilenos, também conhecidos como BTX’s, e são obtidos, principalmente, nas unidades de reforma e craqueamento catalítico das refinarias. A reatividade dos componentes do BTX’s, que permite sua utilização na indústria, está relacionada ao anel benzênico. De forma geral, os compostos aromáticos são passíveis de reações de substituição eletrofílica. Dentre as reações possíveis que estes compostos podem sofrer estão: alquilação ou desalquilação, cloração, nitração, oxidação, hidrogenação, metátese e carbonilação, originando produtos principais ou intermediários, que podem reagir de forma semelhante para síntese dos produtos finais.</p>
@@ -61,36 +61,36 @@ include("components/page-header.php");
 </div>
 
 <h3>Gás de Síntese</h3>
-<p>O gás de síntese é um a mistura de dois gases fortemente redutores, o \(H_2\) e o \(CO\), sendo produzido, primordialmente, pela reforma a vapor de água do gás natural, mas pode ser obtido também a partir de outras fontes de hidrocarbonetos, tais como esterco, carvão e resíduos de petróleo cru. A proporção de \(H_2\) e \(CO\) na mistura não é fixa e é fortemente dependente do tipo de carga, do método de produção e do destino a ser dado ao gás. O gás de síntese é um intermediário importante na produção de diversos produtos finais, tais como metanol e amônia, as duas substâncias químicas importantes baseadas no gás de síntese.</p>
-<p>O metanol é produzido através de uma reação catalítica entre os próprios constituintes do gás de síntese. Normalmente, adiciona-se \(CO_2\) ao meio para exaurir o excesso de hidrogênio do gás de síntese, de forma a se obter uma proporção de 3:1 de \(H_2\):\(CO\). As reações químicas de obtenção do metanol a partir do gás de síntese são mostradas pelas equações 6.1 e 6.2:</p>
+<p>O gás de síntese é um a mistura de dois gases fortemente redutores, o <span class="nobreak">H<sub>2</sub></span> e o <span class="nobreak">CO</span>, sendo produzido, primordialmente, pela reforma a vapor de água do gás natural, mas pode ser obtido também a partir de outras fontes de hidrocarbonetos, tais como esterco, carvão e resíduos de petróleo cru. A proporção de <span class="nobreak">H<sub>2</sub></span> e <span class="nobreak">CO</span> na mistura não é fixa e é fortemente dependente do tipo de carga, do método de produção e do destino a ser dado ao gás. O gás de síntese é um intermediário importante na produção de diversos produtos finais, tais como metanol e amônia, as duas substâncias químicas importantes baseadas no gás de síntese.</p>
+<p>O metanol é produzido através de uma reação catalítica entre os próprios constituintes do gás de síntese. Normalmente, adiciona-se <span class="nobreak">CO<sub>2</sub></span> ao meio para exaurir o excesso de hidrogênio do gás de síntese, de forma a se obter uma proporção de 3:1 de <span class="nobreak">H<sub>2</sub></span>:<span class="nobreak">CO</span>. As reações químicas de obtenção do metanol a partir do gás de síntese são mostradas pelas equações 6.1 e 6.2:</p>
 
 <div class="box-centro">
     <div class="formula">
         <div class="line">
-            <p>\(CO(g) + 2H_2(g) \rightarrow CH_3OH(l)\)</p>
+            <p>CO(g) + 2H<sub>2</sub>(g) → CH<sub>3</sub>OH(l)</p>
             <span class="box-eq">equação 6.1</span>
         </div>
 
         <div class="line">
-            <p>\(CO_2(g) + 3H_2(g) \rightarrow CH_3OH(l)\) \( + H_2O(g)\)</p>
+            <p>CO<sub>2</sub>(g) + 3H<sub>2</sub>(g) → CH3OH(l) + H<sub>2</sub>O(g)</p>
             <span class="box-eq">equação 6.2</span>
         </div>
     </div>
 </div>
 
-<p>O metanol pode então ser usado com diversos fins industriais, tais como: oxidação catalítica para síntese de formaldeído \((CHOH)\); reação com \(HCl\) na fase gasosa produzindo cloreto de metila \((CH_3Cl)\); reação de carbonilação produzindo ácido acético \((CH_3COOH)\), reações de adição com isobuteno ou isoamilenos produzindo éteres, entre outras.</p>
+<p>O metanol pode então ser usado com diversos fins industriais, tais como: oxidação catalítica para síntese de formaldeído <span class="nobreak">(CHOH)</span>; reação com <span class="nobreak">HCl</span> na fase gasosa produzindo cloreto de metila <span class="nobreak">(CH<sub>3</sub>Cl)</span>; reação de carbonilação produzindo ácido acético <span class="nobreak">(CH<sub>3</sub>COOH)</span>, reações de adição com isobuteno ou isoamilenos produzindo éteres, entre outras.</p>
 <p>A amônia é produzida através da reação do hidrogênio com o nitrogênio atmosférico catalisada por ferro através do processo Harber, conforme reação química apresentadas na equação 6.3:</p>
 
 <div class="box-centro">
     <div class="formula">
         <div class="line">
-            <p>\(N_2(g) + 3H_2(g) \rightarrow 2NH_3(g)\)</p>
+            <p>N<sub>2</sub>(g) + 3H<sub>2</sub>(g) → 2NH<sub>3</sub>(g)</p>
             <span class="box-eq">equação 6.3</span>
         </div>
     </div>
 </div>
 
-<p>A amônia é usada industrialmente para a produção de inúmeros outros compostos, como por exemplo: na produção de uréia (pela reação com \(CO_2\)), na produção do ácido nítrico (pela oxidação com ar), na produção de hidrazina, \(H_2N−NH_2\) (pela oxidação com \(NaClO\), processo <em>Rashig</em>, ou com \(H_2O_2\), processo <em>Puck</em>), além de poder ser alquilada com haletos de metila ou metanol para produzir metilaminas.</p>
+<p>A amônia é usada industrialmente para a produção de inúmeros outros compostos, como por exemplo: na produção de uréia (pela reação com <span class="nobreak">CO<sub>2</sub></span>), na produção do ácido nítrico (pela oxidação com ar), na produção de hidrazina, <span class="nobreak">H<sub>2</sub>N−NH<sub>2</sub></span> (pela oxidação com <span class="nobreak">NaClO</span>, processo <em>Rashig</em>, ou com <span class="nobreak">H<sub>2</sub>O<sub>2</sub></span>, processo <em>Puck</em>), além de poder ser alquilada com haletos de metila ou metanol para produzir metilaminas.</p>
 
 <h3>Detergentes</h3>
 <p>Os detergentes foram desenvolvidos como substitutos do sabão e rapidamente ganharam mercado, especialmente após segunda guerra mundial. Os detergentes são produzidos na indústria utilizando vários produtos procurando melhorar suas propriedades <span class="bold">tensoativas</span>. Os tensoativos, também chamados de <span class="bold">surfactantes</span>, são a matéria-prima principal dos detergentes e são derivados do petróleo. Os tensoativos possuem a propriedade de modificar as características físico-químicas de sua superfície ou das interfaces de separação com outros meios. Quando são dissolvidos ou dispersos em um meio líquido, são permanecem preferencialmente na interface, modificando sua tensão interfacial. Os tensoativos são também conhecidos como compostos <span class="bold">anfifílicos</span>, devido à existência de regiões de polaridades distintas em suas moléculas, uma cabeça polar e uma cauda apolar, conforme representação esquemática mostrada na Figura 6.4. </p>
@@ -103,17 +103,17 @@ include("components/page-header.php");
 
 <h3>Fertilizantes</h3>
 <p>Os fertilizantes são substâncias minerais ou orgânicas, naturais ou sintéticas, que fornecem um ou mais nutrientes às plantas. Os fertilizantes primários, produzidos pela indústria de fertilizantes, têm em sua estrutura nitrogênio, fósforo e potássio. Já os fertilizantes secundários possuem cálcio, magnésio e enxofre como nutrientes. O Brasil atualmente possui uma indústria que atende ao consumo de complexos granulados, supre parte da demanda de fertilizantes nitrogenados e apresenta auto-suficiência na produção de fertilizantes fosfatados. Desta forma, para suprir esta demanda ocorreu, a implantação de complexos industriais que geram todo o concentrado fosfático, parte do ácido fosfórico e parte da amônia necessária à indústria brasileira.</p>
-<p>Os fertilizantes nitrogenados incluem a ureia \((NH_2COONH_2)\), o nitrato de amônio, o nitrato de cálcio e o sulfato de amônio. Em sua produção, amônia e ácido nítrico são obtidos como produtos intermediários. A produção de ureia é feita a partir da reação química entre o gás de amônia \((NH_3)\) e o gás carbônico, dióxido de carbono \((CO_2)\), conforme reações químicas ilustradas pelas equações 6.4 e 6.5:</p>
+<p>Os fertilizantes nitrogenados incluem a ureia <span class="nobreak">(NH<sub>2</sub>COONH<sub>2</sub>)</span>, o nitrato de amônio, o nitrato de cálcio e o sulfato de amônio. Em sua produção, amônia e ácido nítrico são obtidos como produtos intermediários. A produção de ureia é feita a partir da reação química entre o gás de amônia <span class="nobreak">(NH<sub>3</sub>)</span> e o gás carbônico, dióxido de carbono <span class="nobreak">(CO<sub>2</sub>)</span>, conforme reações químicas ilustradas pelas equações 6.4 e 6.5:</p>
 
 <div class="box-centro">
     <div class="formula">
         <div class="line">
-            <p>\(2NH_3(g) + CO_2(g) \rightarrow\) \(NH_2COONH_4(g)\)</p>
+            <p>2NH<sub>3</sub>(g) + CO<sub>2</sub>(g) → NH<sub>2</sub>COONH<sub>4</sub>(g)</p>
             <span class="box-eq">equação 6.4</span>
         </div>
 
         <div class="line">
-            <p>\(NH_2COONH_4(g) \rightarrow\) \(NH_2COONH_2(s) + H_2(g)\)</p>
+            <p>NH<sub>2</sub>COONH<sub>4</sub>(g) → NH<sub>2</sub>COONH<sub>2</sub>(s) + H<sub>2</sub>(g)</p>
             <span class="box-eq">equação 6.5</span>
         </div>
     </div>

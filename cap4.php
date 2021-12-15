@@ -24,19 +24,19 @@ include("components/page-header.php");
 
 <h2 id="4.2">4.2. Minério de Ferro</h2>
 <p>O ferro é encontrado na natureza, principalmente, na forma de óxido, embora possa também ser encontrado como carbonatos e sulfetos, em menor ocorrência e até, raramente, na forma nativa. O ferro é o segundo metal mais abundante, perdendo apenas para o alumínio. Os minérios de ferro são:</p>
-<p><span class="bold">1) Magnetita:</span> óxido de ferro com fórmula química \(Fe_3O_4\) (mais especificamente \(FeO∙Fe_2O_3\)), com um teor nominal de ferro de 72,4%, porém com teor real da ordem de 50 a 70%. Esta diferença se deve a presença de ganga no minério. Este tipo de minério apresenta coloração cinza escura a negra, bem como propriedades magnéticas. Esta é uma vantagem tecnológica que torna mais fácil a concentração deste tipo de minério nas etapas de beneficiamento.</p>
+<p><span class="bold">1) Magnetita:</span> óxido de ferro com fórmula química <span class="nobreak">Fe<sub>3</sub>O<sub>4</sub></span> (mais especificamente <span class="nobreak">FeO∙Fe<sub>2</sub>O<sub>3</sub></span>), com um teor nominal de ferro de 72,4%, porém com teor real da ordem de 50 a 70%. Esta diferença se deve a presença de ganga no minério. Este tipo de minério apresenta coloração cinza escura a negra, bem como propriedades magnéticas. Esta é uma vantagem tecnológica que torna mais fácil a concentração deste tipo de minério nas etapas de beneficiamento.</p>
 
 <div class="box">
     <p>Observação: Ganga corresponde a todos os outros minerais encontrados no minério que não tem interesse comercial. Geralmente, a ganga é prejudicial à economicidade da lavra por diminuir o teor, dificultar a extração ou o beneficiamento do minério.</p>
 </div>
 
-<p><span class="bold">2) Hematita:</span> óxido de ferro com fórmula química \(Fe_2O_3\), com um teor nominal de 69,5% de ferro, mas um teor real na faixa de 45 a 68%. É o tipo mais comum de minério de ferro e apresenta coloração avermelhada.</p>
+<p><span class="bold">2) Hematita:</span> óxido de ferro com fórmula química <span class="nobreak">Fe<sub>2</sub>O<sub>3</sub></span>, com um teor nominal de 69,5% de ferro, mas um teor real na faixa de 45 a 68%. É o tipo mais comum de minério de ferro e apresenta coloração avermelhada.</p>
 
-<p><span class="bold">3) Limonita:</span> composta, principalmente, de hematita hidrata, com fórmula química \(Fe_2O_3∙H_2O\), podendo conter de 1 a 3 moléculas de hidratação, portanto seu teor nominal de ferro também pode variar. O teor real de ferro encontra-se na faixa de 20 a 50% de ferro e apresenta uma coloração marrom, sendo considerado um minério relativamente pobre em ferro.</p>
+<p><span class="bold">3) Limonita:</span> composta, principalmente, de hematita hidrata, com fórmula química <span class="nobreak">Fe<sub>2</sub>O<sub>3</sub>∙H<sub>2</sub>O</span>, podendo conter de 1 a 3 moléculas de hidratação, portanto seu teor nominal de ferro também pode variar. O teor real de ferro encontra-se na faixa de 20 a 50% de ferro e apresenta uma coloração marrom, sendo considerado um minério relativamente pobre em ferro.</p>
 
-<p><span class="bold">4) Siderita:</span> composta por \(FeCO_3\) com um teor nominal de 48,3% de ferro e um teor real variando de 10 a 40% de ferro. Minério de baixa ocorrência, normalmente associada com hematita.</p>
+<p><span class="bold">4) Siderita:</span> composta por <span class="nobreak">FeCO<sub>3</sub></span> com um teor nominal de 48,3% de ferro e um teor real variando de 10 a 40% de ferro. Minério de baixa ocorrência, normalmente associada com hematita.</p>
 
-<p><span class="bold">5) Pirita:</span> também possui baixa ocorrência e normalmente associada a mistura de minérios de outros metais, como os minérios de cobre. É composta de \(FeS_2\) e não apresenta interesse siderúrgico. Devido a sua coloração dourado a pirita foi usada muitas vezes para enganar as pessoas, o que lhe atribui o nome de “<em>ouro dos tolos</em>”.</p>
+<p><span class="bold">5) Pirita:</span> também possui baixa ocorrência e normalmente associada a mistura de minérios de outros metais, como os minérios de cobre. É composta de <span class="nobreak">FeS<sub>2</sub></span> e não apresenta interesse siderúrgico. Devido a sua coloração dourado a pirita foi usada muitas vezes para enganar as pessoas, o que lhe atribui o nome de “<em>ouro dos tolos</em>”.</p>
 
 <p>Os minérios de ferro são normalmente lavrados a céu aberto, devido ao fato de serem basicamente depósitos aluviais. Inicialmente, o minério passa por processos físicos de beneficiamento simples, como fragmentação por britagem, moagem e pulverização, classificação por peneiramento e concentração por métodos de separação magnética. Em seguida, o minério poderá passar por processos químicos de preparação envolvendo aquecimento a altas temperaturas, por exemplo:</p>
 
@@ -44,7 +44,7 @@ include("components/page-header.php");
 <div class="box-centro">
     <div class="formula">
         <div class="line">
-            <p>\(Fe_2O_3\)∙\(H_2O\) \(\rightarrow\) \(Fe_2O_3 (s)\) + \(H_2O (g)\) (T = 800 °C)</p>
+            <p>Fe<sub>2</sub>O<sub>3</sub>∙H<sub>2</sub>O → Fe<sub>2</sub>O<sub>3</sub>(s) + H<sub>2</sub>O(g) <span class="cal">(T = 800 °C)</span></p>
             <span class="box-eq">equação 4.1</span>
         </div>
     </div>
@@ -54,7 +54,7 @@ include("components/page-header.php");
 <div class="box-centro">
     <div class="formula">
         <div class="line">
-            <p>\(FeCO_3 (s)\) \(\rightarrow\) \(FeO(s) + CO_2(g)\) (T = 800 °C) </p>
+            <p>FeCO<sub>3</sub>(s) → FeO(s) + CO<sub>2</sub>(g) <span class="cal">(T = 800 °C)</span></p>
             <span class="box-eq">equação 4.2</span>
         </div>
     </div>
@@ -64,7 +64,7 @@ include("components/page-header.php");
 <div class="box-centro">
     <div class="formula media">
         <div class="line">
-            <p>\(4FeS_2(s) + 11O_2(g) \rightarrow 2FeCO_3(s)\) \(+ 2SO_2(g)\) (T = 1000 °C)</p>
+            <p>4FeS<sub>2</sub>(s) + 11O<sub>2</sub>(g) → 2FeCO<sub>3</sub>(s) + 2SO<sub>2</sub>(g) <span class="cal">(T = 1000 °C)</span></p>
             <span class="box-eq">equação 4.3</span>
         </div>
     </div>
@@ -74,7 +74,7 @@ include("components/page-header.php");
 <div class="box-centro">
     <div class="formula">
         <div class="line">
-            <p>\(2FeCO_3(s) + O_2(g) \rightarrow 2Fe_3O_4(s)\) (T = 1000 °C)</p>
+            <p>2FeCO<sub>3</sub>(s) + O<sub>2</sub>(g) → 2Fe<sub>3</sub>O<sub>4</sub>(s) <span class="cal">(T = 1000 °C)</span></p>
             <span class="box-eq">equação 4.4</span>
         </div>
     </div>
@@ -88,9 +88,9 @@ include("components/page-header.php");
     <img src="img/fig-4-2.jpg" alt="audiodescrição">
     <figcaption><span class="bold">Figura 4.2. </span>Esquema de um alto-forno mostrando a distribuição de temperatura e as principais reações em cada parte.</figcaption>
 </figure>
-<p>A carga de um alto-forno é composta principalmente por minério de ferro, coque e fundente. O <span class="bold">minério de ferro</span> é, normalmente, composto por hematita ou uma mistura de hematita e magnetita, contendo cerca de 40 a 60% de ferro. Este minério costuma conter cerca de 10% de ganga, cujo componente principal é a sílica \((SiO_2)\). O <span class="bold">coque</span>, obtido da destilação prévia da hulha ou de outro carvão mineral, é o fornecedor de carbono, para as reações de redução do ferro, além de desempenhar a função de combustível. Já o <span class="bold">fundente</span>, tem a função de baixar o ponto de fusão da escória e, geralmente, é composto por calcário \((CaCO_3)\) que é calcinado no interior do alto-forno formando cal \((CaO)\).</p>
+<p>A carga de um alto-forno é composta principalmente por minério de ferro, coque e fundente. O <span class="bold">minério de ferro</span> é, normalmente, composto por hematita ou uma mistura de hematita e magnetita, contendo cerca de 40 a 60% de ferro. Este minério costuma conter cerca de 10% de ganga, cujo componente principal é a sílica <span class="nobreak">(SiO<sub>2</sub>)</span>. O <span class="bold">coque</span>, obtido da destilação prévia da hulha ou de outro carvão mineral, é o fornecedor de carbono, para as reações de redução do ferro, além de desempenhar a função de combustível. Já o <span class="bold">fundente</span>, tem a função de baixar o ponto de fusão da escória e, geralmente, é composto por calcário <span class="nobreak">(CaCO<sub>3</sub>)</span> que é calcinado no interior do alto-forno formando cal <span class="nobreak">(CaO)</span>.</p>
 
-<p>A reação de redução do minério de ferro pelo coque é uma reação endotérmica, ΔH > 0, enquanto que a reação de combustão de parte do coque com o oxigênio do ar (insuflado de 800 a 1.000 °C) é exotérmica, ΔH < 0. Os produtos finais das reações dentro do alto-forno podem ser classificados em quatro categorias: ferro gusa, escória, poeira e gases. O <span class="bold">ferro gusa</span> é o ferro no estado líquido com um teor de 3 a 4% de carbono e 6 a 7% de impurezas e outros elementos, os mais comuns são: enxofre, fósforo, silício e manganês provenientes da ganga ou do coque. As primeiras etapas de redução do ferro geram um material sólido e esponjoso que se funde ao chegar a zonas de temperaturas mais elevadas. O ferro no estado líquido se deposita no fundo do alto-forno, de onde é recolhido a cada corrida. A <span class="bold">escória</span> é uma mistura de óxidos fundidos de densidade menor que o ferro gusa, seus componentes provém do fundente e da ganga do minério, sendo retirada, geralmente, antes da corrida do ferro gusa. A <span class="bold">poeira</span> é constituída basicamente de cinzas que resultam da queima do coque e de materiais inertes da ganga, saindo na parte superior do alto-forno por carreamento dos gases produzidos. Os <span color="bold">gases</span> saem na parte superior do alto-forno a 300 °C. Os principais componentes são \(CO_2\) e \(CO\), sendo a proporção de \(CO\)/\(CO_2\) da ordem de 2 a 3. Estes gases são, normalmente, aproveitados no pré-aquecimento do ar a ser insuflado no alto-forno.</p>
+<p>A reação de redução do minério de ferro pelo coque é uma reação endotérmica, ΔH > 0, enquanto que a reação de combustão de parte do coque com o oxigênio do ar (insuflado de 800 a 1.000 °C) é exotérmica, ΔH < 0. Os produtos finais das reações dentro do alto-forno podem ser classificados em quatro categorias: ferro gusa, escória, poeira e gases. O <span class="bold">ferro gusa</span> é o ferro no estado líquido com um teor de 3 a 4% de carbono e 6 a 7% de impurezas e outros elementos, os mais comuns são: enxofre, fósforo, silício e manganês provenientes da ganga ou do coque. As primeiras etapas de redução do ferro geram um material sólido e esponjoso que se funde ao chegar a zonas de temperaturas mais elevadas. O ferro no estado líquido se deposita no fundo do alto-forno, de onde é recolhido a cada corrida. A <span class="bold">escória</span> é uma mistura de óxidos fundidos de densidade menor que o ferro gusa, seus componentes provém do fundente e da ganga do minério, sendo retirada, geralmente, antes da corrida do ferro gusa. A <span class="bold">poeira</span> é constituída basicamente de cinzas que resultam da queima do coque e de materiais inertes da ganga, saindo na parte superior do alto-forno por carreamento dos gases produzidos. Os <span color="bold">gases</span> saem na parte superior do alto-forno a 300 °C. Os principais componentes são <span class="nobreak">CO<sub>2</sub></span> e <span class="nobreak">CO</span>, sendo a proporção de <span class="nobreak">CO</span>/<span class="nobreak">CO<sub>2</sub></span> da ordem de 2 a 3. Estes gases são, normalmente, aproveitados no pré-aquecimento do ar a ser insuflado no alto-forno.</p>
 
 <h3>4.2.2. Reações no alto-forno</h3>
 <p>A redução do minério de ferro em um alto-forno ocorre durante a queda da carga sólida, ou seja, ao redor de 10 segundos. A redução é realizada por uma série de reações de acordo com a zona do forno (temperatura) alcançada.</p>
@@ -98,7 +98,7 @@ include("components/page-header.php");
 <div class="box-centro">
     <div class="formula pequena">
         <div class="line">
-            <p>\(6Fe_2O_3(s) + C(s) \rightarrow 4Fe_3O_4(s)\) \( + CO_2(g)\) (T = 500 °C)</p>
+            <p>6Fe<sub>2</sub>O<sub>3</sub>(s) + C(s) → 4Fe<sub>3</sub>O<sub>4</sub>(s) + CO<sub>2</sub>(g) <span class="cal">(T = 500 °C)</span></p>
             <span class="box-eq">equação 4.5</span>
         </div>
     </div>
@@ -109,7 +109,7 @@ include("components/page-header.php");
 <div class="box-centro">
     <div class="formula pequena">
         <div class="line">
-            <p>\(Fe_3O_4(s) + 4C(s) \rightarrow 3Fe(s)\) \( + 4CO(g)\) (T = 1000 °C)</p>
+            <p>Fe<sub>3</sub>O<sub>4</sub>(s) + 4C(s) → 3Fe(s) + 4CO(g) <span class="cal">(T = 1000 °C)</span></p>
             <span class="box-eq">equação 4.6</span>
         </div>
     </div>
@@ -120,7 +120,7 @@ include("components/page-header.php");
 <div class="box-centro">
     <div class="formula">
         <div class="line">
-            <p>\(Fe(s) \rightarrow Fe(l)\) (T = 1530 °C)</p>
+            <p>Fe(s) → Fe(l) <span class="cal">(T = 1530 °C)</span></p>
             <span class="box-eq">equação 4.7</span>
         </div>
     </div>
@@ -130,19 +130,19 @@ include("components/page-header.php");
 <div class="box-centro">
     <div class="formula">
         <div class="line">
-            <p>\(2C(s) + O_2(g) \rightarrow 2CO(g)\)</p>
+            <p>2C(s) + O<sub>2</sub>(g) → 2CO(g) <span class="cal">(T = 1800 °C)</span></p>
             <span class="box-eq">equação 4.8</span>
         </div>
     </div>
 </div>
 <p>com ΔH = +56 kcal mol<sup>-1</sup> e ΔG = -150 kcal mol<sup>-1</sup>.</p>
 
-<p>A redução direta da segunda etapa é uma síntese de redução intermediária da magnetita \((Fe_3O_4)\) a wustita \((FeO)\) que posteriormente é reduzida ao ferro, conforme as reações químicas mostradas nas equações 4.9 e 4.10:</p>
+<p>A redução direta da segunda etapa é uma síntese de redução intermediária da magnetita <span class="nobreak">(Fe<sub>3</sub>O<sub>4</sub>)</span> a wustita <span class="nobreak">(FeO)</span> que posteriormente é reduzida ao ferro, conforme as reações químicas mostradas nas equações 4.9 e 4.10:</p>
 
 <div class="box-centro">
     <div class="formula pequena">
         <div class="line">
-            <p>\(Fe_3O_4(s) + C(s) \rightarrow 3FeO(s)\) \( + CO(g)\) (T = 1000 °C) </p>
+            <p>Fe<sub>3</sub>O<sub>4</sub>(s) + C(s) → 3FeO(s) + CO(g) <span class="cal">(T = 1000 °C)</span></p>
             <span class="box-eq">equação 4.9</span>
         </div>
     </div>
@@ -152,7 +152,7 @@ include("components/page-header.php");
 <div class="box-centro">
     <div class="formula pequena">
         <div class="line">
-            <p>\(3FeO(s) + 3C(s) \rightarrow 3Fe(s)\) \( + 3CO(g)\) (T = 1000 °C) </p>
+            <p>3FeO(s) + 3C(s) → 3Fe(s) + 3CO(g) <span class="cal">(T = 1000 °C)</span></p>
             <span class="box-eq">equação 4.10</span>
         </div>
     </div>
@@ -160,21 +160,21 @@ include("components/page-header.php");
 <p>com ΔH = +105 kcal.mol<sup>-1</sup> e ΔG = -33 kcal.mol<sup>-1</sup>.</p>
 
 <p>A soma das etapas (eq. 4.9 e eq. 4.10), de acordo com a lei de Hess, permite obter os produtos representados na eq. 4.6.</p>
-<p>Um segundo mecanismo que poderá acontecer na zona de redução direta corresponde a formação de \(CO_2\) intermediário, conforme as reações químicas mostradas nas equações 4.11, 4.12 e 4.13:</p>
+<p>Um segundo mecanismo que poderá acontecer na zona de redução direta corresponde a formação de <span class="nobreak">CO<sub>2</sub></span> intermediário, conforme as reações químicas mostradas nas equações 4.11, 4.12 e 4.13:</p>
 <div class="box-centro">
     <div class="formula pequena">
         <div class="line">
-            <p>\(2Fe_3O_4(s) + C(s) \rightarrow 6FeO(s)\) \( + CO_2(g)\) (T = 1000 °C)</p>
+            <p>2Fe<sub>3</sub>O<sub>4</sub>(s) + C(s) → 6FeO(s) + CO<sub>2</sub>(g) <span class="cal">(T = 1000 °C)</span></p>
             <span class="box-eq">equação 4.11</span>
         </div>
 
         <div class="line">
-            <p>\(6FeO(s) + 3C(s) \rightarrow 6Fe(s)\) \( + 3CO_2(g)\) (T = 1000 °C)</p>
+            <p>6FeO(s) + 3C(s) → 6Fe(s) + 3CO<sub>2</sub>(g) <span class="cal">(T = 1000 °C)</span></p>
             <span class="box-eq">equação 4.12</span>
         </div>
 
         <div class="line">
-            <p>\(4CO_2(g) + 4C(s) \rightarrow 8CO(g)\) (T = 1000 °C) </p>
+            <p>4CO<sub>2</sub>(g) + 4C(s) → 8CO(g) <span class="cal">(T = 1000 °C)</span></p>
             <span class="box-eq">equação 4.13</span>
         </div>
     </div>
@@ -184,12 +184,12 @@ include("components/page-header.php");
 <div class="box-centro">
     <div class="formula">
         <div class="line">
-            <p>\(C(s) + O_2(g) \rightarrow CO_2(g)\) (T = 1800 °C)</p>
+            <p>C(s) + O<sub>2</sub>(g) → CO<sub>2</sub>(g) <span class="cal">(T = 1800 °C)</span></p>
             <span class="box-eq">equação 4.14</span>
         </div>
 
         <div class="line">
-            <p>\(CO_2(g) + C(s) \rightarrow 2CO(g)\) (T = 1800 °C)</p>
+            <p>CO<sub>2</sub>(g) + C(s) → 2CO(g) <span class="cal">(T = 1800 °C)</span></p>
             <span class="box-eq">equação 4.15</span>
         </div>
     </div>
@@ -199,12 +199,12 @@ include("components/page-header.php");
 <div class="box-centro">
     <div class="formula pequena">
         <div class="line">
-            <p>\(4CO_2(g) + 4C(s) \rightarrow 8CO(g)\) (T = 1000 °C)</p>
+            <p>4CO<sub>2</sub>(g) + 4C(s) → 8CO(g) <span class="cal">(T = 1000 °C)</span></p>
             <span class="box-eq">equação 4.16</span>
         </div>
 
         <div class="line">
-            <p>\(Fe_3O_4(s) + 4CO(g) \rightarrow 3Fe(s)\) \( + 4CO_2(g)\) (T = 1000 °C)</p>
+            <p>Fe<sub>3</sub>O<sub>4</sub>(s) + 4CO(g) → 3Fe(s) + 4CO<sub>2</sub>(g) <span class="cal">(T = 1000 °C)</span></p>
             <span class="box-eq">equação 4.17</span>
         </div>
     </div>
@@ -216,12 +216,12 @@ include("components/page-header.php");
 <div class="box-centro">
     <div class="formula">
         <div class="line">
-            <p>\(CO_2(g) + C(s) \rightarrow 2CO(g)\) (T = 1800 °C)</p>
+            <p>CO<sub>2</sub>(g) + C(s) → 2CO(g) <span class="cal">(T = 1800 °C)</span></p>
             <span class="box-eq">equação 4.17</span>
         </div>
 
         <div class="line">
-            <p>\(CaCO_3(s) \rightarrow CaO(s) + CO_2(g)\) (T = 1000 °C) </p>
+            <p>CaCO<sub>3</sub>(s) → CaO(s) + CO<sub>2</sub>(g) <span class="cal">(T = 1000 °C)</span> </p>
             <span class="box-eq">equação 4.18</span>
         </div>
     </div>
@@ -231,7 +231,7 @@ include("components/page-header.php");
 <div class="box-centro">
     <div class="formula pequena">
         <div class="line">
-            <p>\(CaCO_3(s) + C(s) \rightarrow CaO(s)\) \( + 2CO(g)\) (T = 1000 °C)</p>
+            <p>CaCO<sub>3</sub>(s) + C(s) → CaO(s) + 2CO(g) <span class="cal">(T = 1000 °C)</span></p>
             <span class="box-eq">equação 4.19</span>
         </div>
     </div>
@@ -241,7 +241,7 @@ include("components/page-header.php");
 <div class="box-centro">
     <div class="formula">
         <div class="line">
-            <p>\(SiO_2(s) + 2C(s) \rightarrow Si(l) + CO(g)\) (T = 1800 °C)</p>
+            <p>SiO<sub>2</sub>(s) + 2C(s) → Si(l) + CO(g) <span class="cal">(T = 1800 °C)</span></p>
             <span class="box-eq">equação 4.20</span>
         </div>
     </div>
@@ -251,7 +251,7 @@ include("components/page-header.php");
 <div class="box-centro">
     <div class="formula">
         <div class="line">
-            <p>\(MnO(s) + C(s) \rightarrow Mn(l) + CO(g)\) (T = 1800 °C)</p>
+            <p>MnO(s) + C(s) → Mn(l) + CO(g) <span class="cal">(T = 1800 °C)</span></p>
             <span class="box-eq">equação 4.20</span>
         </div>
     </div>
@@ -265,27 +265,27 @@ include("components/page-header.php");
 <h3>4.3.1. Redução em forno elétrico</h3>
 <p>Normalmente empregado em países que dispõem de energia elétrica barata e/ou com o coque caro ou inexistente. As unidades operacionais deste tipo de processo são pequenas, na ordem de 100 a 200 ton/dia. Neste processo não há consumo de coque como combustível, mas uma fonte de carbono deve ser empregada como agente redutor. Além da redução no consumo de coque outra vantagem deste processo é que não há a necessidade de injeção de ar no sistema, uma vez que não há combustão. Como desvantagem cita-se o alto consumo de energia elétrica, da ordem de 2.000 kW / ton de ferro. As reações químicas envolvidas no processo de redução utilizando forno elétrico são as mesmas observadas para processos utilizando alto-fornos, excetuando-se a reação de combustão do coque. </p>
 <h3>4.3.2. Processo Wiberg-Södefors</h3>
-<p>Este processo foi desenvolvido em 1918 na cidade de Södefors na Suécia por Martin Wiberg. Ele se baseia na redução direta do minério de ferro para obtenção do ferro esponja, o que permite que as temperaturas envolvidas no processo sejam da ordem de 1.000 °C, bem menores que as temperaturas máximas atingidas no alto-forno (1.800 °C). Neste processo são usados dois agentes redutores: o gás hidrogênio \((H_2)\) e o monóxido de carbono \((CO)\), na proporção de 1:2, respectivamente. Os gases redutores são formados em uma torre adjacente chamada <span class="bold">carburator</span> que é aquecida eletricamente usando dois eletrodos de grafita. O carburator é alimentado por coque com alto teor de enxofre (baixa qualidade) que reage com vapor de água a 1.100 °C para produzir os gases redutores conforme apresentado por meio da equação 4.21:</p>
+<p>Este processo foi desenvolvido em 1918 na cidade de Södefors na Suécia por Martin Wiberg. Ele se baseia na redução direta do minério de ferro para obtenção do ferro esponja, o que permite que as temperaturas envolvidas no processo sejam da ordem de 1.000 °C, bem menores que as temperaturas máximas atingidas no alto-forno (1.800 °C). Neste processo são usados dois agentes redutores: o gás hidrogênio <span class="nobreak">(H<sub>2</sub>)</span> e o monóxido de carbono <span class="nobreak">(CO)</span>, na proporção de 1:2, respectivamente. Os gases redutores são formados em uma torre adjacente chamada <span class="bold">carburator</span> que é aquecida eletricamente usando dois eletrodos de grafita. O carburator é alimentado por coque com alto teor de enxofre (baixa qualidade) que reage com vapor de água a 1.100 °C para produzir os gases redutores conforme apresentado por meio da equação 4.21:</p>
 <div class="box-centro">
     <div class="formula">
         <div class="line">
-            <p>\(C(s) + H_2O(g) \rightarrow H_2(g) + CO(g)\) (T = 1000 °C) </p>
+            <p>C(s) + H<sub>2</sub>O(g) → H<sub>2</sub>(g) + CO(g) <span class="cal">(T = 1000 °C)</span> </p>
             <span class="box-eq">equação 4.21</span>
         </div>
     </div>
 </div>
 <p>com ΔH = + 35 kcal mol<sup>-1</sup> e ΔG= -15 kcal mol<sup>-1</sup>.</p>
 
-<p>Os gases redutores produzidos são conduzidos a uma coluna de dolomita queimada, para retirada do enxofre que estava contido no coque. Este enxofre reage com o hidrogênio formado pela Equação 4.21 formando ácido sulfídrico, \(H_2S\), que reage com o cálcio da dolomita formando \(CaS\). Após a retirada de enxofre a mistura redutora é encaminhada para o forno de redução onde reage com o minério em sistema contracorrente, como ocorre no alto-forno, à mistura entra pela parte inferior do forno e a carga pela parte superior. A redução ocorre conforme as reações químicas ilustradas pelas equações 4.22 e 4.23, na parte superior do forno:</p>
+<p>Os gases redutores produzidos são conduzidos a uma coluna de dolomita queimada, para retirada do enxofre que estava contido no coque. Este enxofre reage com o hidrogênio formado pela Equação 4.21 formando ácido sulfídrico, <span class="nobreak">H<sub>2</sub>S</span>, que reage com o cálcio da dolomita formando <span class="nobreak">CaS</span>. Após a retirada de enxofre a mistura redutora é encaminhada para o forno de redução onde reage com o minério em sistema contracorrente, como ocorre no alto-forno, à mistura entra pela parte inferior do forno e a carga pela parte superior. A redução ocorre conforme as reações químicas ilustradas pelas equações 4.22 e 4.23, na parte superior do forno:</p>
 <div class="box-centro">
     <div class="formula pequena">
         <div class="line">
-            <p>\(Fe_2O_3(s) + CO(g) \rightarrow 2FeO(s)\) \( + CO(g)\) (T = 900 °C)</p>
+            <p>Fe<sub>2</sub>O<sub>3</sub>(s) + CO(g) → 2FeO(s) + CO(g) <span class="cal">(T = 900 °C)</span></p>
             <span class="box-eq">equação 4.22</span>
         </div>
 
         <div class="line">
-            <p>\(Fe_2O_3(s) + H_2(g) \rightarrow 2FeO(s)\) \( + H_2O(g)\) (T = 900 °C) </p>
+            <p>Fe<sub>2</sub>O<sub>3</sub>(s) + H<sub>2</sub>(g) → 2FeO(s) + H<sub>2</sub>O(g) <span class="cal">(T = 900 °C)</span> </p>
             <span class="box-eq">equação 4.23</span>
         </div>
     </div>
@@ -294,12 +294,12 @@ include("components/page-header.php");
 <div class="box-centro">
     <div class="formula pequena">
         <div class="line">
-            <p>\(FeO(s) + CO(g) → Fe(s) + CO_2(g)\) (T = 1000 °C)</p>
+            <p>FeO(s) + CO(g) → Fe(s) + CO<sub>2</sub>(g) <span class="cal">(T = 1000 °C)</span></p>
             <span class="box-eq">equação 4.24</span>
         </div>
 
         <div class="line">
-            <p>\(FeO(s) + H_2(g) → Fe(s) + H_2O(g)\) (T = 1000 °C)</p>
+            <p>FeO(s) + H<sub>2</sub>(g) → Fe(s) + H<sub>2</sub>O(g) <span class="cal">(T = 1000 °C)</span></p>
             <span class="box-eq">equação 4.25</span>
         </div>
     </div>
@@ -307,12 +307,12 @@ include("components/page-header.php");
 <p>Neste tipo de processo as unidades operacionais têm capacidade média de 300 ton/dia.</p>
 
 <h3>4.3.3. Processo HyL (Hojalata y Lámina)</h3>
-<p>Este processo também usa mistura redutora de \(H_2\) e \(CO\), porém em uma proporção maior de \(H_2\) (\(H_2\)/\(CO\) ~ 5). O processo HyL foi desenvolvido em 1953 pela Companía Hojalata y Lámina, localizada na cidade de Monterrey no México. É um processo viável principalmente para países que possuam grande disponibilidade de metano barato, bem como de minério de ferro. A mistura redutora é produzida pela reação do metano com o vapor de água, usando níquel como catalisador, conforme mostrado na Equação 4.26:</p>
+<p>Este processo também usa mistura redutora de <span class="nobreak">H<sub>2</sub></span> e <span class="nobreak">CO</span>, porém em uma proporção maior de <span class="nobreak">H<sub>2</sub></span> (<span class="nobreak">H<sub>2</sub></span>/<span class="nobreak">CO</span> ~ 5). O processo HyL foi desenvolvido em 1953 pela Companía Hojalata y Lámina, localizada na cidade de Monterrey no México. É um processo viável principalmente para países que possuam grande disponibilidade de metano barato, bem como de minério de ferro. A mistura redutora é produzida pela reação do metano com o vapor de água, usando níquel como catalisador, conforme mostrado na Equação 4.26:</p>
 
 <div class="box-centro">
     <div class="formula">
         <div class="line">
-            <p>\(CH_4(g) + H_2O(g) → CO(g)\) \( + 3H_2(g)\)</p>
+            <p>CH<sub>4</sub>(g) + H<sub>2</sub>O(g) → CO(g) + 3H<sub>2</sub>(g)</p>
             <span class="box-eq">equação 4.26</span>
         </div>
     </div>
@@ -321,16 +321,16 @@ include("components/page-header.php");
 <p>O processo de redução ocorre em fornos tipo retortas, de forma intermitente, para a geração de ferro esponja, com unidades operacionais de 500 ton/dia de capacidade. A grande vantagem deste processo é dispensar o uso de coque e a principal desvantagem é ser intermitente.</p>
 
 <h3>4.3.4. Processo Ferro-H (ferro hidrogênio)</h3>
-<p>Neste processo somente o \(H_2\) é usado como agente redutor do minério de ferro e utiliza um sistema de <span class="bold">leito fluidizado</span>, no qual o minério em pó é mantido em suspensão por uma corrente ascendente de gases. Portanto, o minério deve ser beneficiado até a obtenção de um pó bem fino. O \(H_2\) é produzido pela reação do metano com o vapor de água, mostrada na Equação 4.26, e o \(CO\) formado na reação é separado, fazendo-se o gás produzido atravessar uma mistura de monoetanolamina e, em seguida, por uma solução de acetato de cobre e amônia à 50 atm de pressão. O \(H_2\) puro é então inserido no forno de redução promovendo as seguintes reações químicas:</p>
+<p>Neste processo somente o <span class="nobreak">H<sub>2</sub></span> é usado como agente redutor do minério de ferro e utiliza um sistema de <span class="bold">leito fluidizado</span>, no qual o minério em pó é mantido em suspensão por uma corrente ascendente de gases. Portanto, o minério deve ser beneficiado até a obtenção de um pó bem fino. O <span class="nobreak">H<sub>2</sub></span> é produzido pela reação do metano com o vapor de água, mostrada na Equação 4.26, e o <span class="nobreak">CO</span> formado na reação é separado, fazendo-se o gás produzido atravessar uma mistura de monoetanolamina e, em seguida, por uma solução de acetato de cobre e amônia à 50 atm de pressão. O <span class="nobreak">H<sub>2</sub></span> puro é então inserido no forno de redução promovendo as seguintes reações químicas:</p>
 <div class="box-centro">
     <div class="formula media">
         <div class="line">
-            <p>\(3Fe_2O_3(s) + H_2(g) → 2Fe_3O_4(s)\) \( + H_2O(g)\) (T = 600 °C, P = 30 atm)</p>
+            <p>3Fe<sub>2</sub>O<sub>3</sub>(s) + H<sub>2</sub>(g) → 2Fe<sub>3</sub>O<sub>4</sub>(s) + H<sub>2</sub>O(g) <span class="cal">(T = 600 °C, P = 30 atm)</span></p>
             <span class="box-eq">equação 4.27</span>
         </div>
 
         <div class="line">
-            <p>\(Fe_3O_4(s) + 4H_2(g) → 3Fe(s)\) \( + 4H_2O(g)\) (T = 600 °C, P = 30 atm) </p>
+            <p>Fe<sub>3</sub>O<sub>4</sub>(s) + 4H<sub>2</sub>(g) → 3Fe(s) + 4H<sub>2</sub>O(g) <span class="cal">(T = 600 °C, P = 30 atm)</span> </p>
             <span class="box-eq">equação 4.28</span>
         </div>
     </div>
@@ -384,7 +384,7 @@ include("components/page-header.php");
     <figcaption>Fonte: Campos Filho, 1981.</figcaption>
 </figure>
 
-<p>A redução dos teores destes elementos é necessária para melhorar as propriedades do ferro gusa, pois estes elementos formam compostos intermetálicos com o ferro, que comprometem a aplicação do ferro gusa. O enxofre, por exemplo, causa fragilidade a quente devido a formação de sulfeto de ferro, \(FeS\), que se funde nas etapas de conformação mecânica, como o forjamento, segregando e causando trincas e até a ruptura do material. Já o fósforo causa fragilidade a frio devido a formação do fosfeto de ferro, \(Fe_3P\), que possui elevada dureza. O carbono pode formar um carbeto com o ferro que recebe o nome de <span class="bold">cementita</span> \((Fe_3C)\), que também possui dureza muito elevada e causa fragilidade no material. A diminuição dos teores destes elementos, melhorando as propriedades do material, é alcançada pela passagem do oxigênio, puro ou do ar, através do ferro gusa fundido, em temperaturas da ordem de 1.600 °C, promovendo a oxidação destes elementos. Estas reações de oxidação são exotérmicas, permitindo a manutenção da temperatura sem combustão paralela.</p>
+<p>A redução dos teores destes elementos é necessária para melhorar as propriedades do ferro gusa, pois estes elementos formam compostos intermetálicos com o ferro, que comprometem a aplicação do ferro gusa. O enxofre, por exemplo, causa fragilidade a quente devido a formação de sulfeto de ferro, <span class="nobreak">FeS</span>, que se funde nas etapas de conformação mecânica, como o forjamento, segregando e causando trincas e até a ruptura do material. Já o fósforo causa fragilidade a frio devido a formação do fosfeto de ferro, <span class="nobreak">Fe<sub>3</sub>P</span>, que possui elevada dureza. O carbono pode formar um carbeto com o ferro que recebe o nome de <span class="bold">cementita</span> <span class="nobreak">(Fe<sub>3</sub>C)</span>, que também possui dureza muito elevada e causa fragilidade no material. A diminuição dos teores destes elementos, melhorando as propriedades do material, é alcançada pela passagem do oxigênio, puro ou do ar, através do ferro gusa fundido, em temperaturas da ordem de 1.600 °C, promovendo a oxidação destes elementos. Estas reações de oxidação são exotérmicas, permitindo a manutenção da temperatura sem combustão paralela.</p>
 
 <br>
 <div class="atv">
@@ -393,7 +393,7 @@ include("components/page-header.php");
 </div>
 <br>
 
-<p>A oxidação do ferro gusa normalmente é conduzida pela insuflação de ar em fornos chamados de <span class="bold">conversores Bessemer</span>. Estes fornos tem capacidade de 50 toneladas de aço e podem ser <span class="bold">ácidos</span> ou <span class="bold">básicos</span>, dependendo do tipo de escória gerada e do tipo de refratário utilizado. Os conversores ácidos são empregados para a redução de ferro gusa contendo teores extremamente baixos de fósforo. Neste caso o tipo de escória formada é ácida e os tijolos refratários que devem ser utilizados também são ácidos, a base de sílica \((SiO_2)\). Já o ferro gusa contendo elevado teor de fósforo, usa um conversor com tijolos refratários básicos, a base de dolomita ou magnesita, pois escória básica é formada pela adição de cal \((CaO)\) como fundente, para a retirada do fósforo. O tempo de oxidação, também chamado de período de sopragem, é de 15 minutos. A quantidade de sucata que pode ser empregada neste processo é de apenas 10% da carga final. </p>
+<p>A oxidação do ferro gusa normalmente é conduzida pela insuflação de ar em fornos chamados de <span class="bold">conversores Bessemer</span>. Estes fornos tem capacidade de 50 toneladas de aço e podem ser <span class="bold">ácidos</span> ou <span class="bold">básicos</span>, dependendo do tipo de escória gerada e do tipo de refratário utilizado. Os conversores ácidos são empregados para a redução de ferro gusa contendo teores extremamente baixos de fósforo. Neste caso o tipo de escória formada é ácida e os tijolos refratários que devem ser utilizados também são ácidos, a base de sílica <span class="nobreak">(SiO<sub>2</sub>)</span>. Já o ferro gusa contendo elevado teor de fósforo, usa um conversor com tijolos refratários básicos, a base de dolomita ou magnesita, pois escória básica é formada pela adição de cal <span class="nobreak">(CaO)</span> como fundente, para a retirada do fósforo. O tempo de oxidação, também chamado de período de sopragem, é de 15 minutos. A quantidade de sucata que pode ser empregada neste processo é de apenas 10% da carga final. </p>
 <p>O sopro de ar no lugar de oxigênio puro pode levar a elevados valores de nitrogênio no aço, podendo formar nitretos, o que prejudicaria o desempenho do produto final. A oxidação usando oxigênio puro levará mais tempo, porém permitira o aumento da carga de sucata para 20%. Os principais processos de oxidação em conversores que usam oxigênio puro, com capacidade variando de 50 a 100 toneladas são comentados a seguir:</p>
 <p><span class="bold">1) Processo LD:</span> semelhante ao conversor Bessemer exceto pelo fato do forno não apresentar caixa inferior de sopragem. A sopragem é feito através de uma lança, tudo oco, introduzido pela boca do forno. Esse processo foi desenvolvido na Áustria no ínicio do século XX e seu nome, LD, refere-se às duas fábricas que primeiro o usaram, Linz e Donawitz. No Estado do Espírito Santo a antiga Companhia Siderúrgica do Tubarão (CST), atual Arcelor Mittal, opera com este tipo de processo em sua aciaria.</p>
 <p><span class="bold">2) Processo Kaldo:</span> derivação do processo LD, com rotação do forno, o que permite melhor homogeneização do banho de ferro gusa que se oxida a aço. Este processo foi desenvolvido na Suécia pelo Prof. Kalling na cidade de Domnarfvert, que uniu a primeira sílaba de seu nome com a primeira sílaba da cidade para dar o nome ao processo, KALDO.</p>

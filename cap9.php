@@ -6,7 +6,7 @@ include("components/page-header.php");
 ?>
 
 <h2 id="9.1">9.1. Introdução</h2>
-<p>O uso de drogas para aliviar dores e evitar a morte já era uma prática comum nas culturas primitivas. Porém, esta prática estava diretamente ligada à mística e as superstições de cada civilização, que normalmente associavam às causas das doenças a ação de maus espíritos. O papiro de Ebers proveniente das civilizações egípcias, conforme mostrado na Figura 9.1 é uma das mais antigas fontes das escritas médico-farmacêuticas, datada de 1550 a.C. Ele contém referências quantitativas que descrevem mais de 7000 substâncias medicinais, incluindo produtos vegetais, minerais e animais, contabilizando mais de 800 fórmulas. Alguns destas substâncias, tais como o enxofre \((S)\), a magnésia (hidróxido de magnésio, \(Mg(OH)_2\)) e a soda (hidróxido de sódio, \(NaOH\)), ainda aparecem nas farmacopéias contemporâneas.</p>
+<p>O uso de drogas para aliviar dores e evitar a morte já era uma prática comum nas culturas primitivas. Porém, esta prática estava diretamente ligada à mística e as superstições de cada civilização, que normalmente associavam às causas das doenças a ação de maus espíritos. O papiro de Ebers proveniente das civilizações egípcias, conforme mostrado na Figura 9.1 é uma das mais antigas fontes das escritas médico-farmacêuticas, datada de 1550 a.C. Ele contém referências quantitativas que descrevem mais de 7000 substâncias medicinais, incluindo produtos vegetais, minerais e animais, contabilizando mais de 800 fórmulas. Alguns destas substâncias, tais como o enxofre (S), a magnésia (hidróxido de magnésio, Mg(OH)<sub>2</sub>) e a soda (hidróxido de sódio, NaOH), ainda aparecem nas farmacopéias contemporâneas.</p>
 
 <figure class="lateral">
     <img src="img/fig-9-1.jpg" alt="audiodescrição">
@@ -64,7 +64,7 @@ include("components/page-header.php");
 <p>Na antiguidade, a maioria dos produtos usados com medicamentos por homens e animais era derivada de vegetais e, portanto, apresentavam baixa pureza. No entanto, para aumentar a eficiência e o princípio ativo de cada medicamento, as décadas iniciais da indústria farmacêutica moderna dedicaram-se a separar e purificar os produtos individualmente extraídos das plantas e animais. Atualmente, os métodos extrativos foram aprimorados pelo uso de novos procedimentos, equipamentos e solventes especializados. Por outro lado, como foi visto anteriormente, o aumento da demanda e o grande investimento devotado a pesquisa e desenvolvimento da indústria farmacêutica durante o Século XX, proporcionaram uma substituição de muitas drogas oriundas das extrações de produtos naturais por produtos químicos sintéticos. </p>
 <p>A complexidade dos processos de fabricação dos fármacos também dificulta a definição de qual etapa de conversão química deve ser usada para classificar a síntese de uma substância química, além disso, a infinidade de drogas presentes no mercado inviabiliza uma descrição completa de cada processo produtivo. Desta forma, a seguir serão apresentadas apenas as principais conversões químicas envolvidas na produção de algumas drogas fabricadas pela indústria farmacêutica, com destaque para as que apresentam o maior valor agregado, maior volume de produção e melhor processo ilustrativo.</p>
 <h3></h3>
-<p>A alquilação é definida como um processo de introdução de grupos alquil ou aril \((-R)\) por reações de substituição ou adição, em compostos orgânicos. São considerados três tipos de processos, segundo a forma de ligação que se efetua:</p>
+<p>A alquilação é definida como um processo de introdução de grupos alquil ou aril <span class="nobreak">(–R)</span> por reações de substituição ou adição, em compostos orgânicos. São considerados três tipos de processos, segundo a forma de ligação que se efetua:</p>
 <div class="box">
     <p><span class="bold">O-alquilação:</span> substituição de um hidrogênio em um grupo hidroxi de álcoois ou fenóis;</p>
     <p><span class="bold">N-alquilação: </span>substituição de um hidrogênio ligado a um átomo de nitrogênio;</p>
@@ -77,7 +77,7 @@ include("components/page-header.php");
     <figcaption><span class="bold">Figura 9.2. </span>Esquema de reações químicas para a preparação de Barbital.</figcaption>
 </figure>
 <h3>Carboxilação</h3>
-<p>A carboxilação é definida como um processo de introdução do grupamento carboxila \((-COOH)\) por reações com dióxido de carbono \((CO_2)\), em compostos orgânicos. Ela é bastante empregada na produção do ácido salicílico e seus derivados (aspirina, salol, salicilato de metila). A síntese destes compostos se dá a partir de uma reação de carboxilação conhecida como reação de Kolbe-Schimitt esquematizada por meio do mecanismo reacional mostrado na Figura 9.2. </p>
+<p>A carboxilação é definida como um processo de introdução do grupamento carboxila <span class="nobreak">(–COOH)</span> por reações com dióxido de carbono <span class="nobreak">(CO<sub>2</sub>)</span>, em compostos orgânicos. Ela é bastante empregada na produção do ácido salicílico e seus derivados (aspirina, salol, salicilato de metila). A síntese destes compostos se dá a partir de uma reação de carboxilação conhecida como reação de Kolbe-Schimitt esquematizada por meio do mecanismo reacional mostrado na Figura 9.2. </p>
 <!-- FIGURA E FÓRMULAS 9.3 -->
 <figure>
     <img src="img/fig-9-3.jpg" alt="audiodescrição">
@@ -91,10 +91,10 @@ include("components/page-header.php");
     <img src="img/fig-9-4.jpg" alt="audiodescrição">
     <figcaption><span class="bold">Figura 9.4. </span>Esquema de reações químicas para a preparação da Fenolftaleína.</figcaption>
 </figure>
-<p>O produto da reação de condensação é adicionado ainda aquecido em água fervente e posteriormente fervido. Em seguida o condensado é dissolvido em soda cáustica \((NaOH)\) quente diluída e precipitado com ácido acético \((H_3COOH)\). Por fim, ele é purificado por cristalização a partir de um álcool e filtrado com carvão ativo. </p>
+<p>O produto da reação de condensação é adicionado ainda aquecido em água fervente e posteriormente fervido. Em seguida o condensado é dissolvido em soda cáustica <span class="nobreak">(NaOH)</span> quente diluída e precipitado com ácido acético <span class="nobreak">(H<sub>3</sub>COOH)</span>. Por fim, ele é purificado por cristalização a partir de um álcool e filtrado com carvão ativo. </p>
 
 <h3>Desidratação</h3>
-<p>A reação de desidratação é um tipo especial de condensação onde, durante a combinação de duas moléculas se descartada uma ou mais molécula de água \((H_2O)\). </p>
+<p>A reação de desidratação é um tipo especial de condensação onde, durante a combinação de duas moléculas se descartada uma ou mais molécula de água <span class="nobreak">(H<sub>2</sub>O)</span>. </p>
 <p>Para exemplifica a desidratação será apresentada a seguir a síntese do éter. Esse composto é normalmente usado como solvente e, quando purificado, é usado na farmacopéia como anestésico. O processo de fabricação do éter é bastante simples e se baseia na ação desidratante do ácido sulfúrico, conforme reações químicas apresentada na equação 9.1:</p>
 <!-- EQ 9.1 -->
 <h3>Esterificação (Acetilação)</h3>
@@ -107,7 +107,7 @@ include("components/page-header.php");
 <p>Destaque especial é dado à substituição do átomo de hidrogênio por uma molécula de cloro. Essa halogenação é conhecida como cloração e é amplamente usada na produção de alguns intermediários usados na síntese de fármacos, como o cloreto e o brometo de etila. Porém, em poucos casos o cloro aparece na composição final do fármaco. Um destes casos está presente na produção do clorofórmio, um solvente orgânico que foi bastante usado no passado como anestésico, mas que hoje é mais empregado na análise química e como preservativo, durante a percolação aquosa de drogas vegetais. A reação química de síntese do clorofórmio é representada pela equação 9.3.</p>
 <!-- EQ 9.3 -->
 <h3>Oxidação</h3>
-<p>São denominadas reações oxirredução (ou redox) todas as reações químicas que envolvem a transferência de elétrons entre um composto orgânico e uma espécie oxidante ou redutora. Quando o elemento químico oxigênio \((O)\) é o agente oxidante em questão e o aumento do número de oxidação ocorre nos átomos de carbono do composto orgânico que originará o fármaco, essa reação é conhecida como oxidação. A reação de oxidação pode ser ilustrada pelo esquema reacional de produção da isoniazida, um fármaco pertencente ao grupo dos antibacterianos que é usado em conjunto com outros medicamentos para o tratamento da tuberculose. </p>
+<p>São denominadas reações oxirredução (ou redox) todas as reações químicas que envolvem a transferência de elétrons entre um composto orgânico e uma espécie oxidante ou redutora. Quando o elemento químico oxigênio (O) é o agente oxidante em questão e o aumento do número de oxidação ocorre nos átomos de carbono do composto orgânico que originará o fármaco, essa reação é conhecida como oxidação. A reação de oxidação pode ser ilustrada pelo esquema reacional de produção da isoniazida, um fármaco pertencente ao grupo dos antibacterianos que é usado em conjunto com outros medicamentos para o tratamento da tuberculose. </p>
 <p>A ioniazida é produzida pela oxidação da 4-Metilpiridina, de acordo com o esquema reacional representado pela equação 9.4.</p>
 <!-- FIGURA 9.5 -->
 <figure>
