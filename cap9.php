@@ -73,7 +73,7 @@ include("components/page-header.php");
 <p>Dentre os processos de alquilação presentes na indústria farmacêutica, podemos destacar o da síntese do barbital. O barbital é um ácido dietilbarbitúrico da classe terapêutica dos sedativos e hipnóticos, vendido com o nome comercial de veronal. Ele é um dos mais antigos barbituratos de ação demorada, sendo sintetizado a partir do malonato de dietila pelos seguintes mecanismos de reações químicas esquematizadas na Figura 9.1.</p>
 <!-- FIGURA E FÓRMULAS 9.2 -->
 <figure>
-    <img src="img/fig-9-2.jpg" alt="audiodescrição">
+    <img src="img/fig-9-2.svg" alt="audiodescrição">
     <figcaption><span class="bold">Figura 9.2. </span>Esquema de reações químicas para a preparação de Barbital.</figcaption>
 </figure>
 <h3>Carboxilação</h3>
