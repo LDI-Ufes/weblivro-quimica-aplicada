@@ -73,14 +73,14 @@ include("components/page-header.php");
 <p>Dentre os processos de alquilação presentes na indústria farmacêutica, podemos destacar o da síntese do barbital. O barbital é um ácido dietilbarbitúrico da classe terapêutica dos sedativos e hipnóticos, vendido com o nome comercial de veronal. Ele é um dos mais antigos barbituratos de ação demorada, sendo sintetizado a partir do malonato de dietila pelos seguintes mecanismos de reações químicas esquematizadas na Figura 9.2.</p>
 <!-- FIGURA E FÓRMULAS 9.2 -->
 <figure>
-    <img src="img/fig-9-2.svg" alt="audiodescrição">
+    <img width="100%" src="img/fig-9-2.svg" alt="audiodescrição">
     <figcaption><span class="bold">Figura 9.2. </span>Esquema de reações químicas para a preparação de Barbital.</figcaption>
 </figure>
 <h3>Carboxilação</h3>
 <p>A carboxilação é definida como um processo de introdução do grupamento carboxila <span class="nobreak">(–COOH)</span> por reações com dióxido de carbono <span class="nobreak">(CO<sub>2</sub>)</span>, em compostos orgânicos. Ela é bastante empregada na produção do ácido salicílico e seus derivados (aspirina, salol, salicilato de metila). A síntese destes compostos se dá a partir de uma reação de carboxilação conhecida como reação de Kolbe-Schimitt esquematizada por meio do mecanismo reacional mostrado na Figura 9.2. </p>
 <!-- FIGURA E FÓRMULAS 9.3 -->
 <figure>
-    <img src="img/fig-9-3.svg" alt="audiodescrição">
+    <img width="100%" src="img/fig-9-3.svg" alt="audiodescrição">
     <figcaption><span class="bold">Figura 9.3. </span>Esquema de reações químicas para a preparação do Salicilato de metila.</figcaption>
 </figure>
 <h3>Condensação</h3>
@@ -88,7 +88,7 @@ include("components/page-header.php");
 <p>Destaque especial é dado à fenolftaleína, um composto amplamente usado como purgativo, e que também é bastante conhecido na química analítica, especialmente na análise volumétrica, por ser empregado como indicador do ponto final em titulações ácido/base. Ele é produzido pelo esquema reacional apresentado na Figura 9.3.</p>
 <!-- FIGURA E FÓRMULAS 9.4 -->
 <figure>
-    <img src="img/fig-9-4.svg" alt="audiodescrição">
+    <img width="100%" src="img/fig-9-4.svg" alt="audiodescrição">
     <figcaption><span class="bold">Figura 9.4. </span>Esquema de reações químicas para a preparação da Fenolftaleína.</figcaption>
 </figure>
 <p>O produto da reação de condensação é adicionado ainda aquecido em água fervente e posteriormente fervido. Em seguida o condensado é dissolvido em soda cáustica <span class="nobreak">(NaOH)</span> quente diluída e precipitado com ácido acético <span class="nobreak">(H<sub>3</sub>COOH)</span>. Por fim, ele é purificado por cristalização a partir de um álcool e filtrado com carvão ativo. </p>
@@ -96,24 +96,41 @@ include("components/page-header.php");
 <h3>Desidratação</h3>
 <p>A reação de desidratação é um tipo especial de condensação onde, durante a combinação de duas moléculas se descartada uma ou mais molécula de água <span class="nobreak">(H<sub>2</sub>O)</span>. </p>
 <p>Para exemplifica a desidratação será apresentada a seguir a síntese do éter. Esse composto é normalmente usado como solvente e, quando purificado, é usado na farmacopéia como anestésico. O processo de fabricação do éter é bastante simples e se baseia na ação desidratante do ácido sulfúrico, conforme reações químicas apresentada na equação 9.1:</p>
-<!-- EQ 9.1 -->
+<!-- EQ 9.1 FIGURA 9.5 -->
+<figure>
+    <img width="100%" src="img/fig-9-5.svg" alt="audiodescrição">
+</figure>
 <h3>Esterificação (Acetilação)</h3>
 <p>A esterificação é uma reação química reversível na qual um ácido carboxílico reage com um álcool produzindo éster e água. A esterificação da função fenol do ácido salicílico com anidrido acético, em presença de gotas de ácido sulfúrico como catalisador é conhecida como acetilação e é a conversão química que serve de base para produção do ácido acetilsalicílico (AAS). A reação química de síntese do ácido acetilsalicílico é apresentada na equação 9.2.</p>
-<!-- EQ 9.2 -->
+<!-- EQ 9.2 FIGURA 9.6 -->
+<figure>
+    <img width="100%" src="img/fig-9-6.svg" alt="audiodescrição">
+</figure>
 <p>Esse fármaco é conhecido comercialmente como aspirina e, certamente, é o produto farmacêutico mais vendido no mundo. O ácido acetilsalicílico é empregado como antipirético e analgésico e pode ser ainda usado contra febre reumática aguda e gota. </p>
 
 <h3>Halogenação</h3>
 <p>A halogenação é uma reação química onde um átomo de hidrogênio é substituído por um átomo de halogênio, ou seja, essa conversão química pode também ser definida como uma reação química que incorpora um átomo de halogênio em uma molécula específica. </p>
 <p>Destaque especial é dado à substituição do átomo de hidrogênio por uma molécula de cloro. Essa halogenação é conhecida como cloração e é amplamente usada na produção de alguns intermediários usados na síntese de fármacos, como o cloreto e o brometo de etila. Porém, em poucos casos o cloro aparece na composição final do fármaco. Um destes casos está presente na produção do clorofórmio, um solvente orgânico que foi bastante usado no passado como anestésico, mas que hoje é mais empregado na análise química e como preservativo, durante a percolação aquosa de drogas vegetais. A reação química de síntese do clorofórmio é representada pela equação 9.3.</p>
-<!-- EQ 9.3 -->
+<!-- EQ 9.3 FIGURA 9.7 -->
+<figure>
+    <img width="100%" src="img/fig-9-7.svg" alt="audiodescrição">
+</figure>
 <h3>Oxidação</h3>
 <p>São denominadas reações oxirredução (ou redox) todas as reações químicas que envolvem a transferência de elétrons entre um composto orgânico e uma espécie oxidante ou redutora. Quando o elemento químico oxigênio (O) é o agente oxidante em questão e o aumento do número de oxidação ocorre nos átomos de carbono do composto orgânico que originará o fármaco, essa reação é conhecida como oxidação. A reação de oxidação pode ser ilustrada pelo esquema reacional de produção da isoniazida, um fármaco pertencente ao grupo dos antibacterianos que é usado em conjunto com outros medicamentos para o tratamento da tuberculose. </p>
 <p>A ioniazida é produzida pela oxidação da 4-Metilpiridina, de acordo com o esquema reacional representado pela equação 9.4.</p>
-<!-- FIGURA 9.5 -->
+<!-- EQ 9.4 FIGURA 9.8 -->
 <figure>
-    <img src="img/fig-9-5.svg" alt="audiodescrição">
-    <figcaption><span class="bold">Figura 9.5. </span>Esquema de reações químicas para a preparação da sulfadiazina.</figcaption>
+    <img width="100%" src="img/fig-9-8.svg" alt="audiodescrição">
 </figure>
+
+<h3>Sulfonação</h3>
+<p>A sulfonação é uma conversão química empregada na produção de diversas sulfonamidas (sulfanilamida, sulfadiazina, sulfasuxidina, sulfaguanidina e sulfatiazol). Dentre elas a sulfadiazina é a única sulfonamida que apresenta utilidade terapêutica, com ação sistêmica e antibactericida. A Figura 9.4 apresentada as reações químicas de sulfonação e condensação usadas para a síntese da sulfadiazina:</p>
+<figure>
+    <img width="100%" src="img/fig-9-9.svg" alt="audiodescrição">
+    <figcaption><span class="bold">Figura 9.4. </span>Esquema de reações químicas para a preparação de Barbital.</figcaption>
+</figure>
+
+
 <h3>Fermentação</h3>
 <p>Como foi mencionado logo no início do capítulo, após a Segunda Guerra Mundial a biotecnologia passou a ter papel fundamental na produção de fármacos. Deste modo, a indústria farmacêutica passou a empregar os processos biológicos dos vegetais e/ou animais, especialmente dos micro-organismos na produção de medicamentos. Esses micro-organismos podem crescer em condições controladas, para produzir diversas substâncias químicas fundamentais e muitas vezes complexas, tais como: antibiótico, produtos biológicos (vírus, soro terapêutico, toxina, antitoxina, etc.), hormônios esteroides e vitaminas. A tecnologia de fermentação envolvida na produção destes compostos já foi citada no Capítulo 8 e, portanto, não será abordada novamente.</p>
 
