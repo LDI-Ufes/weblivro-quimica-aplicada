@@ -134,6 +134,7 @@ include("components/page-header.php");
 <h3>Fermentação</h3>
 <p>Como foi mencionado logo no início do capítulo, após a Segunda Guerra Mundial a biotecnologia passou a ter papel fundamental na produção de fármacos. Deste modo, a indústria farmacêutica passou a empregar os processos biológicos dos vegetais e/ou animais, especialmente dos micro-organismos na produção de medicamentos. Esses micro-organismos podem crescer em condições controladas, para produzir diversas substâncias químicas fundamentais e muitas vezes complexas, tais como: antibiótico, produtos biológicos (vírus, soro terapêutico, toxina, antitoxina, etc.), hormônios esteroides e vitaminas. A tecnologia de fermentação envolvida na produção destes compostos já foi citada no Capítulo 8 e, portanto, não será abordada novamente.</p>
 
+<br>
 <div class="atv">
     <h3 class="atividade">Atividade 9.1</h3>
     <p>Pesquisar na literatura sobre o processo de fabricação do ácido acetilsalicílico, em seguida apresentar um resumo de no máximo 20 linhas, destacado sua principal conversão química.</p>
