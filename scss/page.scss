@@ -174,4 +174,101 @@ header > .container {
   }
 }
 
+.lightbox-img {
+  cursor: pointer;
+}
+
+#lightbox {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.4);
+  padding-top: 80px;
+  visibility: hidden;
+  opacity: 0;
+  z-index: 2;
+  transition: opacity 0.3s linear;
+  cursor: pointer;
+
+  @media only screen and (min-width: 1000px) {
+    padding-top: 108px;
+  }
+
+  &.show {
+    visibility: visible;
+    opacity: 1;
+    transition: opacity 0.3s linear;
+  }
+
+  .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 75%;
+
+    #fecha {
+      font-size: 1.15rem;
+      background: var(--secundariaPrincipal);
+      color: #fff;
+      padding: 0.5rem 1.5rem;
+      border-radius: 60px;
+      display: flex;
+      align-items: center;
+      font-weight: $bold;
+      margin-bottom: 1.2rem;
+
+      &::before {
+        @extend %fontAwesome;
+        content: "\f00d";
+        color: #fff;
+        font-size: 1.4rem;
+        margin-right: 12px;
+      }
+    }
+
+    .img-box {
+      overflow: auto;
+      width: 100%;
+      white-space: nowrap;
+      max-height: calc(100vh - 260px);
+
+      img {
+        min-width: 400px;
+        max-width: 800px;
+        display: block;
+        margin: 0 auto;
+        cursor: default;
+
+        &.box-formula {
+          min-width: 700px;
+        }
+      }
+    }
+
+    p {
+      color: var(--primariaPrincipal);
+      background: #fff;
+      font-size: 1rem;
+      padding: 0.5rem 1.1rem;
+      border-radius: 4px;
+      margin: 1.2rem 0 0 0;
+      display: flex;
+      align-items: center;
+      cursor: default;
+      visibility: hidden;
+
+      &::before {
+        @extend %fontAwesome;
+        content: "\f0a6";
+        color: var(--primariaPrincipal);
+        font-size: 1.4rem;
+        margin-right: 12px;
+      }
+    }
+  }
+}
+
 @import "themes";
