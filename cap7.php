@@ -190,7 +190,7 @@ include("components/page-header.php");
 <p>A Figura 7.1 mostra a evolução da produção brasileira de Celulose e Papel nas últimas 4 décadas. Nos anos de 1970 o Brasil produzia em média 800 mil toneladas de celulose e 1 milhão e 100 mil toneladas de papel. Entre as décadas de 1990 e 2007 ocorreu um crescimento significativo passando de 4,4 e 4,7 milhões de toneladas para 12,0 e 9,0 milhões de toneladas de Celulose e Papel, respectivamente. Desde então, o crescimento anual se encontra ligeiramente constante, sendo de 7,5% para Celulose e 5,6% para o Papel.</p>
 <!--FIGURA 7.1 -->
 <figure>
-    <img src="img/fig-7-1.jpg" alt="audiodescrição">
+    <img src="img/fig-7-1.jpg" alt="audiodescrição" class="lightbox-img">
     <figcaption><span class="bold">Figura 7.1. </span>Evolução da produção brasileira de Celulose e Papel nos últimos 40 anos.</figcaption>
 </figure>
 <p>Nos dias atuais não há notícias de derrubada de árvores nativas para fabricação de papel, sendo que informações da Bracelpa e orgãos internacionais mostram que 100% da madeira utilizada têm origem em florestas plantadas de Eucalipto e Pinus. Dados obtidos pela Bracelpa mostram que em 1980 a produtividade média (m<sup>3</sup>/ha/ano) de madeira para celulose era de 24 para Eucalipto e 19 para Pinus. Em 2009 a produtividade passou para 44 para Eucalipto e 38 para Pinus. Esse valores correspondem a 83% e 100% de crescimento para Eucalipto e Pinus, respectivamente.</p>
@@ -258,7 +258,7 @@ include("components/page-header.php");
 <p>Na 3ª semana de fevereiro de 2012, a balança comercial registrou superávit de US$ 370 milhões, resultado de exportações no valor de US$ 4,703 bilhões e importações de US$ 4,333 bilhões. No mês, as exportações alcançaram US$ 12,394 bilhões, e as importações US$ 10,673 bilhões, com saldo positivo de US$ 1,721 bilhão. No ano, as exportações somam US$ 28,535 bilhões, as importações, US$ 28,106 bilhões, com saldo positivo de US$ 429 milhões, segundo dados divulgados pela Secex (Secretária de Comércio Exterior). A Figura 7.2 apresenta os dados relativos ao destino das exportações de Celulose brasileira nos anos de 2010 e 2011. Já a exportações em Papel a maior parte é centrada na América Latina, dados divulgados pelo Secex mostram que nos anos de 2010 e 2011 57-58% do total de exportações foram para essa região do globo.</p>
 <!-- FIGURA 7.2 -->
 <figure>
-    <img src="img/fig-7-2.jpg" alt="audiodescrição">
+    <img src="img/fig-7-2.jpg" alt="audiodescrição" class="lightbox-img">
     <figcaption><span class="bold">Figura 7.2. </span>Destino das exportações de Celulose Brasileira. Fonte: Secex.</figcaption>
 </figure>
 
@@ -491,13 +491,13 @@ include("components/page-header.php");
 
 <!-- FIGURA 7.3 -->
 <figure class = "retrato">
-    <img src="img/fig-7-3.jpg" alt="audiodescrição">
+    <img src="img/fig-7-3.jpg" alt="audiodescrição" class="lightbox-img">
     <figcaption><span class="bold">Figura 7.3.</span>Destino do papel produzido no Brasil entre os anos de 2009-2010. Fonte: Bracelpa.</figcaption>
 </figure>
 
 <!-- figura 7.4 -->
 <figure>
-    <img src="img/fig-7-4.jpg" alt="audiodescrição">
+    <img src="img/fig-7-4.jpg" alt="audiodescrição" class="lightbox-img">
     <figcaption><span class="bold">Figura 7.4. </span>Comparação do consumo de papel e taxa de recuperação. Fonte: Bracelpa.</figcaption>
 </figure>
 
@@ -565,13 +565,13 @@ include("components/page-header.php");
 <p>A obtenção de polpa celulósica de Eucalipto é quase totalmente, através do processo alcalino <em>Kraft</em> ou sulfato. Esta técnica utiliza soluções com hidróxido de sódio e sulfato de sódio misturado a cavacos de madeira em altas temperaturas. Consiste na degradação da lignina, separando as fibras e deixando nas mesmas, principalmente a celulose e as hemiceluloses, para serem usadas na fabricação de papel. As reações que ocorrem no processo <em>Kraft</em> de polpação são complexas e não totalmente entendidas. A Figura 7.5 mostra uma representação esquemática do processo de polpação.</p>
 <!-- FIGURA 7.5 -->
 <figure>
-    <img src="img/fig-7-5.jpg" alt="audiodescrição">
+    <img src="img/fig-7-5.jpg" alt="audiodescrição" class="lightbox-img">
     <figcaption><span class="bold">Figura 7.5. </span>Representação esquemática do processo de polpação.</figcaption>
 </figure>
 <p>A lignina incrustada nos cavacos de madeira é quimicamente quebrada em fragmentos pelos íons hidroxilas (OH<sup>-</sup>) e hidrossulfitos (SH<sup>-</sup>) presentes no licor de polpação. Os fragmentos da lignina são então dissolvidos como íons fenolato ou carboxilato. Uma parte dos carboidratos (polioses) é também atacada quimicamente e dissolvida. Em geral, 80% da lignina e 50% das polioses são dissolvidas durante um cozimento típico de polpa branqueável. Por outro lado, ocorre uma menor dissolução de outros tipos de carboidratos, cerca de 10%. A Figura 7.6 mostra um esquema da metodologia do processo utilizado na preparação da polpa de papel.</p>
 <!-- FIGURA 7.6 -->
 <figure>
-    <img src="img/fig-7-6.jpg" alt="audiodescrição">
+    <img src="img/fig-7-6.jpg" alt="audiodescrição" class="lightbox-img">
     <figcaption><span class="bold">Figura 7.6.</span>Esquema mostrando a metodologia do processo utilizado na preparação da polpa de papel.</figcaption>
 </figure>
 <p>Existem dois métodos de descorticar as toras:</p>
@@ -648,7 +648,7 @@ include("components/page-header.php");
 <figure>
     <p><span class="boldSecundario">Quadro 7.1.</span> Celulose – um polímero formado pelas moléculas de β-glicose</p>
     <div class="box-centro">
-        <img text-align="center" src="img/fig-7-7.jpg" alt="audiodescrição">
+        <img text-align="center" src="img/fig-7-7.jpg" alt="audiodescrição" class="lightbox-img img-formula">
     </div>
     <p>O esquema acima ilustra a formação da cadeia polimérica que caracteriza a estrutura da celulose. Como podemos ver a celulose se forma pela união de moléculas de β-glicose (uma hexosana) através de ligações β-1,4-glicosídicas. Em geral, a celulose tem massa molecular variável, com fórmula empírica (C<sub>6</sub>H<sub>10</sub>O<sub>5</sub>)n, com um valor mínimo de n = 200 (tipicamente 300 a 700, podendo passar de 7000). As múltiplas ligações de hidrogênio entre os grupos hidroxilas das diferentes cadeias justapostas de glicose fazem da celulose uma estrutura linear e fibrosa. Outra característica interessante da celulose é sua impenetrabilidade em relação à água, tornando-a insolúveis nesse meio.</p>
     <figcaption>Fonte: <a href="http://pt.wikipedia.org/wiki/Celulose" target="_blank" rel="noopener noreferrer">Wikipedia</a>.</figcaption>

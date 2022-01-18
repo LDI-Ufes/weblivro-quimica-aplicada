@@ -88,7 +88,7 @@ include("components/page-header.php");
 </p>
 <!-- FIGURA 1.1 -->
 <figure>
-  <img width=100% src="img/fig-1-1.jpg" alt="audiodescrição">
+  <img width=100% src="img/fig-1-1.jpg" alt="audiodescrição" class="lightbox-img">
   <figcaption><span class="bold">Figura 1.1.</span> Fórmula Estrutural do Ácido Sulfúrico. As bolas na cor vermelha representam os átomos de oxigênio, na cor branca os átomos de hidrogênio e na cor amarela o átomo de enxofre.</figcaption>
 </figure>
 
@@ -106,7 +106,7 @@ include("components/page-header.php");
 <p>O ácido sulfúrico é a matéria-prima mais importante na produção de fertilizantes, pois permite a extração dos nutrientes das rochas de fosfato, principal componente na fabricação dos produtos. Além disso, é crucial na indústria de celulose, sendo responsável pelo controle do pH e branqueamento do papel; na indústria siderúrgica, fazendo o acabamento superficial das chapas de aço. O ácido sulfúrico tem aplicações também nas indústrias química, de mineração e no tratamento de água. A Figura 1.2 apresenta dados referentes à produção do ácido sulfúrico no mercado brasileiro nas décadas de 1955 a 2005.</p>
 <!-- FIGURA 1.2 -->
 <figure>
-  <img width=100% src="img/fig-1-2.jpg" alt="audiodescrição">
+  <img width=100% src="img/fig-1-2.jpg" alt="audiodescrição" class="lightbox-img">
   <figcaption><span class="bold">Figura 1.2.</span> Produção de ácido sulfúrico no Brasil entre os anos de 1955-2005. Fonte: ANDA (Associação Nacional para Difusão de Adubos).</figcaption>
 </figure>
 
@@ -227,7 +227,7 @@ include("components/page-header.php");
 <p>O processo de contato foi sendo gradualmente modificado para usar a dupla absorção, ou seja, o processo conhecido como dupla catálise. Neste processo, as emissões de <span class="nobreak">SO<sub>2</sub></span> são reduzidas e ocorre um aumento no rendimento. O <span class="nobreak">SO<sub>2</sub></span> pode ser obtido a partir de enxofre, de sulfeto de ferro (II), também conhecido como pirita, sulfatos e resíduos de tratamento diversos com ácido sulfúrico (“<em>acid sludges</em>”). A seleção da matéria-prima a ser processada depende da influência de diversos fatores, tais como disponibilidade, aproveitamento de subprodutos e custos de secagem e de limpeza do gás. De uma forma geral, o efeito combinado desses fatores conduz, na maioria dos casos, à seleção de piritas e enxofre como matéria-prima preferencial, ficando a utilização das demais reservadas às situações em que prevalecem condições muito particulares de disponibilidade a custos reduzidos.</p>
 <p>A Figura 1.3 representa esquematicamente um fluxograma típico de uma fábrica de ácido sulfúrico usando a metodologia do processo de contato. Como podemos ver o processo é dividido em várias etapas: transporte do enxofre; fusão do enxofre; bombeamento e atomização do enxofre líquido; secagem do ar de combustão; queima do enxofre; recuperação do calor do <span class="nobreak">SO<sub>2</sub></span> gasoso quente e resfriamento do gás; purificação do <span class="nobreak">SO<sub>2</sub></span>; oxidação do <span class="nobreak">SO<sub>2</sub></span> a <span class="nobreak">SO<sub>3</sub></span> em conversores; controle de temperatura; absorção do <span class="nobreak">SO<sub>3</sub></span> em ácido concentrado, a 98,5-99,0%; resfriamento do ácido dos absorvedores e finalmente o bombeamento do ácido para o topo das torres de absorção.</p>
 <figure>
-  <img src="img/fig-1-3.jpg" alt="audiodescrição">
+  <img src="img/fig-1-3.jpg" alt="audiodescrição" class="lightbox-img">
   <figcaption><span class="bold">Figura 1.3.</span> Fluxograma representativo da fabricação de <span class="nobreak">H<sub>2</sub>SO<sub>4</sub></span> via processo de contato.</figcaption>
 </figure>
 
@@ -258,7 +258,7 @@ include("components/page-header.php");
 </p>
 <!-- FIGURA 1.4 -->
 <figure>
-  <img src="img/fig-1-4.jpg" alt="audiodescrição">
+  <img src="img/fig-1-4.jpg" alt="audiodescrição" class="lightbox-img">
   <figcaption><span class="bold">Figura 1.4.</span> O inverso da constante de equilíbrio para a reação de formação de trióxido de enxofre em função da temperatura.</figcaption>
 </figure>
 
@@ -276,7 +276,7 @@ include("components/page-header.php");
 <p>Existem conversores de passos múltiplos onde a conversão global se torna bastante elevada, próximo a 98% ou mais. Sendo que para se obter uma conversão elevada é preciso abaixar a temperatura sucessivamente entre os estágios do conversor. A Figura 1.5 mostra um típico conversor de quatro etapas.</p>
 <!-- FIGURA 1.5 -->
 <figure class="retrato">
-  <img src="img/fig-1-5.jpg" alt="audiodescrição">
+  <img src="img/fig-1-5.jpg" alt="audiodescrição" class="lightbox-img">
   <figcaption><span class="bold">Figura 1.5.</span> Típico conversor em quatro etapas produzido pela empresa Monsanto Co, adaptado da ref. 3. <br> A - Catalisador de vanádio; B - visor; q - suporte de quartzo.</figcaption>
 </figure>
 <!-- FAZER CLASSE PARA BOX -->

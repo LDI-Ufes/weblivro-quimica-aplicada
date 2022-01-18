@@ -232,18 +232,20 @@ header > .container {
     .img-box {
       overflow: auto;
       width: 100%;
+      max-width: 800px;
+      display: block;
+      margin: 0 auto;
       white-space: nowrap;
       max-height: calc(100vh - 260px);
 
       img {
-        min-width: 400px;
-        max-width: 800px;
-        display: block;
-        margin: 0 auto;
+        width: 100%;
+
         cursor: default;
+        background: #fff;
 
         &.box-formula {
-          min-width: 700px;
+          width: 130%;
         }
       }
     }

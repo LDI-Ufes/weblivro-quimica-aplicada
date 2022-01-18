@@ -1,9 +1,12 @@
-const allImages = document.querySelectorAll('img'),
+const allImages = document.querySelectorAll('.lightbox-img'),
     lightboxOverlay = document.getElementById('lightbox'),
     lightboxClose = document.getElementById('fecha');
 
 function Lightbox(target) {
-    fecha.addEventListener("click", () => lightboxOverlay.classList.remove('show'));
+    fecha.addEventListener("click", () => {
+        lightboxOverlay.classList.remove('show');
+        document.body.style.overflow = 'visible';
+    });
 
     let imagem = lightboxOverlay.querySelector('img');
     imagem.src = target.src;
@@ -18,8 +21,9 @@ function Lightbox(target) {
 
     setTimeout(() => {
         lightboxOverlay.classList.add('show');
+        document.body.style.overflow = 'hidden';
         lightboxOverlay.addEventListener('click', e => {
-            if(!e.target.matches('img') && !e.target.matches('#lightbox p')) fecha.click();
+            if (!e.target.matches('img') && !e.target.matches('#lightbox p')) fecha.click();
         })
 
         //outro settimeout porque essa verificação if abaixo só funciona depois que a linha anterior ("add('show')") tenha sido executada
