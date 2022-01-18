@@ -249,8 +249,8 @@ article {
 	figure {
 		margin: 2rem auto;
 		max-width: 730px;
-		width: fit-content;
-		width: -moz-fit-content;
+		// width: fit-content;
+		// width: -moz-fit-content;
 
 		@media only screen and (min-width: 720px) {
 			padding-right: 150px;
