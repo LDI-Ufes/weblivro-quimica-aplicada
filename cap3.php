@@ -116,7 +116,7 @@ include("components/page-header.php");
 <p>A extração é feita, habitualmente por meio de explosões para obter-se blocos com dimensão inferior a 0,5 m<sup>3</sup>. A matéria extraída é reduzida em britadores de martelos conforme mostra a Figura 3.1, com o propósito de se obter material cuja dimensão seja inferior a 9 cm. Ao mesmo tempo em que se efetua a redução, é feita a correção da mistura para que se aproxime da composição química desejada.</p>
 <!-- FIGURA 3.1 -->
 <figure>
-    <img src="img/fig-3-1.jpg" alt="audiodescrição">
+    <img src="img/fig-3-1.jpg" alt="audiodescrição" class="lightbox-img">
     <figcaption><span class="bold">Figura 3.1. </span>O material britado é normalmente transportado para a fábrica por telas de borracha, sendo armazenado em silos verticais ou armazéns horizontais. Normalmente as telas possuem detectores de metais que as fazem parar o processo para retirada do material indesejado. Estes metais, que podem ser peças das máquinas da pedreira, podem provocar danos nas etapas seguintes.</figcaption>
 </figure>
 
@@ -126,7 +126,7 @@ include("components/page-header.php");
 <p>Depois da moagem do “cru” vem à operação de cozedura ou clinquerização, que origina, por reações químicas complexas, um produto granulado denominado clínquer. Antes do “cru” dar entrada no forno, ele tem que ser progressivamente aquecido até à temperatura de 850-900 ºC. Este processo de aquecimento ocorre na torre de ciclones que é constituída por vários ciclones sobrepostas verticalmente, em que cada um, é constituído por um cilindro e um cone na parte inferior, conforme esquematizado no desenho da Figura 3.2. O ar quente e poeiras provenientes do forno entram pela parte superior do ciclone inferior segundo uma tangente ao cilindro. Devido à configuração do ciclone, as partículas precipitam através da parte inferior enquanto que o ar quente parcialmente purificado escapa-se pela parte superior, passando ao ciclone imediatamente acima onde ocorre o mesmo processo até que, no último ciclone, o gás é liberado a uma temperatura de 900 ºC arrastando consigo, uma quantidade mínima de poeiras encaminhado-as para os eletrofiltros.</p>
 <!-- FIGURA 3.2 -->
 <figure class="lateral">
-    <img src="img/fig-3-2.jpg" alt="audiodescrição">
+    <img src="img/fig-3-2.jpg" alt="audiodescrição" class="lightbox-img">
     <figcaption><span class="bold">Figura 3.2.</span>Esquema de funcionamento de uma torre de ciclones.</figcaption>
 </figure>
 <p>Com as transformações físico-químicas ocorridas na torre de ciclones devido às variações térmicas, o “cru” dá lugar à farinha, produto apto para entrar no forno. Ao entrar no forno, a farinha desloca-se lentamente até seu fim, passando por um processo de clinquerização, que só ocorre a temperaturas que variam entre 1300 e 1500 ºC. A clinquerização é o conjunto de todas as reações físicas e químicas que ocorrem durante o período de cozedura, que por sua vez forma o clínquer. O deslocamento da farinha dá-se pelo fato de o forno, de forma cilíndrica, estar disposto horizontal e suavemente inclinado. O clínquer, para ter as características ideais de pressão e resistência, deve sofrer uma elevação de temperatura tão rápida quanto possível e em atmosfera oxidante.</p>

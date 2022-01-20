@@ -60,13 +60,13 @@ include("components/page-header.php");
 <p>Dentre os processos físicos empregados no beneficiamento de produtos alimentícios podemos destacar a operação de moagem. A moagem é empregada para promover o aumento da superfície de contato da matéria-prima, facilitando o desenvolvimento das etapas posteriores, tais como, a extração, a secagem e a homogeneização. Ela é muito empregada na moagem de grãos, como o milho, a soja e a mostarda, usando um equipamento chamado de moinho. A Figura 8.1 apresenta os principais modelos de moinhos usados no processamento de alimentos.</p>
 <!-- FIGURA 8.1 -->
 <figure>
-    <img src="img/fig-8-1.jpg" alt="audiodescrição">
+    <img src="img/fig-8-1.jpg" alt="audiodescrição" class="lightbox-img">
     <figcaption><span class="bold">Figura 8.1. </span>Principais modelos de moinhos usados no processamento de alimentos: (a) Moinho de bolas, (b) Moinho de martelos e (c) Moinho de pedras.</figcaption>
 </figure>
 <p></p>
 <!-- FIGURA 8.2 -->
 <figure>
-    <img src="img/fig-8-2.jpg" alt="audiodescrição">
+    <img src="img/fig-8-2.jpg" alt="audiodescrição" class="lightbox-img">
     <figcaption><span class="bold">Figura 8.2. </span>Representação esquemática de uma prensa mecânica. </figcaption>
 </figure>
 <p>Esse processo é bastante empregado para a extração de óleo de sementes e pode ocorrer de forma mista, envolvendo uma pré-prensagem com posterior extração com solvente.</p>
@@ -76,7 +76,7 @@ include("components/page-header.php");
 <p>Basicamente, existem três tipos de pasteurização. A pasteurização lenta, que aplica temperaturas mais baixas (da ordem de 65 °C) durante maior tempo (30 min ou mais). A pasteurização rápida, quando se aplicam temperaturas mais altas, da ordem dos 75 °C, durante alguns segundos. Este tipo de pasteurização é, por vezes, denominado HTST (do inglês <em>High Temperature and Short Time</em>), ou simplesmente "alta temperatura e curto tempo". Por fim temos a pasteurização muito rápida, quando a temperatura varia entre 130 e 150 °C, de três a cinco segundos. Também conhecido como UHT (do inglês, <em>Ultra High Temperature</em>) ou simplesmente "temperatura ultra-elevada". A Figura 8.3 mostra uma foto do sistema de purificação UHT.</p>
 <!-- FIGURA 8.3 -->
 <figure>
-    <img src="img/fig-8-3.jpg" alt="audiodescrição">
+    <img src="img/fig-8-3.jpg" alt="audiodescrição" class="lightbox-img">
     <figcaption><span class="bold">Figura 8.3. </span>Sistema de purificação UHT para sucos de frutas, leite e outras bebidas semelhantes. Fonte: </figcaption>
 </figure>
 <p>A esterilização pelo calor é o tratamento no qual o alimento é aquecido a uma temperatura relativamente elevada durante períodos variados de tempo, suficientes para a destruição dos micro-organismos e inativação das enzimas capazes de deteriorar o produto durante o armazenamento. Este tratamento pode ser realizado por diversos processos, dentre eles: a flambagem, a fervura, a aplicação de calor seco e a aplicação de calor úmido ou autoclavagem. </p>

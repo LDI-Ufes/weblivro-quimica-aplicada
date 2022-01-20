@@ -52,7 +52,7 @@ include("components/page-header.php");
 <p>A indústria de soda-cloro constitui uma das maiores tecnologias eletroquímica do mundo. Por ser um processo eletrointensivo, classificado como o segundo maior consumidor de eletricidade, com utilização anual de <span class="bold">2.400 bilhões de kWh, em 2006</span>. Em 2010, a energia elétrica representou pouco mais de 45% do custo total de produção do setor. O consumo específico de energia elétrica por unidade eletrolítica é bastante significativo, e varia de acordo com a tecnologia de produção, se situando entre 2,8 MWh/t – 3,6 MWh/t. A Figura 2.1 ilustra o perfil evolutivo do consumo específico de energia (MWh por tonelada) pelo setor cloro-soda entre os anos de 2000 a 2010.</p>
 <!-- FIGURA 2.1 -->
 <figure>
-  <img src="img/fig-2-1.jpg" alt="audiodescrição">
+  <img src="img/fig-2-1.jpg" alt="audiodescrição" class="lightbox-img">
   <figcaption><span class="bold">Figura 2.1. </span>Consumo energético em MWh/tonelada de cloro em função do ano. Fonte: Abiclor.</figcaption>
 </figure>
 
@@ -63,13 +63,13 @@ include("components/page-header.php");
 <p>Por exemplo, a soda cáustica é um produto essencial para operações industriais. Além de insumo importante na produção do alumínio, é utilizada na fabricação de papel e celulose, indústria química e petroquímica, sabões e detergentes, fibra sintética <em>rayon</em>, celofane, sais de sódio, corantes e pigmentos, vidros, produtos farmacêuticos, cosméticos, produção de hipoclorito de sódio e produtos para tratamento de água. É também usada na refinação de óleos vegetais, regeneração de resinas de troca iônica, na produção de tecidos de algodão para fortalecer as fibras e absorver melhor o tingimento, no processamento de metais, na extração de petróleo e na neutralização de efluentes.</p>
 <!-- FIGURA 2.2 -->
 <figure>
-  <img src="img/fig-2-2.jpg" alt="audiodescrição">
+  <img src="img/fig-2-2.jpg" alt="audiodescrição" class="lightbox-img">
   <figcaption><span class="bold">Figura 2.2. </span>Capacidade instalada por processos. Fonte: Abiclor.</figcaption>
 </figure>
 
 <!-- FIGURA 2.3 -->
 <figure>
-  <img src="img/fig-2-3.jpg" alt="audiodescrição">
+  <img src="img/fig-2-3.jpg" alt="audiodescrição" class="lightbox-img">
   <figcaption><span class="bold">Figura 2.3.</span> Fluxograma do processo de produção de cloro e hidróxido de sódio mediante a eletrólise da solução de cloreto de sódio <span class="nobreak">(NaCl)</span>.</figcaption>
 </figure>
 
@@ -154,7 +154,7 @@ include("components/page-header.php");
 <p>A soda cáustica registrou um crescimento de 0,5% na produção em relação ao ano de 2009. Já o consumo aparente (produção local mais importações, descontado o volume exportado) apresentou alta de 8,8%. As importações de soda foram 19,7% maiores que o volume registrado em 2009. Em oposição ao observado no caso do cloro, aproximadamente 10% da sua produção foi utilizada pelas industrias para produção de derivados (uso cativo). Sendo que os demais 90% foram vendidos no mercado interno para diversos segmentos industriais. Em 2010, ocorreu um aumento do consumo de soda cáustica em comparação ao ano de 2009 pelos setores químico/petroquímico e papel e celulose de 5,1% e 7,1%, respectivamente. Esses setores representam 22% e 25% do consumo de soda, respectivamente. A Figura 2.4 mostra a distribuição do consumo de soda cáustica em 2010 nos diferentes segmentos.</p>
 <!-- FIGURA 2.4 -->
 <figure>
-  <img src="img/fig-2-4.jpg" alt="audiodescrição">
+  <img src="img/fig-2-4.jpg" alt="audiodescrição" class="lightbox-img">
   <figcaption><span class="bold">Figura 2.4. </span>Perfil percentual do consumo de soda cáustica em 2010. Fonte: Abiclor.</figcaption>
 </figure>
 <!-- no original tem uma imagem pequena junto, o que fazer? -->
@@ -188,7 +188,7 @@ include("components/page-header.php");
 
 <!-- FIGURA 2.5 -->
 <figure>
-  <img src="img/fig-2-5.jpg" alt="audiodescrição">
+  <img src="img/fig-2-5.jpg" alt="audiodescrição" class="lightbox-img">
   <figcaption><span class="bold">Figura 2.5. </span>Representação esquemática do processo de fabricação de Cloro e hidróxido de sódio a partir da eletrólise da salmoura (solução salina – <span class="nobreak">H<sub>2</sub>O</span> + <span class="nobreak">NaCl</span>)</figcaption>
 </figure>
 
@@ -214,7 +214,7 @@ include("components/page-header.php");
 </div>
 <!-- FIGURA 2.6 -->
 <figure>
-  <img src="img/fig-2-6.jpg" alt="audiodescrição">
+  <img src="img/fig-2-6.jpg" alt="audiodescrição" class="lightbox-img img-formula">
   <figcaption><span class="bold">Figura 2.6. </span>Fluxograma do processo de Fabricação de cloro e soda cáustica, adaptado da ref. 1. </figcaption>
 </figure>
 
@@ -297,7 +297,7 @@ include("components/page-header.php");
 <p>Entre as décadas de 1930 e 1960, várias toneladas de resíduos de mercúrio foram despejadas na Baía de Minamata, no Japão. Milhares de pessoas que vivem ao redor da Baía foram envenenadas por metilmercúrio em virtude do consumo de peixe contaminado. As vítimas sofreram severos danos neurológicos, que mais tarde ficou conhecida como Doença de Minamata. Ao todo, milhares de pessoas foram atingidas e mais de 900 morreram.</p>
 <!-- FIGURA 2.7 -->
 <figure>
-  <img src="img/fig-2-7.jpg" alt="audiodescrição">
+  <img src="img/fig-2-7.jpg" alt="audiodescrição" class="lightbox-img">
   <figcaption><span class="bold">Figura 2.7. </span>Esquema da célula primária de mercúrio.</figcaption>
 </figure>
 
@@ -310,11 +310,11 @@ include("components/page-header.php");
 <p>A Tabela 2.3 ilustra a comparação em relação ao consumo de energia e eficiência das diferentes tecnologias usadas para produção de cloro e soda.</p>
 <!-- FIGURA 2.8 -->
 <figure>
-  <img src="img/fig-2-8.jpg" alt="audiodescrição">
+  <img src="img/fig-2-8.jpg" alt="audiodescrição" class="lightbox-img">
   <figcaption><span class="bold">Figura 2.8.</span> Esquema da célula eletrolítica usando membrana para separa ânodo e cátodo. </figcaption>
 </figure>
 <figure class = "retrato">
-  <img src="img/fig-2-8-2.jpg" alt="audiodescrição">
+  <img src="img/fig-2-8-2.jpg" alt="audiodescrição" class="lightbox-img">
   <figcaption><span class="bold">Diagrama 2.1.</span> Relação de vantagens e desvantagens do uso das células de eletrólise com membrana polimérica. </figcaption>
 </figure>
 <!-- TITULO DA TABELA 2.3 -->
@@ -370,7 +370,7 @@ include("components/page-header.php");
 <p>Consequentemente, ao longo dos anos, a maioria das plantas que utilizavam a tecnologia das células de diafragma em todo o mundo, foram convertidos para estes tipos de eletrodos como ânodo. A Figura 2.9 ilustra alguns tipos de eletrodos utilizados hoje em dia nas diferentes células.</p>
 <!-- FIGURA 2.9 -->
 <figure>
-  <img src="img/fig-2-9.jpg" alt="Diafragma, mercúrio e membrana">
+  <img src="img/fig-2-9.jpg" alt="Diafragma, mercúrio e membrana" class="lightbox-img">
   <figcaption><span class="bold">Figura 2.9.</span> Eletrodos do tipo ADE. Fonte: DeNora.</figcaption>
 </figure>
 
