@@ -27,7 +27,7 @@
 
 <script src="js/focus-visible.min.js"></script>
 <script type="text/javascript" src="js/app.min.js"></script>
-<script type="text/javascript" src="js/lightbox.min.js"></script>
+<!-- <script type="text/javascript" src="js/lightbox.min.js"></script> -->
 <script type="text/javascript" src="js/page.min.js"></script>
 
 </html>
