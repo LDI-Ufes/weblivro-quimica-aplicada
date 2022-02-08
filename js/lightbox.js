@@ -9,11 +9,12 @@ function activateTab() {
 }
 
 function Lightbox(target) {
-    window.addEventListener('keyup', e => { if (e.key == 'Tab') lightboxClose.focus() });
+    let imagem = lightboxOverlay.querySelector('img');
+
+    // window.addEventListener('keyup', e => { if (e.key == 'Tab') lightboxClose.focus() });
     window.removeEventListener('keyup', activateTab)
     let VoltaFocusNaImagem = target;
 
-    let imagem = lightboxOverlay.querySelector('img');
     imagem.src = target.src;
     imagem.alt = target.alt;
 
@@ -26,17 +27,23 @@ function Lightbox(target) {
         lightboxOverlay.classList.add('show');
         document.body.style.overflow = 'hidden';
         lightboxOverlay.addEventListener('click', e => {
-            if (!e.target.matches('img') && !e.target.matches('#lightbox p')) fecha.click();
+            if (!e.target.matches('img') && !e.target.matches('#lightbox p')) lightboxClose.click();
         })
-        lightboxClose.focus()
+        imagem.focus();
+        document.querySelector('.img-box').classList.add('focus-visible');
         //outro settimeout porque essa verificação if abaixo só funciona depois que a linha anterior ("add('show')") tenha sido executada
         setTimeout(() => {
             (imagemBox.clientWidth < imagem.clientWidth || imagemBox.clientHeight < imagem.clientHeight) ? arrasteP.style.visibility = 'visible' : arrasteP.style.visibility = 'hidden';
         }, 20);
-    }, 30);
 
+        window.addEventListener('keyup', e => {
+            if (e.key == 'Tab' && document.activeElement !== imagem && document.activeElement !== lightboxClose)  setTimeout(() => lightboxClose.focus(), 20);
+            
+            document.activeElement == imagem ? document.querySelector('.img-box').classList.add('focus-visible') : document.querySelector('.img-box').classList.remove('focus-visible');
+        });
+    }, 20);
 
-    fecha.addEventListener("click", () => {
+    lightboxClose.addEventListener("click", () => {
         lightboxOverlay.classList.remove('show');
         document.body.style.overflow = 'visible';
         VoltaFocusNaImagem.focus()

@@ -12,7 +12,7 @@
   <div class="container">
     <button id="fecha"><span>Fechar</span></button>
     <div class="img-box">
-      <img src="" alt="">
+      <img src="" alt="" tabindex="0">
     </div>
     <p>Arraste para visualização completa</p>
   </div>
