@@ -246,7 +246,7 @@ include("components/page-header.php");
 <div class="box-centro">
   <div class="formula">
     <div class="line">
-      <p>\(K_p =\) \(\frac {P_{SO_3}} {P_{SO_2} \times {P_{O_2}}^{1/2}}\)</p>
+      <img src="img/fig-1-3-5.jpg" alt="audiodescrição" class="lightbox-img">
       <span class="box-eq">equação 1.12</span>
     </div>
   </div>

@@ -8,16 +8,6 @@
     </div>
   </main>
 
-  <div id="lightbox">
-  <div class="container">
-    <button id="fecha"><span>Fechar</span></button>
-    <div class="img-box">
-      <img src="" alt="">
-    </div>
-    <p>Arraste para visualização completa</p>
-  </div>
-</div>
-
   <a id="voltar-topo" title="Voltar ao topo" href="#topo"><span>Voltar ao topo</span></a>
   <footer>
     <span>2021 Sead Ufes. Todos os direitos reservados.</span>
