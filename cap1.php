@@ -11,7 +11,7 @@ include("components/page-header.php");
 
 <p>Segundo o alquimista Al-Razi, o ácido sulfúrico era obtido pela decomposição de sulfato de ferro(II) heptaidratado <span class="nobreak">(FeSO<sub>4</sub>∙7H<sub>2</sub>O)</span> e/ou sulfato de cobre(II) pentaidratatdo <span class="nobreak">(CuSO<sub>4</sub>∙5H<sub>2</sub>O)</span> em óxido de ferro(II) e de cobre(II), respectivamente, produzindo água e dióxido ou trióxido de enxofre (<span class="nobreak">SO<sub>2</sub></span> ou <span class="nobreak">SO<sub>3</sub></span>). A reação entre a água e o <span class="nobreak">SO<sub>2</sub></span> ou <span class="nobreak">SO<sub>3</sub></span> produz uma solução ácida, devido a formação do ácido sulfuroso ou sulfúrico, respectivamente. O ácido sulfuroso é lentamente oxidado pelo oxigênio do ar a ácido sulfúrico:</p>
 
-<p><span class="bold">a. </span>No caso do sulfato de ferro (II) temos:</p>
+<p><span class="bold">a. </span>No caso do sulfato de ferro(II) temos:</p>
 <!--LEGENDAR ESTEQUIOMETRIAS-->
 <div class="box">
   <div class="formula">
@@ -21,7 +21,7 @@ include("components/page-header.php");
     </div>
 
     <div class="line">
-      <p>6FeSO<sub>4</sub> → Fe<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> + 2Fe<sub>2</sub>O<sub>3</sub> + 3SO<sub>3</sub></p>
+      <p>6FeSO<sub>4</sub> → Fe<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> + 2Fe<sub>2</sub>O<sub>3</sub> + 3SO<sub>2</sub></p>
       <span class="box-eq">equação 1.2</span>
     </div>
 
@@ -42,7 +42,7 @@ include("components/page-header.php");
     </div>
 
     <div class="line">
-      <p>2CuSO<sub>4</sub> → 2CuO + 2SO<sub>2</sub> + O2 </p>
+      <p>2CuSO<sub>4</sub> → 2CuO + 2SO<sub>2</sub> + O<sub>2</sub> </p>
       <span class="box-eq">equação 1.5</span>
     </div>
 
@@ -79,20 +79,20 @@ include("components/page-header.php");
 
 <p>A preparação do ácido sulfúrico utilizando salitre (nitrato de potássio, <span class="nobreak">KNO<sub>3</sub></span>) foi primeiramente descrita por Valentinus, no Século XV. Entretanto, algumas fontes históricas informam que o cientista Johann Glauver também preparou o ácido sulfúrico pela queima de enxofre com salitre na presença de fogo, no Século XVII. Existem relatos que informam que o farmacêutico Joshua Ward começou em 1736 a produção de ácido sulfúrico em larga escala usando o método proposto por Johann Glauver.</p>
 
-<p>Em 1746, John Roebuck de Birmingham (Inglaterra), introduziu a câmara de chumbo ao processo de Ward. A vantagem de usar essas câmaras estava no fato de elas serem fortes, pouco custosas e e na possibilidade de serem feitas em estruturas maiores do que as de vidros que eram utilizadas anteriormente. Com algumas melhorias, o método permitiu a industrialização efetiva da produção de <span class="nobreak">H<sub>2</sub>SO<sub>4</sub></span>, o que fez dele o método padrão por aproximandamente dois séculos. Contudo, a solução ácida produzida por esse método continha somente uma pequena proporção de ácido sulfúrico (teor = 35 – 40%). Melhoramentos introduzidos pelos químicos Joseph-Louis Gay-Lussac e John Glover permitiram um aumento da concentração para 78%.</p>
+<p>Em 1746, John Roebuck de Birmingham (Inglaterra), introduziu a câmara de chumbo ao processo de Ward. A vantagem de usar essas câmaras estava no fato de elas serem fortes, pouco custosas e na possibilidade de serem feitas em estruturas maiores do que as de vidros que eram utilizadas anteriormente. Com algumas melhorias, o método permitiu a industrialização efetiva da produção de <span class="nobreak">H<sub>2</sub>SO<sub>4</sub></span>, o que fez dele o método padrão por aproximandamente dois séculos. Contudo, a solução ácida produzida por esse método continha somente uma pequena proporção de ácido sulfúrico (teor = 35 – 40%). Melhoramentos introduzidos pelos químicos Louis Joseph Gay-Lussac e John Glover permitiram um aumento da concentração para 78%.</p>
 
 <p>Hoje em dia, todo o fornecimento mundial de ácido sulfúrico concentrado é fabricado utilizado o processo conhecido como <span class="bold">processo de contato</span>, patenteado em 1831 pelo comerciante de vinagre britânico Peregrine Phillips.</p>
 
-<p>O ácido sulfúrico é o produto químico inorgânico de maior produção mundial, sua produção anual está acima de 4 x <span class="nobreak">10<sup>10</sup></span> kg somente nos Estados Unidos. Pelo baixo custo do ácido sulfúrico, seu uso é comum na indústria, particularmente para a produção de fertilizantes, petroquímicos, tintas e detergentes. A fórmula estrutural e de bolas de uma molécula de ácido sulfúrico é mostrado na
-  <!--A INDICAÇÃO DA FIGURA PODERIA SER INTERATIVA, ENCAMINHANDO DIRETAMENTE A ELA -->Figura 1.1. Podemos observar, na representação da fórmula estrutural, que as distâncias médias de ligações entre os átomos de enxofre e oxigênio são diferentes, por exemplo, no caso de ligação simples a distância média de ligação S—O é 157,4 pm (1 picômetro = <span class="nobreak">10<sup>-12</sup></span> metro) e no caso de ligação dupla a distância média de ligação S=O é 142,2 pm.
+<p>O ácido sulfúrico é o produto químico inorgânico de maior produção mundial, sua produção anual está acima de 4 × <span class="nobreak">10<sup>10</sup></span> kg somente nos Estados Unidos. Pelo baixo custo do ácido sulfúrico, seu uso é comum na indústria, particularmente para a produção de fertilizantes, petroquímicos, tintas e detergentes. A fórmula estrutural e de bolas de uma molécula de ácido sulfúrico é mostrado na
+  <!--A INDICAÇÃO DA FIGURA PODERIA SER INTERATIVA, ENCAMINHANDO DIRETAMENTE A ELA -->Figura 1.1. Podemos observar, na representação da fórmula estrutural, que as distâncias médias de ligações entre os átomos de enxofre e oxigênio são diferentes, por exemplo, no caso de ligação simples a distância média de ligação S—O é 157,4 pm (1 picômetro = <span class="nobreak">10<sup>−12</sup></span> metro) e no caso de ligação dupla a distância média de ligação S=O é 142,2 pm.
 </p>
 <!-- FIGURA 1.1 -->
 <figure>
-  <img width=100% src="img/fig-1-1.jpg" alt="audiodescrição" class="lightbox-img">
+  <img width=100% src="img/fig-1-1.jpg" alt="audiodescrição">
   <figcaption><span class="bold">Figura 1.1.</span> Fórmula Estrutural do Ácido Sulfúrico. As bolas na cor vermelha representam os átomos de oxigênio, na cor branca os átomos de hidrogênio e na cor amarela o átomo de enxofre.</figcaption>
 </figure>
 
-<p>O ácido sulfúrico é um líquido oleoso, sem cor, corrosivo que ferve (e se decompõe) a 300ºC. Ele tem três importantes propriedades químicas: é um ácido de BrØnsted forte, um agente desidratante e um agente oxidante. Como exemplo de propriedade desidratante, podemos citar a reação entre ácido sulfúrico concentrado com a sacarose. Ao entrar em contato com o açúcar, o mesmo é rapidamente desidratado se decompondo e produzindo uma massa espumosa de coloração negra, que se deve à presença dos átomos de carbono, representado pela seguinte reação química:</p>
+<p>O ácido sulfúrico é um líquido oleoso, sem cor, corrosivo que ferve (e se decompõe) a 300 ºC. Ele tem três importantes propriedades químicas: é um ácido de BrØnsted forte, um agente desidratante e um agente oxidante. Como exemplo de propriedade desidratante, podemos citar a reação entre ácido sulfúrico concentrado com a sacarose. Ao entrar em contato com o açúcar, o mesmo é rapidamente desidratado se decompondo e produzindo uma massa espumosa de coloração negra, que se deve à presença dos átomos de carbono, representado pela seguinte reação química:</p>
 
 <div class="box-centro">
   <div class="formula">
@@ -106,7 +106,7 @@ include("components/page-header.php");
 <p>O ácido sulfúrico é a matéria-prima mais importante na produção de fertilizantes, pois permite a extração dos nutrientes das rochas de fosfato, principal componente na fabricação dos produtos. Além disso, é crucial na indústria de celulose, sendo responsável pelo controle do pH e branqueamento do papel; na indústria siderúrgica, fazendo o acabamento superficial das chapas de aço. O ácido sulfúrico tem aplicações também nas indústrias química, de mineração e no tratamento de água. A Figura 1.2 apresenta dados referentes à produção do ácido sulfúrico no mercado brasileiro nas décadas de 1955 a 2005.</p>
 <!-- FIGURA 1.2 -->
 <figure>
-  <img width=100% src="img/fig-1-2.jpg" alt="audiodescrição" class="lightbox-img">
+  <img width=100% src="img/fig-1-2.jpg" alt="audiodescrição">
   <figcaption><span class="bold">Figura 1.2.</span> Produção de ácido sulfúrico no Brasil entre os anos de 1955-2005. Fonte: ANDA (Associação Nacional para Difusão de Adubos).</figcaption>
 </figure>
 
@@ -224,10 +224,10 @@ include("components/page-header.php");
   <li>Conversão catalítica do dióxido de enxofre a trióxido de enxofre <span class="nobreak">(SO<sub>3</sub>)</span>;</li>
   <li>Absorção do trióxido de enxofre.</li>
 </ol>
-<p>O processo de contato foi sendo gradualmente modificado para usar a dupla absorção, ou seja, o processo conhecido como dupla catálise. Neste processo, as emissões de <span class="nobreak">SO<sub>2</sub></span> são reduzidas e ocorre um aumento no rendimento. O <span class="nobreak">SO<sub>2</sub></span> pode ser obtido a partir de enxofre, de sulfeto de ferro (II), também conhecido como pirita, sulfatos e resíduos de tratamento diversos com ácido sulfúrico (“<em>acid sludges</em>”). A seleção da matéria-prima a ser processada depende da influência de diversos fatores, tais como disponibilidade, aproveitamento de subprodutos e custos de secagem e de limpeza do gás. De uma forma geral, o efeito combinado desses fatores conduz, na maioria dos casos, à seleção de piritas e enxofre como matéria-prima preferencial, ficando a utilização das demais reservadas às situações em que prevalecem condições muito particulares de disponibilidade a custos reduzidos.</p>
+<p>O processo de contato foi sendo gradualmente modificado para usar a dupla absorção, ou seja, o processo conhecido como dupla catálise. Neste processo, as emissões de <span class="nobreak">SO<sub>2</sub></span> são reduzidas e ocorre um aumento no rendimento. O <span class="nobreak">SO<sub>2</sub></span> pode ser obtido a partir de enxofre, de sulfeto de ferro(II), também conhecido como pirita, sulfatos e resíduos de tratamento diversos com ácido sulfúrico (“<em>acid sludges</em>”). A seleção da matéria-prima a ser processada depende da influência de diversos fatores, tais como disponibilidade, aproveitamento de subprodutos e custos de secagem e de limpeza do gás. De uma forma geral, o efeito combinado desses fatores conduz, na maioria dos casos, à seleção de piritas e enxofre como matéria-prima preferencial, ficando a utilização das demais reservadas às situações em que prevalecem condições muito particulares de disponibilidade a custos reduzidos.</p>
 <p>A Figura 1.3 representa esquematicamente um fluxograma típico de uma fábrica de ácido sulfúrico usando a metodologia do processo de contato. Como podemos ver o processo é dividido em várias etapas: transporte do enxofre; fusão do enxofre; bombeamento e atomização do enxofre líquido; secagem do ar de combustão; queima do enxofre; recuperação do calor do <span class="nobreak">SO<sub>2</sub></span> gasoso quente e resfriamento do gás; purificação do <span class="nobreak">SO<sub>2</sub></span>; oxidação do <span class="nobreak">SO<sub>2</sub></span> a <span class="nobreak">SO<sub>3</sub></span> em conversores; controle de temperatura; absorção do <span class="nobreak">SO<sub>3</sub></span> em ácido concentrado, a 98,5-99,0%; resfriamento do ácido dos absorvedores e finalmente o bombeamento do ácido para o topo das torres de absorção.</p>
 <figure>
-  <img src="img/fig-1-3.jpg" alt="audiodescrição" class="lightbox-img">
+  <img src="img/fig-1-3.jpg" alt="audiodescrição">
   <figcaption><span class="bold">Figura 1.3.</span> Fluxograma representativo da fabricação de <span class="nobreak">H<sub>2</sub>SO<sub>4</sub></span> via processo de contato.</figcaption>
 </figure>
 
@@ -246,7 +246,7 @@ include("components/page-header.php");
 <div class="box-centro">
   <div class="formula">
     <div class="line">
-      <img src="img/fig-1-3-5.jpg" alt="audiodescrição" class="lightbox-img">
+      <img src="img/fig-1-3-5.jpg" alt="audiodescrição">
       <span class="box-eq">equação 1.12</span>
     </div>
   </div>
@@ -258,7 +258,7 @@ include("components/page-header.php");
 </p>
 <!-- FIGURA 1.4 -->
 <figure>
-  <img src="img/fig-1-4.jpg" alt="audiodescrição" class="lightbox-img">
+  <img src="img/fig-1-4.jpg" alt="audiodescrição">
   <figcaption><span class="bold">Figura 1.4.</span> O inverso da constante de equilíbrio para a reação de formação de trióxido de enxofre em função da temperatura.</figcaption>
 </figure>
 
@@ -266,7 +266,7 @@ include("components/page-header.php");
 
 <p>Diversos catalisadores têm sido preparados e utilizados na fabricação de ácido sulfúrico, os mais conhecidos são os catalisadores baseados em metais de transição tais como vanádio. Em geral 3-7% de <span class="nobreak">V<sub>2</sub>O<sub>5</sub></span> (pentóxido de vanádio) é impregnado em terra de diatomáceas. As indústrias Monsanto, American Cyanamid e Stauffer Chemical Co. são conhecidas mundialmente pela fabricação de catalisadores.</p>
 
-<p>Atualmente, existem catalisadores que atuam em fase líquida tais como: pirossulfato de vanádio suportado em sílica com promotores alcalinos. Sob condições de reação, 450 – 610 ºC, o componente ativo do catalisador (vanádio) se torna como um sal derretido formando uma camada muito fina de líquido na superfície do suporte de sílica (apenas 100 – 1000 Ǻ de espessura). A oxidação do <span class="nobreak">SO<sub>2</sub></span> a <span class="nobreak">SO<sub>3</sub></span> ocorre em ambos os sítios ativos localizados entre o filme líquido e a fronteira do filme com a superfície do suporte de sílica. </p>
+<p>Atualmente, existem catalisadores que atuam em fase líquida tais como: pirossulfato de vanádio suportado em sílica com promotores alcalinos. Sob condições de reação, 450 – 610 ºC, o componente ativo do catalisador (vanádio) se torna como um sal derretido formando uma camada muito fina de líquido na superfície do suporte de sílica (apenas 100 – 1000 Å de espessura). A oxidação do <span class="nobreak">SO<sub>2</sub></span> a <span class="nobreak">SO<sub>3</sub></span> ocorre em ambos os sítios ativos localizados entre o filme líquido e a fronteira do filme com a superfície do suporte de sílica. </p>
 
 <h3>Queimadores/Tratamento do gás do queimador</h3>
 
@@ -276,7 +276,7 @@ include("components/page-header.php");
 <p>Existem conversores de passos múltiplos onde a conversão global se torna bastante elevada, próximo a 98% ou mais. Sendo que para se obter uma conversão elevada é preciso abaixar a temperatura sucessivamente entre os estágios do conversor. A Figura 1.5 mostra um típico conversor de quatro etapas.</p>
 <!-- FIGURA 1.5 -->
 <figure class="retrato">
-  <img src="img/fig-1-5.jpg" alt="audiodescrição" class="lightbox-img">
+  <img src="img/fig-1-5.jpg" alt="audiodescrição">
   <figcaption><span class="bold">Figura 1.5.</span> Típico conversor em quatro etapas produzido pela empresa Monsanto Co, adaptado da ref. 3. <br> A - Catalisador de vanádio; B - visor; q - suporte de quartzo.</figcaption>
 </figure>
 <!-- FAZER CLASSE PARA BOX -->
@@ -291,7 +291,7 @@ include("components/page-header.php");
 </ul>
 
 <h3>Absorvedores de SO<sub>3</sub></h3>
-<p>Não se pode absorver o trióxido de enxofre em água, pois o contato entre essas duas substâncias produz uma névoa ácida difícil de ser absorvida. É de conhecimento notório que o ácido sulfúrico com concentração de 98,5-99,0 % é o agente mais eficiente para a absorção de trióxido de enxofre. Antes de o gás ser expelido para o ambiente ele passa por um sistema com absorvedores de <span class="nobreak">SO<sub>3</sub></span> contendo esse ácido. A reação química a seguir representa essa etapa do processo:</p>
+<p>Não se pode absorver o trióxido de enxofre em água, pois o contato entre essas duas substâncias produz uma névoa ácida difícil de ser absorvida. É de conhecimento notório que o ácido sulfúrico com concentração de 98,5-99,0% é o agente mais eficiente para a absorção de trióxido de enxofre. Antes de o gás ser expelido para o ambiente ele passa por um sistema com absorvedores de <span class="nobreak">SO<sub>3</sub></span> contendo esse ácido. A reação química a seguir representa essa etapa do processo:</p>
 <div class="box-centro">
   <div class="formula">
     <div class="line">
@@ -315,7 +315,7 @@ include("components/page-header.php");
 <p>A Figura 1.6 ilustra um típico eliminador de névoa do tipo Brink feito em fibra de vidro. Esse equipamento é usado nas indústrias de ácido sulfúrico durante o processo de concentração do ácido e nos fumos da chaminé.</p>
 <!-- FIGURA 1.6 -->
 <figure>
-  <img src="img/fig-1-6.jpg" alt="audiodescrição" class="lightbox-img">
+  <img src="img/fig-1-6.jpg" alt="audiodescrição">
   <figcaption><span class="bold">Figura 1.6.</span> Típico eliminador de névoa do tipo Brink, adaptado da ref. 3.</figcaption>
 </figure>
 
@@ -331,11 +331,11 @@ include("components/page-header.php");
   <p>Em um conversor de 100 L foram postos inicialmente 80 mols de cada um dos reagentes. Ao atingir o equilíbrio, foi constatada a presença de 60 mols de <span class="nobreak">SO<sub>3</sub></span>. Calcule o valor da constante de equilíbrio <span class="nobreak">(K<sub>c</sub>)</span>. </p>
 </div>
 
-<h2 id="1-3">1.3. Contruindo e fixando o conhecimento</h2>
+<h2 id="1-3">1.3. Construindo e fixando o conhecimento</h2>
 <p><span class="questao">1.</span> Uma usina geradora de eletricidade queima óleum cru que contém cerca de 1,5% de enxofre em massa. A equação química que representa a formação de dióxido de enxofre durante a queima do óleum cru é:</p>
 
 <div class="box-centro">
-  <p>S(s) + O<sub>2</sub> ⇌ SO<sub>2</sub>(g)</p>
+  <p>S(s) + O<sub>2</sub>(g) ⇌ SO<sub>2</sub>(g)</p>
 </div>
 
 <p><span class="questao-letra">a)</span> Qual a massa de <span class="nobreak">SO<sub>2</sub></span> formado quando se queima 2,0 kg de óleum cru?</p>

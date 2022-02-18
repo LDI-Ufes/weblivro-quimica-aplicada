@@ -20,7 +20,8 @@ include("components/page-header.php");
 <div class="box-centro">
     <div class="formula">
         <div class="line">
-            <p>\(°API = {141,5 \over dr(60/60)} - 131,5\)</p>
+            <!-- <p>\(°API = {141,5 \over dr(60/60)} - 131,5\)</p> -->
+            <img src="" alt="audiodescrição">
             <span class="box-eq">equação 5.1</span>
         </div>
     </div>
@@ -77,7 +78,7 @@ include("components/page-header.php");
 <h3>5.4.1. Destilação</h3>
 <!--FIGURA 5.1-->
 <figure class="retrato lateral">
-    <img src="img/fig-5-1.jpg" alt="audiodescrição" class="lightbox-img">
+    <img src="img/fig-5-1.jpg" alt="audiodescrição">
     <figcaption><span class="bold">Figura 5.1. </span>Esquema de uma torre de destilação atmosférica.</figcaption>
 </figure>
 <p>A destilação é o processo básico de separação do petróleo, no qual inicialmente há a vaporização e posteriormente a condensação dos componentes do óleo cru (hidrocarbonetos e impurezas) devido à ação de temperatura e pressão. Este processo baseia-se nas diferenças entre os pontos de ebulição dos diversos constituintes do petróleo, devido principalmente a diferença de massa molar existente entre eles. Portanto, o objetivo principal da destilação é a separação do petróleo em suas frações básicas de refino, tais como gás combustível, gás liquefeito, nafta, querosene, gasóleo atmosférico (óleo diesel), gasóleo de vácuo e resíduo de vácuo. Os rendimentos da destilação são variáveis dependendo do tipo de petróleo processado. A unidade de destilação de uma refinaria é composta por uma dessalgadora e pelo menos uma torre de destilação atmosférica, mas pode conter também uma torre de destilação a vácuo. Um esquema de uma torre de destilação atmosférica é mostrado na Figura 5.1.</p>

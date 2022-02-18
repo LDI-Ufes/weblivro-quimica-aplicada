@@ -85,7 +85,7 @@ include("components/page-header.php");
 <h3>4.2.1. Redução do Minério no alto-forno</h3>
 <p>A redução do minério, na forma de óxido, utilizando o carbono, proveniente do coque, é realizada em um forno específico para esta atividade chamado <em>alto-forno</em>. O alto-forno é um reator tubular vertical onde a redução ocorre de forma contínua, sendo alimentado com carga sólida na parte superior que entra em contato com o ar pré-aquecido na parte inferior, conforme mostrado na Figura 4.2. No Estado do Espírito Santo a antiga Companhia Siderúrgica do Tubarão (CST), atual Arcelor Mittal, opera com este tipo de processo para a redução do ferro.</p>
 <figure>
-    <img src="img/fig-4-2.jpg" alt="audiodescrição" class="lightbox-img">
+    <img src="img/fig-4-2.jpg" alt="audiodescrição">
     <figcaption><span class="bold">Figura 4.2. </span>Esquema de um alto-forno mostrando a distribuição de temperatura e as principais reações em cada parte.</figcaption>
 </figure>
 <p>A carga de um alto-forno é composta principalmente por minério de ferro, coque e fundente. O <span class="bold">minério de ferro</span> é, normalmente, composto por hematita ou uma mistura de hematita e magnetita, contendo cerca de 40 a 60% de ferro. Este minério costuma conter cerca de 10% de ganga, cujo componente principal é a sílica <span class="nobreak">(SiO<sub>2</sub>)</span>. O <span class="bold">coque</span>, obtido da destilação prévia da hulha ou de outro carvão mineral, é o fornecedor de carbono, para as reações de redução do ferro, além de desempenhar a função de combustível. Já o <span class="bold">fundente</span>, tem a função de baixar o ponto de fusão da escória e, geralmente, é composto por calcário <span class="nobreak">(CaCO<sub>3</sub>)</span> que é calcinado no interior do alto-forno formando cal <span class="nobreak">(CaO)</span>.</p>
@@ -103,7 +103,7 @@ include("components/page-header.php");
         </div>
     </div>
 </div>
-<p>com ΔH = +15 kcal mol<sup>-1</sup> e ΔG = −27 kcal mol<sup>-1</sup>.</p>
+<p>com ΔH = +15 kcal mol<sup>−1</sup> e ΔG = −27 kcal mol<sup>−1</sup>.</p>
 
 <p>A <span class="bold">zona de redução direta</span> está situada a cerca de meia altura do alto-forno e possui temperaturas da ordem de 700 a 1.500 °C. Nesta zona, a magnetita é reduzida a ferro metálico esponjoso, conforme a reação química apresentada na equação 4.6:</p>
 <div class="box-centro">
@@ -114,7 +114,7 @@ include("components/page-header.php");
         </div>
     </div>
 </div>
-<p>com ΔH = +250 kcal mol<sup>-1</sup> e ΔG = -50 kcal mol<sup>-1</sup>.</p>
+<p>com ΔH = +250 kcal mol<sup>−1</sup> e ΔG = −50 kcal mol<sup>−1</sup>.</p>
 
 <p>A <span class="bold">zona de fusão e combustão</span> está localizada na parte inferior do alto-forno, imediatamente acima do banho de escória e ferro gusa, e trabalha com temperaturas variando de 1.500 a 1.800°C. É nesta zona que ocorre a fusão do ferro esponjoso formado na zona anterior e a combustão do coque que ainda não reagiu, conforme as reações químicas mostradas nas equações 4.7 e 4.8:</p>
 <div class="box-centro">
@@ -125,7 +125,7 @@ include("components/page-header.php");
         </div>
     </div>
 </div>
-<p>com ΔH = +3,5 kcal mol<sup>-1</sup>.</p>
+<p>com ΔH = +3,5 kcal mol<sup>−1</sup>.</p>
 
 <div class="box-centro">
     <div class="formula">
@@ -135,7 +135,7 @@ include("components/page-header.php");
         </div>
     </div>
 </div>
-<p>com ΔH = +56 kcal mol<sup>-1</sup> e ΔG = -150 kcal mol<sup>-1</sup>.</p>
+<p>com ΔH = +56 kcal mol<sup>−1</sup> e ΔG = −150 kcal mol<sup>−1</sup>.</p>
 
 <p>A redução direta da segunda etapa é uma síntese de redução intermediária da magnetita <span class="nobreak">(Fe<sub>3</sub>O<sub>4</sub>)</span> a wustita <span class="nobreak">(FeO)</span> que posteriormente é reduzida ao ferro, conforme as reações químicas mostradas nas equações 4.9 e 4.10:</p>
 
@@ -147,7 +147,7 @@ include("components/page-header.php");
         </div>
     </div>
 </div>
-<p>com ΔH = +145 kcal mol<sup>-1</sup> e ΔG = -17 kcal mol<sup>-1</sup>.</p>
+<p>com ΔH = +145 kcal mol<sup>−1</sup> e ΔG = −17 kcal mol<sup>−1</sup>.</p>
 
 <div class="box-centro">
     <div class="formula pequena">
@@ -157,7 +157,7 @@ include("components/page-header.php");
         </div>
     </div>
 </div>
-<p>com ΔH = +105 kcal.mol<sup>-1</sup> e ΔG = -33 kcal.mol<sup>-1</sup>.</p>
+<p>com ΔH = +105 kcal.mol<sup>−1</sup> e ΔG = −33 kcal.mol<sup>−1</sup>.</p>
 
 <p>A soma das etapas (eq. 4.9 e eq. 4.10), de acordo com a lei de Hess, permite obter os produtos representados na eq. 4.6.</p>
 <p>Um segundo mecanismo que poderá acontecer na zona de redução direta corresponde a formação de <span class="nobreak">CO<sub>2</sub></span> intermediário, conforme as reações químicas mostradas nas equações 4.11, 4.12 e 4.13:</p>
@@ -195,7 +195,7 @@ include("components/page-header.php");
     </div>
 </div>
 
-<p>Uma terceira hipótese de mecanismo de redução na zona de redução direta é a que considera o \(CO\) como agente redutor e não o carbono do coque, conforme as reações químicas representadas pelas equações 4.16 e 4.13:</p>
+<p>Uma terceira hipótese de mecanismo de redução na zona de redução direta é a que considera o CO como agente redutor e não o carbono do coque, conforme as reações químicas representadas pelas equações 4.16 e 4.13:</p>
 <div class="box-centro">
     <div class="formula pequena">
         <div class="line">
@@ -236,7 +236,7 @@ include("components/page-header.php");
         </div>
     </div>
 </div>
-<p>com ΔH = +80 kcal mol<sup>-1</sup> e ΔG = -220 kcal mol<sup>-1</sup>.</p>
+<p>com ΔH = +80 kcal mol<sup>−1</sup> e ΔG = −220 kcal mol<sup>−1</sup>.</p>
 
 <div class="box-centro">
     <div class="formula">
@@ -246,7 +246,7 @@ include("components/page-header.php");
         </div>
     </div>
 </div>
-<p>com ΔH = +150 kcal mol<sup>-1</sup> e ΔG = -15 kcal mol<sup>-1</sup>.</p>
+<p>com ΔH = +150 kcal mol<sup>−1</sup> e ΔG = −15 kcal mol<sup>−1</sup>.</p>
 
 <div class="box-centro">
     <div class="formula">
@@ -256,7 +256,7 @@ include("components/page-header.php");
         </div>
     </div>
 </div>
-<p>com ΔH = + 65 kcal mol<sup>-1</sup> e ΔG = -10 kcal mol<sup>-</sup>.</p>
+<p>com ΔH = + 65 kcal mol<sup>−1</sup> e ΔG = −10 kcal mol<sup>−1</sup>.</p>
 
 <p>O silício e o manganês produzidos conforme apresentados por meio das equações 4.19 e 4.20 são incorporados ao ferro gusa.</p>
 
@@ -274,7 +274,7 @@ include("components/page-header.php");
         </div>
     </div>
 </div>
-<p>com ΔH = + 35 kcal mol<sup>-1</sup> e ΔG= -15 kcal mol<sup>-1</sup>.</p>
+<p>com ΔH = + 35 kcal mol<sup>−1</sup> e ΔG= −15 kcal mol<sup>−1</sup>.</p>
 
 <p>Os gases redutores produzidos são conduzidos a uma coluna de dolomita queimada, para retirada do enxofre que estava contido no coque. Este enxofre reage com o hidrogênio formado pela Equação 4.21 formando ácido sulfídrico, <span class="nobreak">H<sub>2</sub>S</span>, que reage com o cálcio da dolomita formando <span class="nobreak">CaS</span>. Após a retirada de enxofre a mistura redutora é encaminhada para o forno de redução onde reage com o minério em sistema contracorrente, como ocorre no alto-forno, à mistura entra pela parte inferior do forno e a carga pela parte superior. A redução ocorre conforme as reações químicas ilustradas pelas equações 4.22 e 4.23, na parte superior do forno:</p>
 <div class="box-centro">
