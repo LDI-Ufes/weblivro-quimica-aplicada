@@ -7,7 +7,7 @@ include("components/page-header.php");
 
 <h2 id="7.1">7.1. Uma breve introdução sobre a indústria de celulose e papel</h2>
 <p>O papel é um produto renovável, reciclável e biodegradável cujo ciclo de vida está diretamente relacionado ao meio ambiente. No Brasil, 100% da celulose utilizada como matéria-prima têm origem em florestas plantadas. Por isso, buscar a sustentabilidade faz parte da gestão de negócio das indústrias de celulose e papel. No setor, o uso sustentável de recursos naturais – como solo e água – é prioridade estratégica e tem como objetivo garantir a viabilidade do cultivo florestal e, assim, perpetuar as atividades. </p>
-<p>No final do ano de 2008 a crise de crédito desencadeada pelo mercado imobiliário norte-americano teve um impacto na economia mundial, a qual seguiu em ritmo de gradual recuperação nos anos seguintes. Contudo o Brasil foi o único país do mundo em que a produção de celulose cresceu nesse período. Em 2010, a produção de celulose passou de 13,3 milhões de toneladas para 14,1 milhões de toneladas anuais, um aumento de 5,6%. A produção de papel teve um aumento de 3,9% passando de 9,4 milhões para 9,8 milhões de toneladas. </p>
+<p>No final do ano de 2008 a crise de crédito desencadeada pelo mercado imobiliário norte-americano teve um impacto na economia mundial, a qual seguiu em ritmo de gradual recuperação nos anos seguintes. Contudo, o Brasil foi o único país do mundo em que a produção de celulose cresceu nesse período. Em 2010, a produção de celulose passou de 13,3 milhões de toneladas para 14,1 milhões de toneladas anuais, um aumento de 5,6%. A produção de papel teve um aumento de 3,9% passando de 9,4 milhões para 9,8 milhões de toneladas. </p>
 <p>A Tabela 7.1 apresenta os dados relativos ao faturamento anual em milhares de reais (R$ mil) das indústrias de Celulose e Papel. Os dados foram obtidos no sítio da BRACELPA (Associação Brasileira de Celulose e Papel). Essa associação é a entidade que representa, no Brasil e no exterior, as indústrias nacionais produtoras de Celulose e Papel. Atualmente, suas 37 associadas respondem por 100% da produção brasileira de celulose e por 85% da fabricação de todos os tipos de papéis (para imprimir e escrever, papel cartão, embalagens, imprensa, papéis para fins sanitários e papéis especiais, entre outros), com atividades em 539 municípios de 18 Estados (222 empresas com atividades no setor). Existem no Brasil 2,2 milhões de hectares de florestas plantadas para fins industriais e 2,9 milhões de hectares de florestas preservadas, sendo que o total de área florestal certificada é de 2,0 milhões de hectares.</p>
 <p>Em 2010 o saldo para exportações foi de 6,8 bilhões de dólares com saldo comercial de 4,9 bilhões de dólares. Esse resultado é fruto do investimento nos últimos 10 anos no setor de 12 bilhões de dólares, empregando 115 mil pessoas de forma direta (indústria 68 mil, florestas 47 mil) e 575 mil empregos indiretos.</p>
 <p>A biodiversidade também tem sido bastante discutida pelas indústrias de Celulose e Papel, as quais buscam boas práticas socioambientais por meio de uma produção mais limpa e o uso econômico diversificado das florestas plantadas de forma a aumentar os benefícios sociais. Com essas atividades se tenta criar uma maior oferta de emprego e um aumento na renda das famílias. Além disso, procura-se oferecer programas florestais que envolvam os pequenos produtores. A principal meta do setor é o compromisso com o desenvolvimento sustentável do Brasil, investindo em áreas degradadas para a sua recuperação; financiando parcerias florestais por meio de arranjos produtivos; pela criação de novos empregos e proteção da biodiversidade. </p>
@@ -490,7 +490,7 @@ include("components/page-header.php");
 </figure>
 
 <!-- FIGURA 7.3 -->
-<figure class = "retrato">
+<figure class="retrato">
     <img src="img/fig-7-3.jpg" alt="audiodescrição">
     <figcaption><span class="bold">Figura 7.3.</span>Destino do papel produzido no Brasil entre os anos de 2009-2010. Fonte: Bracelpa.</figcaption>
 </figure>
@@ -553,7 +553,7 @@ include("components/page-header.php");
 <h2 id="7.2">7.2. Fabricação da polpa e papel</h2>
 <p>O processo de deslignificação de cavacos de madeira precedente do processo <em>Kraft</em> foi originalmente patenteado em 1854. Esse processo utilizava o método químico de polpação conhecido como processo soda, o qual usava uma solução alcalina forte de hidróxido de sódio. Em 1865, uma nova patente incorporou o processo de incineração do licor de soda gasto para recuperação do álcali. No ano de 1866 entrou em operação a primeira fábrica utilizando o processo soda. Entretanto, hoje em dia existem poucas fábricas no mundo que operam com esse tipo de processo.</p>
 <p>Devido ao alto custo do processo soda relativo ao carbonato de sódio foi experimentado a adição de sulfato de sódio na fornalha de recuperação, o que levou ao desenvolvimento do processo conhecido mundialmente de processo <em>Kraft</em>, o qual foi creditado a C. J. Dahl. Durante a adição do sulfato o mesmo é reduzido a sulfeto pela queima do licor, posteriormente o próprio Dahl descobriu que o sulfeto acelerava o processo de deslignificação da polpa mais resistente. Então, em 1884 o processo foi novamente patenteado e em 1885 o processo foi utilizado comercialmente na Suécia para polpação. Desde então, muitas fábricas de soda se converteram para o processo <em>Kraft</em> para poderem competir com o processo sulfito. Um dos grandes problemas do processo <em>Kraft</em> em comparação ao processo sulfito era a necessidade de recuperar os produtos químicos de polpação, pois então o processo não seria competitivo economicamente com o processo sulfito. Mas somente depois de várias modificações do processo e finalmente com branqueamentos em múltiplos estágios em 1950 que o processo <em>Kraft</em> teve maior destaque no setor.</p>
-<p>Existem fases distintas na redução da madeira bruta e de outros materiais até o papel acabado. A seguir são apresentadas algumas informações relativas os diferentes processos usados para preparar a polpa e o papel:</p>
+<p>Existem fases distintas na redução da madeira bruta e de outros materiais até o papel acabado. A seguir são apresentadas algumas informações relativas aos diferentes processos usados para preparar a polpa e o papel:</p>
 <ul>
     <li> Fabricação de diversas polpas – seguida pela conversão a papel;</li>
     <li> Por volta de 82% do polpeamento são efetuados mediante processos químicos, que dissolvem a lignina das fibras de celulose;</li>
@@ -561,7 +561,7 @@ include("components/page-header.php");
     <li> Sulfito ácido – 5%;</li>
     <li> Semiquímico – 11%; </li>
 </ul>
-<p>No processo <em>Kraft</em> os carboidratos são atacados a uma temperatura relativamente baixa, o que ocasiona eliminação dos grupos acetilas antes que se alcance a temperatura máxima de cozimento. A reatividade dos polissacarídeos varia dependendo de sua acessibilidade e de sua estrutura, por exemplo, devido a que a celulose é de natureza cristalina e tem um alto grau de polimerização, sofrem menos perdas que as hemiceluloses. </p>
+<p>No processo <em>Kraft</em> os carboidratos são atacados a uma temperatura relativamente baixa, o que ocasiona eliminação dos grupos acetilas antes que se alcance a temperatura máxima de cozimento. A reatividade dos polissacarídeos varia dependendo de sua acessibilidade e de sua estrutura, por exemplo, devido à celulose ser de natureza cristalina e ter um alto grau de polimerização, sofrem menos perdas que as hemiceluloses. </p>
 <p>A obtenção de polpa celulósica de Eucalipto é quase totalmente, através do processo alcalino <em>Kraft</em> ou sulfato. Esta técnica utiliza soluções com hidróxido de sódio e sulfato de sódio misturado a cavacos de madeira em altas temperaturas. Consiste na degradação da lignina, separando as fibras e deixando nas mesmas, principalmente a celulose e as hemiceluloses, para serem usadas na fabricação de papel. As reações que ocorrem no processo <em>Kraft</em> de polpação são complexas e não totalmente entendidas. A Figura 7.5 mostra uma representação esquemática do processo de polpação.</p>
 <!-- FIGURA 7.5 -->
 <figure>
@@ -585,18 +585,22 @@ include("components/page-header.php");
 
 
 <h3>Matéria-prima</h3>
-<ul>
-    <li> A madeira é a principal fonte de celulose para a fabricação de papel;</li>
-    <li> Pode ser usado também: algodão, trapos e papel velho (reciclagem);</li>
-    <li> Outras fontes: fábricas do tipo – cordoarias;</li>
-    <li> Rejeitos grossos das indústrias têxteis. </li>
-    <li> Energia para moagem;</li>
-    <li> Água peneirada antes de ir para o esgoto;</li>
-    <li> Usada em tipos de papel mais barato, Ex. papel de jornal, parede, embrulho;</li>
-    <li> Pode ser melhorada com adição de uma pequena fração de polpa química;</li>
-    <li> Alvejamento: antigamente - bissulfeto de sódio ou cálcio; recentemente - ozônio; oxigênio, H<sub>2</sub>O<sub>2</sub>, dióxido de cloro; </li>
-    <li> Sempre um processo caro – adaptado ao material fibroso e o branco almejado .</li>
-</ul>
+
+<div class="box">
+    <ul>
+        <li> A madeira é a principal fonte de celulose para a fabricação de papel;</li>
+        <li> Pode ser usado também: algodão, trapos e papel velho (reciclagem);</li>
+        <li> Outras fontes: fábricas do tipo – cordoarias;</li>
+        <li> Rejeitos grossos das indústrias têxteis. </li>
+        <li> Energia para moagem;</li>
+        <li> Água peneirada antes de ir para o esgoto;</li>
+        <li> Usada em tipos de papel mais barato, Ex. papel de jornal, parede, embrulho;</li>
+        <li> Pode ser melhorada com adição de uma pequena fração de polpa química;</li>
+        <li> Alvejamento: antigamente - bissulfeto de sódio ou cálcio; recentemente - ozônio; oxigênio, H<sub>2</sub>O<sub>2</sub>, dióxido de cloro; </li>
+        <li> Sempre um processo caro – adaptado ao material fibroso e o branco almejado .</li>
+    </ul>
+</div>
+
 <p>Existe uma grande vantagem quando as indústrias usam substâncias a base de oxigênio, tais como: ozônio, peróxido, pois isso permite que o efluente possa ser encaminhado para a caldeira de recuperação. Procedimento esse que não pode ser feito quando se usa cloro, pois o mesmo pode causar corrosão e/ou explosões. Além disso, esse tipo de reagente promove o circuito fechado de produção: sem a necessidade de água fresca e sem efluentes para fora do sistema.</p>
 <p>A Tabela 7.8 mostra uma comparação entre os três processos usados na fabricação da polpa e papel. </p>
 <p>O Quadro 7.1 apresenta a estrutura da celulose que é formada pela união (polimerização) de moléculas de β-glicose (hexosana) por meio de ligações β-1,4-glicosídicas. Isso mostra como a polpa (Celulose) pode ser usada para fabricação do papel devido a sua característica fibrosa.</p>
@@ -650,16 +654,17 @@ include("components/page-header.php");
     <div class="box-centro">
         <img text-align="center" src="img/fig-7-7.jpg" alt="audiodescrição">
     </div>
-    <p>O esquema acima ilustra a formação da cadeia polimérica que caracteriza a estrutura da celulose. Como podemos ver a celulose se forma pela união de moléculas de β-glicose (uma hexosana) através de ligações β-1,4-glicosídicas. Em geral, a celulose tem massa molecular variável, com fórmula empírica (C<sub>6</sub>H<sub>10</sub>O<sub>5</sub>)n, com um valor mínimo de n = 200 (tipicamente 300 a 700, podendo passar de 7000). As múltiplas ligações de hidrogênio entre os grupos hidroxilas das diferentes cadeias justapostas de glicose fazem da celulose uma estrutura linear e fibrosa. Outra característica interessante da celulose é sua impenetrabilidade em relação à água, tornando-a insolúveis nesse meio.</p>
     <figcaption>Fonte: <a href="http://pt.wikipedia.org/wiki/Celulose" target="_blank" rel="noopener noreferrer">Wikipedia</a>.</figcaption>
+
+    <p>O esquema acima ilustra a formação da cadeia polimérica que caracteriza a estrutura da celulose. Como podemos ver a celulose se forma pela união de moléculas de β-glicose (uma hexosana) através de ligações β-1,4-glicosídicas. Em geral, a celulose tem massa molecular variável, com fórmula empírica (C<sub>6</sub>H<sub>10</sub>O<sub>5</sub>)n, com um valor mínimo de n = 200 (tipicamente 300 a 700, podendo passar de 7000). As múltiplas ligações de hidrogênio entre os grupos hidroxilas das diferentes cadeias justapostas de glicose fazem da celulose uma estrutura linear e fibrosa. Outra característica interessante da celulose é sua impenetrabilidade em relação à água, tornando-a insolúveis nesse meio.</p>
 </figure>
 
 <h2 id="7.3">7.3. Construindo e fixando o conhecimento</h2>
-<p><span class="bold">1. </span> Descrever brevemente o processo Kraft para produzir Celulose e Papel.</p>
-<p><span class="bold">2. </span> Por que as indústrias de Celulose e Papel reciclam e reutilizam água? Justificar sua resposta.</p>
+<p><span class="bold">1. </span> Descreva brevemente o processo Kraft para produzir Celulose e Papel.</p>
+<p><span class="bold">2. </span> Por que as indústrias de Celulose e Papel reciclam e reutilizam água? Justifique sua resposta.</p>
 <p><span class="bold">3. </span> Quais são as características mais importantes dos três tipos de processos usados para produzir Celulose e Papel?</p>
-<p><span class="bold">4. </span> Explicar por que atualmente as indústrias de Celulose e Papel preferem trabalhar com branqueadores que não são à base de cloro?</p>
-<p><span class="bold">5. </span> Discutir os aspectos sociais e econômicos relacionados ao mercado doméstico e externo das indústrias de Celulose e Papel.</p>
+<p><span class="bold">4. </span> Explique por que atualmente as indústrias de Celulose e Papel preferem trabalhar com branqueadores que não são à base de cloro?</p>
+<p><span class="bold">5. </span> Discuta os aspectos sociais e econômicos relacionados ao mercado doméstico e externo das indústrias de Celulose e Papel.</p>
 
 <h2 id="7-ref">Referências Bibliográficas</h2>
 <p>SHREVE, R. N.. BRINK Jr., J. A.<strong> Indústrias de Processos Químicos.</strong> 4a Edição, Ed. Guanabara Koogan S.S., Rio de Janeiro, 1997, 717p.</p>

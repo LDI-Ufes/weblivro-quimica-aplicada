@@ -277,7 +277,7 @@ include("components/page-header.php");
 <!-- FIGURA 1.5 -->
 <figure class="retrato">
   <img src="img/fig-1-5.jpg" alt="audiodescrição">
-  <figcaption><span class="bold">Figura 1.5.</span> Típico conversor em quatro etapas produzido pela empresa Monsanto Co, adaptado da ref. 3. <br> A - Catalisador de vanádio; B - visor; q - suporte de quartzo.</figcaption>
+  <figcaption><span class="bold">Figura 1.5.</span> Típico conversor em quatro etapas produzido pela empresa Monsanto Co, adaptado (SHREVE; BRINK, 1997). <br> A - Catalisador de vanádio; B - visor; q - suporte de quartzo.</figcaption>
 </figure>
 <!-- FAZER CLASSE PARA BOX -->
 <div class="box">
@@ -316,7 +316,7 @@ include("components/page-header.php");
 <!-- FIGURA 1.6 -->
 <figure>
   <img src="img/fig-1-6.jpg" alt="audiodescrição">
-  <figcaption><span class="bold">Figura 1.6.</span> Típico eliminador de névoa do tipo Brink, adaptado da ref. 3.</figcaption>
+  <figcaption><span class="bold">Figura 1.6.</span> Típico eliminador de névoa do tipo Brink, adaptado (SHREVE; BRINK, 1997).</figcaption>
 </figure>
 
 <!-- CRIAR CLASSES PARA ATIVIDADE -->
@@ -338,13 +338,13 @@ include("components/page-header.php");
   <p>S(s) + O<sub>2</sub>(g) ⇌ SO<sub>2</sub>(g)</p>
 </div>
 
-<p><span class="questao-letra">a)</span> Qual a massa de <span class="nobreak">SO<sub>2</sub></span> formado quando se queima 2,0 kg de óleum cru?</p>
+<p><span class="questao-letra">a)</span> Qual é a massa de <span class="nobreak">SO<sub>2</sub></span> formada quando se queima 2,0 kg de óleum cru?</p>
 
-<p><span class="questao-letra">b)</span> Em condições normais de pressão e temperatura (25 ºC e 1,0 atm), qual será o volume ocupado pelo <span class="nobreak">SO<sub>2</sub></span> formado no item (a)? Dados: PV = nRT; R = 0,082 atm L mol<sup>−1</sup> K<sup>−1</sup></p>
+<p><span class="questao-letra">b)</span> Em condições normais de pressão e temperatura ambiente (25 ºC e 1,0 atm), qual será o volume ocupado pelo <span class="nobreak">SO<sub>2</sub></span> formado no item (a)? Dados: PV = nRT; R = 0,082 atm L mol<sup>−1</sup> K<sup>−1</sup></p>
 
-<p><span class="questao">2.</span> Em uma planta de produção de ácido sulfúrico verificou-se que o trióxido de enxofre é produzido com 95% de Pureza. Supondo que seja necessário obter uma produção horária de 400 ton de <span class="nobreak">H<sub>2</sub>SO<sub>4</sub>(l)</span>, qual deve ser a quantidade de <span class="nobreak">SO<sub>3</sub></span> impuro que deverá ser produzida nesta planta.</p>
+<p><span class="questao">2.</span> Em uma planta de produção de ácido sulfúrico verificou-se que o trióxido de enxofre é produzido com 95% de Pureza. Supondo que seja necessário obter uma produção horária de 400 toneladas (t) de <span class="nobreak">H<sub>2</sub>SO<sub>4</sub>(l)</span>, qual deve ser a quantidade de <span class="nobreak">SO<sub>3</sub></span> impuro que deverá ser produzida nesta planta.</p>
 
-<p><span class="questao">3.</span> A eficiência do queimador de enxofre em uma planta de produção de ácido sulfúrico pelo método de contato é 95% e o rendimento do conversor de quatro etapas é 90%. Baseado nestes dados calcule para uma produção de 650 ton/h de ácido sulfúrico a quantidade de enxofre líquido necessária.</p>
+<p><span class="questao">3.</span> A eficiência do queimador de enxofre em uma planta de produção de ácido sulfúrico pelo método de contato é 95% e o rendimento do conversor de quatro etapas é 90%. Baseado nestes dados calcule para uma produção de 650 t/h de ácido sulfúrico a quantidade de enxofre líquido necessária.</p>
 
 <h2 id="1-ref">Referências Bibliográficas</h2>
 <p>KARPENKO V., NORRIS, J. A.<strong> Vitriol in the History of Chemistry.</strong> Chem. Listy, 96, 997-1005, 2002. </p>

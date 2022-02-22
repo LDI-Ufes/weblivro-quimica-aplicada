@@ -90,7 +90,7 @@ include("components/page-header.php");
 <p>A fermentação alcoólica é usada na elaboração de bebidas alcoólicas entre as quais temos as fermentadas (vinhos e cervejas) e as fermento-destiladas (aguardente, rum, uísque, conhaque, tequila, gim, etc.). Nesses processos, transformam-se açúcares solúveis em etanol como produto principal. A transformação de glicose ou outro monossacarídeo em duas moléculas de álcool e gás carbônico é feita graças à presença de certas enzimas elaboradas por leveduras. Entre as leveduras mais utilizadas na fermentação alcoólica encontra-se <em>Saccharomycies cerevisiae</em>, usada na elaboração de vinhos e as espécies <em>S. carlsbergensis</em> e <em>S. uvarum</em> usadas na produção de cerveja.</p>
 <p>Outro processo bem conhecido é a fermentação acética, amplamente utilizada na indústria de alimentos para produção de vinagre, pela oxidação do álcool por bactérias acéticas, como <em>Acetobacter</em> e <em>Gluconobacter</em>. Porém, várias espécies acéticas podem oxidar o álcool a ácido acético, mas muitas delas também podem oxidar o ácido acético a gás carbônico e água, o que é indesejável, quando se tem como objetivo a produção do vinagre.</p>
 <div class="box">
-    <p>Essa cultura de micro-organismos é conhecida como "cultura starter".</p>
+    <p>Essa cultura de micro-organismos é conhecida como "cultura <em>starter</em>".</p>
 </div>
 <p><span class="bold">7. Conservação pela adição de aditivos:</span> apesar de poder contribuir para a conservação dos alimentos, deve ser usada com moderação, uma vez que, a ingestão excessiva de alimentos conservados por aditivos químicos pode provocar perturbações no equilíbrio fisiológico do consumidor. </p>
 <p><span class="bold">8. Conservação pelo uso da irradiação:</span> sob ponto de vista tecnológico, satisfaz plenamente o objetivo de proporcionar aos alimentos, a estabilidade química e microbiológica, condições sanitizante e longo período de armazenamento. No entanto, ainda apresenta uso limitado. </p>
@@ -114,7 +114,7 @@ include("components/page-header.php");
 
 <div class="atv">
     <h3 class="atividade">Atividade 8.1</h3>
-    <p>Fazer um fluxograma simplificado do processo de processamento do leite.</p>
+    <p>Faça um fluxograma simplificado do processo de processamento do leite.</p>
 </div>
 
 <h3>8.3.2. Processamento do óleo de soja</h3>
@@ -147,25 +147,25 @@ include("components/page-header.php");
 <p>As principais etapas do processo de refino são: degomagem, neutralização e branqueamento.</p>
 <p>A degomagem ou hidratação visa remover do óleo bruto fosfatídeos, proteínas e substâncias coloidais, reduzindo a quantidade de álcali durante a subsequente neutralização, de forma a diminuir as perdas de refinação. O método de degomagem mais utilizado consiste na adição de 1 a 3% de água ao óleo aquecido de 60 a 70 °C e agitado durante 20 a 30 minutos. Forma-se um precipitado que é removido do óleo por centrifugação a 5000-6000 rpm. As gomas obtidas no processo que contiverem cerca de 50% de umidade são secas sob vácuo a uma temperatura de 70 a 80 °C. O produto obtido é chamado de lecitina comercial e consiste em cerca de 60% de mistura de fosfatídeos (lecitina, cefalina e fosfatidil-inositol), 38% de óleo e 2% de umidade. </p>
 <p>A degomagem também pode ser feita por meio da injeção de água ao óleo aquecido ou misturando 0,1 a 0,4% de ácido fosfórico a 85% com o óleo a uma temperatura de 60 a 65 °C, seguido pela adição de 0,2% de terra branqueadora, e pela separação das gomas por filtração ou centrifugação.</p>
-<p>Já a neutralização ocorre na interfase do óleo e da solução alcalina, uma vez que essas fases não miscíveis. A neutralização exige, portanto, uma dispersão de solução alcalina em óleo.</p>
+<p>Já a neutralização ocorre na interfase do óleo e da solução alcalina, uma vez que essas fases não são miscíveis. A neutralização exige, portanto, uma dispersão de solução alcalina em óleo.</p>
 <p>Geralmente, o processo de degomagem e neutralização com álcalis já removem certa quantidade de corantes do óleo, produzindo um efeito branqueador. Entretanto, atualmente, são exigidos óleos e gorduras quase incolores, o que é possibilitado pela absorção dos corantes com terras clarificantes, naturais ou ativadas, às vezes, misturadas com carvão ativado na proporção de 10:1 a 20:1.</p>
 <p>As terras ativadas são preparadas com silicatos de alumínio, por aquecimento com ácido clorídrico ou sulfúrico, removendo quase todo cálcio e magnésio e parcialmente o ferro e alumínio, seguido por lavagem com água, secagem e moagem. As terras naturais têm um poder clarificante bem inferior ao das terras ativadas, porém são bem mais baratas. </p>
 <p>Como a ação da terra clarificante é mais eficiente em meio anidro e o óleo neutralizado sempre contém umidade, é necessário realizar uma pré-etapa de secagem. A secagem do óleo é feita de maneira contínua no processo de neutralização. Já no processo de branqueamento ela é feita aquecendo o material à temperatura de 80 a 90 °C sob vácuo (30 mm Hg) por 30 minutos. Em seguida, se adiciona terra clarificante por sucção, agitando o óleo com uma temperatura de 80 a 95 °C, durante 20 a 30 minutos. Subsequentemente, o óleo é resfriado de 60 a 70 °C e filtrado por filtro-prensa. </p>
 
 <div class="atv">
     <h3 class="atividade">Atividade 8.2</h3>
-    <p>Fazer um fluxograma simplificado do processo de processamento do óleo de soja. </p>
+    <p>Faça um fluxograma simplificado do processo de processamento do óleo de soja. </p>
 </div>
 
 
 <h2 id="8.4">8.4. Construindo e fixando o conhecimento</h2>
 <p><span class="bold">1. </span> Qual a importância da instituição de padrões e graus de qualidade no processo de desenvolvimento da indústria alimentar?</p>
-<p><span class="bold">2. </span> Qual foi o principal avanço do processo de produção da indústria alimentícia durante o Século XX? Justificar o motivo a que se deve esse avanço.</p>
-<p><span class="bold">3. </span> Quais são as principais fases do processamento de produtos alimentícios? Definir cada uma delas.</p>
-<p><span class="bold">4. </span> Diferenciar o processo de extração por prensagem do processo de extração por solvente.</p>
-<p><span class="bold">5. </span> Explicar as diferenças entre os processos de pasteurização, esterilização, tindalização e apertização.</p>
-<p><span class="bold">6. </span> Explicar como funciona o processo de conservação por defumação?</p>
-<p><span class="bold">7. </span> Pesquisar na literatura a respeito do processo de conservação pelo uso da irradiação. Em seguida, elabore um resumo que trate do processo, com no máximo 20 linhas e no mínimo 10 linhas.</p>
+<p><span class="bold">2. </span> Qual foi o principal avanço do processo de produção da indústria alimentícia durante o Século XX? Justifique o motivo a que se deve esse avanço.</p>
+<p><span class="bold">3. </span> Quais são as principais fases do processamento de produtos alimentícios? Defina cada uma delas.</p>
+<p><span class="bold">4. </span> Diferencie o processo de extração por prensagem do processo de extração por solvente.</p>
+<p><span class="bold">5. </span> Explique as diferenças entre os processos de pasteurização, esterilização, tindalização e apertização.</p>
+<p><span class="bold">6. </span> Explique como funciona o processo de conservação por defumação?</p>
+<p><span class="bold">7. </span> Pesquise na literatura a respeito do processo de conservação pelo uso da irradiação. Em seguida, elabore um resumo que trate do processo, com no máximo 20 linhas e no mínimo 10 linhas.</p>
 
 
 <h2 id="8-ref">Referências Bibliográficas</h2>

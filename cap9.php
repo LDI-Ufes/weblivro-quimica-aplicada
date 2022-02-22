@@ -61,12 +61,12 @@ include("components/page-header.php");
 
 <h2 id="9.3">9.3. Processos de conversão química</h2>
 <p>Dentre as indústrias de processos químicos, a indústria farmacêutica é a que apresenta a maior diversidade de etapas e estágios envolvidos em seus processos de produção. Tal diversidade se deve a complexidade apresentada pela estrutura química de alguns medicamentos, que por sua vez está diretamente relacionada com a complexidade ainda maior, apresentadas pelas doenças e deficiências que eles se propõem a curar.</p>
-<p>Na antiguidade, a maioria dos produtos usados com medicamentos por homens e animais era derivada de vegetais e, portanto, apresentavam baixa pureza. No entanto, para aumentar a eficiência e o princípio ativo de cada medicamento, as décadas iniciais da indústria farmacêutica moderna dedicaram-se a separar e purificar os produtos individualmente extraídos das plantas e animais. Atualmente, os métodos extrativos foram aprimorados pelo uso de novos procedimentos, equipamentos e solventes especializados. Por outro lado, como foi visto anteriormente, o aumento da demanda e o grande investimento devotado a pesquisa e desenvolvimento da indústria farmacêutica durante o Século XX, proporcionaram uma substituição de muitas drogas oriundas das extrações de produtos naturais por produtos químicos sintéticos. </p>
+<p>Na antiguidade, a maioria dos produtos usados como medicamentos por homens e animais era derivada de vegetais e, portanto, apresentavam baixa pureza. No entanto, para aumentar a eficiência e o princípio ativo de cada medicamento, as décadas iniciais da indústria farmacêutica moderna dedicaram-se a separar e purificar os produtos individualmente extraídos das plantas e animais. Atualmente, os métodos extrativos foram aprimorados pelo uso de novos procedimentos, equipamentos e solventes especializados. Por outro lado, como foi visto anteriormente, o aumento da demanda e o grande investimento devotado a pesquisa e desenvolvimento da indústria farmacêutica durante o Século XX, proporcionaram uma substituição de muitas drogas oriundas das extrações de produtos naturais por produtos químicos sintéticos. </p>
 <p>A complexidade dos processos de fabricação dos fármacos também dificulta a definição de qual etapa de conversão química deve ser usada para classificar a síntese de uma substância química, além disso, a infinidade de drogas presentes no mercado inviabiliza uma descrição completa de cada processo produtivo. Desta forma, a seguir serão apresentadas apenas as principais conversões químicas envolvidas na produção de algumas drogas fabricadas pela indústria farmacêutica, com destaque para as que apresentam o maior valor agregado, maior volume de produção e melhor processo ilustrativo.</p>
 <h3></h3>
 <p>A alquilação é definida como um processo de introdução de grupos alquil ou aril <span class="nobreak">(–R)</span> por reações de substituição ou adição, em compostos orgânicos. São considerados três tipos de processos, segundo a forma de ligação que se efetua:</p>
 <div class="box">
-    <p><span class="bold">O-alquilação:</span> substituição de um hidrogênio em um grupo hidroxi de álcoois ou fenóis;</p>
+    <p><span class="bold">O-alquilação:</span> substituição de um hidrogênio em um grupo hidroxi de alcoóis ou fenóis;</p>
     <p><span class="bold">N-alquilação: </span>substituição de um hidrogênio ligado a um átomo de nitrogênio;</p>
     <p><span class="bold">C-alquilação: </span>substituição de um hidrogênio em hidrocarbonetos.</p>
 </div>
@@ -77,7 +77,7 @@ include("components/page-header.php");
     <figcaption><span class="bold">Figura 9.2. </span>Esquema de reações químicas para a preparação de Barbital.</figcaption>
 </figure>
 <h3>Carboxilação</h3>
-<p>A carboxilação é definida como um processo de introdução do grupamento carboxila <span class="nobreak">(–COOH)</span> por reações com dióxido de carbono <span class="nobreak">(CO<sub>2</sub>)</span>, em compostos orgânicos. Ela é bastante empregada na produção do ácido salicílico e seus derivados (aspirina, salol, salicilato de metila). A síntese destes compostos se dá a partir de uma reação de carboxilação conhecida como reação de Kolbe-Schimitt esquematizada por meio do mecanismo reacional mostrado na Figura 9.2. </p>
+<p>A carboxilação é definida como um processo de introdução do grupamento carboxila <span class="nobreak">(–COOH)</span> por reações com dióxido de carbono <span class="nobreak">(CO<sub>2</sub>)</span>, em compostos orgânicos. Ela é bastante empregada na produção do ácido salicílico e seus derivados (aspirina, salol, salicilato de metila). A síntese destes compostos se dá a partir de uma reação de carboxilação conhecida como reação de Kolbe-Schimitt esquematizada por meio do mecanismo reacional mostrado na Figura 9.3. </p>
 <!-- FIGURA E FÓRMULAS 9.3 -->
 <figure>
     <img width="100%" src="img/fig-9-3.svg" alt="audiodescrição">
@@ -85,13 +85,13 @@ include("components/page-header.php");
 </figure>
 <h3>Condensação</h3>
 <p>Outra conversão química muito importante devido ao seu emprego na fabricação de inúmeros produtos farmacêuticos que apresentam estruturas diversas em sua composição é a condensação. A condensação é uma reação química em que duas moléculas se combinam para formar uma única molécula, descartando ou não outra molécula menor durante o processo. </p>
-<p>Destaque especial é dado à fenolftaleína, um composto amplamente usado como purgativo, e que também é bastante conhecido na química analítica, especialmente na análise volumétrica, por ser empregado como indicador do ponto final em titulações ácido/base. Ele é produzido pelo esquema reacional apresentado na Figura 9.3.</p>
+<p>Destaque especial é dado à fenolftaleína, um composto amplamente usado como purgativo, e que também é bastante conhecido na química analítica, especialmente na análise volumétrica, por ser empregado como indicador do ponto final em titulações ácido/base. Ele é produzido pelo esquema reacional apresentado na Figura 9.4.</p>
 <!-- FIGURA E FÓRMULAS 9.4 -->
 <figure>
     <img width="100%" src="img/fig-9-4.svg" alt="audiodescrição">
     <figcaption><span class="bold">Figura 9.4. </span>Esquema de reações químicas para a preparação da Fenolftaleína.</figcaption>
 </figure>
-<p>O produto da reação de condensação é adicionado ainda aquecido em água fervente e posteriormente fervido. Em seguida o condensado é dissolvido em soda cáustica <span class="nobreak">(NaOH)</span> quente diluída e precipitado com ácido acético <span class="nobreak">(H<sub>3</sub>COOH)</span>. Por fim, ele é purificado por cristalização a partir de um álcool e filtrado com carvão ativo. </p>
+<p>O produto da reação de condensação é adicionado ainda aquecido em água fervente e posteriormente fervido. Em seguida, o condensado é dissolvido em soda cáustica <span class="nobreak">(NaOH)</span> quente diluída e precipitado com ácido acético <span class="nobreak">(H<sub>3</sub>COOH)</span>. Por fim, ele é purificado por cristalização a partir de um álcool e filtrado com carvão ativo. </p>
 
 <h3>Desidratação</h3>
 <p>A reação de desidratação é um tipo especial de condensação onde, durante a combinação de duas moléculas se descartada uma ou mais molécula de água <span class="nobreak">(H<sub>2</sub>O)</span>. </p>
@@ -116,7 +116,7 @@ include("components/page-header.php");
     <img width="100%" src="img/fig-9-7.svg" alt="audiodescrição">
 </figure>
 <h3>Oxidação</h3>
-<p>São denominadas reações oxirredução (ou redox) todas as reações químicas que envolvem a transferência de elétrons entre um composto orgânico e uma espécie oxidante ou redutora. Quando o elemento químico oxigênio (O) é o agente oxidante em questão e o aumento do número de oxidação ocorre nos átomos de carbono do composto orgânico que originará o fármaco, essa reação é conhecida como oxidação. A reação de oxidação pode ser ilustrada pelo esquema reacional de produção da isoniazida, um fármaco pertencente ao grupo dos antibacterianos que é usado em conjunto com outros medicamentos para o tratamento da tuberculose. </p>
+<p>São denominadas reações oxirredução (ou <em>redox</em>) todas as reações químicas que envolvem a transferência de elétrons entre um composto orgânico e uma espécie oxidante ou redutora. Quando o elemento químico oxigênio (O) é o agente oxidante em questão e o aumento do número de oxidação ocorre nos átomos de carbono do composto orgânico que originará o fármaco, essa reação é conhecida como oxidação. A reação de oxidação pode ser ilustrada pelo esquema reacional de produção da isoniazida, um fármaco pertencente ao grupo dos antibacterianos que é usado em conjunto com outros medicamentos para o tratamento da tuberculose. </p>
 <p>A ioniazida é produzida pela oxidação da 4-Metilpiridina, de acordo com o esquema reacional representado pela equação 9.4.</p>
 <!-- EQ 9.4 FIGURA 9.8 -->
 <figure>
@@ -124,10 +124,10 @@ include("components/page-header.php");
 </figure>
 
 <h3>Sulfonação</h3>
-<p>A sulfonação é uma conversão química empregada na produção de diversas sulfonamidas (sulfanilamida, sulfadiazina, sulfasuxidina, sulfaguanidina e sulfatiazol). Dentre elas a sulfadiazina é a única sulfonamida que apresenta utilidade terapêutica, com ação sistêmica e antibactericida. A Figura 9.4 apresentada as reações químicas de sulfonação e condensação usadas para a síntese da sulfadiazina:</p>
+<p>A sulfonação é uma conversão química empregada na produção de diversas sulfonamidas (sulfanilamida, sulfadiazina, sulfasuxidina, sulfaguanidina e sulfatiazol). Dentre elas a sulfadiazina é a única sulfonamida que apresenta utilidade terapêutica, com ação sistêmica e antibactericida. A Figura 9.5 apresentada as reações químicas de sulfonação e condensação usadas para a síntese da sulfadiazina:</p>
 <figure>
     <img width="100%" src="img/fig-9-9.svg" alt="audiodescrição">
-    <figcaption><span class="bold">Figura 9.4. </span>Esquema de reações químicas para a preparação de Barbital.</figcaption>
+    <figcaption><span class="bold">Figura 9.5. </span>Esquema de reações químicas para a preparação de Barbital.</figcaption>
 </figure>
 
 
@@ -137,11 +137,11 @@ include("components/page-header.php");
 <br>
 <div class="atv">
     <h3 class="atividade">Atividade 9.1</h3>
-    <p>Pesquisar na literatura sobre o processo de fabricação do ácido acetilsalicílico, em seguida apresentar um resumo de no máximo 20 linhas, destacado sua principal conversão química.</p>
+    <p>Pesquise na literatura sobre o processo de fabricação do ácido acetilsalicílico, em seguida apresentar um resumo de no máximo 20 linhas, destacado sua principal conversão química.</p>
 </div>
 
 <h2 id="9.4">9.4. Construindo e fixando o conhecimento</h2>
-<p><span class="bold">1. </span>Fazer uma lista dos principais fatos que marcaram o desenvolvimento da indústria farmacêutica moderna.</p>
+<p><span class="bold">1. </span>Faça uma lista dos principais fatos que marcaram o desenvolvimento da indústria farmacêutica moderna.</p>
 <p><span class="bold">2. </span>Atualmente, como podem ser classificados os produtos farmacêuticos?</p>
 <p><span class="bold">3. </span>Descreva três processos de conversão química envolvidos na produção de fármacos</p>
 

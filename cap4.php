@@ -12,14 +12,14 @@ include("components/page-header.php");
     <figcaption><span class="bold">Figura 4.1. </span>Fornalha Pré-Histórica encontrada no Parque Kruger, África. (<a class="ref" alt="Abrir site em nova aba" target="_blank" href="http://blogdaprehistoria.blogspot.com/">Fonte.</a> Acesso em 20/12/2011).</figcaption>
 </figure>
 <p>Os fornos mais antigos já encontrados datam do ano 500 a.C. nas Ilhas Britânicas e na Alemanha. Fornos de processos mais evoluídos foram encontrados na Índia e Japão por volta de 500 d. C. A Europa na Idade Média já considerava de extrema importância comercial a produção do ferro. A “forja catalã” era extensivamente utilizada nesta época para a redução direta do minério de ferro que produzia um material duro e quebradiço, usado na produção de armas brancas pesadas de difícil manejo.</p>
-<p>Apenas ao redor do ano 1450 se começou a produção de um intermediário denominado ferro gusa, pois era possível se alcançar maiores temperaturas durante o processo. Assim o ferro absorvia maior quantidade de carbono, oriunda do carvão vegetal, que escorri de forma mais fluida, permitindo um manuseio melhor. A posterior oxidação do ferro gusa permitia a obtenção de um aço de melhores propriedades mecânicas, o que permitiu a fabricação de armas brancas mais leves, além de armas de fogo, como os canhões. Data do ano de 1640 o uso do primeiro alto-forno para a produção de ferro gusa. Apesar do grande avanço tecnológico trazido pelo domínio da siderurgia nesta época a necessidade de usar 4kg de carvão vegetal para a produção de 1kg de ferro causou uma enorme devastação das florestas. Isto fez a madeira aumentar muito de preço além de provocar restrições legais na exploração da madeira.</p>
-<p>Contudo em 1710, na Inglaterra, se passou a usar o coque, que é um derivado do carvão mineral, como substituto ao carvão vegetal. Isto gerou um novo e importante impulso na siderurgia. Porém foi com a chegada da máquina a vapor, em 1870, que a siderurgia se tornou uma das mais importantes atividades econômicas e industriais dos países civilizados. Este parâmetro é usado até hoje para medir o grau de desenvolvimento de um país.</p>
+<p>Apenas ao redor do ano 1450 se começou a produção de um intermediário denominado ferro gusa, pois era possível se alcançar maiores temperaturas durante o processo. Assim o ferro absorvia maior quantidade de carbono, oriunda do carvão vegetal, que escorri de forma mais fluida, permitindo um manuseio melhor. A posterior oxidação do ferro gusa permitia a obtenção de um aço de melhores propriedades mecânicas, o que permitiu a fabricação de armas brancas mais leves, além de armas de fogo, como os canhões. Data do ano de 1640 o uso do primeiro alto-forno para a produção de ferro gusa. Apesar do grande avanço tecnológico trazido pelo domínio da siderurgia nesta época a necessidade de usar 4 kg de carvão vegetal para a produção de 1 kg de ferro causou uma enorme devastação das florestas. Isto fez a madeira aumentar muito de preço além de provocar restrições legais na exploração da madeira.</p>
+<p>Contudo em 1710, na Inglaterra, se passou a usar o coque, que é um derivado do carvão mineral, como substituto ao carvão vegetal. Isto gerou um novo e importante impulso na siderurgia. Porém, foi com a chegada da máquina a vapor, em 1870, que a siderurgia se tornou uma das mais importantes atividades econômicas e industriais dos países civilizados. Este parâmetro é usado até hoje para medir o grau de desenvolvimento de um país.</p>
 <p>No Brasil o primeiro grande fato relacionado a siderurgia ocorreu em 1812 com a primeira corrida brasileira de ferro gusa realizada na Vila de Congonhas – MG, atingindo seu auge após a inauguração da Companhia Siderúrgica Nacional (CSN) que continha o único alto-forno do país em Volta Redonda –RJ. Atualmente, o parque siderúrgico brasileiro compõe-se de 27 usinas, administradas por oito grupos empresariais: ArcelorMittal Brasil, Gerdau, CSN, Usiminas, SINOBRAS, V&M do Brasil, Villares Metals e Votorantim Siderurgia.</p>
 
 <br>
 <div class="atv">
     <h3 class="atividade">Atividade 4.1 </h3>
-    <p>Fazer um breve levantamento histórico sobre a atividade siderúrgica no Estado do Espírito Santo. Não se esquecer de determinar o início das atividades do setor e a conjuntura atual da atividade de siderurgia no Estado.</p>
+    <p>Faça um breve levantamento histórico sobre a atividade siderúrgica no Estado do Espírito Santo. Não se esquecer de determinar o início das atividades do setor e a conjuntura atual da atividade de siderurgia no Estado.</p>
 </div>
 
 <h2 id="4.2">4.2. Minério de Ferro</h2>
@@ -94,7 +94,7 @@ include("components/page-header.php");
 
 <h3>4.2.2. Reações no alto-forno</h3>
 <p>A redução do minério de ferro em um alto-forno ocorre durante a queda da carga sólida, ou seja, ao redor de 10 segundos. A redução é realizada por uma série de reações de acordo com a zona do forno (temperatura) alcançada.</p>
-<p>A <span class="bold">zona de redução indireta</span> está localizada na parte superior do alto-forno e possui temperaturas na faixa de 100 a 700°C. Nesta zona, praticamente toda a hematita é reduzida a magnetita, conforme reação química apresentada na equação 4.5:</p>
+<p>A <span class="bold">zona de redução indireta</span> está localizada na parte superior do alto-forno e possui temperaturas na faixa de 100 a 700 °C. Nesta zona, praticamente toda a hematita é reduzida a magnetita, conforme reação química apresentada na equação 4.5:</p>
 <div class="box-centro">
     <div class="formula pequena">
         <div class="line">
@@ -116,7 +116,7 @@ include("components/page-header.php");
 </div>
 <p>com ΔH = +250 kcal mol<sup>−1</sup> e ΔG = −50 kcal mol<sup>−1</sup>.</p>
 
-<p>A <span class="bold">zona de fusão e combustão</span> está localizada na parte inferior do alto-forno, imediatamente acima do banho de escória e ferro gusa, e trabalha com temperaturas variando de 1.500 a 1.800°C. É nesta zona que ocorre a fusão do ferro esponjoso formado na zona anterior e a combustão do coque que ainda não reagiu, conforme as reações químicas mostradas nas equações 4.7 e 4.8:</p>
+<p>A <span class="bold">zona de fusão e combustão</span> está localizada na parte inferior do alto-forno, imediatamente acima do banho de escória e ferro gusa, e trabalha com temperaturas variando de 1.500 a 1800 °C. É nesta zona que ocorre a fusão do ferro esponjoso formado na zona anterior e a combustão do coque que ainda não reagiu, conforme as reações químicas mostradas nas equações 4.7 e 4.8:</p>
 <div class="box-centro">
     <div class="formula">
         <div class="line">
@@ -200,29 +200,29 @@ include("components/page-header.php");
     <div class="formula pequena">
         <div class="line">
             <p>4CO<sub>2</sub>(g) + 4C(s) → 8CO(g) <span class="cal">(T = 1000 °C)</span></p>
-            <span class="box-eq">equação 4.16</span>
+            <span class="box-eq">equação 4.13</span>
         </div>
 
         <div class="line">
             <p>Fe<sub>3</sub>O<sub>4</sub>(s) + 4CO(g) → 3Fe(s) + 4CO<sub>2</sub>(g) <span class="cal">(T = 1000 °C)</span></p>
-            <span class="box-eq">equação 4.17</span>
+            <span class="box-eq">equação 4.16</span>
         </div>
     </div>
 </div>
 <p>Novamente, a soma destas duas equações, de acordo com a lei de Hess, deverá produzir a reação química mostrada na equação 4.6.</p>
 
-<p>Todas estas reações mostradas até agora são classificadas como as reações principais de um alto-forno. Porém reações secundárias também podem ocorrer. Dentre as reações secundárias merecem destaque a calcinação do fundente, representadas por meio das equações 4.15, 4.17 e 4.18, e a redução paralela dos óxidos de silício e manganês da ganga, mostradas por meio das equações 4.21 e 4.22, respectivamente:</p>
+<p>Todas estas reações mostradas até agora são classificadas como as reações principais de um alto-forno. Porém, reações secundárias também podem ocorrer. Dentre as reações secundárias merecem destaque a calcinação do fundente, representadas por meio das equações 4.15, 4.17 e 4.18, e a redução paralela dos óxidos de silício e manganês da ganga, mostradas por meio das equações 4.19 e 4.20, respectivamente:</p>
 
 <div class="box-centro">
     <div class="formula">
         <div class="line">
             <p>CO<sub>2</sub>(g) + C(s) → 2CO(g) <span class="cal">(T = 1800 °C)</span></p>
-            <span class="box-eq">equação 4.17</span>
+            <span class="box-eq">equação 4.15</span>
         </div>
 
         <div class="line">
             <p>CaCO<sub>3</sub>(s) → CaO(s) + CO<sub>2</sub>(g) <span class="cal">(T = 1000 °C)</span> </p>
-            <span class="box-eq">equação 4.18</span>
+            <span class="box-eq">equação 4.17</span>
         </div>
     </div>
 </div>
@@ -232,7 +232,7 @@ include("components/page-header.php");
     <div class="formula pequena">
         <div class="line">
             <p>CaCO<sub>3</sub>(s) + C(s) → CaO(s) + 2CO(g) <span class="cal">(T = 1000 °C)</span></p>
-            <span class="box-eq">equação 4.19</span>
+            <span class="box-eq">equação 4.18</span>
         </div>
     </div>
 </div>
@@ -242,7 +242,7 @@ include("components/page-header.php");
     <div class="formula">
         <div class="line">
             <p>SiO<sub>2</sub>(s) + 2C(s) → Si(l) + CO(g) <span class="cal">(T = 1800 °C)</span></p>
-            <span class="box-eq">equação 4.20</span>
+            <span class="box-eq">equação 4.19</span>
         </div>
     </div>
 </div>
@@ -261,7 +261,7 @@ include("components/page-header.php");
 <p>O silício e o manganês produzidos conforme apresentados por meio das equações 4.19 e 4.20 são incorporados ao ferro gusa.</p>
 
 <h2 id="4.3">4.3. Redução do minério usando outros processos</h2>
-<p>Sem dúvida a redução utilizando um alto-forno é o principal processo de produção de ferro, contudo muitas vezes este tipo de instalação é inviável, pois requer grandes áreas e enormes investimentos. Buscando-se alternativas surgiram os chamados <span class="bold">processos diretos</span>, alguns produzindo ferro gusa e outros produzindo ferro sólido denominado <span class="bold">ferro esponja</span>. Porém estes processos correspondem apenas a uma parcela pequena da produção de ferro e aço. Os principais processos não-convencionais para a redução de minério de ferro são apresentados a seguir.</p>
+<p>Sem dúvida a redução utilizando um alto-forno é o principal processo de produção de ferro, contudo muitas vezes este tipo de instalação é inviável, pois requer grandes áreas e enormes investimentos. Buscando-se alternativas surgiram os chamados <span class="bold">processos diretos</span>, alguns produzindo ferro gusa e outros produzindo ferro sólido denominado <span class="bold">ferro esponja</span>. Porém, estes processos correspondem apenas a uma parcela pequena da produção de ferro e aço. Os principais processos não-convencionais para a redução de minério de ferro são apresentados a seguir.</p>
 <h3>4.3.1. Redução em forno elétrico</h3>
 <p>Normalmente empregado em países que dispõem de energia elétrica barata e/ou com o coque caro ou inexistente. As unidades operacionais deste tipo de processo são pequenas, na ordem de 100 a 200 ton/dia. Neste processo não há consumo de coque como combustível, mas uma fonte de carbono deve ser empregada como agente redutor. Além da redução no consumo de coque outra vantagem deste processo é que não há a necessidade de injeção de ar no sistema, uma vez que não há combustão. Como desvantagem cita-se o alto consumo de energia elétrica, da ordem de 2.000 kW / ton de ferro. As reações químicas envolvidas no processo de redução utilizando forno elétrico são as mesmas observadas para processos utilizando alto-fornos, excetuando-se a reação de combustão do coque. </p>
 <h3>4.3.2. Processo Wiberg-Södefors</h3>
@@ -340,7 +340,7 @@ include("components/page-header.php");
 <br>
 <div class="atv">
     <h3 class="atividade">Atividade 4.2</h3>
-    <p>Comparar de forma sucinta e dissertativa a redução indireta (processo usando o alto-forno) e os processos de redução direta do Ferro. Não se esquecer de destacar as principais diferenças e similaridades existentes entre os processos.</p>
+    <p>Compare de forma sucinta e dissertativa a redução indireta (processo usando o alto-forno) e os processos de redução direta do Ferro. Não se esquecer de destacar as principais diferenças e similaridades existentes entre os processos.</p>
 </div>
 
 <h2 id="4.4">4.4. Produção de aço</h2>
@@ -389,7 +389,7 @@ include("components/page-header.php");
 <br>
 <div class="atv">
     <h3 class="atividade">Atividade 4.3</h3>
-    <p>Escrever as reações de oxidação dos elementos apresentados na Tabela 4.1.</p>
+    <p>Escreva as reações de oxidação dos elementos apresentados na Tabela 4.1.</p>
 </div>
 <br>
 
@@ -412,7 +412,7 @@ include("components/page-header.php");
 <p><span class="bold">7.</span> Quais os requisitos para a utilização de fornos elétricos de redução de minério?</p>
 <p><span class="bold">8.</span> Quais as principais diferenças entre o aço e o ferro gusa?</p>
 <p><span class="bold">9.</span> Qual impureza causa fragilidade a frio no aço? E qual causa fragilidade a quente? Por que estes fenômenos acontecem?</p>
-<p><span class="bold">10.</span> Explicar em que situação deve-se empregar tijolos refratários ácidos e básicos em um conversor.</p>
+<p><span class="bold">10.</span> Explique em que situação deve-se empregar tijolos refratários ácidos e básicos em um conversor.</p>
 
 <h2 id="4-ref">Referências Bibliográficas</h2>
 <p>CAMPOS FILHO, M. P. <strong>Introdução a Metalurgia Extrativa e Siderurgia.</strong> 1ª Edição, Ed. LTC / FUNCAMP, Campinas, SP, 1981, 153p.</p>

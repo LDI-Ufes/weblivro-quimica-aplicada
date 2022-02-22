@@ -75,7 +75,7 @@ include("components/page-header.php");
 
 <p>Dados da Associação Brasileira da Indústria de Alcali, Cloro e Derivados mostram que a produção de cloro no Brasil registrou acréscimo de 1% no acumulado janeiro a dezembro de 2010, em comparação com o ano de 2009, somando 1.288.584 toneladas.</p>
 
-<p>A fabricação de produtos derivados (uso cativo) do cloro foi de 88% no ano de 2010. O maior destaque foi para a produção de ácido clorídrico, que cresceu 5,7%, o DCE – material-prima para a fabricação do PVC, utilizado principalmente pela indústria da construção civil – com crescimento de 3,7% e o hipoclorito de sódio com aumento de 3,6%. O mercado interno apresentaou um crescimento de 1,6% em 2010, o que corresponde a 12% do volume produzido</p>
+<p>A fabricação de produtos derivados (uso cativo) do cloro foi de 88% no ano de 2010. O maior destaque foi para a produção de ácido clorídrico, que cresceu 5,7%, o DCE – material-prima para a fabricação do PVC, utilizado principalmente pela indústria da construção civil – com crescimento de 3,7% e o hipoclorito de sódio com aumento de 3,6%. O mercado interno apresentou um crescimento de 1,6% em 2010, o que corresponde a 12% do volume produzido</p>
 <!-- TITULO DA TABELA 2.2-->
 <p><span class="boldSecundario">Tabela 2.2.</span> Relação de indústria que produzem cloro e sua capacidade instalada no ano de 2010.</p>
 <!-- TABELA 2.2 -->
@@ -159,7 +159,7 @@ include("components/page-header.php");
 </figure>
 <!-- no original tem uma imagem pequena junto, o que fazer? -->
 <div class="box">
-  <p>Em 1774, Karl Wilhelm Scheele descobriu a substância Cloro, Cl<sub>2</sub>. Esta substância é encontrada na temperatura ambiente no estado físico gasoso, sendo um gás extremamente tóxico e de odor irritante. Um das suas característica interessante está no fato dele ser duas vezes e meia mais pesado do que o ar atmosférico.
+  <p>Em 1774, Karl Wilhelm Scheele descobriu a substância Cloro, Cl<sub>2</sub>. Esta substância é encontrada na temperatura ambiente no estado físico gasoso, sendo um gás extremamente tóxico e de odor irritante. Uma das suas característica interessante está no fato dele ser duas vezes e meia mais pesado do que o ar atmosférico.
   <p>
 </div>
 
@@ -215,7 +215,7 @@ include("components/page-header.php");
 <!-- FIGURA 2.6 -->
 <figure>
   <img src="img/fig-2-6.jpg" alt="audiodescrição">
-  <figcaption><span class="bold">Figura 2.6. </span>Fluxograma do processo de Fabricação de cloro e soda cáustica, adaptado da ref. 1. </figcaption>
+  <figcaption><span class="bold">Figura 2.6. </span>Fluxograma do processo de Fabricação de cloro e soda cáustica, adaptado (SHREVE; BRINK, 1997). </figcaption>
 </figure>
 
 
@@ -365,7 +365,7 @@ include("components/page-header.php");
 <h3>Tipos de eletrodos usados</h3>
 <p>Durante os anos 1900, o ânodo utilizado para a geração de cloro era a platina ou a magnetita. No entanto, por causa do elevado custo da platina e da densidade de corrente limitação (0,4 <span class="nobreak">kA/m<sup>2</sup></span>) com a magnetita, o grafite se tornou predominantemente o material utilizado como ânodo desde 1913 a meados dos anos 1970. Em 1919, Acheson desenvolveu os ânodos de grafite artificiais, que posteriormente foram modificados por Wheeler, que os impregnou com óleo de linhaça melhorando o seu desempenho eletroquímico.</p>
 <p>Entretanto, os eletrodos de grafite apresentavam um grande problema durante longo tempo de operação das células eletrolíticas, ou seja, as placas de grafite sofriam desgastes constantes o que resultava em um aumento da sobretensão da célula, devido ao aumento da distância ânodo-cátodo, o que leva a um aumento do custo de operação. Para sanar o problema, a produção tinha que ser interrompida para que os eletrodos fossem ajustados a uma distância adequada de operação. Isso motivou a busca de eletrodos com estruturas mais resistentes ao desgaste, assim, os ânodos dimensionalmente estáveis, ADE® (do inglês, <em>Dimensionally Stables Anode</em>, DSA®) foram desenvolvidos para substituir os eletrodos de grafite. O metal platina e suas ligas tais como: <span class="nobreak">Pt/Ir</span> ativando titânio apresentava excelente resistência à corrosão em longos períodos de eletrólise com solução de salmoura. No entanto, estes ânodos ainda apresentavam um tempo de vida útil curto e um custo elevado, devido a utilização de platina e irídio (metais nobres).</p>
-<p>A história dos eletrodos conhecidos como ânodos dimensionalmente estáveis, se funde com a importância da utilização do <span class="nobreak">RuO<sub>2</sub></span> como material eletroativo que recobre a superfície do eletrodo. Os trabalhos que relatam essa história podem ser verificados numa série de artigos produzidos por Trasatti e Hayfield. A primeira patente dos ADE® apareceu em 1965 e uma segunda em 1967 que foram propostas por Henri Bernard Beer que revolucionarão a indústria de cloro-álcali.</p>
+<p>A história dos eletrodos conhecidos como ânodos dimensionalmente estáveis, se funde com a importância da utilização do <span class="nobreak">RuO<sub>2</sub></span> como material eletroativo que recobre a superfície do eletrodo. Os trabalhos que relatam essa história podem ser verificados numa série de artigos produzidos por Trasatti e Hayfield. A primeira patente dos ADE® apareceu em 1965 e uma segunda em 1967 que foram propostas por Henri Bernard Beer que revolucionaram a indústria de cloro-álcali.</p>
 <p>Nestas patentes, Beer descreve o método de preparação dos eletrodos pela técnica de decomposição térmica de precursores de cloretos sobre um substrato de titânio, o qual ficava revestido com os óxidos do grupo da platina ou óxidos metálicos não nobres tais como: <span class="nobreak">TiO<sub>2</sub></span>, <span class="nobreak">SnO<sub>2</sub></span>, etc. Estes ânodos foram inicialmente usado em células de mercúrio da Denora, e exibiram baixa tensão da célula e uma vida longa.</p>
 <p>Consequentemente, ao longo dos anos, a maioria das plantas que utilizavam a tecnologia das células de diafragma em todo o mundo, foram convertidos para estes tipos de eletrodos como ânodo. A Figura 2.9 ilustra alguns tipos de eletrodos utilizados hoje em dia nas diferentes células.</p>
 <!-- FIGURA 2.9 -->
@@ -458,7 +458,7 @@ include("components/page-header.php");
 </div>
 
 <h2 id="2-4">2.4. Construindo e fixando o conhecimento</h2>
-<p><span class="bold">1.</span> Escreva um resumo contendo no máximo 20 linhas e no mínimo 10 linhas dos três tipos de processos utilizados na produção de cloro e da solda.</p>
+<p><span class="bold">1.</span> Escreva um resumo contendo no máximo 20 linhas e no mínimo 10 linhas dos três tipos de processos utilizados na produção de cloro e da soda.</p>
 <p><span class="bold">2.</span> Explique por que a célula de mercúrio está sendo retirado do mercado, em seguida descreva quais são os problemas relacionados a este tipo de tecnologia.</p>
 <p><span class="bold">3.</span> Escreva as reações químicas que ocorrem no ânodo e cátodo durante a fabricação de cloro e soda usando uma célula de diafragma.</p>
 <p><span class="bold">4.</span> A Eletroquímica é uma parte da Físico-Química, tendo uma grande importância para o setor Químico Industrial. Um dos processos mais importantes que envolvem a Eletroquímica é a eletrólise de soluções aquosas de <span class="nobreak">NaCl</span>, conhecida como indústria do cloro-álcali. Neste contexto, cite três importantes substâncias produzidas por este processo, em seguida informe quais são os principais setores ou segmentos das indústrias brasileiras que usam essas substâncias.</p>

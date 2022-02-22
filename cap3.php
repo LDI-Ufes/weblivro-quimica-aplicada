@@ -37,7 +37,7 @@ include("components/page-header.php");
 <div class="box-centro">
     <div class="formula longa">
         <div class="line">
-            <p>K<sub>2</sub>O·Al<sub>2</sub>O<sub>3</sub>·6SiO<sub>2</sub> + CO<sub>2</sub> + 2H<sub>2</sub>O → K<sub>2</sub>CO<sub>3</sub>·Al<sub>2</sub>O<sub>3</sub>·2SiO<sub>2</sub>·2H<sub>2</sub>O + 4SiO<sub>2</sub></p>
+            <p>K<sub>2</sub>O·Al<sub>2</sub>O<sub>3</sub>·6SiO<sub>2</sub> + CO<sub>2</sub> + 2H<sub>2</sub>O → K<sub>2</sub>CO<sub>3</sub> + Al<sub>2</sub>O<sub>3</sub>·2SiO<sub>2</sub>·2H<sub>2</sub>O + 4SiO<sub>2</sub></p>
             <span class="box-eq">equação 3.1</span>
         </div>
     </div>
@@ -53,14 +53,14 @@ include("components/page-header.php");
 <div class="box">
     <p>Para os produtos cerâmicos de cor clara, é preciso usar areia com baixo teor de ferro.</p>
 </div>
-<p>Além dos três minerais descritos anteriormente, diversos outros componentes são usados na produção de cerâmicas, tais como: os fundentes - bórax <span class="nobreak">(Na<sub>2</sub>B<sub>4</sub>O<sub>7</sub>·10H<sub>2</sub>O)</span>; barrilha <span class="nobreak">(Na<sub>2</sub>CO<sub>3</sub>)</span>; fluorita <span class="nobreak">(CaF<sub>2</sub>)</span>; oxido de chumbo; oxido de ferro; dentre outros e os refratários - alumina <span class="nobreak">(Al<sub>2</sub>O<sub>3</sub>)</span>; magnesita <span class="nobreak">(MgCO<sub>3</sub>)</span>; calcário <span class="nobreak">(CaCO<sub>3</sub>)</span>; dolomita <span class="nobreak">(CaMg(CO<sub>3</sub>)<sub>2</sub>)</span>; dentre outros.</p>
+<p>Além dos três minerais descritos anteriormente, diversos outros componentes são usados na produção de cerâmicas, tais como: os fundentes - bórax <span class="nobreak">(Na<sub>2</sub>B<sub>4</sub>O<sub>7</sub>·10H<sub>2</sub>O)</span>; barrilha <span class="nobreak">(Na<sub>2</sub>CO<sub>3</sub>)</span>; fluorita <span class="nobreak">(CaF<sub>2</sub>)</span>; óxido de chumbo; óxido de ferro; dentre outros e os refratários - alumina <span class="nobreak">(Al<sub>2</sub>O<sub>3</sub>)</span>; magnesita <span class="nobreak">(MgCO<sub>3</sub>)</span>; calcário <span class="nobreak">(CaCO<sub>3</sub>)</span>; dolomita <span class="nobreak">(CaMg(CO<sub>3</sub>)<sub>2</sub>)</span>; dentre outros.</p>
 
 <h3>3.1.3. Processos de conversão química</h3>
 <p>Basicamente todos os produtos cerâmicos são feitos pela combinação de quantidades adequadas dos componentes anteriormente citados. No entanto, para que esses materiais adquiram as características necessárias é preciso realizar o aquecimento dos mesmos até a temperatura de queima. Essas temperaturas podem variar de 700 a 2000 ºC e são responsáveis por várias reações químicas que constituem a base das seguintes reações: </p>
 <div class="indentacao">
     <p><span class="bold">I. </span>Desidratação ou perda de água de cristalização (150 - 650 ºC);
         <br><span class="bold">II. </span>Calcinação (600 - 900 ºC);
-        <br><span class="bold">III. </span>Oxidação do ferro (II) e da matéria orgânica (350 - 900 ºC);
+        <br><span class="bold">III. </span>Oxidação do ferro(II) e da matéria orgânica (350 - 900 ºC);
         <br><span class="bold">IV. </span>Formação de silicatos (> 900 ºC);
     </p>
 </div>
@@ -78,12 +78,10 @@ include("components/page-header.php");
 </div>
 
 <p>O aumento da temperatura (940 ºC) promove uma transformação da alumina amorfa em uma forma cristalina conhecida como γ-alumina, sendo esse segundo processo exotérmico. Em seguida, um pequeno aumento da temperatura, começando em torno de 1000 ºC promove a combinação da sílica com a alumina para formar a mulita <span class="nobreak">(3Al<sub>2</sub>O<sub>3</sub>·2SiO<sub>2)</span>. A uma temperatura ainda mais alta, a sílica remanescente é convertida a cristobalita cristalina. A reação química global para o aquecimento da argila é representada na eq. 3.3.</p>
-<!-- ESTEQUIOMETRIA 3.3 SERÁ IMAGEM OU CÓDIGO? -->
-<!-- (isabela) coloquei fórmula por enquanto -->
 <div class="box-centro">
     <div class="formula media">
         <div class="line">
-            <p>3(Al<sub>2</sub>O<sub>3</sub>·2SiO<sub>2</sub>·2H<sub>2</sub>O) → 3Al<sub>2</sub>O<sub>3</sub> + 2SiO<sub>2</sub> + 4SiO<sub>2</sub> + 6H<sub>2</sub>O</p>
+            <p>3(Al<sub>2</sub>O<sub>3</sub>·2SiO<sub>2</sub>·2H<sub>2</sub>O) → 3Al<sub>2</sub>O<sub>3</sub>·2SiO<sub>2</sub> + 4SiO<sub>2</sub> + 6H<sub>2</sub>O</p>
             <span class="box-eq">equação 3.3</span>
         </div>
     </div>
@@ -102,7 +100,7 @@ include("components/page-header.php");
 <br>
 <div class="atv">
     <h3 class="atividade">Atividade 3.1. </h3>
-    <p>Fazer um fluxograma simplificado do processo de aquecimento da caulinita. </p>
+    <p>Faça um fluxograma simplificado do processo de aquecimento da caulinita. </p>
 </div>
 
 <h2 id="3.2">3.2. Indústria de cimento</h2>
@@ -117,12 +115,12 @@ include("components/page-header.php");
 <!-- FIGURA 3.1 -->
 <figure>
     <img src="img/fig-3-1.jpg" alt="audiodescrição">
-    <figcaption><span class="bold">Figura 3.1. </span>O material britado é normalmente transportado para a fábrica por telas de borracha, sendo armazenado em silos verticais ou armazéns horizontais. Normalmente as telas possuem detectores de metais que as fazem parar o processo para retirada do material indesejado. Estes metais, que podem ser peças das máquinas da pedreira, podem provocar danos nas etapas seguintes.</figcaption>
+    <figcaption><span class="bold">Figura 3.1. </span>Britador de martelos.</figcaption>
 </figure>
 
 <p>O material britado é normalmente transportado para a fábrica por telas de borracha, sendo armazenado em silos verticais ou armazéns horizontais. Normalmente as telas possuem detectores de metais que as fazem parar o processo para retirada do material indesejado. Estes metais, que podem ser peças das máquinas da pedreira, podem provocar danos nas etapas seguintes.</p>
 <p>Os silos são depósitos que, além de armazenar, têm também o papel de homogeneizar o material britado e reduzir o desvio padrão da composição química dos mesmos.</p>
-<p>Em seguida, tem-se o processo de moagem, mais propriamente, moagem do “cru” que consiste na redução a pó da mistura de matérias primas, fazendo com que a dimensão dos grânulos fique compreendida entre 3 e 30 mm. Simultaneamente à moagem ocorre um processo de adição de outros materiais: areia <span class="nobreak">(SiO<sub>2</sub>)</span>, cinzas de pirita <span class="nobreak">(Fe<sub>2</sub>S)</span>, e bauxite <span class="nobreak">(Al<sub>2</sub>O</sub>3)</span>, de forma a obter as quantidades pretendidas dos compostos que constituem o "cru": cálcio, sílica, alumínio e ferro, essenciais para a fabricação do cimento. A moagem do “cru” pode ser realizada em um moinho de bolas. Os silos de armazenagem do material moído e da farinha crua também têm a função de homogeneização, que é muito importante para a economia de energia e um fator determinante para qualidade do produto final.</p>
+<p>Em seguida, tem-se o processo de moagem, mais propriamente, moagem do “cru” que consiste na redução a pó da mistura de matérias-primas, fazendo com que a dimensão dos grânulos fique compreendida entre 3 e 30 mm. Simultaneamente à moagem ocorre um processo de adição de outros materiais: areia <span class="nobreak">(SiO<sub>2</sub>)</span>, cinzas de pirita <span class="nobreak">(Fe<sub>2</sub>S)</span>, e bauxite <span class="nobreak">(Al<sub>2</sub>O</sub>3)</span>, de forma a obter as quantidades pretendidas dos compostos que constituem o "cru": cálcio, sílica, alumínio e ferro, essenciais para a fabricação do cimento. A moagem do “cru” pode ser realizada em um moinho de bolas. Os silos de armazenagem do material moído e da farinha crua também têm a função de homogeneização, que é muito importante para a economia de energia e um fator determinante para qualidade do produto final.</p>
 <p>Depois da moagem do “cru” vem à operação de cozedura ou clinquerização, que origina, por reações químicas complexas, um produto granulado denominado clínquer. Antes do “cru” dar entrada no forno, ele tem que ser progressivamente aquecido até à temperatura de 850-900 ºC. Este processo de aquecimento ocorre na torre de ciclones que é constituída por vários ciclones sobrepostas verticalmente, em que cada um, é constituído por um cilindro e um cone na parte inferior, conforme esquematizado no desenho da Figura 3.2. O ar quente e poeiras provenientes do forno entram pela parte superior do ciclone inferior segundo uma tangente ao cilindro. Devido à configuração do ciclone, as partículas precipitam através da parte inferior enquanto que o ar quente parcialmente purificado escapa-se pela parte superior, passando ao ciclone imediatamente acima onde ocorre o mesmo processo até que, no último ciclone, o gás é liberado a uma temperatura de 900 ºC arrastando consigo, uma quantidade mínima de poeiras encaminhado-as para os eletrofiltros.</p>
 <!-- FIGURA 3.2 -->
 <figure class="lateral">
@@ -155,7 +153,7 @@ include("components/page-header.php");
         </div>
     </div>
 </div>
-<p>O \(MgO\) liberado vai dissolver-se na fase líquida (fundida), formada durante a queima e em parte formará soluções sólidas com as fases mais importantes do clínquer. Na temperatura de clinquerização o \(MgO\) não se combina com os demais óxidos presentes, ficando livre na forma de periclásio.</p>
+<p>O MgO liberado vai dissolver-se na fase líquida (fundida), formada durante a queima e em parte formará soluções sólidas com as fases mais importantes do clínquer. Na temperatura de clinquerização o MgO não se combina com os demais óxidos presentes, ficando livre na forma de periclásio.</p>
 
 <p><span class="bold">III. Decomposição do carbonato de cálcio: </span>esta reação tem início em temperatura acima de 805 °C, sendo 894 °C a temperatura crítica de dissociação do carbonato de cálcio puro a 1 atm de pressão.</p>
 <div class="box-centro">
@@ -208,18 +206,18 @@ include("components/page-header.php");
 <br>
 <div class="atv">
     <h3 class="atividade">Atividade 3.2. </h3>
-    <p>Fazer um fluxograma simplificado contendo os principais processos envolvidos na produção do cimento.</p>
+    <p>Faça um fluxograma simplificado contendo os principais processos envolvidos na produção do cimento.</p>
 </div>
 
 <h2 id="3.3">3.3. Construindo e fixando o conhecimento</h2>
-<p><span class="bold">1.</span> Explicar por que os produtos cerâmicos foram considerados por muitos séculos matérias de exclusividade e luxo e, em seguida descrever qual o fato e como esse paradigma foi quebrado.</p>
-<p><span class="bold">2.</span> Determinar quais são os principais setores presentes no segmento cerâmico brasileiro, em seguida fazer uma pesquisa em livros, artigos científicos ou na internet sobre cada seguimento citando um exemplo de material cerâmico.</p>
-<p><span class="bold">3.</span> Explicar a função de um fundente na produção de um material cerâmico? Citar cinco exemplos de compostos fundentes.</p>
+<p><span class="bold">1.</span> Explique por que os produtos cerâmicos foram considerados por muitos séculos matérias de exclusividade e luxo e, em seguida descreva qual o fato e como esse paradigma foi quebrado.</p>
+<p><span class="bold">2.</span> Determine quais são os principais setores presentes no segmento cerâmico brasileiro, em seguida faça uma pesquisa em livros, artigos científicos ou na internet sobre cada seguimento citando um exemplo de material cerâmico.</p>
+<p><span class="bold">3.</span> Explique a função de um fundente na produção de um material cerâmico? Cite cinco exemplos de compostos fundentes.</p>
 <p><span class="bold">4.</span> Quais os principais processos de conversão química envolvidos na produção de materiais cerâmicos?</p>
 <p><span class="bold">5.</span> O que é o processo de vitrificação e qual a sua importância no processo de produção de materiais cerâmicos?</p>
-<p><span class="bold">6.</span> Fazer um resumo de no máximo de 20 linhas e mínimo de 10 linhas, o histórico dos principais acontecimentos envolvidos desde os primeiros registros do uso do cimento, até a criação do cimento Portland.</p>
+<p><span class="bold">6.</span> Faça um resumo de no máximo de 20 linhas e mínimo de 10 linhas, o histórico dos principais acontecimentos envolvidos desde os primeiros registros do uso do cimento, até a criação do cimento Portland.</p>
 <p><span class="bold">7.</span> Por que é necessário corrigir a concentração de algumas substâncias presentes na matéria-prima do cimento?</p>
-<p><span class="bold">8.</span> Descrever o princípio de funcionamento de uma torre de ciclones?</p>
+<p><span class="bold">8.</span> Descreva o princípio de funcionamento de uma torre de ciclones?</p>
 <p><span class="bold">9.</span> O que é a clinquerização e quais as principais conversões químicas envolvidas na produção do cimento?</p>
 
 <h2 id="3-ref">Referências Bibliográficas</h2>
