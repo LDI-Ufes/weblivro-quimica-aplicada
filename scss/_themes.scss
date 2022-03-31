@@ -88,6 +88,28 @@
       .box {
         background-color: #1c1322;
       }
+
+      svg {
+        #preto {
+          * {
+            fill: var(--textoCor) !important;
+          }
+        }
+  
+        #roxo {
+          * {
+            fill: var(--primariaPrincipal) !important;
+          }
+        }
+
+        #invert {
+          fill: var(--fundoCor) !important;
+        }
+
+        #clarear {
+          filter: brightness(150%);
+        }
+      }
     }
     
     &.dislexia{
