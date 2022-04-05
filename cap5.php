@@ -20,7 +20,6 @@ include("components/page-header.php");
 <div class="box-centro">
     <div class="formula">
         <div class="line">
-            <!-- <img src="" alt="audiodescrição"> -->
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 237.44 55.34">
                 <title>fig-5-1</title>
                 <g id="fig-5-1">
@@ -30,7 +29,7 @@ include("components/page-header.php");
                         <path d="M34.26,22.84a2.44,2.44,0,0,1,.91,2.08,2.58,2.58,0,0,1-1,2.19,4.12,4.12,0,0,1-2.52.71H30.57v3.3H29.33v-9h2.35A4.15,4.15,0,0,1,34.26,22.84Zm-1,3.59a1.75,1.75,0,0,0,.57-1.5,1.62,1.62,0,0,0-.57-1.39,2.62,2.62,0,0,0-1.62-.43h-1.1v3.73h1.08A2.72,2.72,0,0,0,33.29,26.43Z" />
                         <path d="M38.12,22.14v9H36.89v-9Z" />
                         <path d="M54.1,26.05v-1H59v1Zm0,2.51v-1H59v1Z" />
-                        <line x1="76.3" y1="26.11" x2="173.15" y2="26.11" style="fill:none;stroke:#020200;stroke-miterlimit:10;stroke-width:0.5px" />
+                        <rect x="76.3" y="25.86" width="96.86" height="0.5" style="fill:#020200" />
                         <path d="M115.43,13.52v8.34h-1.14V14.74l-2,1.18-.49-.81,2.57-1.59Z" />
                         <path d="M123.05,18.89v.91H122v2.06h-1.11V19.8H117.3V19l2.5-5.59,1,.4-2.25,5.1h2.36l.1-2.24h1v2.24Z" />
                         <path d="M127.44,13.52v8.34H126.3V14.74l-1.94,1.18-.5-.81,2.58-1.59Z" />
@@ -110,7 +109,7 @@ include("components/page-header.php");
 <h3>5.4.1. Destilação</h3>
 <!--FIGURA 5.1-->
 <figure class="retrato lateral">
-    <!-- <img src="img/fig-5-1.jpg" alt="audiodescrição"> -->
+    <!-- <img src="img/fig-5-2.jpg" alt="audiodescrição"> -->
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 354.47 728.89">
         <title>fig-5-2</title>
         <g id="fig-5-2">
@@ -121,7 +120,6 @@ include("components/page-header.php");
             <polygon points="159.41 474.31 136.34 474.31 136.34 451.63 49.23 451.63 49.23 505.33 136.34 505.33 136.34 482.66 159.41 482.66 159.41 474.31" style="fill:#ba6942"></polygon>
             <polygon points="159.41 534.88 136.34 534.88 136.34 512.2 49.23 512.2 49.23 565.9 136.34 565.9 136.34 543.23 159.41 543.23 159.41 534.88" style="fill:#8a5343"></polygon>
             <path d="M49.23,572.27v58.87A12.72,12.72,0,0,0,62,643.87h61.65a12.72,12.72,0,0,0,12.73-12.73V572.27Z" style="fill:#372827"></path>
-            <path d="M49.23,572.27v58.87A12.72,12.72,0,0,0,62,643.87h61.65a12.72,12.72,0,0,0,12.73-12.73V572.27Z" style="fill:none;stroke:#1d1d1b;stroke-miterlimit:10;stroke-width:1.20700001716614px"></path>
             <path d="M136.14,203.51v-1.19a31.82,31.82,0,0,0-31.82-31.82H80.85A31.82,31.82,0,0,0,49,202.32v1.19Z" style="fill:#fff"></path>
             <rect x="25.8" y="21.99" width="296.32" height="684.91" style="fill:none"></rect>
             <g id="preto">
@@ -222,9 +220,11 @@ include("components/page-header.php");
                 <path d="M291.55,64.68a1.8,1.8,0,0,0,.91.67l-.81,2.52a4.8,4.8,0,0,1-2.18-.65,3.34,3.34,0,0,1-1.29-1.63,5,5,0,0,1-2,1.76,6.07,6.07,0,0,1-2.69.58,5.08,5.08,0,0,1-3.71-1.33,4.71,4.71,0,0,1-1.37-3.51,4.54,4.54,0,0,1,1.86-3.91,8.88,8.88,0,0,1,5.3-1.35h2v-.89a2.71,2.71,0,0,0-.7-2.13,3.39,3.39,0,0,0-2.24-.61,13.12,13.12,0,0,0-4.16.84l-.89-2.59a15.92,15.92,0,0,1,5.7-1.13q6,0,6,5.41v6.6A2.52,2.52,0,0,0,291.55,64.68ZM285.9,48.13a11.85,11.85,0,0,1-1-.61,7,7,0,0,0-.72-.43,1.19,1.19,0,0,0-.56-.14,1.25,1.25,0,0,0-.85.31,4,4,0,0,0-.73,1l-2-1A6.53,6.53,0,0,1,281.43,45a2.92,2.92,0,0,1,2.08-.85,2.62,2.62,0,0,1,1.11.21,9.56,9.56,0,0,1,1.09.59,3.82,3.82,0,0,0,.67.43,1.34,1.34,0,0,0,.58.14,1.21,1.21,0,0,0,.8-.3,3.92,3.92,0,0,0,.77-1l2,1A6,6,0,0,1,289,47.53a3,3,0,0,1-2.05.82A2.61,2.61,0,0,1,285.9,48.13Zm1.62,15.11V60.06H286q-3.69,0-3.69,2.73a2.52,2.52,0,0,0,.57,1.76,2.14,2.14,0,0,0,1.66.62A3.35,3.35,0,0,0,287.52,63.24Z"></path>
                 <path d="M307.72,53.53a9,9,0,0,1,1.94,6.08,10,10,0,0,1-.89,4.36,6.75,6.75,0,0,1-2.56,2.92,7.21,7.21,0,0,1-3.95,1,6.88,6.88,0,0,1-5.44-2.21,8.93,8.93,0,0,1-2-6.11,10.07,10.07,0,0,1,.89-4.34,6.81,6.81,0,0,1,2.57-2.91,7.44,7.44,0,0,1,4-1A6.87,6.87,0,0,1,307.72,53.53Zm-8.85,6.08a7.87,7.87,0,0,0,.85,4.12,3.09,3.09,0,0,0,5.08,0,7.76,7.76,0,0,0,.85-4.1,7.66,7.66,0,0,0-.85-4.08,2.77,2.77,0,0,0-2.51-1.33C300,54.2,298.87,56,298.87,59.61Z"></path>
                 <path d="M136.75,204.12H48.42v-1.8a32.47,32.47,0,0,1,32.43-32.43h23.47a32.47,32.47,0,0,1,32.43,32.43Zm-87.12-1.21h85.91v-.59a31.26,31.26,0,0,0-31.22-31.22H80.85a31.26,31.26,0,0,0-31.22,31.22Z" style="fill:#1d1d1b"></path>
+                <path d="M123.61,644.48H62a13.35,13.35,0,0,1-13.34-13.34V571.67H137v59.47A13.35,13.35,0,0,1,123.61,644.48ZM49.83,572.87v58.27A12.14,12.14,0,0,0,62,643.27h61.65a12.14,12.14,0,0,0,12.13-12.13V572.87Z" style="fill:#1d1d1b"></path>
             </g>
         </g>
     </svg>
+
     <figcaption><span class="bold">Figura 5.2. </span>Esquema de uma torre de destilação atmosférica.</figcaption>
 </figure>
 <p>A destilação é o processo básico de separação do petróleo, no qual inicialmente há a vaporização e posteriormente a condensação dos componentes do óleo cru (hidrocarbonetos e impurezas) devido à ação de temperatura e pressão. Este processo baseia-se nas diferenças entre os pontos de ebulição dos diversos constituintes do petróleo, devido principalmente a diferença de massa molar existente entre eles. Portanto, o objetivo principal da destilação é a separação do petróleo em suas frações básicas de refino, tais como gás combustível, gás liquefeito, nafta, querosene, gasóleo atmosférico (óleo diesel), gasóleo de vácuo e resíduo de vácuo. Os rendimentos da destilação são variáveis dependendo do tipo de petróleo processado. A unidade de destilação de uma refinaria é composta por uma dessalgadora e pelo menos uma torre de destilação atmosférica, mas pode conter também uma torre de destilação a vácuo. Um esquema de uma torre de destilação atmosférica é mostrado na Figura 5.1.</p>

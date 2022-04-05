@@ -227,14 +227,13 @@ include("components/page-header.php");
 <p>Por exemplo, a soda cáustica é um produto essencial para operações industriais. Além de insumo importante na produção do alumínio, é utilizada na fabricação de papel e celulose, indústria química e petroquímica, sabões e detergentes, fibra sintética <em>rayon</em>, celofane, sais de sódio, corantes e pigmentos, vidros, produtos farmacêuticos, cosméticos, produção de hipoclorito de sódio e produtos para tratamento de água. É também usada na refinação de óleos vegetais, regeneração de resinas de troca iônica, na produção de tecidos de algodão para fortalecer as fibras e absorver melhor o tingimento, no processamento de metais, na extração de petróleo e na neutralização de efluentes.</p>
 <!-- FIGURA 2.2 -->
 <figure>
-  <img src="img/fig-2-2.jpg" alt="audiodescrição">
+  <!-- <img src="img/fig-2-2.jpg" alt="audiodescrição"> -->
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 722.63 423.33">
     <title>fig-2-2</title>
     <g id="fig-2-2">
       <path d="M353.71,92.75A186.72,186.72,0,0,1,396.64,212c0,104.45-85.88,189.12-191.81,189.12S13,316.45,13,212a188,188,0,0,1,2.75-32.14" style="fill:#b18ef4" />
       <path d="M353.7,92.75h0A192.47,192.47,0,0,0,204.83,22.87h0V212Z" style="fill:#6827ab" />
-      <path d="M15.78,179.86l189.05-157c-94.82,0-173.57,67.84-189,157" style="fill:#996ce0" />
-      <polygon points="204.83 22.87 15.19 179.61 205.9 211.84 204.83 22.87" style="fill:#996ce0" /><text transform="translate(87.19 138.14)" style="font-size:39.642738342285156px;fill:#fff;font-family:FiraSans-Regular, Fira Sans">22%</text><text transform="translate(233.37 110.2)" style="font-size:39.642738342285156px;fill:#fff;font-family:FiraSans-Regular, Fira Sans">15%</text><text transform="translate(174.07 308.04)" style="font-size:39.642738342285156px;fill:#fff;font-family:FiraSans-Regular, Fira Sans">63%</text>
+      <path d="M15.93,179.74l190,32.1-1.07-189-.5.42.5-.42c-94.51,0-173,67.4-188.89,156.12l-.75.62.62.11,0,.14Z" style="fill:#996ce0" /><text transform="translate(87.19 138.14)" style="font-size:39.642738342285156px;fill:#fff;font-family:FiraSans-Regular, Fira Sans">22%</text><text transform="translate(233.37 110.2)" style="font-size:39.642738342285156px;fill:#fff;font-family:FiraSans-Regular, Fira Sans">15%</text><text transform="translate(174.07 308.04)" style="font-size:39.642738342285156px;fill:#fff;font-family:FiraSans-Regular, Fira Sans">63%</text>
       <rect x="439.22" y="97.89" width="16.9" height="17.34" style="fill:#6827ab" />
       <rect x="439.22" y="141.77" width="17.34" height="17.34" style="fill:#996ce0" />
       <rect x="439.22" y="184.58" width="17.34" height="17.34" style="fill:#b18ef4" />
@@ -291,7 +290,21 @@ include("components/page-header.php");
 
 <!-- FIGURA 2.3 -->
 <figure>
-  <img src="img/fig-2-3.svg" alt="audiodescrição">
+  <!-- <img src="img/fig-2-3.svg" alt="audiodescrição"> -->
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 730 314.11">
+    <title>fig-2-3</title>
+    <g id="fig-2-3">
+      <path d="M152.57,190.43l84-78.56M72.1,215.35v-115m65,115h115m26.33,0h115m-105-110h115" style="fill:none;stroke:#6827ab;stroke-miterlimit:10;stroke-width:3px" />
+      <rect x="13.9" y="64.22" width="116.41" height="80.21" rx="13.86" style="fill:#c9baf7" />
+      <rect x="206.07" y="63.68" width="110.87" height="81.3" rx="13.86" style="fill:#c9baf7" />
+      <rect x="206.07" y="167.15" width="110.87" height="81.3" rx="13.86" style="fill:#c9baf7" />
+      <path d="M716.1,131.12c0,7.65-6.47,13.86-14.47,13.86H358.2c-8,0-14.47-6.21-14.47-13.86V18.4c0-7.65,6.48-13.85,14.47-13.85H701.63c8,0,14.47,6.2,14.47,13.85Z" style="fill:#c9baf7" />
+      <path d="M716.1,284.49c0,7.65-6.47,13.86-14.47,13.86H358.2c-8,0-14.47-6.21-14.47-13.86V182.86c0-7.65,6.48-13.86,14.47-13.86H701.63c8,0,14.47,6.21,14.47,13.86Z" style="fill:#c9baf7" />
+      <path d="M180.2,238.76c0,8.13-6.21,14.72-13.86,14.72H27.75c-7.65,0-13.85-6.59-13.85-14.72V181.87c0-8.13,6.2-14.72,13.85-14.72H166.34c7.65,0,13.86,6.59,13.86,14.72Z" style="fill:#c9baf7" /><text transform="translate(47.46 111.9)" style="font-size:20.947900772094727px;fill:#1d1d1b;font-family:FiraSans-Regular, Fira Sans">NaCl</text><text transform="translate(245.67 215.46)" style="font-size:20.947900772094727px;fill:#1d1d1b;font-family:FiraSans-Regular, Fira Sans">Cl</text><text transform="translate(263.58 220)" style="font-size:12.734439849853516px;fill:#1d1d1b;font-family:FiraSans-Regular, Fira Sans">2</text><text transform="translate(234.45 112.62)" style="font-size:20.947900772094727px;fill:#1d1d1b;font-family:FiraSans-Regular, Fira Sans">NaOH</text><text transform="translate(634.33 84.83)" style="font-size:22.8900203704834px;fill:#1d1d1b;font-family:RotisSansSerifStd, Rotis SansSerif Std"> </text><text transform="translate(41.76 205.17)" style="font-size:20.947900772094727px;fill:#1d1d1b;font-family:FiraSans-Regular, Fira Sans">Processo</text><text transform="translate(42.11 232.31)" style="font-size:20.947900772094727px;fill:#1d1d1b;font-family:FiraSans-Regular, Fira Sans">eletrolítico</text><text transform="translate(371.72 57.98)" style="font-size:20.947900772094727px;fill:#1d1d1b;font-family:FiraSans-Regular, Fira Sans">Sabão; corantes; papel; alimentos;</text><text transform="translate(371.19 83.98)" style="font-size:20.947900772094727px;fill:#1d1d1b;font-family:FiraSans-Regular, Fira Sans">borracha; produtos químicos;</text><text transform="translate(633.23 84.31)" style="font-size:22.8900203704834px;fill:#1d1d1b;font-family:RotisSansSerifStd, Rotis SansSerif Std"> </text><text transform="translate(371.19 109.97)" style="font-size:20.947900772094727px;fill:#1d1d1b;font-family:FiraSans-Regular, Fira Sans">petróleo e metalurgia</text><text transform="translate(370.96 213.72)" style="font-size:20.947900772094727px;font-family:FiraSans-Regular, Fira Sans">Polpa e papel; solventes;<tspan x="0" y="27.31">plásticos; pesticidas; produtos</tspan>
+        <tspan x="0" y="54.63">sanitários; fluidos de refrigeração</tspan>
+      </text>
+    </g>
+  </svg>
   <figcaption><span class="bold">Figura 2.3.</span> Fluxograma do processo de produção de cloro e hidróxido de sódio mediante a eletrólise da solução de cloreto de sódio <span class="nobreak">(NaCl)</span>.</figcaption>
 </figure>
 
@@ -1813,7 +1826,7 @@ include("components/page-header.php");
 <p>A Tabela 2.3 ilustra a comparação em relação ao consumo de energia e eficiência das diferentes tecnologias usadas para produção de cloro e soda.</p>
 <!-- FIGURA 2.8 -->
 <figure>
-  <img src="img/fig-2-8.jpg" alt="audiodescrição">
+  <!-- <img src="img/fig-2-8.jpg" alt="audiodescrição"> -->
   <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 730 641.65">
     <defs>
       <clipPath id="clip-path">
@@ -2061,6 +2074,7 @@ include("components/page-header.php");
   </svg>
   <figcaption><span class="bold">Figura 2.8.</span> Esquema da célula eletrolítica usando membrana para separa ânodo e cátodo. </figcaption>
 </figure>
+
 <figure class="retrato">
   <!-- <img src="img/fig-2-8-2.jpg" alt="audiodescrição"> -->
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 257.49 572.52">
