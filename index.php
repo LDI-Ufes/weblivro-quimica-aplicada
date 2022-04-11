@@ -150,6 +150,7 @@ $autorLivro3 = "Profa. Dra. Geiza Esperandio de Oliveira";
               Edson Rufino<br>
               <em>Equipe:</em><br>
               Paulo Serpa<br>
+              Isabela Oliveira<br>
             </p>
           </div>
 
