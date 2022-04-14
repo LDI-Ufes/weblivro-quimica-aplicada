@@ -14,8 +14,8 @@ include("components/page-header.php");
 <figure class="tabela">
   <table>
     <tr>
-      <th>Região / Empresa Valor (US$/Mwh)</th>
-      <th>Valor (US$/Mwh)</th>
+      <th>Região / Empresa Valor (US$/MWh)</th>
+      <th>Valor (US$/MWh)</th>
     </tr>
     <tr>
       <td>EUA – Costa do Golfo </td>
@@ -622,7 +622,7 @@ include("components/page-header.php");
       </g>
       <g style="clip-path:url(#clip-path-2)">
         <path d="M438.82,265.06h-.47a11.22,11.22,0,1,1-22.43,0V211.35a11.22,11.22,0,1,1,22.43,0v53.71h.95V211.35a12.17,12.17,0,0,0-24.33,0v53.71a12.17,12.17,0,0,0,24.33,0Z" style="fill:#838382"></path>
-      </g><text transform="translate(233.96 220.83)" style="font-size:18.13736915588379px;fill:#1d1d1b;font-family:FiraSans-Regular, Fira Sans">+</text><text transform="translate(422.52 221.71)" style="font-size:19.64868927001953px;fill:#1d1d1b;font-family:FiraSans-Regular, Fira Sans">-</text>
+      </g><text transform="translate(234.96 220.83)" style="font-size:18.13736915588379px;fill:#1d1d1b;font-family:FiraSans-Regular, Fira Sans">+</text>
       <rect x="321.22" y="70.06" width="6.83" height="32.49" style="fill:#575756"></rect>
       <rect x="345.8" y="76.48" width="5.29" height="19.65" style="fill:#575756"></rect>
       <g style="clip-path:url(#clip-path-2)">
@@ -759,15 +759,18 @@ include("components/page-header.php");
       </g><text transform="translate(448.12 171.19)" style="font-size:12.091580390930176px;fill:#fff;font-family:FiraSans-Regular, Fira Sans">H</text><text transform="translate(455.74 175.21)" style="font-size:7.04941987991333px;fill:#fff;font-family:FiraSans-Regular, Fira Sans">2</text>
       <g style="clip-path:url(#clip-path-2)">
         <path d="M376.81,294.86A12.81,12.81,0,1,1,364,282.05a12.81,12.81,0,0,1,12.81,12.81" style="fill:#554395"></path>
-      </g><text transform="translate(354.79 299.11)" style="font-size:12.091580390930176px;fill:#fff;font-family:FiraSans-Regular, Fira Sans">OH</text><text transform="translate(370.24 295.08)" style="font-size:7.04941987991333px;fill:#fff;font-family:FiraSans-Regular, Fira Sans">-</text>
+      </g>
       <g style="clip-path:url(#clip-path-2)">
         <path d="M369.76,328.84A12.81,12.81,0,1,1,357,316a12.81,12.81,0,0,1,12.81,12.82" style="fill:#554395"></path>
-      </g><text transform="translate(347.73 333.08)" style="font-size:12.091580390930176px;fill:#fff;font-family:FiraSans-Regular, Fira Sans">OH</text><text transform="translate(363.19 329.06)" style="font-size:7.04941987991333px;fill:#fff;font-family:FiraSans-Regular, Fira Sans">-</text>
+      </g><text transform="translate(346.42 333.5)" style="font-size:12.091580390930176px;fill:#fff;font-family:FiraSans-Regular, Fira Sans">OH</text>
+      <line x1="363.01" y1="326.99" x2="367.08" y2="326.99" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.8px"></line>
       <g style="clip-path:url(#clip-path-2)">
         <path d="M503.06,215.76A12.81,12.81,0,1,1,490.25,203a12.8,12.8,0,0,1,12.81,12.81" style="fill:#596124"></path>
-      </g><text transform="translate(485.57 220.01)" style="font-size:12.091580390930176px;fill:#fff;font-family:FiraSans-Regular, Fira Sans">H</text><text transform="translate(493.19 215.98)" style="font-size:7.04941987991333px;fill:#fff;font-family:FiraSans-Regular, Fira Sans">+</text>
+      </g><text transform="translate(353.54 299.47)" style="font-size:12.091580390930176px;fill:#fff;font-family:FiraSans-Regular, Fira Sans">OH</text>
+      <line x1="370.13" y1="292.96" x2="374.2" y2="292.96" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:0.8px"></line><text transform="translate(485.57 220.01)" style="font-size:12.091580390930176px;fill:#fff;font-family:FiraSans-Regular, Fira Sans">H</text><text transform="translate(493.19 215.98)" style="font-size:7.04941987991333px;fill:#fff;font-family:FiraSans-Regular, Fira Sans">+</text>
       <polygon points="328.95 14.96 320.24 14.96 325.65 21.89 322.77 21.92 328.98 30.55 326.04 30.49 339.5 43.97 335.07 33.81 337.74 33.81 333.39 26.56 336.56 26.69 328.95 14.96" style="fill:#ffed00"></polygon>
       <path d="M324.61,22.85h1.05l1.92,0-5.4-6.92h6.26l6.33,9.77-1.34-.05-1.75-.08,4.39,7.33h-2.45l3,6.89-8.25-8.27H329l1.89,0ZM329,15l-.79.51ZM318.3,14l5.43,7h-1l-1.83,0,6.17,8.58-1.05,0-2.35-.05,15.12,15.14,1.53-1-3.85-8.83h2.9l-4.31-7.18,1.42.05,1.83.08L329.46,14Z" style="fill:#fbb800"></path>
+      <line x1="424.35" y1="215.22" x2="429.93" y2="215.22" style="fill:none;stroke:#1d1d1b;stroke-miterlimit:10;stroke-width:0.9px"></line>
       <g id="preto">
         <path d="M216.37,15.21a6.41,6.41,0,0,1,1.8,1.08l-1.09,1.27a4.29,4.29,0,0,0-2.76-1.06,3.52,3.52,0,0,0-2.89,1.37,7.11,7.11,0,0,0-1.09,4.41,7.13,7.13,0,0,0,1.08,4.36,3.45,3.45,0,0,0,2.88,1.41,3.81,3.81,0,0,0,1.6-.31,8.44,8.44,0,0,0,1.46-.88l1,1.25a5.35,5.35,0,0,1-1.7,1.15,6,6,0,0,1-2.4.45,5.66,5.66,0,0,1-3.11-.86A5.59,5.59,0,0,1,209,26.31a9.66,9.66,0,0,1-.76-4,9.3,9.3,0,0,1,.79-4,5.85,5.85,0,0,1,2.14-2.53,5.54,5.54,0,0,1,3-.86A6.28,6.28,0,0,1,216.37,15.21Z" style="fill:#1d1d1b"></path>
         <path d="M221.24,29.08a2.45,2.45,0,0,1-.62-1.78V14.08l1.92-.23V27.26a1.13,1.13,0,0,0,.15.66.64.64,0,0,0,.53.21,2,2,0,0,0,.71-.12l.5,1.33a3.11,3.11,0,0,1-1.52.37A2.22,2.22,0,0,1,221.24,29.08Z" style="fill:#1d1d1b"></path>
@@ -796,11 +799,7 @@ include("components/page-header.php");
         <path d="M106.54,328.38v2.27h2.21v1.15h-2.21v2.26h-1.27V331.8h-2.2v-1.15h2.2v-2.27Z" style="fill:#1d1d1b"></path>
         <path d="M120.45,325.87a5,5,0,0,1,1.31.78l-.79.93a3.14,3.14,0,0,0-2-.77,2.55,2.55,0,0,0-2.09,1,6.8,6.8,0,0,0,0,6.38,2.48,2.48,0,0,0,2.09,1,2.87,2.87,0,0,0,1.17-.23,5.58,5.58,0,0,0,1-.64l.72.91a4,4,0,0,1-1.25.83,4.12,4.12,0,0,1-5.54-2.14,7,7,0,0,1-.56-2.93,6.9,6.9,0,0,1,.58-2.93,4.25,4.25,0,0,1,1.56-1.84,4,4,0,0,1,2.19-.62A4.35,4.35,0,0,1,120.45,325.87Z" style="fill:#1d1d1b"></path>
         <path d="M123.61,336a1.83,1.83,0,0,1-.44-1.3v-9.61l1.39-.17v9.75a.91.91,0,0,0,.11.49.47.47,0,0,0,.39.15,1.36,1.36,0,0,0,.51-.09l.37,1a2.18,2.18,0,0,1-1.11.28A1.66,1.66,0,0,1,123.61,336Z" style="fill:#1d1d1b"></path>
-        <path d="M126,328.78v-.69h2.5v.69Z" style="fill:#1d1d1b"></path>
-        <rect x="58.49" y="329.45" width="10.68" height="0.95" style="fill:#1d1d1b"></rect>
-        <path d="M71.15,329c-1.57-.47-2.58-.9-3.84-1.4v4.77a37,37,0,0,1,3.84-1.42,28.12,28.12,0,0,1,4.17-1,27.13,27.13,0,0,1-4.17-1" style="fill:#1d1d1b"></path>
-        <rect x="62.04" y="333.98" width="10.68" height="0.94" style="fill:#1d1d1b"></rect>
-        <path d="M59.8,335.43a37.65,37.65,0,0,1,3.84,1.41v-4.77a40.24,40.24,0,0,1-3.84,1.41,28.12,28.12,0,0,1-4.17,1,27.13,27.13,0,0,1,4.17,1" style="fill:#1d1d1b"></path>
+        <path d="M126,328.78v-.69h4.44v.69Z" style="fill:#1d1d1b"></path>
         <path d="M553.29,168.61v-4.89H548.9v4.89h-1.44V158.18h1.44v4.36h4.39v-4.36h1.44v10.43Z" style="fill:#1d1d1b"></path>
         <path d="M558.14,167.87a1.65,1.65,0,0,1,.62.58,1.56,1.56,0,0,1,.22.83,2.32,2.32,0,0,1-.24,1,4.78,4.78,0,0,1-.75,1.07c-.33.38-.84.91-1.52,1.59h2.65l-.09.68h-3.49V173q1.19-1.23,1.68-1.8a5,5,0,0,0,.7-1,1.88,1.88,0,0,0,.22-.91,1,1,0,0,0-.27-.72,1,1,0,0,0-.71-.26,1.28,1.28,0,0,0-.63.15,2.28,2.28,0,0,0-.58.5l-.53-.43a2.49,2.49,0,0,1,.8-.67,2.25,2.25,0,0,1,1-.22A2,2,0,0,1,558.14,167.87Z" style="fill:#1d1d1b"></path>
         <path d="M567.16,158.63a4.14,4.14,0,0,1,1.54,1.84,7,7,0,0,1,.55,2.94,6.92,6.92,0,0,1-.55,2.9,4.34,4.34,0,0,1-6.16,1.86,4.08,4.08,0,0,1-1.55-1.83,8,8,0,0,1,0-5.83,4.26,4.26,0,0,1,1.56-1.87,4.21,4.21,0,0,1,2.3-.64A4.26,4.26,0,0,1,567.16,158.63Zm-4.43,1.58a5.43,5.43,0,0,0-.76,3.21,5.32,5.32,0,0,0,.77,3.18,2.47,2.47,0,0,0,2.11,1q2.86,0,2.87-4.2t-2.87-4.23A2.49,2.49,0,0,0,562.73,160.21Z" style="fill:#1d1d1b"></path>
@@ -809,11 +808,7 @@ include("components/page-header.php");
         <path d="M623.72,160.06v2.27h2.21v1.15h-2.21v2.25h-1.27v-2.25h-2.19v-1.15h2.19v-2.27Z" style="fill:#1d1d1b"></path>
         <path d="M638.43,157.93a4.08,4.08,0,0,1,1.54,1.84,7.89,7.89,0,0,1,0,5.84,4.16,4.16,0,0,1-1.54,1.85,4.58,4.58,0,0,1-4.62,0,4.06,4.06,0,0,1-1.54-1.83,8,8,0,0,1,0-5.83,4.3,4.3,0,0,1,1.55-1.87,4.15,4.15,0,0,1,2.3-.64A4.21,4.21,0,0,1,638.43,157.93ZM634,159.51a5.51,5.51,0,0,0-.75,3.21,5.32,5.32,0,0,0,.76,3.18,2.48,2.48,0,0,0,2.11,1q2.88,0,2.88-4.21t-2.88-4.22A2.48,2.48,0,0,0,634,159.51Z" style="fill:#1d1d1b"></path>
         <path d="M648.15,167.91V163h-4.39v4.89h-1.44V157.48h1.44v4.36h4.39v-4.36h1.43v10.43Z" style="fill:#1d1d1b"></path>
-        <path d="M650.6,160.45v-.68h2.5v.68Z" style="fill:#1d1d1b"></path>
-        <rect x="577.46" y="158.73" width="14.73" height="0.95" style="fill:#1d1d1b"></rect>
-        <path d="M594.42,158.23c-1.56-.47-2.58-.91-3.83-1.41v4.77a38.11,38.11,0,0,1,3.83-1.41,28.48,28.48,0,0,1,4.18-1,28.75,28.75,0,0,1-4.18-1" style="fill:#1d1d1b"></path>
-        <rect x="582.35" y="164.98" width="14.73" height="0.94" style="fill:#1d1d1b"></rect>
-        <path d="M580.12,166.43a38.32,38.32,0,0,1,3.83,1.41v-4.77a39.76,39.76,0,0,1-3.83,1.41,28.19,28.19,0,0,1-4.18,1,27.21,27.21,0,0,1,4.18,1" style="fill:#1d1d1b"></path>
+        <path d="M650.6,160.45v-.68h4.58v.68Z" style="fill:#1d1d1b"></path>
         <polygon points="499.36 358.46 499.36 404.24 580.58 404.24 580.58 402.35 501.25 402.35 501.25 358.46 499.36 358.46" style="fill:#1d1d1b"></polygon>
         <path d="M585.05,401.36c-3.13-.95-5.16-1.82-7.67-2.82v9.54a74.76,74.76,0,0,1,7.67-2.82,55.31,55.31,0,0,1,8.35-1.95,56.57,56.57,0,0,1-8.35-1.95" style="fill:#1d1d1b"></path>
         <polygon points="81.93 85.38 172.74 85.38 172.74 132.64 174.63 132.64 174.63 83.48 81.93 83.48 81.93 85.38" style="fill:#1d1d1b"></polygon>
@@ -826,7 +821,11 @@ include("components/page-header.php");
         <path d="M131.47,67.31l-.25,1.36a3,3,0,0,0-.7-.09,1.51,1.51,0,0,0-1.2.54,4.11,4.11,0,0,0-.71,1.7v4.55h-1.39v-8h1.2l.13,1.62a3,3,0,0,1,.86-1.35,2,2,0,0,1,1.28-.45A3.21,3.21,0,0,1,131.47,67.31Z" style="fill:#1d1d1b"></path>
         <path d="M137.66,74.23a1,1,0,0,0,.5.36l-.32,1a2.11,2.11,0,0,1-1-.35,1.61,1.61,0,0,1-.56-.85,2.68,2.68,0,0,1-2.38,1.2,2.57,2.57,0,0,1-1.86-.67,2.33,2.33,0,0,1-.68-1.74,2.25,2.25,0,0,1,.92-2,4.22,4.22,0,0,1,2.59-.68h1.23v-.59a1.59,1.59,0,0,0-.41-1.22,1.86,1.86,0,0,0-1.26-.36,7.13,7.13,0,0,0-2.15.42l-.34-1a8,8,0,0,1,2.75-.54,2.9,2.9,0,0,1,2.1.68,2.63,2.63,0,0,1,.7,2v3.65A1.23,1.23,0,0,0,137.66,74.23Zm-1.56-1V71.44h-1c-1.47,0-2.21.54-2.21,1.63a1.51,1.51,0,0,0,.35,1.08,1.37,1.37,0,0,0,1,.36A2.08,2.08,0,0,0,136.1,73.27Z" style="fill:#1d1d1b"></path>
         <path d="M175.62,137.11c.95-3.13,1.82-5.16,2.83-7.67H168.9a73.27,73.27,0,0,1,2.82,7.67,54.17,54.17,0,0,1,1.95,8.36,56.65,56.65,0,0,1,2-8.36" style="fill:#1d1d1b"></path>
-      </g><text id="clarear" transform="translate(598.79 408.48)" style="font-size:15.137660026550293px;fill:#9f2515;font-family:FiraSans-Regular, Fira Sans">Solução resultante</text>
+        <polygon points="594.6 162.16 575.63 162.16 575.63 161.16 592.18 161.16 587.73 156.19 587.73 156.19 594.6 162.16" style="fill:#1d1d1b"></polygon>
+        <polygon points="575.63 164.64 594.6 164.64 594.6 165.64 578.04 165.64 582.5 170.6 582.5 170.6 575.63 164.64" style="fill:#1d1d1b"></polygon>
+        <polygon points="74.84 330.78 55.88 330.78 55.88 329.78 72.43 329.78 67.98 324.81 67.98 324.81 74.84 330.78" style="fill:#1d1d1b"></polygon>
+        <polygon points="55.88 333.26 74.84 333.26 74.84 334.26 58.29 334.26 62.74 339.22 62.74 339.22 55.88 333.26" style="fill:#1d1d1b"></polygon>
+      </g><text transform="translate(598.79 408.48)" style="font-size:15.137660026550293px;fill:#9f2515;font-family:FiraSans-Regular, Fira Sans" id="clarear">Solução resultante</text>
     </g>
   </svg>
   <figcaption><span class="bold">Figura 2.5. </span>Representação esquemática do processo de fabricação de Cloro e hidróxido de sódio a partir da eletrólise da salmoura (solução salina – <span class="nobreak">H<sub>2</sub>O</span> + <span class="nobreak">NaCl</span>)</figcaption>
