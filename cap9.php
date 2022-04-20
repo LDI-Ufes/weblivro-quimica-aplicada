@@ -969,7 +969,7 @@ include("components/page-header.php");
 
 <h3>Desidratação</h3>
 <p>A reação de desidratação é um tipo especial de condensação onde, durante a combinação de duas moléculas se descartada uma ou mais molécula de água <span class="nobreak">(H<sub>2</sub>O)</span>. </p>
-<p>Para exemplifica a desidratação será apresentada a seguir a síntese do éter. Esse composto é normalmente usado como solvente e, quando purificado, é usado na farmacopéia como anestésico. O processo de fabricação do éter é bastante simples e se baseia na ação desidratante do ácido sulfúrico, conforme reações químicas apresentada na equação 9.1:</p>
+<p>Para exemplificar a desidratação será apresentada a seguir a síntese do éter. Esse composto é normalmente usado como solvente e, quando purificado, é usado na farmacopéia como anestésico. O processo de fabricação do éter é bastante simples e se baseia na ação desidratante do ácido sulfúrico, conforme reações químicas apresentada na equação 9.1:</p>
 <!-- EQ 9.1 FIGURA 9.5 -->
 <figure>
     <!-- <img width="100%" src="img/fig-9-5.svg" alt="audiodescrição"> -->
@@ -1374,8 +1374,8 @@ include("components/page-header.php");
     </svg>
 </figure>
 <h3>Oxidação</h3>
-<p>São denominadas reações oxirredução (ou <em>redox</em>) todas as reações químicas que envolvem a transferência de elétrons entre um composto orgânico e uma espécie oxidante ou redutora. Quando o elemento químico oxigênio (O) é o agente oxidante em questão e o aumento do número de oxidação ocorre nos átomos de carbono do composto orgânico que originará o fármaco, essa reação é conhecida como oxidação. A reação de oxidação pode ser ilustrada pelo esquema reacional de produção da isoniazida, um fármaco pertencente ao grupo dos antibacterianos que é usado em conjunto com outros medicamentos para o tratamento da tuberculose. </p>
-<p>A ioniazida é produzida pela oxidação da 4-Metilpiridina, de acordo com o esquema reacional representado pela equação 9.4.</p>
+<p>São denominadas reações de oxirredução (ou redox) todas as reações químicas que envolvem a transferência de elétrons. Assim, quando um composto orgânico reage com uma espécie oxidante ou redutora pode ocorrer uma reação do tipo oxirredução. Quando o elemento químico oxigênio (O) é o agente oxidante em questão e o aumento do número de oxidação ocorre nos átomos de carbono do composto orgânico que originará o fármaco, essa reação é conhecida como oxidação. A reação de oxidação pode ser ilustrada pelo esquema reacional de produção da isoniazida, um fármaco pertencente ao grupo dos antibacterianos que é usado em conjunto com outros medicamentos para o tratamento da tuberculose. </p>
+<p>A isoniazida é produzida pela oxidação da 4-Metilpiridina, de acordo com o esquema reacional representado pela equação 9.4.</p>
 <!-- EQ 9.4 FIGURA 9.8 -->
 <figure>
     <!-- <img width="100%" src="img/fig-9-8.svg" alt="audiodescrição"> -->
@@ -1838,7 +1838,7 @@ include("components/page-header.php");
 
 
 <h3>Fermentação</h3>
-<p>Como foi mencionado logo no início do capítulo, após a Segunda Guerra Mundial a biotecnologia passou a ter papel fundamental na produção de fármacos. Deste modo, a indústria farmacêutica passou a empregar os processos biológicos dos vegetais e/ou animais, especialmente dos micro-organismos na produção de medicamentos. Esses micro-organismos podem crescer em condições controladas, para produzir diversas substâncias químicas fundamentais e muitas vezes complexas, tais como: antibiótico, produtos biológicos (vírus, soro terapêutico, toxina, antitoxina, etc.), hormônios esteroides e vitaminas. A tecnologia de fermentação envolvida na produção destes compostos já foi citada no Capítulo 8 e, portanto, não será abordada novamente.</p>
+<p>Como foi mencionado logo no início do capítulo, após a Segunda Guerra Mundial a biotecnologia passou a ter papel fundamental na produção de fármacos. Deste modo, a indústria farmacêutica passou a empregar os processos biológicos dos vegetais e/ou animais, especialmente dos microorganismos na produção de medicamentos. Esses microorganismos podem crescer em condições controladas, para produzir diversas substâncias químicas fundamentais e muitas vezes complexas, tais como: antibiótico, produtos biológicos (vírus, soro terapêutico, toxina, antitoxina, etc.), hormônios esteroides e vitaminas. A tecnologia de fermentação envolvida na produção destes compostos já foi citada no Capítulo 8 e, portanto, não será abordada novamente.</p>
 
 <br>
 <div class="atv">

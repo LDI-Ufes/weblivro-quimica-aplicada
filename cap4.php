@@ -554,13 +554,13 @@ include("components/page-header.php");
 <div class="box-centro">
     <div class="formula pequena">
         <div class="line">
-            <p>4CO<sub>2</sub>(g) + 4C(s) → 8CO(g) <span class="cal">(T = 1000 °C)</span></p>
-            <span class="box-eq">equação 4.13</span>
+            <p>Fe<sub>3</sub>O<sub>4</sub>(s) + 4CO(g) → 3Fe(s) + 4CO<sub>2</sub>(g) <span class="cal">(T = 1000 °C)</span></p>
+            <span class="box-eq">equação 4.16</span>
         </div>
 
         <div class="line">
-            <p>Fe<sub>3</sub>O<sub>4</sub>(s) + 4CO(g) → 3Fe(s) + 4CO<sub>2</sub>(g) <span class="cal">(T = 1000 °C)</span></p>
-            <span class="box-eq">equação 4.16</span>
+            <p>4CO<sub>2</sub>(g) + 4C(s) → 8CO(g) <span class="cal">(T = 1000 °C)</span></p>
+            <span class="box-eq">equação 4.13</span>
         </div>
     </div>
 </div>
@@ -618,7 +618,7 @@ include("components/page-header.php");
 <h2 id="4.3">4.3. Redução do minério usando outros processos</h2>
 <p>Sem dúvida a redução utilizando um alto-forno é o principal processo de produção de ferro, contudo muitas vezes este tipo de instalação é inviável, pois requer grandes áreas e enormes investimentos. Buscando-se alternativas surgiram os chamados <span class="bold">processos diretos</span>, alguns produzindo ferro gusa e outros produzindo ferro sólido denominado <span class="bold">ferro esponja</span>. Porém, estes processos correspondem apenas a uma parcela pequena da produção de ferro e aço. Os principais processos não-convencionais para a redução de minério de ferro são apresentados a seguir.</p>
 <h3>4.3.1. Redução em forno elétrico</h3>
-<p>Normalmente empregado em países que dispõem de energia elétrica barata e/ou com o coque caro ou inexistente. As unidades operacionais deste tipo de processo são pequenas, na ordem de 100 a 200 ton/dia. Neste processo não há consumo de coque como combustível, mas uma fonte de carbono deve ser empregada como agente redutor. Além da redução no consumo de coque outra vantagem deste processo é que não há a necessidade de injeção de ar no sistema, uma vez que não há combustão. Como desvantagem cita-se o alto consumo de energia elétrica, da ordem de 2.000 kW / ton de ferro. As reações químicas envolvidas no processo de redução utilizando forno elétrico são as mesmas observadas para processos utilizando alto-fornos, excetuando-se a reação de combustão do coque. </p>
+<p>Normalmente empregado em países que dispõem de energia elétrica barata e/ou com o coque caro ou inexistente. As unidades operacionais deste tipo de processo são pequenas, na ordem de 100 a 200 t/dia. Neste processo não há consumo de coque como combustível, mas uma fonte de carbono deve ser empregada como agente redutor. Além da redução no consumo de coque outra vantagem deste processo é que não há a necessidade de injeção de ar no sistema, uma vez que não há combustão. Como desvantagem cita-se o alto consumo de energia elétrica, da ordem de 2.000 kW/t de ferro. As reações químicas envolvidas no processo de redução utilizando forno elétrico são as mesmas observadas para processos utilizando alto-fornos, excetuando-se a reação de combustão do coque. </p>
 <h3>4.3.2. Processo Wiberg-Södefors</h3>
 <p>Este processo foi desenvolvido em 1918 na cidade de Södefors na Suécia por Martin Wiberg. Ele se baseia na redução direta do minério de ferro para obtenção do ferro esponja, o que permite que as temperaturas envolvidas no processo sejam da ordem de 1.000 °C, bem menores que as temperaturas máximas atingidas no alto-forno (1.800 °C). Neste processo são usados dois agentes redutores: o gás hidrogênio <span class="nobreak">(H<sub>2</sub>)</span> e o monóxido de carbono <span class="nobreak">(CO)</span>, na proporção de 1:2, respectivamente. Os gases redutores são formados em uma torre adjacente chamada <span class="bold">carburator</span> que é aquecida eletricamente usando dois eletrodos de grafita. O carburator é alimentado por coque com alto teor de enxofre (baixa qualidade) que reage com vapor de água a 1.100 °C para produzir os gases redutores conforme apresentado por meio da equação 4.21:</p>
 <div class="box-centro">
@@ -659,7 +659,7 @@ include("components/page-header.php");
         </div>
     </div>
 </div>
-<p>Neste tipo de processo as unidades operacionais têm capacidade média de 300 ton/dia.</p>
+<p>Neste tipo de processo as unidades operacionais têm capacidade média de 300 t/dia.</p>
 
 <h3>4.3.3. Processo HyL (Hojalata y Lámina)</h3>
 <p>Este processo também usa mistura redutora de <span class="nobreak">H<sub>2</sub></span> e <span class="nobreak">CO</span>, porém em uma proporção maior de <span class="nobreak">H<sub>2</sub></span> (<span class="nobreak">H<sub>2</sub></span>/<span class="nobreak">CO</span> ~ 5). O processo HyL foi desenvolvido em 1953 pela Companía Hojalata y Lámina, localizada na cidade de Monterrey no México. É um processo viável principalmente para países que possuam grande disponibilidade de metano barato, bem como de minério de ferro. A mistura redutora é produzida pela reação do metano com o vapor de água, usando níquel como catalisador, conforme mostrado na Equação 4.26:</p>
@@ -708,7 +708,7 @@ include("components/page-header.php");
     </div>
 </div>
 
-<p>O processo de redução ocorre em fornos tipo retortas, de forma intermitente, para a geração de ferro esponja, com unidades operacionais de 500 ton/dia de capacidade. A grande vantagem deste processo é dispensar o uso de coque e a principal desvantagem é ser intermitente.</p>
+<p>O processo de redução ocorre em fornos tipo retortas, de forma intermitente, para a geração de ferro esponja, com unidades operacionais de 500 t/dia de capacidade. A grande vantagem deste processo é dispensar o uso de coque e a principal desvantagem é ser intermitente.</p>
 
 <h3>4.3.4. Processo Ferro-H (ferro hidrogênio)</h3>
 <p>Neste processo somente o <span class="nobreak">H<sub>2</sub></span> é usado como agente redutor do minério de ferro e utiliza um sistema de <span class="bold">leito fluidizado</span>, no qual o minério em pó é mantido em suspensão por uma corrente ascendente de gases. Portanto, o minério deve ser beneficiado até a obtenção de um pó bem fino. O <span class="nobreak">H<sub>2</sub></span> é produzido pela reação do metano com o vapor de água, mostrada na Equação 4.26, e o <span class="nobreak">CO</span> formado na reação é separado, fazendo-se o gás produzido atravessar uma mistura de monoetanolamina e, em seguida, por uma solução de acetato de cobre e amônia à 50 atm de pressão. O <span class="nobreak">H<sub>2</sub></span> puro é então inserido no forno de redução promovendo as seguintes reações químicas:</p>
@@ -725,7 +725,7 @@ include("components/page-header.php");
         </div>
     </div>
 </div>
-<p>As unidades de produção deste processo costumam ser pequenas e caras, com capacidade da ordem de 10 ton/dia.</p>
+<p>As unidades de produção deste processo costumam ser pequenas e caras, com capacidade da ordem de 10 t/dia.</p>
 
 <br>
 <div class="atv">
@@ -790,17 +790,17 @@ include("components/page-header.php");
 <p><span class="bold">3) Processo Rotor:</span> o mais eficiente dos processos usando oxigênio puro e deriva do processo Kaldo, com um forno giratório e duas lanças para soprar o oxigênio. Esta disposição permite carregar o forno com até 30% de sucata.</p>
 <p><span class="bold">4) Processo Spray:</span> baseia-se na oxidação gota-a-gota do ferro gusa e por isso apresenta altíssima eficiência, porém o custo do aço produzido por este processo é extremamente elevado.</p>
 <p>A necessidade cada vez maior de se reciclar grandes quantidades de sucata faz o processo Siemens-Martin ser ainda muito utilizada, pois ele permite o uso de até 60% da carga de sucata. Porém faz-se necessária a queima de combustível para se fundir a carga. De modo a aumentar a eficiência térmica do processo, o forno Siemens-Martin possui um sistema de regeneração de calor operando de forma alternada. Este processo foi desenvolvido em meados do Século XX, por Siemens na Alemanha e por Martin na França de forma simultânea. A capacidade do processo é da ordem de 500 a 600 toneladas e seu tempo de operação varia de 8 a 16 horas.</p>
-<p>A fabricação de aço de maior qualidade pode ser conduzida usando um forno a arco elétrico. Este tipo de forno pode operar com carga composta apenas de sucata, 100% de sucata, razão pela quais grandes quantidades de energia elétrica são necessárias. A fusão da carga se dá pela formação do arco elétrico entre três eletrodos de grafite pirolítico e a carga sólida. A capacidade deste tipo de forno é da ordem de 10 a 50 toneladas e seu tempo de operação varia de 1 a 2 horas.</p>
+<p>A fabricação de aço de maior qualidade pode ser conduzida usando um forno a arco elétrico. Este tipo de forno pode operar com carga composta apenas de sucata, contudo, grandes quantidades de energia elétrica são necessárias. A fusão da carga se dá pela formação do arco elétrico entre três eletrodos de grafite pirolítico e a carga sólida. A capacidade deste tipo de forno é da ordem de 10 a 50 toneladas e seu tempo de operação varia de 1 a 2 horas.</p>
 
 <h2 id="4.5">4.5. Construindo e fixando o conhecimento</h2>
-<p><span class="bold">1.</span> Quais os principais tipos de minério de ferro e quais os teores de ferro presentes em cada um deles?</p>
-<p><span class="bold">2.</span> Qual a diferença entre os processos de calcinação e ustulação? Escreva as equações químicas relativas a estes processos.</p>
+<p><span class="bold">1.</span> Quais são os principais tipos de minério de ferro e quais são os teores de ferro presentes em cada um deles?</p>
+<p><span class="bold">2.</span> Qual é a diferença entre os processos de calcinação e ustulação? Escreva as equações químicas relativas a estes processos.</p>
 <p><span class="bold">3.</span> Como é composta a carga do alto-forno?</p>
 <p><span class="bold">4.</span> Qual é o rejeito do alto-forno? De que é composto?</p>
-<p><span class="bold">5.</span> Como são divididas as zonas de um alto-forno? Quais as principais reações que ocorrem em cada zona?</p>
+<p><span class="bold">5.</span> Como são divididas as zonas de um alto-forno? Quais são as principais reações que ocorrem em cada zona?</p>
 <p><span class="bold">6.</span> Quais são os produtos oriundos do processo de redução de minério de ferro?</p>
-<p><span class="bold">7.</span> Quais os requisitos para a utilização de fornos elétricos de redução de minério?</p>
-<p><span class="bold">8.</span> Quais as principais diferenças entre o aço e o ferro gusa?</p>
+<p><span class="bold">7.</span> Quais são os requisitos para a utilização de fornos elétricos de redução de minério?</p>
+<p><span class="bold">8.</span> Quais são as principais diferenças entre o aço e o ferro gusa?</p>
 <p><span class="bold">9.</span> Qual impureza causa fragilidade a frio no aço? E qual causa fragilidade a quente? Por que estes fenômenos acontecem?</p>
 <p><span class="bold">10.</span> Explique em que situação deve-se empregar tijolos refratários ácidos e básicos em um conversor.</p>
 
