@@ -101,6 +101,10 @@ article {
 		line-height: 0.7em;
 		overflow-x: auto;
 
+		&.equacao {
+			margin-bottom: 1rem;
+		}
+
 		.formula {
 			//tamanho "padrão"
 			min-width: 500px;
@@ -133,7 +137,7 @@ article {
 					align-items: center;
 					width: 100%;
 					margin-left: 12px;
-
+			
 					&::before {
 						border-bottom: 2px dotted var(--secundariaBorda);
 						opacity: 0.5;
