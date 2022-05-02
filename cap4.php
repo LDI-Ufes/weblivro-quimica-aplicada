@@ -1,7 +1,7 @@
 <?php
 $capitulo = "Capítulo 4";
 $titulo = "Siderurgia";
-$abertura = "(img/abertura-capX.png)";
+$abertura = "(img/cap4.png)";
 include("components/page-header.php");
 ?>
 

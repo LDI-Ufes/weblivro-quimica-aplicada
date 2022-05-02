@@ -1,7 +1,7 @@
 <?php
 $capitulo = "Capítulo 9";
 $titulo = "Indústria Farmacêutica";
-$abertura = "(img/abertura-capX.png)";
+$abertura = "(img/cap9.png)";
 include("components/page-header.php");
 ?>
 

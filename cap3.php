@@ -1,7 +1,7 @@
 <?php
 $capitulo = "Capítulo 3";
 $titulo = "Indústria cerâmica e de cimento";
-$abertura = "(img/abertura-capX.png)";
+$abertura = "(img/cap3.png)";
 include("components/page-header.php");
 ?>
 

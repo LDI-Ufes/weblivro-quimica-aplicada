@@ -1,7 +1,7 @@
 <?php
 $capitulo = "Capítulo 6";
 $titulo = "Petroquímicos e Polímeros";
-$abertura = "(img/abertura-capX.png)";
+$abertura = "(img/cap6.png)";
 include("components/page-header.php");
 ?>
 

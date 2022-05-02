@@ -1,7 +1,7 @@
 <?php
 $capitulo = "Capítulo 1";
 $titulo = "Ácido Sulfúrico";
-$abertura = "(img/abertura-capX.png)";
+$abertura = "(img/cap1.png)";
 include("components/page-header.php");
 ?>
 

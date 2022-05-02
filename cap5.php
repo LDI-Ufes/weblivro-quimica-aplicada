@@ -1,7 +1,7 @@
 <?php
 $capitulo = "Capítulo 5";
 $titulo = "Refino de Petróleo";
-$abertura = "(img/abertura-capX.png)";
+$abertura = "(img/cap5.png)";
 include("components/page-header.php");
 ?>
 

@@ -1,7 +1,7 @@
 <?php
 $capitulo = "Capítulo 2";
 $titulo = "Fabricação de cloro e soda cáustica";
-$abertura = "(img/abertura-capX.png)";
+$abertura = "(img/cap2.png)";
 include("components/page-header.php");
 ?>
 
