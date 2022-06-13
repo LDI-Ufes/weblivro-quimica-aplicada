@@ -408,141 +408,141 @@ section {
 }
 
 //POPUP DE ATUALIZAÇÃO DO PWA
-// .overlay {
-//   position: fixed;
-//   bottom: 0;
-//   height: 100vh;
-//   width: 100vw;
-//   background: rgba(0, 0, 0, 0);
-//   z-index: 999;
-//   visibility: hidden;
-//   opacity: 0;
-//   transition: opacity 0.3s ease-in-out;
+.overlay {
+  position: fixed;
+  bottom: 0;
+  height: 100vh;
+  width: 100vw;
+  background: rgba(0, 0, 0, 0);
+  z-index: 999;
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
 
-//   .caixa {
-//     background: #fff;
-//     color: #2e2e2e;
-//     position: fixed;
-//     padding: 12px 0;
-//     bottom: 0;
-//     width: 100%;
-//     border-top-left-radius: 2rem;
-//     border-top-right-radius: 2rem;
-//     transform: translateY(300px);
-//     transition: all 0.4s ease-in;
+  .caixa {
+    background: #fff;
+    color: #2e2e2e;
+    position: fixed;
+    padding: 12px 0;
+    bottom: 0;
+    width: 100%;
+    border-top-left-radius: 2rem;
+    border-top-right-radius: 2rem;
+    transform: translateY(300px);
+    transition: all 0.4s ease-in;
 
-//     @media screen and (min-width: 720px) {
-//       border-radius: 0;
-//       box-shadow: 1px 0px 10px rgba(0, 0, 0, 0.2);
-//     }
+    @media screen and (min-width: 720px) {
+      border-radius: 0;
+      box-shadow: 1px 0px 10px rgba(0, 0, 0, 0.2);
+    }
 
-//     .container .info {
-//       padding: 32px 8px;
-//       display: flex;
-//       justify-content: center;
-//       flex-direction: column;
+    .container .info {
+      padding: 32px 8px;
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
 
-//       .info-titulo {
-//         display: flex;
-//         justify-content: space-between;
-//         align-items: center;
+      .info-titulo {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
 
-//         h4 {
-//           display: flex;
-//           align-items: center;
-//           margin: 0;
+        h4 {
+          display: flex;
+          align-items: center;
+          margin: 0;
 
-//           &::before {
-//             content: url("../svg/icon-notf.svg");
-//             margin-right: 12px;
-//           }
-//         }
-//         #fecha {
-//           background: url("../svg/fecha.svg") center no-repeat;
-//           width: 21px;
-//           height: 21px;
-//           padding: 16px;
-//         }
-//       }
+          &::before {
+            content: url("../svg/icon-notf.svg");
+            margin-right: 12px;
+          }
+        }
+        #fecha {
+          background: url("../svg/fecha.svg") center no-repeat;
+          width: 21px;
+          height: 21px;
+          padding: 16px;
+        }
+      }
 
-//       .info-action {
-//         display: flex;
-//         flex-direction: column;
-//         align-items: center;
+      .info-action {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
 
-//         p {
-//           max-width: 300px;
-//           text-align: center;
-//           margin: 24px 0 32px 0;
+        p {
+          max-width: 300px;
+          text-align: center;
+          margin: 24px 0 32px 0;
 
-//           span {
-//             color: #474747;
-//             font-weight: $semibold;
-//           }
-//         }
+          span {
+            color: #474747;
+            font-weight: $semibold;
+          }
+        }
 
-//         #reload {
-//           background: #00a2ff;
-//           display: flex;
-//           align-items: center;
-//           align-self: center;
-//           font-size: 1em;
-//           color: #fff;
-//           font-weight: $semibold;
-//           border: none;
-//           border-radius: 8px;
-//           padding: 12px 32px;
+        #reload {
+          background: #00a2ff;
+          display: flex;
+          align-items: center;
+          align-self: center;
+          font-size: 1em;
+          color: #fff;
+          font-weight: $semibold;
+          border: none;
+          border-radius: 8px;
+          padding: 12px 32px;
 
-//           &::before {
-//             content: url("../svg/icon-btn.svg");
-//             width: 24px;
-//             height: 24px;
-//             margin-right: 12px;
-//           }
-//         }
-//         @media screen and (min-width: 720px) {
-//           flex-direction: row;
-//           justify-content: space-between;
+          &::before {
+            content: url("../svg/icon-btn.svg");
+            width: 24px;
+            height: 24px;
+            margin-right: 12px;
+          }
+        }
+        @media screen and (min-width: 720px) {
+          flex-direction: row;
+          justify-content: space-between;
 
-//           p {
-//             text-align: left;
-//           }
-//         }
-//         @media screen and (min-width: 1024px) {
-//           flex-direction: row;
-//           justify-content: space-between;
+          p {
+            text-align: left;
+          }
+        }
+        @media screen and (min-width: 1024px) {
+          flex-direction: row;
+          justify-content: space-between;
 
-//           p {
-//             max-width: 500px;
-//             text-align: left;
-//           }
-//         }
-//       }
-//     }
-//     @media screen and (min-width: 1024px) {
-//       .container {
-//         padding: 0 80px;
-//       }
-//     }
-//   }
+          p {
+            max-width: 500px;
+            text-align: left;
+          }
+        }
+      }
+    }
+    @media screen and (min-width: 1024px) {
+      .container {
+        padding: 0 80px;
+      }
+    }
+  }
 
-//   &.ativo {
-//     background: rgba(0, 0, 0, 0.16);
-//     visibility: visible;
-//     opacity: 1;
-//     transition: opacity 0.3s ease-in-out;
+  &.ativo {
+    background: rgba(0, 0, 0, 0.16);
+    visibility: visible;
+    opacity: 1;
+    transition: opacity 0.3s ease-in-out;
 
-//     .caixa {
-//       transform: translateY(0);
-//       transition: opacity 0.4s ease-in-out;
-//     }
+    .caixa {
+      transform: translateY(0);
+      transition: opacity 0.4s ease-in-out;
+    }
 
-//     @media screen and (min-width: 720px) {
-//       background: #fff;
-//       height: 220px;
-//       width: 100vw;
-//     }
-//   }
-// }
+    @media screen and (min-width: 720px) {
+      background: #fff;
+      height: 220px;
+      width: 100vw;
+    }
+  }
+}
 
 @import "themes";

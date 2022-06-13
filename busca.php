@@ -10,7 +10,7 @@
   <link rel="stylesheet" href="css/busca.min.css">
 
   <!-- webapp -->
-  <meta name="theme-color" content="#fff" />
+  <meta name="theme-color" content="#6827AB" />
   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
   <link rel="manifest" crossorigin="use-credentials" href="manifest.json">
   <link rel="apple-touch-icon" href="img/icon-192.png">
@@ -75,7 +75,7 @@
     <a href="https://ldi.ufes.br/" target="_blank" title="Abrir site do LDI em nova aba">Desenvolvido por LDI</a>
   </footer>
 
-  <!-- <script src="js/focus-visible.js"></script> -->
+  <script src="js/focus-visible.js"></script>
   <script type="text/javascript" src="js/app.min.js"></script>
   <script type="text/javascript" src="js/busca.min.js"></script>
 </body>

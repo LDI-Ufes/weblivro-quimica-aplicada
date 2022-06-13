@@ -1,0 +1,23 @@
+{
+    "short_name": "Química Aplicada",
+    "name": "Química Aplicada",
+    "icons": [
+      {
+        "src": "img/icon-192.png",
+        "type": "image/png",
+        "sizes": "192x192",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "img/icon-512.png",
+        "type": "image/png",
+        "sizes": "512x512",
+        "purpose": "any maskable"
+      }
+    ],
+    "start_url": "index.php",
+    "background_color": "#fff",
+    "display": "standalone",
+    "theme_color": "#6827AB",
+    "prefer_related_applications": false
+  }

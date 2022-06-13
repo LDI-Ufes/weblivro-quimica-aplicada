@@ -18,8 +18,8 @@ $autorLivro = "Prof. Dr. Josimar Ribeiro; Prof. Dr. Rafael de Queiroz Ferreira; 
   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 
   <!-- webapp -->
-  <meta name="theme-color" content="#fff" />
-  <!-- <link rel="manifest" crossorigin="use-credentials" href="manifest.json"> -->
+  <meta name="theme-color" content="#6827AB"/>
+  <link rel="manifest" crossorigin="use-credentials" href="manifest.json">
   <link rel="apple-touch-icon" href="img/icon-192.png">
 </head>
 

@@ -20,8 +20,8 @@ $autorLivro3 = "Profa. Dra. Geiza Esperandio de Oliveira";
 
   <link rel="stylesheet" href="css/index.min.css">
 
-  <meta name="theme-color" content="#fff" />
-  <!-- <link rel="manifest" crossorigin="use-credentials" href="manifest.json"> -->
+  <meta name="theme-color" content="#6827AB"/>
+  <link rel="manifest" crossorigin="use-credentials" href="manifest.json">
   <link rel="apple-touch-icon" href="img/icon-192.png">
 </head>
 
@@ -166,6 +166,23 @@ $autorLivro3 = "Profa. Dra. Geiza Esperandio de Oliveira";
     <span>2021 Sead Ufes. Todos os direitos reservados.</span>
     <a href="https://ldi.ufes.br/" target="_blank" title="Abrir site do LDI em nova aba">Desenvolvido por LDI</a>
   </footer>
+
+  <div class="overlay" id="atualizacao">
+    <div class="caixa">
+      <div class="container">
+        <div class="info">
+          <div class="info-titulo">
+            <h4>Notificação</h4>
+            <button id="fecha" type="button" tabindex="0"></button>
+          </div>
+          <div class="info-action">
+            <p>Uma nova versão do livro <span>está disponível</span> e <span>será atualizada automaticamente</span> assim que você fechar o aplicativo.</p>
+            <button id="reload">Atualizar agora</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 
 </body>
 
