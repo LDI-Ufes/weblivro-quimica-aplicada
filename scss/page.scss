@@ -15,11 +15,13 @@
   box-shadow: 0.5rem 0 1rem rgba(0, 0, 0, 0.2);
   z-index: 1;
   padding: 2rem;
+  visibility: hidden;
 
   &.js {
     left: -280px;
     overflow: hidden;
     transition: 0.5s all;
+    visibility: visible;
 
     &.habilitado {
       left: 0;

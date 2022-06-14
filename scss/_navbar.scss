@@ -91,6 +91,7 @@
 
 
 #nav-ajustes{
+  min-width: 12rem;
 
   &:before{
     content: "\f1de";
@@ -98,6 +99,7 @@
 
   @media screen and (max-width: 719px){
     margin-right: -1rem;
+    min-width: 3rem;
 
     span{
       position: absolute;
