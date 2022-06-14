@@ -21,12 +21,12 @@
     left: -280px;
     overflow: hidden;
     transition: 0.5s all;
-    visibility: visible;
 
     &.habilitado {
       left: 0;
       overflow: visible;
       transition: 0.5s all;
+      visibility: visible;
     }
   }
 
